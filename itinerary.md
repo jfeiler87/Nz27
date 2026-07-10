@@ -53,7 +53,7 @@
 | 3 | 21.03 | CHC → Timaru | 160 | Küstenstraße | Freiplatz Milford Lagoon (FREI) |
 | 4 | 22.03 | Timaru → Oamaru | 85 | Vorab | Freiplatz All Day Bay (FREI) |
 | 5 | 23.03 | Oamaru | – | Blue Penguins, Viktorianisch | Freiplatz All Day Bay (FREI) |
-| 6 | 24.03 | Oamaru → Dunedin | 115 | Otago | Freiplatz Harwood Domain (FREI) |
+| 6 | 24.03 | Oamaru → Dunedin | 115 | Moeraki Boulders, Otago | Freiplatz Harwood Domain (FREI) |
 | 7 | 25.03 | Dunedin | – | **Albatross, Penguin Place, Sandfly Bay** | Freiplatz Harwood Domain (FREI) |
 | 8 | 26.03 | Dunedin → Catlins | 150 | Southern Scenic Route | Freiplatz Papatowai (FREI) |
 | 9 | 27.03 | Catlins | – | Purakaunui, Slope Point | DOC Pūrākaunui Bay ($15) |
@@ -69,7 +69,7 @@
 | 19 | 06.04 | Aoraki/Mt Cook | – | Hooker Valley Track | Freiplatz Lake Pukaki Overnight (FREI) |
 | 20 | 07.04 | Mt Cook → Wanaka | 154 | Rückfahrt | Freiplatz Wanaka CP (FREI) |
 | 21 | 08.04 | Wanaka → Haast | 140 | Haast Pass | Freiplatz Haast Marks Rd (FREI) |
-| 22 | 09.04 | Haast → Fox/Franz Josef | 135 | **Lake Matheson** | Freiplatz Haast Marks Rd (FREI) |
+| 22 | 09.04 | Haast → Franz Josef | 135 | **Lake Matheson** | DOC Otto/MacDonalds $15 |
 | 23 | 10.04 | Franz Josef | – | **Heli-Hike** | DOC Otto/MacDonalds $15 |
 | 24 | 11.04 | Franz Josef → Hokitika | 140 | **Hokitika Gorge** | DOC Lake Māhinapua $15 |
 | 25 | 12.04 | Hokitika → Punakaiki | 60 | **Pancake Rocks** | Freiplatz McMillan Rd (FREI) |
@@ -97,7 +97,7 @@
 | 47 | 04.05 | Waitomo → Matamata | 95 | Anreise Hobbiton | Freiplatz Pohlen Park (FREI) |
 | 48 | 05.05 | Hobbiton → Rotorua | 70 | **Hobbiton Tour** | Freiplatz TECT Park (FREI) |
 | 49 | 06.05 | Rotorua | – | Te Puia, Māori-Kultur | Freiplatz TECT Park (FREI) |
-| 50 | 07.05 | Rotorua → Mt Maunganui → Coromandel | 230 | *Mt Maunganui* | Freiplatz TCDC Thames (FREI) |
+| 50 | 07.05 | Rotorua → Coromandel (via Tauranga) | 210 | *Mt Maunganui* | Freiplatz TCDC Thames (FREI) |
 | 51 | 08.05 | Coromandel | – | Driving Creek, Hot Water Beach | Freiplatz TCDC Thames (FREI) |
 | 52 | 09.05 | Coromandel → Whitianga | 45 | **Cathedral Cove** | Freiplatz TCDC Whitianga (FREI) |
 | 53 | 10.05 | Whitianga → Auckland | 180 | Durchfahrt | Freiplatz Rodney (Te Ārai) (FREI) |
@@ -162,9 +162,15 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 6 · 24.03 — Oamaru → Dunedin (115 km)
 
-**Fahrt/Route:** Otago-Küste.
+**Fahrt/Route:** Moeraki Boulders (kurzer Stopp) → Dunedin, Otago Peninsula (Larnach Castle, Penguin Place)
 
 **🏕 Stellplatz:** 🆓 Freiplatz Harwood Domain, Otago Peninsula (SC, max 2 Nächte) · [Karte](https://www.google.com/maps/search/?api=1&query=-45.814668,170.674744)
+
+**🎯 Attraktionen:**
+- **Moeraki Boulders** (Rating 8/10): Ikonische runde Felskugeln am Strand bei Moeraki – geologisches Naturwunder, gratis, kurzer Stopp bei der Fahrt Christchurch→Dunedin. · [Karte](https://www.google.com/maps/place/Moeraki%20Boulders/@-45.340500,170.823800,15z)
+- **Royal Albatross Centre** (Rating 8/10): Einziges Brutgebiet des Royal Albatross auf dem Festland weltweit bei Dunedin; geführte Touren zur Kolonie (saisonal). Natur-Highlight für Vogelfreunde. · [Karte](https://www.google.com/maps/place/Royal%20Albatross%20Centre/@-45.776126,170.728536,15z)
+- **Penguin Place** (Rating 8/10): Schutzprojekt für bedrohte Gelbaugenpinguine auf der Otago Peninsula mit geführten Erkundungen. Intimere Alternative zur Blue Penguin Colony. · [Karte](https://www.google.com/maps/place/Penguin%20Place/@-45.796663,170.730091,15z)
+- **Sandfly Bay** (Rating 7/10): Wilder Strand auf der Otago Peninsula mit Seelöwen und einer berüchtigten Sandfliegen-Plage; Wanderung über die Dünen. Wenig besucht, dafür urig. · [Karte](https://www.google.com/maps/place/Sandfly%20Bay/@-45.897203,170.650028,15z)
 
 **⚠ Besonderheiten:** Harwood Domain: Dunedin CC restriktiv – vorab in Rankers/CamperMate legale SC-Bucht prüfen
 
@@ -310,20 +316,20 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** ⛽ vor Haast Pass in Wanaka volltanken (keine Tankstellen auf der Pass-Strecke)
 
-### Tag 22 · 09.04 — Haast → Fox/Franz Josef (135 km)
+### Tag 22 · 09.04 — Haast → Franz Josef (135 km)
 
-**Fahrt/Route:** Lake Matheson (Spiegelsee).
+**Fahrt/Route:** Haast Pass → Fox Glacier (Lake Matheson) → Franz Josef (135 km, keine Rückfahrt nach Haast)
 
-**🏕 Stellplatz:** 🆓 Freiplatz Haast (Marks Rd, SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-43.879198,169.043669)
+**🏕 Stellplatz:** 🏕 DOC Otto/MacDonalds (Franz Josef) $15 · 🏕 Fallback Franz Josef Campervan $49 · [Karte](https://www.google.com/maps/place/Otto/MacDonalds%20DOC%20Campsite%2C%20Franz%20Josef/@-43.295865,170.224655,15z)
 
 **🎯 Attraktionen:**
 - **Lake Matheson** (Rating 8/10): Spiegelglatter See bei Fox Glacier, der bei Windstille Mt Cook und Mt Tasman perfekt spiegelt. Frühmorgens oder abends am besten. · [Karte](https://www.google.com/maps/place/Lake%20Matheson/@-43.463955,170.012521,15z)
 
-**⚠ Besonderheiten:** langer Tag als Hin- und Rückfahrt: Fox/Franz Josef ~135 km einfach, abends zurück nach Haast
+**⚠ Besonderheiten:** Lake Matheson früh morgens für Spiegelung
 
 ### Tag 23 · 10.04 — Franz Josef
 
-**Fahrt/Route:** Heli-Hike (wetterabhängig).
+**Fahrt/Route:** Franz Josef Glacier: Valley Walk + Heli-Hike (wetterabhängig) – 2. Nacht = Wetterpuffer
 
 **🏕 Stellplatz:** 🏕 DOC Otto/MacDonalds (Lake Mapourika, $15) · 🏕 Fallback Franz Josef Campervan Park $49 · [Karte](https://www.google.com/maps/place/Otto/MacDonalds%20DOC%20Campsite%2C%20Franz%20Josef/@-43.295865,170.224655,15z)
 
@@ -570,16 +576,16 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Te Puia** (Rating 8/10): Māori-Kulturzentrum in Rotorua mit Pōhutu-Geysir, Kiwi und traditionellen Schnitzereien. Gute Einführung in Geothermie und Kultur. · [Karte](https://www.google.com/maps/place/Te%20Puia/@-38.164351,176.250171,15z)
 - **Wai-O-Tapu** (Rating 8/10): Buntes geothermales Wunderland bei Rotorua mit Champagner-Pool und Lady Knox Geysir. Sehr fotogen, nach Regen/Vulkanaktivität am kräftigsten. · [Karte](https://www.google.com/maps/place/Wai-O-Tapu/@-38.355915,176.364328,15z)
 
-### Tag 50 · 07.05 — Rotorua → Mt Maunganui → Coromandel (230 km)
+### Tag 50 · 07.05 — Rotorua → Mt Maunganui → Coromandel (210 km)
 
-**Fahrt/Route:** Mt Maunganui Stopp, dann Coromandel.
+**Fahrt/Route:** Rotorua → über Tauranga / Mt Maunganui (kurzer Stopp) → Coromandel via SH25 (langsame Straßen)
 
 **🏕 Stellplatz:** 🆓 Freiplatz TCDC Thames (SC, max 2 Nächte) · [Karte](https://www.google.com/maps/search/?api=1&query=-37.158766,175.586661)
 
 **🎯 Attraktionen:**
 - **Mount Maunganui** (Rating 7/10): Strandstadt mit dem 'The Mount', einem erloschenen Vulkan mit Rundwanderweg und Panoramablick. Kombiniert Strand und kurze Wanderung. · [Karte](https://www.google.com/maps/place/Mount%20Maunganui/@-37.638022,176.183884,15z)
 
-**⚠ Besonderheiten:** Raglan optional (+1 Tag) · langer Tag: 230 km + Mt Maunganui Detour + langsame Coromandel-Straßen, früh starten
+**⚠ Besonderheiten:** Mt Maunganui nur kurzer Stopp (sonst direkt Coromandel via SH25) · langer Tag: ~210 km + langsame Coromandel-Straßen, früh starten · Raglan optional (+1 Tag)
 
 ### Tag 51 · 08.05 — Coromandel
 
