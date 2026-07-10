@@ -260,4 +260,132 @@
 - **Kein town-Laundromat** (nur Holiday-Park-Wäscherei oder nächste Stadt): Catlins (→ Balclutha/Invercargill), Mt Cook Village (→ Twizel ~40 min), Haast (→ Franz Josef/Wanaka), Punakaiki (→ Westport), Abel Tasman/Marahau (→ Nelson), Waitomo (→ Te Kuiti/Otorohanga). An diesen Stops ggf. Wäsche im genutzten Holiday Park erledigen.
 
 ---
-*Stand: Camper (Britz Wanderer + Premium Paket) & Flüge gebucht. Wäsche-Plan (§8) eingebaut. Priorität Freiplatz → DOC → HP. Self-Containment-Aufkleber (ab 7.6.2026 Pflicht) vorab klären. Freiplätze täglich via Rankers/CamperMate + Vor-Ort-Schilder verifizieren. Preise 2026-Raten, 2027 vor Buchung prüfen.*
+## 9. Koordinaten-Index (exakte Stellplätze & Attraktionen)
+
+Alle Links sind exakte Koordinaten-Pins (query=lat,lng): Tippen öffnet den Punkt in Google Maps, von dort direkt Navigation. * = nur ortsebene (genauer Punkt nicht einzeln geocodierbar).
+
+### 9.1 Stellplätze – Südinsel
+| Stellplatz / Attraktion | Google Maps |
+|----|----|
+| Abel Tasman - Totaranui DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-41.142064,174.272917) |
+| Abel Tasman – Marahau Beach Camp | [Karte](https://www.google.com/maps/search/?api=1&query=-41.005382,173.008546) |
+| Akaroa - Hafen CP | [Karte](https://www.google.com/maps/search/?api=1&query=-43.804317,172.967833) |
+| Blenheim – Marlborough DC | [Karte](https://www.google.com/maps/search/?api=1&query=-41.511869,173.954586) |
+| Catlins - Curio Bay DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-46.663648,169.101016) |
+| Catlins - Papatowai | [Karte](https://www.google.com/maps/search/?api=1&query=-46.561868,169.470842) |
+| Catlins - Purakaunui Bay DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-45.738101,170.623286) |
+| Christchurch - South New Brighton CP | [Karte](https://www.google.com/maps/search/?api=1&query=-43.530160,172.736508) |
+| Dunedin - Harwood Domain | [Karte](https://www.google.com/maps/search/?api=1&query=-45.814668,170.674744) |
+| Franz Josef - Campervan Park | [Karte](https://www.google.com/maps/search/?api=1&query=-43.385946,170.185176) |
+| Franz Josef - Otto/MacDonalds DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-43.295865,170.224655) |
+| Haast - Lake Paringa DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-43.721977,169.411517) |
+| Haast - Marks Rd CP | [Karte](https://www.google.com/maps/search/?api=1&query=-43.879198,169.043669) |
+| Hokitika - Lake Mahinapua DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-42.796051,170.919891) |
+| Kaikoura - Puhi Puhi DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-42.249004,173.752737) |
+| Kaikoura - South Bay CP | [Karte](https://www.google.com/maps/search/?api=1&query=-42.420706,173.682868) |
+| Mt Cook - Lake Pukaki Overnight | [Karte](https://www.google.com/maps/search/?api=1&query=-44.190100,170.139801) |
+| Mt Cook - White Horse Hill DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-43.718229,170.092894) |
+| Nelson - Wakapuaka Reserve | [Karte](https://www.google.com/maps/search/?api=1&query=-41.218413,173.396900) |
+| Oamaru - All Day Bay | [Karte](https://www.google.com/maps/search/?api=1&query=-45.205144,170.892618) |
+| Pelorus Bridge DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-41.299103,173.572364) |
+| Picton - Momorangi Bay DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-41.270825,173.941166) |
+| Punakaiki - DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-42.130817,171.301895) |
+| Punakaiki - McMillan Rd CP * | [Karte](https://www.google.com/maps/search/?api=1&query=-42.130800,171.301900) |
+| Queenstown - Frankton Arm CP | [Karte](https://www.google.com/maps/search/?api=1&query=-45.030999,168.696881) |
+| Queenstown - Moke Lake DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-45.003664,168.563836) |
+| Queenstown - Twelve Mile Delta DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-45.067996,168.542614) |
+| Te Anau - Cascade Creek DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-44.907515,168.098824) |
+| Te Anau - Lake Gunn DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-44.882934,168.094980) |
+| Timaru - O'Neill's Reserve | [Karte](https://www.google.com/maps/search/?api=1&query=-44.382599,171.250885) |
+| Timaru – Milford Lagoon | [Karte](https://www.google.com/maps/search/?api=1&query=-44.269838,171.362792) |
+| Twizel - Lake Poaka DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-44.206367,170.100337) |
+| Wanaka - Glendhu Bay DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-44.670979,169.010861) |
+| Wanaka - QLDC CP | [Karte](https://www.google.com/maps/search/?api=1&query=-44.694169,169.136464) |
+| Westport - Carters Beach | [Karte](https://www.google.com/maps/search/?api=1&query=-41.749309,171.574633) |
+
+### 9.2 Stellplätze – Nordinsel
+| Stellplatz / Attraktion | Google Maps |
+|----|----|
+| Auckland - Rodney (Te Arai) | [Karte](https://www.google.com/maps/search/?api=1&query=-36.196807,174.577689) |
+| Auckland - Waikawau Bay DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-36.594809,175.532580) |
+| Bay of Islands - Maitai Bay DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-34.824777,173.410757) |
+| Cape Reinga - Tapotupotu DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-34.434291,172.715481) |
+| Coromandel - Hahei Beach DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-36.838665,175.807422) |
+| Kaitaia - Awanui Reserve | [Karte](https://www.google.com/maps/search/?api=1&query=-35.103930,173.262492) |
+| Masterton - Henley Lake CP | [Karte](https://www.google.com/maps/search/?api=1&query=-40.950569,175.684122) |
+| Matamata – Pohlen Park | [Karte](https://www.google.com/maps/search/?api=1&query=-37.812122,175.763730) |
+| Napier - Lake Tutira DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-39.222649,176.893334) |
+| Napier – Te Karaka/Perfume Point | [Karte](https://www.google.com/maps/search/?api=1&query=-39.479077,176.898216) |
+| Ohakune - Carrot Park | [Karte](https://www.google.com/maps/search/?api=1&query=-39.416945,175.399613) |
+| Ohakune - Mangahuia DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-39.901859,176.052239) |
+| Rotorua - Lake Okareka DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-38.171240,176.360920) |
+| Rotorua - TECT Park | [Karte](https://www.google.com/maps/search/?api=1&query=-37.943188,176.145291) |
+| Rotorua – Government Gardens CP | [Karte](https://www.google.com/maps/search/?api=1&query=-38.134732,176.257924) |
+| Taupo - Whakapapa DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-39.201127,175.539895) |
+| Taupo – Council Land | [Karte](https://www.google.com/maps/search/?api=1&query=-38.686620,176.069477) |
+| Thames - Kauaeranga Valley DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-37.158766,175.586661) |
+| Waitomo - Arohena DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-38.191382,175.613212) |
+| Waitomo – District | [Karte](https://www.google.com/maps/search/?api=1&query=-38.261094,175.110322) |
+| Wellington - Catchpool Valley DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-41.351400,174.923402) |
+| Wellington – Evans Bay Marina CP | [Karte](https://www.google.com/maps/search/?api=1&query=-41.311923,174.798576) |
+| Whangarei - Parua Bay | [Karte](https://www.google.com/maps/search/?api=1&query=-35.768227,174.481410) |
+| Whangarei - Uretiti Beach DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-35.948666,174.464395) |
+
+### 9.3 Attraktionen – Südinsel
+| Stellplatz / Attraktion | Google Maps |
+|----|----|
+| Akaroa | [Karte](https://www.google.com/maps/search/?api=1&query=-43.804317,172.967833) |
+| Curio Bay Petrified Forest | [Karte](https://www.google.com/maps/search/?api=1&query=-46.663648,169.101016) |
+| Founders Park Nelson | [Karte](https://www.google.com/maps/search/?api=1&query=-41.261668,173.296313) |
+| Franz Josef Glacier | [Karte](https://www.google.com/maps/search/?api=1&query=-43.387386,170.182815) |
+| Glenorchy | [Karte](https://www.google.com/maps/search/?api=1&query=-44.849749,168.385198) |
+| Hokitika Gorge | [Karte](https://www.google.com/maps/search/?api=1&query=-42.955152,171.015903) |
+| Hooker Valley Track | [Karte](https://www.google.com/maps/search/?api=1&query=-43.718374,170.098359) |
+| Kaikoura Whale Watch / Ohau Point | [Karte](https://www.google.com/maps/search/?api=1&query=-42.247513,173.829984) |
+| Lake Matheson | [Karte](https://www.google.com/maps/search/?api=1&query=-43.463955,170.012521) |
+| Mavora Lakes | [Karte](https://www.google.com/maps/search/?api=1&query=-45.138552,168.097832) |
+| Milford Sound | [Karte](https://www.google.com/maps/search/?api=1&query=-44.619019,167.868760) |
+| Oamaru Blue Penguin Colony | [Karte](https://www.google.com/maps/search/?api=1&query=-45.110276,170.980178) |
+| Omaka Aviation Heritage Centre | [Karte](https://www.google.com/maps/search/?api=1&query=-41.537911,173.929948) |
+| Pancake Rocks | [Karte](https://www.google.com/maps/search/?api=1&query=-42.116876,171.327001) |
+| Penguin Place | [Karte](https://www.google.com/maps/search/?api=1&query=-45.796663,170.730091) |
+| Purakaunui Falls | [Karte](https://www.google.com/maps/search/?api=1&query=-46.517571,169.560837) |
+| Queenstown Skyline | [Karte](https://www.google.com/maps/search/?api=1&query=-45.026415,168.649602) |
+| Royal Albatross Centre | [Karte](https://www.google.com/maps/search/?api=1&query=-45.776126,170.728536) |
+| Roys Peak | [Karte](https://www.google.com/maps/search/?api=1&query=-44.693998,169.048730) |
+| Sandfly Bay | [Karte](https://www.google.com/maps/search/?api=1&query=-45.897203,170.650028) |
+| Slope Point | [Karte](https://www.google.com/maps/search/?api=1&query=-46.674290,169.001601) |
+| Te Anau Glowworm Caves | [Karte](https://www.google.com/maps/search/?api=1&query=-45.409885,167.706972) |
+| That Wanaka Tree | [Karte](https://www.google.com/maps/search/?api=1&query=-44.698355,169.117564) |
+
+### 9.4 Attraktionen – Nordinsel
+| Stellplatz / Attraktion | Google Maps |
+|----|----|
+| Cape Palliser | [Karte](https://www.google.com/maps/search/?api=1&query=-41.612716,175.273415) |
+| Cape Reinga | [Karte](https://www.google.com/maps/search/?api=1&query=-34.420184,172.679348) |
+| Cathedral Cove | [Karte](https://www.google.com/maps/search/?api=1&query=-36.828688,175.790376) |
+| Driving Creek Railway | [Karte](https://www.google.com/maps/search/?api=1&query=-36.737138,175.506383) |
+| Hobbiton Movie Set | [Karte](https://www.google.com/maps/search/?api=1&query=-37.857945,175.680909) |
+| Hole in the Rock | [Karte](https://www.google.com/maps/search/?api=1&query=-35.165662,174.339060) |
+| Hot Water Beach | [Karte](https://www.google.com/maps/search/?api=1&query=-36.889811,175.823566) |
+| Huka Falls | [Karte](https://www.google.com/maps/search/?api=1&query=-38.649725,176.089376) |
+| Mine Bay Maori Carvings * | [Karte](https://www.google.com/maps/search/?api=1&query=-38.760000,175.970000) |
+| Mount Maunganui | [Karte](https://www.google.com/maps/search/?api=1&query=-37.638022,176.183884) |
+| Napier Art Deco / Cape Kidnappers | [Karte](https://www.google.com/maps/search/?api=1&query=-39.642800,177.096003) |
+| Ninety Mile Beach | [Karte](https://www.google.com/maps/search/?api=1&query=-34.852456,173.045929) |
+| Picton Faehre | [Karte](https://www.google.com/maps/search/?api=1&query=-41.290916,174.006908) |
+| Russell | [Karte](https://www.google.com/maps/search/?api=1&query=-35.261792,174.121529) |
+| Sky Tower Auckland | [Karte](https://www.google.com/maps/search/?api=1&query=-36.848463,174.762183) |
+| Tane Mahuta | [Karte](https://www.google.com/maps/search/?api=1&query=-46.063022,168.861437) |
+| Te Papa | [Karte](https://www.google.com/maps/search/?api=1&query=-41.290333,174.781927) |
+| Te Puia | [Karte](https://www.google.com/maps/search/?api=1&query=-38.164351,176.250171) |
+| Tongariro Alpine Crossing (Mangatepopo) | [Karte](https://www.google.com/maps/search/?api=1&query=-39.144862,175.580751) |
+| Wai-O-Tapu | [Karte](https://www.google.com/maps/search/?api=1&query=-38.355915,176.364328) |
+| Waiheke Island | [Karte](https://www.google.com/maps/search/?api=1&query=-36.793108,175.088386) |
+| Waitangi Treaty Grounds | [Karte](https://www.google.com/maps/search/?api=1&query=-35.274429,174.079581) |
+| Waitomo Glowworm Caves | [Karte](https://www.google.com/maps/search/?api=1&query=-38.260869,175.103543) |
+| Wellington Cable Car | [Karte](https://www.google.com/maps/search/?api=1&query=-41.284912,174.770542) |
+| Weta Cave | [Karte](https://www.google.com/maps/search/?api=1&query=-41.306349,174.824251) |
+
+---
+*Stand: Camper (Britz Wanderer + Premium Paket) & Flüge gebucht. Wäsche-Plan (§8) + Koordinaten-Index (§9) eingebaut. Priorität Freiplatz → DOC → HP. Self-Containment-Aufkleber (ab 7.6.2026 Pflicht) vorab klären. Freiplätze täglich via Rankers/CamperMate + Vor-Ort-Schilder verifizieren. Preise 2026-Raten, 2027 vor Buchung prüfen.*
