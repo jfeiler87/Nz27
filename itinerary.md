@@ -332,60 +332,59 @@ Alle Links sind exakte Koordinaten-Pins (query=lat,lng): Tippen öffnet den Punk
 | Whangarei - Uretiti Beach DOC | [Karte](https://www.google.com/maps/search/?api=1&query=-35.948666,174.464395) |
 
 ### 9.3 Attraktionen – Südinsel
-| Stellplatz / Attraktion | Google Maps |
-|----|----|
-| Akaroa | [Karte](https://www.google.com/maps/search/?api=1&query=-43.804317,172.967833) |
-| Curio Bay Petrified Forest | [Karte](https://www.google.com/maps/search/?api=1&query=-46.663648,169.101016) |
-| Founders Park Nelson | [Karte](https://www.google.com/maps/search/?api=1&query=-41.261668,173.296313) |
-| Franz Josef Glacier | [Karte](https://www.google.com/maps/search/?api=1&query=-43.387386,170.182815) |
-| Glenorchy | [Karte](https://www.google.com/maps/search/?api=1&query=-44.849749,168.385198) |
-| Hokitika Gorge | [Karte](https://www.google.com/maps/search/?api=1&query=-42.955152,171.015903) |
-| Hooker Valley Track | [Karte](https://www.google.com/maps/search/?api=1&query=-43.718374,170.098359) |
-| Kaikoura Whale Watch / Ohau Point | [Karte](https://www.google.com/maps/search/?api=1&query=-42.247513,173.829984) |
-| Lake Matheson | [Karte](https://www.google.com/maps/search/?api=1&query=-43.463955,170.012521) |
-| Mavora Lakes | [Karte](https://www.google.com/maps/search/?api=1&query=-45.138552,168.097832) |
-| Milford Sound | [Karte](https://www.google.com/maps/search/?api=1&query=-44.619019,167.868760) |
-| Oamaru Blue Penguin Colony | [Karte](https://www.google.com/maps/search/?api=1&query=-45.110276,170.980178) |
-| Omaka Aviation Heritage Centre | [Karte](https://www.google.com/maps/search/?api=1&query=-41.537911,173.929948) |
-| Pancake Rocks | [Karte](https://www.google.com/maps/search/?api=1&query=-42.116876,171.327001) |
-| Penguin Place | [Karte](https://www.google.com/maps/search/?api=1&query=-45.796663,170.730091) |
-| Purakaunui Falls | [Karte](https://www.google.com/maps/search/?api=1&query=-46.517571,169.560837) |
-| Queenstown Skyline | [Karte](https://www.google.com/maps/search/?api=1&query=-45.026415,168.649602) |
-| Royal Albatross Centre | [Karte](https://www.google.com/maps/search/?api=1&query=-45.776126,170.728536) |
-| Roys Peak | [Karte](https://www.google.com/maps/search/?api=1&query=-44.693998,169.048730) |
-| Sandfly Bay | [Karte](https://www.google.com/maps/search/?api=1&query=-45.897203,170.650028) |
-| Slope Point | [Karte](https://www.google.com/maps/search/?api=1&query=-46.674290,169.001601) |
-| Te Anau Glowworm Caves | [Karte](https://www.google.com/maps/search/?api=1&query=-45.409885,167.706972) |
-| That Wanaka Tree | [Karte](https://www.google.com/maps/search/?api=1&query=-44.698355,169.117564) |
+| Attraktion | Beschreibung | Rating | Google Maps |
+|----|----|----|----|
+| Akaroa | Franzoesisch gepraegtes Hafendoerfchen auf der Banks Peninsula, beliebt fuer Hector's Dolphins (Okt-Apr) und Pohatu-Pinguine. Entspanntes Halbtagsziel mit guten Cafes. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-43.804317,172.967833) |
+| Curio Bay Petrified Forest | Versteinerter Wald aus der Jurazeit direkt am Strand der Catlins, dazu oft Seewoelfe und (Nov-Feb) Gelbaugenpinguine. Am besten bei Ebbe besuchen. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-46.663648,169.101016) |
+| Founders Park Nelson | Freilichtmuseum und Park mit historischen Gebaeuden, Cafe und einem Mini-Bahnmuseum. Nett, aber eher Nebenziel in Nelson. | 5 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.261668,173.296313) |
+| Franz Josef Glacier | Gletscher, den man zu Fuss oder per Heli-Hike erreicht; das Tal selbst ist kostenlos einsehbar. Heli-Hike ist ein once-in-a-lifetime-Erlebnis (wetterabhaengig). | 9 | [Karte](https://www.google.com/maps/search/?api=1&query=-43.387386,170.182815) |
+| Glenorchy | Malerisches Dorf am Head of Lake Wakatipu, Drehort vieler Herr-der-Ringe-Szenen; Ausgangspunkt fuer Wanderungen und Paragliding. Idyllisch. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-44.849749,168.385198) |
+| Hokitika Gorge | Tuerkis schimmernder Fluss in einer Schlucht mit Haengebruecke, nur kurzer Spaziergang. Einer der besten Farb-Aussichten der West Coast. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-42.955152,171.015903) |
+| Hooker Valley Track | Der Klassiker im Aoraki/Mt Cook NP: ebener Wanderweg zu Gletscherblicken mit Hangebruecken ueber Wildbaeche. Pflicht fuer Wanderer. | 9 | [Karte](https://www.google.com/maps/search/?api=1&query=-43.718374,170.098359) |
+| Kaikoura Whale Watch / Ohau Point | Eine der besten Stellen weltweit fuer Walbeobachtung (Pottwale ganzjaehrig) plus Seewoelfe und Robben bei Ohau Point. Wetterabhaengige Bootstour. | 9 | [Karte](https://www.google.com/maps/search/?api=1&query=-42.247513,173.829984) |
+| Lake Matheson | Spiegelglatter See bei Fox Glacier, der bei Windstille Mt Cook und Mt Tasman perfekt spiegelt. Fruhmorgens oder abends am besten. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-43.463955,170.012521) |
+| Mavora Lakes | Zwei glasklare Seen abseits der Massen, toll zum Angeln, Kayaken oder fuer den Filme-Look. Ruhiger Abstecher von Te Anau. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.138552,168.097832) |
+| Milford Sound | Das ikonische Fjord mit Mitre Peak, Wasserfaellen und Seewoelfen; eine Cruise ist Pflicht (Ketten im Mai moeglich!). Eines der spektakulaersten Naturwunder NZs. | 10 | [Karte](https://www.google.com/maps/search/?api=1&query=-44.619019,167.868760) |
+| Oamaru Blue Penguin Colony | Kolonie der kleinsten Pinguine der Welt, die abends an Land kommen - gefuehrte Abendtouren. Das viktorianische Stadtzentrum liegt gleich nebenan. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.110276,170.980178) |
+| Omaka Aviation Heritage Centre | Weltklasse-Ausstellung mit dioramaartig inszenierten Flugzeugen aus dem 1. und 2. Weltkrieg (von Weta gestaltet). Fuer Geschichte/Flugeugfans ein Muss. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.537911,173.929948) |
+| Pancake Rocks | Versteinerte Felsformationen an der Kuesste bei Punakaiki, bei Flut mit donnernden Blowholes. Kurzer, familienfreundlicher Rundweg. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-42.116876,171.327001) |
+| Penguin Place | Schutzprojekt fuer bedrohte Gelbaugenpinguine auf der Otago Peninsula mit gefuehrten Erkundungen. Intimere Alternative zur Blue Penguin Colony. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.796663,170.730091) |
+| Purakaunui Falls | Mehrstufiger Wasserfall in den Catlins, einer der fotogensten Neuseelands; kurzer Waldweg. Klassiker auf der Suedkueste. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-46.517571,169.560837) |
+| Queenstown Skyline | Gondel auf den Bob's Peak mit Panoramablick ueber Queenstown und den See; Luge und Restaurant. Einfacher 'Wow'-Ausblick ohne Wanderung. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.026415,168.649602) |
+| Royal Albatross Centre | Einziges Brutgebiet des Royal Albatross auf dem Festland weltweit bei Dunedin; gefuehrte Touren zur Kolonie (saisonal). Natur-Highlight fuer Vogelfreunde. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.776126,170.728536) |
+| Roys Peak | Anspruchsvoller Aufstieg mit einem der beruehmtesten Ausblicke NZs ueber Wanaka und den See. Halbtagestour, wetterabhaengig (im Winter gesperrt). | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-44.693998,169.048730) |
+| Sandfly Bay | Wilder Strand auf der Otago Peninsula mit Seewoelfen und einer beruechtigten Sandfliegen-Plage; Wanderung ueber die Duenen. Wenig besucht, dafuer urig. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.897203,170.650028) |
+| Slope Point | Suedlichster Punkt der Suedinsel mit rauen Klippen und 'Mitten in Nirgendwo'-Gefuehl. Kurzer Spaziergang ueber Privatland (Schafe!). | 6 | [Karte](https://www.google.com/maps/search/?api=1&query=-46.674290,169.001601) |
+| Te Anau Glowworm Caves | Bootfahrt ueber den Te Anau-See zu einer Hoehle mit leuchtenden Glowworms und unterirdischem Fluss. Gefuehrte Tour, lohnend bei Nacht. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-45.409885,167.706972) |
+| That Wanaka Tree | Alleinstehende Weide im Wasser des Lake Wanaka, das wohl meistfotografierte Baum-Motiv NZs. Kurzer Stopp, lohnt bei Sonnenauf-/untergang. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-44.698355,169.117564) |
 
 ### 9.4 Attraktionen – Nordinsel
-| Stellplatz / Attraktion | Google Maps |
-|----|----|
-| Cape Palliser | [Karte](https://www.google.com/maps/search/?api=1&query=-41.612716,175.273415) |
-| Cape Reinga | [Karte](https://www.google.com/maps/search/?api=1&query=-34.420184,172.679348) |
-| Cathedral Cove | [Karte](https://www.google.com/maps/search/?api=1&query=-36.828688,175.790376) |
-| Driving Creek Railway | [Karte](https://www.google.com/maps/search/?api=1&query=-36.737138,175.506383) |
-| Hobbiton Movie Set | [Karte](https://www.google.com/maps/search/?api=1&query=-37.857945,175.680909) |
-| Hole in the Rock | [Karte](https://www.google.com/maps/search/?api=1&query=-35.165662,174.339060) |
-| Hot Water Beach | [Karte](https://www.google.com/maps/search/?api=1&query=-36.889811,175.823566) |
-| Huka Falls | [Karte](https://www.google.com/maps/search/?api=1&query=-38.649725,176.089376) |
-| Mine Bay Maori Carvings * | [Karte](https://www.google.com/maps/search/?api=1&query=-38.760000,175.970000) |
-| Mount Maunganui | [Karte](https://www.google.com/maps/search/?api=1&query=-37.638022,176.183884) |
-| Napier Art Deco / Cape Kidnappers | [Karte](https://www.google.com/maps/search/?api=1&query=-39.642800,177.096003) |
-| Ninety Mile Beach | [Karte](https://www.google.com/maps/search/?api=1&query=-34.852456,173.045929) |
-| Picton Faehre | [Karte](https://www.google.com/maps/search/?api=1&query=-41.290916,174.006908) |
-| Russell | [Karte](https://www.google.com/maps/search/?api=1&query=-35.261792,174.121529) |
-| Sky Tower Auckland | [Karte](https://www.google.com/maps/search/?api=1&query=-36.848463,174.762183) |
-| Tane Mahuta | [Karte](https://www.google.com/maps/search/?api=1&query=-46.063022,168.861437) |
-| Te Papa | [Karte](https://www.google.com/maps/search/?api=1&query=-41.290333,174.781927) |
-| Te Puia | [Karte](https://www.google.com/maps/search/?api=1&query=-38.164351,176.250171) |
-| Tongariro Alpine Crossing (Mangatepopo) | [Karte](https://www.google.com/maps/search/?api=1&query=-39.144862,175.580751) |
-| Wai-O-Tapu | [Karte](https://www.google.com/maps/search/?api=1&query=-38.355915,176.364328) |
-| Waiheke Island | [Karte](https://www.google.com/maps/search/?api=1&query=-36.793108,175.088386) |
-| Waitangi Treaty Grounds | [Karte](https://www.google.com/maps/search/?api=1&query=-35.274429,174.079581) |
-| Waitomo Glowworm Caves | [Karte](https://www.google.com/maps/search/?api=1&query=-38.260869,175.103543) |
-| Wellington Cable Car | [Karte](https://www.google.com/maps/search/?api=1&query=-41.284912,174.770542) |
-| Weta Cave | [Karte](https://www.google.com/maps/search/?api=1&query=-41.306349,174.824251) |
-
+| Attraktion | Beschreibung | Rating | Google Maps |
+|----|----|----|----|
+| Cape Palliser | Suedlichste Spitze der Nordinsel mit Leuchtturm (255 Stufen) und einer robusten Robbenkolonie am Strand. Abstecher von Masterton/Napier. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.612716,175.273415) |
+| Cape Reinga | Noerdlichster Punkt NZs, wo sich Tasman- und Pazifikmeer treffen; heiliger Leuchtturm-Ort. Spirituell und spektakulaer, mit Ninety Mile Beach. | 10 | [Karte](https://www.google.com/maps/search/?api=1&query=-34.420184,172.679348) |
+| Cathedral Cove | Weisse Felsboegen und Buchten bei Hahei, nur zu Fuss oder per Boot erreichbar; eines der postkarten-Schoensten Coromandel-Ziele. Wetterabhaengig. | 9 | [Karte](https://www.google.com/maps/search/?api=1&query=-36.828688,175.790376) |
+| Driving Creek Railway | Schmalspurbahn den Berg hinauf bei Coromandel mit Ausblicken und oekologischer Geschichte. Familienfreundlich, kurios. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-36.737138,175.506383) |
+| Hobbiton Movie Set | Original-Drehort der Hobbit-Auffahrt aus Herr der Ringe/Hobbit mit runden Tuerchen und dem Green Dragon Inn. Einzigartig, frueh buchen! | 10 | [Karte](https://www.google.com/maps/search/?api=1&query=-37.857945,175.680909) |
+| Hole in the Rock | Bootstour durch die Bay of Islands durch das 'Loch im Felsen' (Piercy Island), oft mit Delfinen. Klassische Meeres-Exkursion. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-35.165662,174.339060) |
+| Hot Water Beach | Thermalquelle unter dem Sand: bei Ebbe kann man selbst ein heisses Bad im Sand graben. Timing zur Ebbe zwingend, sehr beliebt. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-36.889811,175.823566) |
+| Huka Falls | Tuerkisblaue, wilde Stromschnellen am Waikato River bei Taupoe; kurzer Spaziergang zur Aussichtsplattform. Beeindruckend, gut erreichbar. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-38.649725,176.089376) |
+| Mine Bay Maori Carvings | Riesige Maori-Steinbildhauer im Wasser am westlichen Lake Taupo, nur per Boot erreichbar. Kulturell interessante Halbtagstour. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-38.760000,175.970000) |
+| Mount Maunganui | Strandstadt mit dem 'The Mount', einem erloschenen Vulkan mit Rundwanderweg und Panoramablick. Kombiniert Strand und kurze Wanderung. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-37.638022,176.183884) |
+| Napier Art Deco / Cape Kidnappers | Weltweit einzigartiges Art-deco-Stadtbild nach dem Erdbeben 1931; bei Cape Kidnappers die groesste Gannet-Kolonie der Welt per Traktortour (nur bei Ebbe). | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-39.642800,177.096003) |
+| Ninety Mile Beach | Lange, windschiefer Sandstrasse im Extrem-Norden (nur mit gefuehrten Touren/4WD befahrbar). Teil der Nordland-Erfahrung. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-34.852456,173.045929) |
+| Picton Faehre | Die Faehre ueber die Cook Strait verbindet Sued- und Nordinsel und ist selbst ein landschaftliches Erlebnis (ca. 3,5 h). Rechtzeitig mit Camper buchen. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.290916,174.006908) |
+| Russell | Einst raues Hafenviertel, heute charmantes Kuestendorf mit Kirche und Pub; Faehre von Paihia. Entspanntes Bay-of-Islands-Ziel. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-35.261792,174.121529) |
+| Sky Tower Auckland | Das Wahrzeichen Aucklands mit Aussichtsplattform und (optional) Bungy; touristisch, bei klarem Wetter netter Blick. Eher optional. | 5 | [Karte](https://www.google.com/maps/search/?api=1&query=-36.848463,174.762183) |
+| Tane Mahuta | Groesster lebender Kauri-Baum NZs im Waipoua Forest, riesig und urzeitlich; kurzer Waldweg. Beeindruckendes Naturdenkmal. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-46.063022,168.861437) |
+| Te Papa | Das nationale Museum in Wellington mit interaktiven Ausstellungen, Maori-Kultur und dem bekannten Riesen-Krake. Kostenlos, regnerische-Tage-Retter. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.290333,174.781927) |
+| Te Puia | Maori-Kulturzentrum in Rotorua mit Pohutu-Geysir, Kiwi und traditionellen Schnitzereien. Gute Einfuehrung in Geothermie und Kultur. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-38.164351,176.250171) |
+| Tongariro Alpine Crossing (Mangatepopo) | Gilt als einer der besten Tageswanderungen der Welt: Vulkane, Emerald Lakes, Mondlandschaft (buchungspflichtig!). Wetterfest ausgeruestet sein. | 10 | [Karte](https://www.google.com/maps/search/?api=1&query=-39.144862,175.580751) |
+| Wai-O-Tapu | Buntes geothermales Wunderland bei Rotorua mit Champagner-Pool und Lady Knox Geysir. Sehr fotogen, nach Regen/Vulkanaktivitaet am kraeftigsten. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-38.355915,176.364328) |
+| Waiheke Island | Weininsel vor Auckland mit Boutique-Wineries und Straenden; per Faehre erreichbar. Schoener Entspannungs-Halbtag, falls Zeit. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-36.793108,175.088386) |
+| Waitangi Treaty Grounds | Ort der Unterzeichnung des Gruendungsvertrags NZs 1840; gut gemachtes Museum und Maori-Vorfuehrungen. Historisch zentral. | 8 | [Karte](https://www.google.com/maps/search/?api=1&query=-35.274429,174.079581) |
+| Waitomo Glowworm Caves | Bootfahrt durch unterirdische Hoehlen, die von tausenden leuchtenden Glowworms erhellt werden; Black-Water-Rafting fuer Abenteuerlustige. Klassiker. | 9 | [Karte](https://www.google.com/maps/search/?api=1&query=-38.260869,175.103543) |
+| Wellington Cable Car | Historische Standseilbahn vom Zentrum zu den botanischen Gaerten mit Stadtblick; unten das Cable Car Museum. Einfacher Wellington-Stopp. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.284912,174.770542) |
+| Weta Cave | Mini-Museum und Shop der Weta-Workshop-Effekte (Herr der Ringe, Avatar); Einblicke in Film-Effekte. Fuer Filmfans nett, kurz. | 7 | [Karte](https://www.google.com/maps/search/?api=1&query=-41.306349,174.824251) |
 ---
 *Stand: Camper (Britz Wanderer + Premium Paket) & Flüge gebucht. Wäsche-Plan (§8) + Koordinaten-Index (§9) eingebaut. Priorität Freiplatz → DOC → HP. Self-Containment-Aufkleber (ab 7.6.2026 Pflicht) vorab klären. Freiplätze täglich via Rankers/CamperMate + Vor-Ort-Schilder verifizieren. Preise 2026-Raten, 2027 vor Buchung prüfen.*
