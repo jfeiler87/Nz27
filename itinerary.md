@@ -244,4 +244,20 @@
 **Budget-Schätzung Übernachtungen:** Bei konsequenter Nutzung von 🆓 Freiplätzen + wenigen 🏕 DOC-Nächten (Te Anau, Franz Josef, Hokitika, Abel Tasman, Paihia) sinken die Kosten von ~$1.800–2.000 auf **~$100–400 NZD gesamt** (DOC-Anteile ~$85–120 + gelegentliche HP-Fallback-Nächte). Ein **DOC Campsite Pass** lohnt sich ab ~10 DOC-Nächten zusätzlich.
 
 ---
-*Stand: Priorität Freiplatz → DOC → HP eingebaut. Self-Containment-Aufkleber (ab 7.6.2026 Pflicht) vorab klären. Alle Freiplätze täglich via Rankers/CamperMate + Vor-Ort-Schilder verifizieren. Preise 2026-Raten, 2027 vor Buchung prüfen.*
+## 8. Wäsche / Laundry-Plan
+- **Camper gebucht:** Britz Wanderer + Premium Paket (self-contained, Toilette/Dusche an Bord). Premium Paket inkl. Bettwäsche/Laken → kein Eigenbedarf. **Keine Waschmaschine im Camper** → Wäsche zwischendurch nötig.
+- Takt: alle ~6–8 Tage (2 Personen) → **~8 Wäsche-Stopps**. Laundromats meist günstiger als Holiday-Park-Wäscherei, viele 24/7, meist card/EFTPOS. **$2-Münzen mitführen** für Coin-Orte (Franz Josef, Picton, Ohakune, Whitianga, etliche Holiday Parks).
+- **Empfohlene Wäsche-Stops (gleichmäßig verteilt):**
+  1. **Christchurch** (Tag 1–2): Super Suds / Lilly's Laundromat (24/7) – erste Wäsche vorm Abfahrt
+  2. **Dunedin** (Tag 6–7): Liquid Laundromat Dunedin South (28 Prince Albert Rd, 24/7)
+  3. **Queenstown** (Tag 14–15) oder **Wanaka** (Tag 17): Queenstown CBD Liquid / Wanaka Liquid (24/7)
+  4. **Franz Josef** (Tag 23): Laundromat Franz Josef (64 Cron St, 24h, $2 coin)
+  5. **Nelson** (Tag 27–28): Liquid Toi Toi / Master Valet Self-Service (24/7)
+  6. **Wellington** (Tag 36–37): Janice Laundry Newtown (180 Adelaide Rd, 24/7)
+  7. **Rotorua** (Tag 48–49) oder **Taupō** (Tag 41–42): Choice Laundromats Rotorua / Liquid Taupō
+  8. **Auckland** (Tag 53 oder 60): Mint Laundromat (Beach Rd, 24/7)
+  - Optional Nordloop: **Whangārei / Paihia** (Tag 54–56) falls zwischendurch nötig.
+- **Kein town-Laundromat** (nur Holiday-Park-Wäscherei oder nächste Stadt): Catlins (→ Balclutha/Invercargill), Mt Cook Village (→ Twizel ~40 min), Haast (→ Franz Josef/Wanaka), Punakaiki (→ Westport), Abel Tasman/Marahau (→ Nelson), Waitomo (→ Te Kuiti/Otorohanga). An diesen Stops ggf. Wäsche im genutzten Holiday Park erledigen.
+
+---
+*Stand: Camper (Britz Wanderer + Premium Paket) & Flüge gebucht. Wäsche-Plan (§8) eingebaut. Priorität Freiplatz → DOC → HP. Self-Containment-Aufkleber (ab 7.6.2026 Pflicht) vorab klären. Freiplätze täglich via Rankers/CamperMate + Vor-Ort-Schilder verifizieren. Preise 2026-Raten, 2027 vor Buchung prüfen.*

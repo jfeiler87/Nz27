@@ -6,7 +6,7 @@ Waitomo, Kaikoura, Albatross, Penguin Place, Cape Kidnappers) liegen als
 Issues mit Label `booking` und sind hier NICHT nochmal gelistet.
 
 ## Fahrzeug & Papiere
-- [ ] Campervan-Miete klären: Anbieter wählen, **Self-Containment-Zertifikat + Aufkleber** bestätigen (ab 7.6.2026 Pflicht), Versicherung (Haftpflicht + Excess-Reduktion), One-Way-Fee Christchurch→Auckland, Inklusivleistungen (Bettwäsche, GPS, Tisch/Stühle), Abhol-/Rückgabezeiten
+- [x] Campervan-Miete **gebucht**: Britz Wanderer + Premium Paket (self-contained, inkl. Bettwäsche/Laken). Self-Containment-Aufkleber bestätigt. Keine Waschmaschine an Bord → Wäsche-Plan in itinerary.md §8.
 - [ ] Führerschein: Gültigkeit prüfen, ggf. Internationaler Führerschein
 - [ ] Einreise: **NZeTA + IVL** beantragen (deutsche Staatsangehörige), Reisepass ≥3 Monate über Aufenthalt hinaus
 - [ ] Reiseversicherung: Kranken, Reiserücktritt, Gepäck/Camper-Schaden
