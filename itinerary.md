@@ -61,7 +61,7 @@
 | 11 | 29.03 | Invercargill → Te Anau | 157 | Mavora Lakes | 🏕 DOC Lake Gunn ($15) |
 | 12 | 30.03 | Te Anau | – | Te Anau Glowworm Caves | 🏕 DOC Lake Gunn ($15) |
 | 13 | 31.03 | Te Anau → Milford Sound | 120 | Milford Sound | 🏕 DOC Lake Gunn ($15) |
-| 14 | 01.04 | Te Anau → Queenstown | 172 | – | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
+| 14 | 01.04 | Te Anau → Queenstown | 172 | Doubtful Sound | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
 | 15 | 02.04 | Queenstown | – | Queenstown Skyline | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
 | 16 | 03.04 | Queenstown → Glenorchy | 45 | Glenorchy | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
 | 17 | 04.04 | Queenstown → Lake Tekapo | 170 | Church of the Good Shepherd | 🏕 The Pines Lake Tekapo (günstiger Com… |
@@ -100,14 +100,14 @@
 | 50 | 07.05 | Rotorua → Mt Maunganui → Coromandel | 210 | Mount Maunganui | 🆓 Freiplatz TCDC Thames (SC, max 2 Näc… |
 | 51 | 08.05 | Coromandel | – | Driving Creek Railway, Hot Water Beach | 🆓 Freiplatz TCDC Thames (SC) |
 | 52 | 09.05 | Coromandel → Whitianga | 45 | Cathedral Cove | 🆓 Freiplatz TCDC Whitianga (SC, klein) |
-| 53 | 10.05 | Whitianga → Auckland | 180 | – | 🆓 Freiplatz Rodney (Te Ārai, SC) |
+| 53 | 10.05 | Whitianga → Auckland | 180 | Tiritiri Matangi | 🆓 Freiplatz Rodney (Te Ārai, SC) |
 | 54 | 11.05 | Auckland → Whangārei | 150 | – | 🆓 Freiplatz Parua Bay (15 Buchten, SC) |
 | 55 | 12.05 | Whangārei → Paihia | 60 | – | 🏕 DOC Maitai Bay (Karikari Pen., $15) |
 | 56 | 13.05 | Bay of Islands | – | Waitangi Treaty Grounds, Hole in the… | 🏕 DOC Maitai Bay ($15) |
 | 57 | 14.05 | Paihia → Kaitaia | 70 | – | 🆓 Freiplatz Awanui Reserve (SC, max 2 … |
 | 58 | 15.05 | Kaitaia → Cape Reinga | 180 | Cape Reinga, Ninety Mile Beach | 🏕 DOC Tapotupotu (Cape Reinga, $15) |
 | 59 | 16.05 | Cape Reinga → Waipoua (Trounson) | 160 | Tane Mahuta, Trounson Kauri Park | 🏕 DOC Trounson Kauri Park (Waipoua, $15) |
-| 60 | 17.05 | Waipoua (Trounson) → Auckland | 180 | – | 🆓 Freiplatz Rodney (SC) |
+| 60 | 17.05 | Waipoua (Trounson) → Auckland | 180 | Hauraki Gulf | 🆓 Freiplatz Rodney (SC) |
 | 61 | 18.05 | Auckland → Rückgabe | – | – | – |
 ## 3. Etappe für Etappe (alles an einem Ort)
 
@@ -244,9 +244,14 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 14 · 01.04 — Te Anau → Queenstown (172 km)
 
-**Fahrt/Route:** Adventure Capital.
+**Fahrt/Route:** Te Anau/Manapouri → Doubtful Sound Cruise (ruhigerer, wildlife-reicherer Fjord: Delfine, Pelzrobben, Zwergpinguine) → Queenstown
 
 **🏕 Stellplatz:** 🆓 Freiplatz Frankton Arm CP (15 CPs, SC, max 2 Nächte pro CP – über 3 Nächte zwischen den CPs wechseln) · [Karte](https://www.google.com/maps/search/?api=1&query=-45.030999,168.696881)
+
+**🎯 Attraktionen:**
+- **Doubtful Sound** (Rating 9/10): Ruhigerer, wildlife-reicherer Fjord als Milford: Delfine, Pelzrobben, Zwergpinguine; Tagestour ab Manapouri (Fähre + Bus + Boot). · [Karte](https://www.google.com/maps/place/Doubtful%20Sound/@-45.414600,167.718000,15z)
+
+**⚠ Besonderheiten:** Doubtful Sound Cruise vorab buchen (ab Manapouri: Fähre + Bus + Boot)
 
 ### Tag 15 · 02.04 — Queenstown
 
@@ -455,7 +460,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 37 · 24.04 — Wellington
 
-**Fahrt/Route:** Te Papa, Weta Cave, Cable Car.
+**Fahrt/Route:** Te Papa, Weta Cave, Cable Car + Zealandia (Vogelschutz: Kiwi, Tuatara, seltene Vögel)
 
 **🏕 Stellplatz:** 🆓 Freiplatz Evans Bay Marina CP (SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-41.311923,174.798576)
 
@@ -463,8 +468,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Te Papa** (Rating 8/10): Das nationale Museum in Wellington mit interaktiven Ausstellungen, Māori-Kultur und dem bekannten Riesen-Krake. Kostenlos, regnerische-Tage-Retter. · [Karte](https://www.google.com/maps/place/Te%20Papa/@-41.290333,174.781927,15z)
 - **Weta Cave** (Rating 7/10): Mini-Museum und Shop der Weta-Workshop-Effekte (Herr der Ringe, Avatar); Einblicke in Film-Effekte. Für Filmfans nett, kurz. · [Karte](https://www.google.com/maps/place/Weta%20Cave/@-41.306349,174.824251,15z)
 - **Wellington Cable Car** (Rating 7/10): Historische Standseilbahn vom Zentrum zu den botanischen Gärten mit Stadtblick; unten das Cable Car Museum. Einfacher Wellington-Stopp. · [Karte](https://www.google.com/maps/place/Wellington%20Cable%20Car/@-41.284912,174.770542,15z)
-
-**🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 6: Janice Laundry Newtown (180 Adelaide Rd, 24/7) · 🚻 Sanidump: in Wellington (i-Site / Holiday Park) · 💧 Frischwasser: in Wellington auffüllen
+- **Zealandia** (Rating 8/10): Vogelschutz-Ökosystem mitten in Wellington: Kiwi, Tuatara, seltene Vögel wie Takahe – barrierefreier Rundweg in geschützter Natur. · [Karte](https://www.google.com/maps/place/Zealandia/@-41.293000,174.768000,15z)
 
 ### Tag 38 · 25.04 — Wellington → Castlepoint (100 km)
 
@@ -618,9 +622,14 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 53 · 10.05 — Whitianga → Auckland (180 km)
 
-**Fahrt/Route:** Durchfahrt.
+**Fahrt/Route:** Whitianga → Auckland + Tiritiri Matangi Fähre (Vogelschutzinsel: Kiwi, Tui, Saddleback – barrierefrei)
 
 **🏕 Stellplatz:** 🆓 Freiplatz Rodney (Te Ārai, SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-36.196807,174.577689)
+
+**🎯 Attraktionen:**
+- **Tiritiri Matangi** (Rating 8/10): Vogelschutzinsel im Hauraki Gulf bei Auckland: Kiwi, Tui, Saddleback – barrierefreie Spaziergänge, per Fähre ab Gulf Harbour. · [Karte](https://www.google.com/maps/place/Tiritiri%20Matangi/@-36.596000,174.883000,15z)
+
+**⚠ Besonderheiten:** Tiritiri Matangi Fähre vorab buchen (ab Gulf Harbour)
 
 ### Tag 54 · 11.05 — Auckland → Whangārei (150 km)
 
@@ -679,9 +688,14 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 60 · 17.05 — Waipoua (Trounson) → Auckland (180 km)
 
-**Fahrt/Route:** Piha/Muriwai optional.
+**Fahrt/Route:** Waipoua (Trounson) → Auckland + Hauraki Gulf Wildlife-Tour (Orcas/Wale/Delfine je nach Saison) – oder Piha/Muriwai
 
 **🏕 Stellplatz:** 🆓 Freiplatz Rodney (SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-36.196807,174.577689)
+
+**🎯 Attraktionen:**
+- **Hauraki Gulf** (Rating 8/10): Wildlife-Bootstour vor Auckland: Orcas, Brydewale, Delfine je nach Saison – Abfahrt z.B. ab Viaduct Harbour. · [Karte](https://www.google.com/maps/place/Hauraki%20Gulf/@-36.700000,175.000000,15z)
+
+**⚠ Besonderheiten:** Hauraki Gulf Tour bei Ortsanbietern nach aktuellen Sichtungsraten fragen
 
 ### Tag 61 · 18.05 — Auckland → Rückgabe (– km)
 
