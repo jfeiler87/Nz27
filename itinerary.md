@@ -56,7 +56,7 @@
 | 6 | 24.03 | Oamaru → Dunedin | 115 | Otago | Freiplatz Harwood Domain (FREI) |
 | 7 | 25.03 | Dunedin | – | **Albatross, Penguin Place, Sandfly Bay** | Freiplatz Harwood Domain (FREI) |
 | 8 | 26.03 | Dunedin → Catlins | 150 | Southern Scenic Route | Freiplatz Papatowai (FREI) |
-| 9 | 27.03 | Catlins | – | Purakaunui, Slope Point | DOC Pūrākaunui Bay ($10) |
+| 9 | 27.03 | Catlins | – | Purakaunui, Slope Point | DOC Pūrākaunui Bay ($15) |
 | 10 | 28.03 | Catlins → Invercargill | 75 | Übergang | Freiplatz Southland DC (FREI) |
 | 11 | 29.03 | Invercargill → Te Anau | 157 | *Mavora Lakes* | DOC Lake Gunn ($15) |
 | 12 | 30.03 | Te Anau | – | Glowworm Caves, Kepler | DOC Lake Gunn ($15) |
@@ -76,8 +76,8 @@
 | 26 | 13.04 | Punakaiki → Westport | 60 | Küste | Freiplatz Carters Beach (FREI) |
 | 27 | 14.04 | Westport → Nelson | 180 | Buller Gorge | Freiplatz Wakapuaka Reserve (FREI) |
 | 28 | 15.04 | Nelson | – | Founders, Centre of NZ | Freiplatz Wakapuaka Reserve (FREI) |
-| 29 | 16.04 | Nelson → Abel Tasman | 120 | Goldstrände | DOC Tōtaranui $20 |
-| 30 | 17.04 | Abel Tasman | – | Coastal Track | DOC Tōtaranui $20 |
+| 29 | 16.04 | Nelson → Abel Tasman | 120 | Goldstrände | DOC Tōtaranui $15 |
+| 30 | 17.04 | Abel Tasman | – | Coastal Track | DOC Tōtaranui $15 |
 | 31 | 18.04 | Abel Tasman → Blenheim | 110 | *Pelorus Bridge* | Freiplatz Marlborough DC (FREI) |
 | 32 | 19.04 | Blenheim | – | Omaka Aviation, Wein | Freiplatz Marlborough DC (FREI) |
 | 33 | 20.04 | Blenheim → Kaikoura | 130 | Pazifikküste | Freiplatz South Bay (FREI) |
