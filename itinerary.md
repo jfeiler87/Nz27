@@ -10,7 +10,7 @@
 ## 0. Wichtige Annahmen & Voraussetzungen
 
 - **Self-contained Campervan ZWINGEND:** Für Freedom Camping UND viele DOC-Plätze ist ein **zertifiziert selbstversorgender Camper mit gültigem Self-Containment-Zertifikat (grüner Aufkleber mit QR-Code, neuer NZS 5465:2021 Standard) nötig**. Achtung: **ab 7. Juni 2026 ist ein aktueller (nicht abgelaufener) Aufkleber PFLICHT** – beim Vermieter vor Abholung bestätigen! Ohne gültigen Aufkleber ist Freedom Camping illegal (Strafen bis $400+).
-- **Übernachtungs-Priorität (laut Wunsch):** **1) Freedom Camping (kostenlos, SC) → 2) DOC-Campsite (günstig) → 3) Holiday Park (Fallback, teuer).** Pro Stopp siehe §7 und Details.
+- **Übernachtungs-Priorität (laut Wunsch):** **1) Freedom Camping (kostenlos, SC) → 2) DOC-Campsite (günstig) → 3) Holiday Park (Fallback, teuer).** Pro Stopp siehe §4.4 und Details.
 - **Freiplätze verifizieren:** Regeln/Bylaws ändern sich laufend. Immer vor Ort Schilder + **Rankers Camping NZ / CamperMate App** prüfen. Viele Freiplätze: SC-only, max 1–2 Nächte, begrenzte Plätze (früh da sein).
 - **DOC Campsite Pass:** Lohnt sich, wenn ihr viele DOC-Plätze nutzt (deckt die meisten DOC-Campsites für ein Jahr). Buchen: https://www.doc.govt.nz
 - **Jahreszeit:** Herbst (März–Mai). Mild, weniger Crowds. Später Mai = alpiner Vorwinter (Tongariro braucht Winterausrüstung).
