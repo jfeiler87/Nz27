@@ -109,38 +109,38 @@
 
 ### Tag 1–2 · Christchurch & Akaroa
 - **Christchurch (19.03):** Camper abholen, **Self-Containment-Aufkleber prüfen!**, Großeinkauf, Botanic Gardens, Riverside Market.
-  - Karte: https://www.google.com/maps/search/?api=1&query=Christchurch%20New%20Zealand
+  - Karte: https://www.google.com/maps/search/?api=1&query=-43.530955,172.636434
   - **Übernachtung:** 1) 🆓 Freiplatz South New Brighton / Waimairi (SC, max 2 Nächte, restricted zone) 2) 🏕 DOC: Lake Poaka DOC (Twizel, FREI basic, ~3h) 3) 🏕️ Fallback Tasman HP Christchurch (~$55) https://book.tasmanholidayparks.com/christchurch/
 - **Akaroa (20.03, 75 km):** Französische Siedlung, Hector's Dolphins (OCT–APR), Pohatu Penguins.
-  - Karte: https://www.google.com/maps/search/?api=1&query=Akaroa%20New%20Zealand
+  - Karte: https://www.google.com/maps/search/?api=1&query=-43.804317,172.967833
   - **Übernachtung:** 1) 🆓 Freiplatz N-Ende Haupt-Hafen-Parkplatz (SC, voll schnell) 2) 🏕️ Fallback Duvauchelle HP / Akaroa TOP 10 ($49) https://www.akaroatop10.co.nz/book-online/
 
 ### Tag 3–7 · Ostküste hoch: Timaru, Oamaru, Dunedin
 - **Timaru (21.03):** 🆓 Freiplatz Milford Lagoon / O'Neill's Reserve (SC).
-- **Oamaru (22–23.03):** Viktorianisch, **Blue Penguin Colony**. 🆓 Freiplatz All Day Bay (Waianakarua Rd, SC) – Küste Oamaru–Kakanui ist verboten. Karte: https://www.google.com/maps/search/?api=1&query=Oamaru%20New%20Zealand
-- **Dunedin (24–25.03):** Otago Peninsula: **Albatross Centre (buchen!)**, **Penguin Place (buchen!)**, **Sandfly Bay**. 🆓 Freiplatz Harwood Domain, Otago Peninsula (SC, max 2 Nächte). Karte: https://www.google.com/maps/search/?api=1&query=Dunedin%20New%20Zealand
+- **Oamaru (22–23.03):** Viktorianisch, **Blue Penguin Colony**. 🆓 Freiplatz All Day Bay (Waianakarua Rd, SC) – Küste Oamaru–Kakanui ist verboten. Karte: https://www.google.com/maps/search/?api=1&query=-45.099983,170.969793
+- **Dunedin (24–25.03):** Otago Peninsula: **Albatross Centre (buchen!)**, **Penguin Place (buchen!)**, **Sandfly Bay**. 🆓 Freiplatz Harwood Domain, Otago Peninsula (SC, max 2 Nächte). Karte: https://www.google.com/maps/search/?api=1&query=-45.874098,170.503576
 
 ### Tag 8–13 · Catlins, Fiordland & Queenstown
 - **The Catlins (26–27.03):** Curio Bay Petrified Forest, Purakaunui/McLean Falls, Slope Point. 🆓 Freiplatz Papatowai (signpostet, SC) + 🏕 DOC Pūrākaunui Bay / Curio Bay ($10/Erw.).
-- **Te Anau (29–31.03):** Fiordland, Glowworm Caves, Kepler. *Mavora Lakes* Abstecher. **Te Anau town = Freedom Camping VERBOTEN** → 🏕 DOC Lake Gunn ($15) / Cascade Creek ($18), beide ~1h auf der Milford-Straße (passt gut zum Milford-Tag). Karte: https://www.google.com/maps/search/?api=1&query=Te%20Anau%20New%20Zealand
-- **Milford Sound (Tag 13):** **Cruise buchen**. Ketten im Mai! Karte: https://www.google.com/maps/search/?api=1&query=Milford%20Sound%20New%20Zealand
-- **Queenstown (01–03.04):** Skyline, Fergburger, Glenorchy. 🆓 Freiplatz Frankton Arm CP (15 designated CPs, SC, max 2 Nächte) + 🏕 DOC Moke Lake / Twelve Mile Delta ($10). Karte: https://www.google.com/maps/search/?api=1&query=Queenstown%20New%20Zealand
+- **Te Anau (29–31.03):** Fiordland, Glowworm Caves, Kepler. *Mavora Lakes* Abstecher. **Te Anau town = Freedom Camping VERBOTEN** → 🏕 DOC Lake Gunn ($15) / Cascade Creek ($18), beide ~1h auf der Milford-Straße (passt gut zum Milford-Tag). Karte: https://www.google.com/maps/search/?api=1&query=-45.414490,167.717489
+- **Milford Sound (Tag 13):** **Cruise buchen**. Ketten im Mai! Karte: https://www.google.com/maps/search/?api=1&query=-44.619019,167.868760
+- **Queenstown (01–03.04):** Skyline, Fergburger, Glenorchy. 🆓 Freiplatz Frankton Arm CP (15 designated CPs, SC, max 2 Nächte) + 🏕 DOC Moke Lake / Twelve Mile Delta ($10). Karte: https://www.google.com/maps/search/?api=1&query=-45.032192,168.661000
 
 ### Tag 17–20 · Wanaka & Aoraki/Mt Cook
-- **Wanaka (17.04):** That Wanaka Tree, Roy's Peak, Puzzling World. 🆓 Freiplatz (15 QLDC CPs, SC, max 2 Nächte) + 🏕 DOC Glendhu Bay (~$15). Karte: https://www.google.com/maps/search/?api=1&query=Wanaka%20New%20Zealand
-- **Aoraki/Mt Cook (18–19.04):** **Hooker Valley Track**. **Village = kein Freedom Camping** → 🆓 Freiplatz Lake Pukaki Overnight Campervan Parking (Mackenzie DC, SC, außerhalb Park) empfohlen + 🏕 DOC White Horse Hill ($18/Erw.). Karte: https://www.google.com/maps/search/?api=1&query=Mount%20Cook%20Village%20New%20Zealand
+- **Wanaka (17.04):** That Wanaka Tree, Roy's Peak, Puzzling World. 🆓 Freiplatz (15 QLDC CPs, SC, max 2 Nächte) + 🏕 DOC Glendhu Bay (~$15). Karte: https://www.google.com/maps/search/?api=1&query=-44.694169,169.136464
+- **Aoraki/Mt Cook (18–19.04):** **Hooker Valley Track**. **Village = kein Freedom Camping** → 🆓 Freiplatz Lake Pukaki Overnight Campervan Parking (Mackenzie DC, SC, außerhalb Park) empfohlen + 🏕 DOC White Horse Hill ($18/Erw.). Karte: https://www.google.com/maps/search/?api=1&query=-43.734945,170.097723
 
 ### Tag 21–27 · West Coast & Nelson
-- **Haast (21–22.04):** Haast Pass, **Lake Matheson**. 🆓 Freiplatz Haast (Marks Rd, SC) + 🏕 DOC Lake Paringa (~$13). Karte: https://www.google.com/maps/search/?api=1&query=Haast%20Pass%20New%20Zealand
+- **Haast (21–22.04):** Haast Pass, **Lake Matheson**. 🆓 Freiplatz Haast (Marks Rd, SC) + 🏕 DOC Lake Paringa (~$13). Karte: https://www.google.com/maps/search/?api=1&query=-44.107292,169.354799
 - **Franz Josef (23.04):** **Heli-Hike (buchbar)**. **Glacier Country = Freedom Camping VERBOTEN** → 🏕 DOC Otto/MacDonalds (Lake Mapourika, $15) zwingend + 🏕️ Fallback Franz Josef Campervan Park ($49) https://www.franzjosefcampervanpark.com/
-- **Hokitika (24.04):** **Hokitika Gorge**, Glowworm Dell. 🏕 DOC Lake Māhinapua ($15) (freedom limitiert). Karte: https://www.google.com/maps/search/?api=1&query=Hokitika%20New%20Zealand
-- **Punakaiki (25.04):** **Pancake Rocks**. 🆓 Freiplatz McMillan Rd (SC, ~12 Vans) + 🏕 DOC Punakaiki ($15). Karte: https://www.google.com/maps/search/?api=1&query=Punakaiki%20Pancake%20Rocks%20New%20Zealand
+- **Hokitika (24.04):** **Hokitika Gorge**, Glowworm Dell. 🏕 DOC Lake Māhinapua ($15) (freedom limitiert). Karte: https://www.google.com/maps/search/?api=1&query=-42.913029,170.973215
+- **Punakaiki (25.04):** **Pancake Rocks**. 🆓 Freiplatz McMillan Rd (SC, ~12 Vans) + 🏕 DOC Punakaiki ($15). Karte: https://www.google.com/maps/search/?api=1&query=-42.114968,171.329892
 - **Westport (26.04):** 🆓 Freiplatz Carters Beach (Buller DC, SC).
-- **Nelson (27–28.04):** Founders Park. 🆓 Freiplatz Wakapuaka Reserve CP (3 Plätze, SC, max 2 Nächte) + 🏕 DOC Pelorus Bridge ($15). Karte: https://www.google.com/maps/search/?api=1&query=Nelson%20New%20Zealand
-- **Abel Tasman (29–30.04):** Goldstrände, Kayak, Coastal Track. **Marahau/Kaiteriteri = Freedom Camping VERBOTEN** → 🏕 DOC Tōtaranui ($20) + 🏕️ Fallback Marahau Beach Camp (~$45) https://marahaubeachcamp.co.nz/. Karte: https://www.google.com/maps/search/?api=1&query=Abel%20Tasman%20National%20Park%20New%20Zealand
+- **Nelson (27–28.04):** Founders Park. 🆓 Freiplatz Wakapuaka Reserve CP (3 Plätze, SC, max 2 Nächte) + 🏕 DOC Pelorus Bridge ($15). Karte: https://www.google.com/maps/search/?api=1&query=-41.271085,173.283676
+- **Abel Tasman (29–30.04):** Goldstrände, Kayak, Coastal Track. **Marahau/Kaiteriteri = Freedom Camping VERBOTEN** → 🏕 DOC Tōtaranui ($20) + 🏕️ Fallback Marahau Beach Camp (~$45) https://marahaubeachcamp.co.nz/. Karte: https://www.google.com/maps/search/?api=1&query=-40.889835,172.970428
 
 ### Tag 31–35 · Pelorus, Marlborough & Kaikoura
-- **Pelorus Bridge (31.04):** 🏕 DOC Pelorus Bridge Campground ($15) – auch als Freiplatz-Alternative. Karte: https://www.google.com/maps/search/?api=1&query=Pelorus%20Bridge%20Campground
+- **Pelorus Bridge (31.04):** 🏕 DOC Pelorus Bridge Campground ($15) – auch als Freiplatz-Alternative. Karte: https://www.google.com/maps/search/?api=1&query=-41.301461,173.569449
 - **Blenheim (31–32.04):** 🆓 Freiplatz Marlborough DC (SC) + 🏕 DOC Pelorus Bridge ($15).
 - **Kaikoura (33–34.04):** **Whale Watch (buchbar)**, Ohau Point. 🆓 Freiplatz South Bay / Peninsula (5 SC-Sites) + 🏕 DOC Puhi Puhi ($15).
 
@@ -155,15 +155,15 @@
 ### Tag 37–40 · Wellington & Wairarapa & Napier
 - **Wellington (37.04):** Te Papa, Weta Cave, Cable Car. *Cape Palliser* Abstecher Tag 38.
 - **Masterton (38.04):** 🆓 Freiplatz Henley Lake CP (SC, max 2 Nächte).
-- **Napier (39–40.04):** Art-Déco, **Cape Kidnappers (buchbar)**. 🆓 Freiplatz Te Karaka / Perfume Point CP (4 Buchten, SC, max 2 Nächte) + 🏕 DOC Lake Tūtira (FREI). Karte: https://www.google.com/maps/search/?api=1&query=Napier%20New%20Zealand
+- **Napier (39–40.04):** Art-Déco, **Cape Kidnappers (buchbar)**. 🆓 Freiplatz Te Karaka / Perfume Point CP (4 Buchten, SC, max 2 Nächte) + 🏕 DOC Lake Tūtira (FREI). Karte: https://www.google.com/maps/search/?api=1&query=-39.490210,176.917839
 
 ### Tag 41–46 · Taupo, Tongariro, Waitomo
-- **Taupō (41–42.04):** Lake Taupo, Huka Falls, Carvings. 🆓 Freiplatz auf Council-Land (außer Reserves & Ferry Rd, SC). Karte: https://www.google.com/maps/search/?api=1&query=Taupo%20New%20Zealand
+- **Taupō (41–42.04):** Lake Taupo, Huka Falls, Carvings. 🆓 Freiplatz auf Council-Land (außer Reserves & Ferry Rd, SC). Karte: https://www.google.com/maps/search/?api=1&query=-38.686620,176.069477
 - **Tongariro (43–44.04):** **Alpine Crossing** buchungspflichtig. 🆓 Freiplatz Carrot Park Ohakune (SH49, SC, 1 Nacht/Monat) + 🏕 DOC Mangahuia (~$15–18).
 - **Waitomo (45–46.04):** Glowworm, Black Water (buchbar). 🆓 Freiplatz im District (SC, sofern nicht ausgeschildert) + 🏕 DOC Arohena (~$15).
 
 ### Tag 47–53 · Hobbiton, Rotorua, Coromandel
-- **Hobbiton (47–48.04):** **JETZT buchen.** Karte: https://www.google.com/maps/search/?api=1&query=Hobbiton%20Movie%20Set%20Matamata
+- **Hobbiton (47–48.04):** **JETZT buchen.** Karte: https://www.google.com/maps/search/?api=1&query=-37.857946,175.680909
   - 🆓 Freiplatz Pohlen Park (Matamata, SC) + 🏕️ Fallback Opal Hot Springs HP (~$49) https://www.opalhotsprings.co.nz/
 - **Rotorua (48–49.04):** Te Puia, Wai-O-Tapu. 🆓 Freiplatz TECT Park / Government Gardens CP (SC, TECT max 3 Nächte) + 🏕 DOC Lake Ōkareka ($18).
 - **Mt Maunganui (50.05):** Stopp. *Raglan (optional, +1 Tag).*
