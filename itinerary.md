@@ -199,13 +199,15 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Purakaunui Falls** (Rating 7/10): Mehrstufiger Wasserfall in den Catlins, einer der fotogensten Neuseelands; kurzer Waldweg. Klassiker auf der Südküste. · [Karte](https://www.google.com/maps/place/Purakaunui%20Falls/@-46.517571,169.560837,15z)
 - **Slope Point** (Rating 6/10): Südlichster Punkt der Südinsel mit rauen Klippen und dem 'Mitten in Nirgendwo'-Gefühl. Kurzer Spaziergang über Privatland (Schafe!). · [Karte](https://www.google.com/maps/place/Slope%20Point/@-46.674290,169.001601,15z)
 
+**⚠ Besonderheiten:** Erste Woche dicht: Catlins→Stewart→Te Anau→Milford + Queenstown/Glenorchy. Bewusst einen Ruhetag in Catlins oder Te Anau einbauen.
+
 ### Tag 9 · 27.03 — Catlins → Stewart Island (~200 km)
 
 **Fahrt/Route:** Catlins → Bluff (Fähre ab Bluff, ~1 h Überfahrt) → Stewart Island (Oban). Fähre vorab buchen.
 
 **🏕 Stellplatz:** 🏕 Stewart Island DOC-Campsites (Ruggedy/Ringaringa) · 🆓 Freedom Camping auf Stewart Island stark eingeschränkt – vorab prüfen · [Karte](https://www.google.com/maps/place/Oban%2C%20Stewart%20Island/@-46.893800,168.126200,15z)
 
-**⚠ Besonderheiten:** Stewart Island Fähre (Rakiura Ferry) + geführte Kiwi-Nachtwanderung vorab buchen (limitierte Plätze) · Fähre über Foveaux Strait wetterabhängig – Puffer einplanen
+**⚠ Besonderheiten:** Stewart Island Fähre (Rakiura Ferry) + geführte Kiwi-Nachtwanderung vorab buchen (limitierte Plätze) · Fähre über Foveaux Strait wetterabhängig – mit Stornieroption buchen. WETTERRISIKO: fällt die Fähre aus, Stewart überspringen (kein Kaskadieren) und Tag 12 direkt Richtung Te Anau fahren.
 
 ### Tag 10 · 28.03 — Stewart Island
 
@@ -257,7 +259,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Milford Sound** (Rating 10/10): Das ikonische Fjord mit Mitre Peak, Wasserfällen und Seelöwen; eine Cruise ist Pflicht (Ketten im Mai möglich!). Eines der spektakulärsten Naturwunder NZs. · [Karte](https://www.google.com/maps/place/Milford%20Sound/@-44.619019,167.868760,15z)
 
-**⚠ Besonderheiten:** Milford Cruise buchen (RealNZ) – früh, Tageszeiten voll · langer Tag: Milford ~240 km gesamt (Hin- und Rückfahrt), früh los · Milford Road (SH94): Mietwagen dürfen oft KEINE Ketten – Mietbedingungen prüfen
+**⚠ Besonderheiten:** Milford Cruise buchen (RealNZ) — früh, Tageszeiten voll · langer Tag: Milford ~240 km gesamt (Hin- und Rückfahrt), früh los · Milford Road (SH94): Mietwagen dürfen oft KEINE Ketten – Mietbedingungen prüfen · Plan B bei SH94-Sperrung (Schnee/Lawine im Mai): Milford streichen, stattdessen Doubtful Sound (schon drin) oder Scenic Flight ab Te Anau
 
 ### Tag 15 · 02.04 — Te Anau → Queenstown (172 km)
 
@@ -435,13 +437,15 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 32 · 19.04 — Abel Tasman
 
-**Fahrt/Route:** Coastal Track, Kayak + Golden Bay Tagestrip: Wharariki Beach (Robben in den Dünen) & Farewell Spit Eco-Tour ab Collingwood
+**Fahrt/Route:** Golden Bay Tagestrip: Farewell Spit Eco-Tour (Collingwood, Vormittag, buchen!) + Wharariki Beach en route (Robben), Kayak optional
 
 **🏕 Stellplatz:** 🏕 DOC Tōtaranui ($15) · [Karte](https://www.google.com/maps/place/Totaranui%20DOC%20Campsite%2C%20Abel%20Tasman/@-41.142064,174.272917,15z)
 
 **🎯 Attraktionen:**
 - **Wharariki Beach** (Rating 8/10): Wilde Nordwestküste der Golden Bay mit Pelzrobben in den Dünen – spektakulär bei Flut. · [Karte](https://www.google.com/maps/place/Wharariki%20Beach/@-40.510000,172.690000,15z)
 - **Farewell Spit** (Rating 8/10): Nördlichste Landzunge der Südinsel, Tölpelkolonie & Watvögel – Eco-Tour ab Collingwood. · [Karte](https://www.google.com/maps/place/Farewell%20Spit/@-40.550000,172.970000,15z)
+
+**⚠ Besonderheiten:** Farewell Spit Eco-Tour VORMITTAG ab Collingwood buchen (halber Tag) · Langer Tag (~3 h Fahrt Tōtaranui↔Collingwood) – wer's entspannter will, eine Nacht Collingwood vorziehen (bräuchte 1 Tag Tausch) · Kayak nur optional, sonst Zeit für die Touren
 
 ### Tag 33 · 20.04 — Abel Tasman → Blenheim (110 km)
 
@@ -494,7 +498,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Picton Fähre** (Rating 7/10): Die Fähre über die Cook Strait verbindet Süd- und Nordinsel und ist selbst ein landschaftliches Erlebnis (ca. 3,5 h). Rechtzeitig mit Camper buchen. · [Karte](https://www.google.com/maps/place/Picton%20F%C3%A4hre/@-41.290916,174.006908,15z)
 
-**⚠ Besonderheiten:** Fähre: rechtzeitig einchecken, Camper früh laden · Evans Bay: Wellington CC extrem restriktiv – erlaubte SC-Buchten vorab in App prüfen
+**⚠ Besonderheiten:** Fähre: rechtzeitig einchecken, Camper früh laden · Evans Bay: Wellington CC extrem restriktiv – erlaubte SC-Buchten vorab in App prüfen · SC-Plätze GENERELL vorab in Rankers/CamperMate neu verifizieren (Bylaws ändern sich); bei Unsicherheit Holiday Park buchen statt Risiko-Strafe
 
 ### Tag 39 · 26.04 — Wellington
 
@@ -568,14 +572,14 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 ### Tag 46 · 03.05 — Tongariro (Ohakune)
 
-**Fahrt/Route:** Alpine Crossing (buchungspflichtig!).
+**Fahrt/Route:** Alpine Crossing (buchungspflichtig!, im Mai häufig gesperrt)
 
 **🏕 Stellplatz:** 🏕 DOC Mangahuia (Tongariro, $15) · 🆓 Fallback Carrot Park Ohakune · [Karte](https://www.google.com/maps/place/Mangahuia%20DOC%20Campsite%2C%20Ohakune/@-39.416700,175.366700,15z)
 
 **🎯 Attraktionen:**
 - **Tongariro Alpine Crossing (Mangatepopo)** (Rating 10/10): Gilt als einer der besten Tageswanderungen der Welt: Vulkane, Emerald Lakes, Mondlandschaft (buchungspflichtig!). Wetterfest ausgerüstet sein. · [Karte](https://www.google.com/maps/place/Tongariro%20Alpine%20Crossing%20%28Mangatepopo%29/@-39.144862,175.580751,15z)
 
-**⚠ Besonderheiten:** Tongariro Alpine Crossing JETZT buchen (Pflicht für alle) · Shuttle Mangatepopo↔Ketetahi nötig (einfach 19 km, kein Durchstieg) · Winterausrüstung!, wetteranfällig · Plan B bei Schnee/Sperrung: Taranaki Falls / Whakapapa Track
+**⚠ Besonderheiten:** Tongariro Alpine Crossing JETZT buchen (Pflicht für alle) · Shuttle Mangatepopo↔Ketetahi nötig (einfach 19 km, kein Durchstieg) · Winterausrüstung!, wetteranfällig · Im Mai häufig gesperrt (Schnee) – als 'wahrscheinlich zu' einplanen; Taranaki Falls / Whakapapa Track gleichwertige Alternative
 
 ### Tag 47 · 04.05 — Ohakune → Waitomo (180 km)
 
