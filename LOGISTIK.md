@@ -39,7 +39,7 @@ Marlborough / Kaikoura (Tag 33–35)
 - Tanken: Blenheim/Kaikoura. Dump: i-Site. Waschen: Blenheim/Kaikoura Holiday Park.
 
 Wellington & Wairarapa (Tag 36–39)
-- Tanken: Wellington (vor Fähre volltanken + Dump leeren!). Dump: i-Site/Holiday Park. Waschen: Wellington — Janice Laundry Newtown, 180 Adelaide Rd (24/7).
+- Tanken: Picton (vor Fähre volltanken + Dump leeren!). Dump: i-Site/Holiday Park. Waschen: Wellington — Janice Laundry Newtown, 180 Adelaide Rd (24/7).
 
 Nordinsel Ostküste: Napier – Taupō – Tongariro – Waitomo – Rotorua (Tag 40–49)
 - Tanken: durchgehend. Dump: i-Site/DOC. Waschen: Stop 7 Taupō — Liquid Taupō (24/7); Rotorua — Choice Laundromats (24/7); Ohakune Coin-Laundromat ($2-Münzen).

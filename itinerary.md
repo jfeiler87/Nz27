@@ -88,12 +88,12 @@
 | 38 | 25.04 | Picton → Wellington (Fähre) | – | Picton Fähre | 🆓 Freiplatz Evans Bay Marina CP (52 Bu… |
 | 39 | 26.04 | Wellington | – | Te Papa, Weta Cave | 🆓 Freiplatz Evans Bay Marina CP (SC) |
 | 40 | 27.04 | Wellington → Castlepoint | 100 | Castlepoint Scenic Reserve | 🆓 Freiplatz Castlepoint Beach CP (SC) |
-| 41 | 28.04 | Castlepoint → Napier | 190 | Cape Palliser | 🆓 Freiplatz Te Karaka / Perfume Point … |
+| 41 | 28.04 | Castlepoint → Napier | 370 | Cape Palliser | 🆓 Freiplatz Te Karaka / Perfume Point … |
 | 42 | 29.04 | Napier | – | Napier Art Deco / Cape Kidnappers | 🆓 Freiplatz Te Karaka / Perfume Point … |
 | 43 | 30.04 | Napier → Taupō | 145 | Huka Falls | 🆓 Freiplatz auf Council-Land (außer Re… |
 | 44 | 01.05 | Taupō | – | Mine Bay Maori Carvings | 🆓 Reid's Farm Free Campervan Site (Wai… |
 | 45 | 02.05 | Taupō → Tongariro/Ohakune | 80 | – | 🆓 Freiplatz Carrot Park Ohakune (SH49,… |
-| 46 | 03.05 | Tongariro (Ohakune) | – | Tongariro Alpine Crossing (Mangatepo… | 🏕 DOC Mangahuia (Tongariro, $15) |
+| 46 | 03.05 | Ohakune | – | Tongariro Alpine Crossing (Mangatepo… | 🏕 DOC Mangahuia (Tongariro, $15) |
 | 47 | 04.05 | Ohakune → Waitomo | 180 | – | 🆓 Freiplatz im District (SC, sofern ni… |
 | 48 | 05.05 | Waitomo | – | Ruakuri Bush Walk, Waitomo Glowworm … | 🆓 Freiplatz im District (SC) |
 | 49 | 06.05 | Waitomo → Matamata | 95 | – | 🆓 Freiplatz Pohlen Park (Matamata, SC) |
@@ -103,7 +103,7 @@
 | 53 | 10.05 | Coromandel | – | Driving Creek Railway, Hot Water Beach | 🆓 Freiplatz TCDC Thames (SC) |
 | 54 | 11.05 | Coromandel → Auckland | 180 | Tiritiri Matangi | 🆓 Freiplatz Rodney (Te Ārai, SC) |
 | 55 | 12.05 | Auckland → Paihia | 230 | – | 🏕 DOC Maitai Bay (Karikari Pen., $15) |
-| 56 | 13.05 | Bay of Islands | – | Waitangi Treaty Grounds, Hole in the… | 🏕 DOC Maitai Bay ($15) |
+| 56 | 13.05 | Paihia | – | Waitangi Treaty Grounds, Hole in the… | 🏕 DOC Maitai Bay ($15) |
 | 57 | 14.05 | Paihia → Kaitaia | 70 | – | 🆓 Freiplatz Awanui Reserve (SC, max 2 … |
 | 58 | 15.05 | Kaitaia → Cape Reinga | 180 | Cape Reinga, Ninety Mile Beach | 🏕 DOC Tapotupotu (Cape Reinga, $15) |
 | 59 | 16.05 | Cape Reinga → Waipoua (Trounson) | 160 | Tane Mahuta, Trounson Kauri Park | 🏕 DOC Trounson Kauri Park (Waipoua, $15) |
@@ -501,6 +501,8 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Fähre: rechtzeitig einchecken, Camper früh laden · Evans Bay: Wellington CC extrem restriktiv – erlaubte SC-Buchten vorab in App prüfen · SC-Plätze GENERELL vorab in Rankers/CamperMate neu verifizieren (Bylaws ändern sich); bei Unsicherheit Holiday Park buchen statt Risiko-Strafe
 
+**🛠 Versorgung in der Nähe:** ⛽ Vor der Fähre in Picton volltanken + Dump komplett leeren & versiegeln (in Wellington kein Camper-Tanken nötig)
+
 ### Tag 39 · 26.04 — Wellington
 
 **Fahrt/Route:** Te Papa, Weta Cave, Cable Car + Zealandia (Vogelschutz: Kiwi, Tuatara, seltene Vögel)
@@ -514,6 +516,8 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Zealandia** (Rating 8/10): Vogelschutz-Ökosystem mitten in Wellington: Kiwi, Tuatara, seltene Vögel wie Takahe – barrierefreier Rundweg in geschützter Natur. · [Karte](https://www.google.com/maps/place/Zealandia/@-41.293000,174.768000,15z)
 - **Kaitoke Regional Park** (Rating 7/10): Rivendell-Drehort aus Herr der Ringe: kurzer Abstecher in den dichten Wald nördlich von Wellington, barrierefreier Rundweg. · [Karte](https://www.google.com/maps/place/Kaitoke%20Regional%20Park/@-41.009000,175.029000,15z)
 
+**🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 6: Janice Laundry Newtown (180 Adelaide Rd, 24/7) · 🚻 Sanidump: in Wellington (i-Site / Holiday Park) · 💧 Frischwasser: in Wellington auffüllen
+
 ### Tag 40 · 27.04 — Wellington → Castlepoint (100 km)
 
 **Fahrt/Route:** Wellington → Castlepoint (Riff, begehbarer Leuchtturm, Lagune)
@@ -523,7 +527,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Castlepoint Scenic Reserve** (Rating 8/10): Riff mit begehbarem Leuchtturm und einer geschützten Riesenlagune an der Wairarapa-Küste. · [Karte](https://www.google.com/maps/place/Castlepoint%20Scenic%20Reserve/@-40.900600,175.896000,15z)
 
-### Tag 41 · 28.04 — Castlepoint → Napier (190 km)
+### Tag 41 · 28.04 — Castlepoint → Napier (370 km)
 
 **Fahrt/Route:** Castlepoint → Cape Palliser (Seebären-Kolonie) → Napier
 
@@ -531,6 +535,8 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🎯 Attraktionen:**
 - **Cape Palliser** (Rating 7/10): Südlichste Spitze der Nordinsel mit Leuchtturm (255 Stufen) und einer robusten Robbenkolonie am Strand. Abstecher von Masterton/Napier. · [Karte](https://www.google.com/maps/place/Cape%20Palliser/@-41.612716,175.273415,15z)
+
+**⚠ Besonderheiten:** Langer Tag (~370 km, Castlepoint→Palliser→Napier Küstenstraße) – früh starten; Cape Palliser optional, wer's kürzer will lässt Palliser weg (~190 km)
 
 ### Tag 42 · 29.04 — Napier
 
@@ -571,7 +577,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** $2-Münzen für Ohakune Coin-Laundromat mitführen
 
-### Tag 46 · 03.05 — Tongariro (Ohakune)
+### Tag 46 · 03.05 — Ohakune
 
 **Fahrt/Route:** Alpine Crossing (buchungspflichtig!, im Mai häufig gesperrt)
 
@@ -672,7 +678,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Paihia town größtenteils verboten → DOC Maitai Bay
 
-### Tag 56 · 13.05 — Bay of Islands
+### Tag 56 · 13.05 — Paihia
 
 **Fahrt/Route:** Waitangi, Russell, Hole in the Rock.
 
@@ -762,7 +768,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
   3. **Queenstown** (Tag 14–15) oder **Wanaka** (Tag 17): Queenstown CBD Liquid / Wanaka Liquid (24/7)
   4. **Franz Josef** (Tag 23): Laundromat Franz Josef (64 Cron St, 24h, $2 coin)
   5. **Nelson** (Tag 27–28): Liquid Toi Toi / Master Valet Self-Service (24/7)
-  6. **Wellington** (Tag 36–37): Janice Laundry Newtown (180 Adelaide Rd, 24/7)
+  6. **Wellington** (Tag 38–39): Janice Laundry Newtown (180 Adelaide Rd, 24/7)
   7. **Rotorua** (Tag 48–49) oder **Taupō** (Tag 41–42): Choice Laundromats Rotorua / Liquid Taupō
   8. **Auckland** (Tag 53 oder 60): Mint Laundromat (Beach Rd, 24/7)
   - Optional Nordloop: **Whangārei / Paihia** (Tag 54–56) falls zwischendurch nötig.
