@@ -67,7 +67,7 @@
 | 17 | 04.04 | Queenstown → Glenorchy | 45 | Glenorchy, Paradise (Glenorchy) | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
 | 18 | 05.04 | Glenorchy → Arrowtown | 95 | Skippers Canyon | 🆓 Freiplatz Arrowtown Lake Hayes (OTEC… |
 | 19 | 06.04 | Arrowtown → Lake Tekapo | 270 | Church of the Good Shepherd, Twizel … | 🏕 The Pines Lake Tekapo (günstiger Com… |
-| 20 | 07.04 | Lake Tekapo → Aoraki/Mt Cook | 45 | Hooker Valley Track | 🏕 DOC White Horse Hill (Mt Cook) $15 |
+| 20 | 07.04 | Lake Tekapo → Aoraki/Mt Cook | 115 | Hooker Valley Track, Flock Hill / Mo… | 🏕 DOC White Horse Hill (Mt Cook) $15 |
 | 21 | 08.04 | Aoraki/Mt Cook | – | Hooker Valley Track | 🆓 Freiplatz Lake Pukaki Overnight (SC) |
 | 22 | 09.04 | Mt Cook → Wanaka | 154 | Roys Peak | 🆓 Freiplatz Wanaka CPs (QLDC, SC) |
 | 23 | 10.04 | Wanaka → Haast | 140 | Blue Pools Track | 🆓 Freiplatz Haast (Marks Rd, SC) |
@@ -317,16 +317,17 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Twizel / Mackenzie Country** (Rating 7/10): Pelennor-Felder-Schlacht-Drehort (Helm's Deep-Außenaufnahmen) im weiten Mackenzie Basin – flaches Tussock-Land bei Twizel. · [Karte](https://www.google.com/maps/place/Twizel%20/%20Mackenzie%20Country/@-44.016700,170.100000,15z)
 - **Bannockburn (Power of the Dog)** (Rating 6/10): Drehort des Films 'The Power of the Dog' (2021) bei Cromwell/Bannockburn – trockene Central-Otago-Landschaft. · [Karte](https://www.google.com/maps/place/Bannockburn%20%28Power%20of%20the%20Dog%29/@-45.050000,169.200000,15z)
 
-### Tag 20 · 07.04 — Lake Tekapo → Aoraki/Mt Cook (45 km)
+### Tag 20 · 07.04 — Lake Tekapo → Aoraki/Mt Cook (115 km)
 
-**Fahrt/Route:** Lake Tekapo → Lake Pukaki → Aoraki/Mt Cook (Hooker Valley)
+**Fahrt/Route:** Lake Tekapo → Mount Sunday/Edoras (Rangitata-Abstecher, ~1,5 h Schleife) → Lake Pukaki → Aoraki/Mt Cook (Hooker Valley)
 
 **🏕 Stellplatz:** 🏕 DOC White Horse Hill (Mt Cook) $15 · 🏕 Fallback Glentanner $20 · [Karte](https://www.google.com/maps/place/White%20Horse%20Hill%20DOC%20Campsite%2C%20Mt%20Cook/@-43.733300,170.116700,15z)
 
 **🎯 Attraktionen:**
 - **Hooker Valley Track** (Rating 9/10): Der Klassiker im Aoraki/Mt Cook NP: ebener Wanderweg zu Gletscherblicken mit Hängebrücken über Wildbäche. Pflicht für Wanderer. · [Karte](https://www.google.com/maps/place/Hooker%20Valley%20Track/@-43.718374,170.098359,15z)
+- **Flock Hill / Mount Sunday** (Rating 8/10): Edoras/Rohan-Hauptstadt (Mount Sunday): einzelner Hügel mitten in der Rangitata-Ebene. Vom Roadtrip Tekapo→Mt Cook als ~1,5-h-Schleife erreichbar; kostenloser Blick von SH8 (Peel Forest) oder bezahlte Flock Hill 'Edoras'-Tour. · [Karte](https://www.google.com/maps/place/Flock%20Hill%20/%20Mount%20Sunday/@-43.983000,170.933000,15z)
 
-**⚠ Besonderheiten:** White Horse Hill DOC vorab online reservieren!
+**⚠ Besonderheiten:** White Horse Hill DOC vorab online reservieren! · Edoras/Mount Sunday: kostenloser Blick von SH8 (Peel Forest) oder bezahlte Flock Hill 'Edoras'-Tour (4WD+Walk, wetterabhängig) – ~1,5 h Schleife auf dem Weg Tekapo→Mt Cook
 
 ### Tag 21 · 08.04 — Aoraki/Mt Cook
 
