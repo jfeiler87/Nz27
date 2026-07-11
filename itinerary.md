@@ -51,58 +51,58 @@
 | 1 | 19.03 | Christchurch (Abholung) | – | – | 🆓 Freiplatz South New Brighton / Waima… |
 | 2 | 20.03 | Christchurch → Akaroa | 75 | Akaroa | 🆓 Freiplatz N-Ende Haupt-Hafen-Parkpla… |
 | 3 | 21.03 | Akaroa → Oamaru | 230 | – | 🆓 Freiplatz All Day Bay (Waianakarua R… |
-| 4 | 22.03 | Timaru → Oamaru | 85 | – | 🆓 Freiplatz All Day Bay (Waianakarua R… |
-| 5 | 23.03 | Oamaru | – | Oamaru Blue Penguin Colony | 🆓 Freiplatz All Day Bay (SC) |
-| 6 | 24.03 | Oamaru → Dunedin | 115 | Moeraki Boulders, Royal Albatross Ce… | 🆓 Freiplatz Harwood Domain, Otago Peni… |
-| 7 | 25.03 | Dunedin | – | Royal Albatross Centre, Penguin Place | 🆓 Freiplatz Harwood Domain (SC) |
-| 8 | 26.03 | Dunedin → Catlins | 150 | – | 🆓 Freiplatz Papatowai (signpostet, SC) |
-| 9 | 27.03 | Catlins | – | Curio Bay Petrified Forest, Purakaun… | 🏕 DOC Pūrākaunui Bay ($15/Erw.) |
-| 10 | 28.03 | Catlins → Invercargill | 75 | – | 🆓 Freiplatz Southland DC area (SC) |
-| 11 | 29.03 | Invercargill → Te Anau | 157 | Mavora Lakes | 🏕 DOC Lake Gunn ($15) |
-| 12 | 30.03 | Te Anau | – | Te Anau Glowworm Caves | 🏕 DOC Lake Gunn ($15) |
-| 13 | 31.03 | Te Anau → Milford Sound | 120 | Milford Sound | 🏕 DOC Lake Gunn ($15) |
-| 14 | 01.04 | Te Anau → Queenstown | 172 | Doubtful Sound | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
-| 15 | 02.04 | Queenstown | – | Queenstown Skyline | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
-| 16 | 03.04 | Queenstown → Glenorchy | 45 | Glenorchy | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
-| 17 | 04.04 | Queenstown → Lake Tekapo | 170 | Church of the Good Shepherd | 🏕 The Pines Lake Tekapo (günstiger Com… |
-| 18 | 05.04 | Lake Tekapo → Aoraki/Mt Cook | 45 | Hooker Valley Track | 🏕 DOC White Horse Hill (Mt Cook) $15 |
-| 19 | 06.04 | Aoraki/Mt Cook | – | Hooker Valley Track | 🆓 Freiplatz Lake Pukaki Overnight (SC) |
-| 20 | 07.04 | Mt Cook → Wanaka | 154 | Roys Peak | 🆓 Freiplatz Wanaka CPs (QLDC, SC) |
-| 21 | 08.04 | Wanaka → Haast | 140 | Blue Pools Track | 🆓 Freiplatz Haast (Marks Rd, SC) |
-| 22 | 09.04 | Haast → Franz Josef | 135 | Lake Matheson | 🏕 DOC Otto/MacDonalds (Franz Josef) $15 |
-| 23 | 10.04 | Franz Josef | – | Franz Josef Glacier | 🏕 DOC Otto/MacDonalds (Lake Mapourika,… |
-| 24 | 11.04 | Franz Josef → Hokitika | 140 | Hokitika Gorge | 🏕 DOC Lake Māhinapua ($15) |
-| 25 | 12.04 | Hokitika → Punakaiki | 60 | Pancake Rocks | 🆓 Freiplatz McMillan Rd (SC, ~12 Vans) |
-| 26 | 13.04 | Punakaiki → Westport | 60 | – | 🆓 Freiplatz Carters Beach (Buller DC, … |
-| 27 | 14.04 | Westport → Nelson | 180 | – | 🆓 Freiplatz Wakapuaka Reserve CP (3 Pl… |
-| 28 | 15.04 | Nelson | – | Founders Park Nelson | 🆓 Freiplatz Wakapuaka Reserve CP (SC) |
-| 29 | 16.04 | Nelson → Abel Tasman | 120 | – | 🏕 DOC Tōtaranui ($15) |
-| 30 | 17.04 | Abel Tasman | – | – | 🏕 DOC Tōtaranui ($15) |
-| 31 | 18.04 | Abel Tasman → Blenheim | 110 | – | 🆓 Freiplatz Marlborough DC (SC) |
-| 32 | 19.04 | Blenheim | – | Omaka Aviation Heritage Centre | 🆓 Freiplatz Marlborough DC (SC) |
-| 33 | 20.04 | Blenheim → Kaikoura | 130 | – | 🆓 Freiplatz South Bay / Peninsula (5 S… |
-| 34 | 21.04 | Kaikoura | – | Kaikoura Whale Watch / Ohau Point | 🆓 Freiplatz South Bay (SC) |
-| 35 | 22.04 | Kaikoura → Picton | 130 | – | 🆓 Freiplatz Marlborough DC (SC) |
-| 36 | 23.04 | Picton → Wellington (Fähre) | – | Picton Fähre | 🆓 Freiplatz Evans Bay Marina CP (52 Bu… |
-| 37 | 24.04 | Wellington | – | Te Papa, Weta Cave | 🆓 Freiplatz Evans Bay Marina CP (SC) |
-| 38 | 25.04 | Wellington → Castlepoint | 100 | Castlepoint Scenic Reserve | 🆓 Freiplatz Castlepoint Beach CP (SC) |
-| 39 | 26.04 | Castlepoint → Napier | 190 | Cape Palliser | 🆓 Freiplatz Te Karaka / Perfume Point … |
-| 40 | 27.04 | Napier | – | Napier Art Deco / Cape Kidnappers | 🆓 Freiplatz Te Karaka / Perfume Point … |
-| 41 | 28.04 | Napier → Taupō | 145 | Huka Falls | 🆓 Freiplatz auf Council-Land (außer Re… |
-| 42 | 29.04 | Taupō | – | Mine Bay Maori Carvings | 🆓 Reid's Farm Free Campervan Site (Wai… |
-| 43 | 30.04 | Taupō → Tongariro/Ohakune | 80 | – | 🆓 Freiplatz Carrot Park Ohakune (SH49,… |
-| 44 | 01.05 | Tongariro (Ohakune) | – | Tongariro Alpine Crossing (Mangatepo… | 🏕 DOC Mangahuia (Tongariro, $15) |
-| 45 | 02.05 | Ohakune → Waitomo | 180 | – | 🆓 Freiplatz im District (SC, sofern ni… |
-| 46 | 03.05 | Waitomo | – | Ruakuri Bush Walk, Waitomo Glowworm … | 🆓 Freiplatz im District (SC) |
-| 47 | 04.05 | Waitomo → Matamata | 95 | – | 🆓 Freiplatz Pohlen Park (Matamata, SC) |
-| 48 | 05.05 | Matamata (Hobbiton) → Rotorua | 70 | Hobbiton Movie Set | 🆓 Freiplatz TECT Park / Government Gar… |
-| 49 | 06.05 | Rotorua | – | Kuirau Park, Te Puia | 🆓 Freiplatz TECT Park (SC, max 3 Nächte) |
-| 50 | 07.05 | Rotorua → Mt Maunganui → Coromandel | 210 | Mount Maunganui | 🆓 Freiplatz TCDC Thames (SC, max 2 Näc… |
-| 51 | 08.05 | Coromandel | – | Driving Creek Railway, Hot Water Beach | 🆓 Freiplatz TCDC Thames (SC) |
-| 52 | 09.05 | Coromandel → Whitianga | 45 | Cathedral Cove | 🆓 Freiplatz TCDC Whitianga (SC, klein) |
-| 53 | 10.05 | Whitianga → Auckland | 180 | Tiritiri Matangi | 🆓 Freiplatz Rodney (Te Ārai, SC) |
-| 54 | 11.05 | Auckland → Whangārei | 150 | – | 🆓 Freiplatz Parua Bay (15 Buchten, SC) |
-| 55 | 12.05 | Whangārei → Paihia | 60 | – | 🏕 DOC Maitai Bay (Karikari Pen., $15) |
+| 4 | 22.03 | Oamaru | – | Oamaru Blue Penguin Colony | 🆓 Freiplatz All Day Bay (SC) |
+| 5 | 23.03 | Oamaru → Dunedin | 115 | Moeraki Boulders, Royal Albatross Ce… | 🆓 Freiplatz Harwood Domain, Otago Peni… |
+| 6 | 24.03 | Dunedin | – | Royal Albatross Centre, Penguin Place | 🆓 Freiplatz Harwood Domain (SC) |
+| 7 | 25.03 | Dunedin → Catlins | 150 | – | 🆓 Freiplatz Papatowai (signpostet, SC) |
+| 8 | 26.03 | Catlins | – | Curio Bay Petrified Forest, Purakaun… | 🏕 DOC Pūrākaunui Bay ($15/Erw.) |
+| 9 | 27.03 | Catlins → Stewart Island | ~200 | – | 🏕 Stewart Island DOC-Campsites (Rugged… |
+| 10 | 28.03 | Stewart Island | – | Stewart Island | 🏕 Stewart Island DOC-Campsites (Rugged… |
+| 11 | 29.03 | Stewart Island → Te Anau | ~260 | Mavora Lakes | 🏕 DOC Lake Gunn ($15) |
+| 12 | 30.03 | Te Anau | 157 | Te Anau Glowworm Caves, Mavora Lakes | 🏕 DOC Lake Gunn ($15) |
+| 13 | 31.03 | Te Anau | – | Te Anau Glowworm Caves | 🏕 DOC Lake Gunn ($15) |
+| 14 | 01.04 | Te Anau → Milford Sound | 120 | Milford Sound | 🏕 DOC Lake Gunn ($15) |
+| 15 | 02.04 | Te Anau → Queenstown | 172 | Doubtful Sound | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
+| 16 | 03.04 | Queenstown | – | Queenstown Skyline, Deer Park Heights | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
+| 17 | 04.04 | Queenstown → Glenorchy | 45 | Glenorchy, Paradise (Glenorchy) | 🆓 Freiplatz Frankton Arm CP (15 CPs, S… |
+| 18 | 05.04 | Glenorchy → Arrowtown | 95 | Skippers Canyon | 🆓 Freiplatz Arrowtown Lake Hayes (OTEC… |
+| 19 | 06.04 | Arrowtown → Lake Tekapo | 270 | Church of the Good Shepherd, Twizel … | 🏕 The Pines Lake Tekapo (günstiger Com… |
+| 20 | 07.04 | Lake Tekapo → Aoraki/Mt Cook | 45 | Hooker Valley Track | 🏕 DOC White Horse Hill (Mt Cook) $15 |
+| 21 | 08.04 | Aoraki/Mt Cook | – | Hooker Valley Track | 🆓 Freiplatz Lake Pukaki Overnight (SC) |
+| 22 | 09.04 | Mt Cook → Wanaka | 154 | Roys Peak | 🆓 Freiplatz Wanaka CPs (QLDC, SC) |
+| 23 | 10.04 | Wanaka → Haast | 140 | Blue Pools Track | 🆓 Freiplatz Haast (Marks Rd, SC) |
+| 24 | 11.04 | Haast → Franz Josef | 135 | Lake Matheson | 🏕 DOC Otto/MacDonalds (Franz Josef) $15 |
+| 25 | 12.04 | Franz Josef | – | Franz Josef Glacier | 🏕 DOC Otto/MacDonalds (Lake Mapourika,… |
+| 26 | 13.04 | Franz Josef → Hokitika | 140 | Hokitika Gorge | 🏕 DOC Lake Māhinapua ($15) |
+| 27 | 14.04 | Hokitika → Punakaiki | 60 | Pancake Rocks | 🆓 Freiplatz McMillan Rd (SC, ~12 Vans) |
+| 28 | 15.04 | Punakaiki → Westport | 60 | – | 🆓 Freiplatz Carters Beach (Buller DC, … |
+| 29 | 16.04 | Westport → Nelson | 180 | – | 🆓 Freiplatz Wakapuaka Reserve CP (3 Pl… |
+| 30 | 17.04 | Nelson | – | Founders Park Nelson, Nelson Lakes /… | 🆓 Freiplatz Wakapuaka Reserve CP (SC) |
+| 31 | 18.04 | Nelson → Abel Tasman | 120 | – | 🏕 DOC Tōtaranui ($15) |
+| 32 | 19.04 | Abel Tasman | – | Wharariki Beach, Farewell Spit | 🏕 DOC Tōtaranui ($15) |
+| 33 | 20.04 | Abel Tasman → Blenheim | 110 | – | 🆓 Freiplatz Marlborough DC (SC) |
+| 34 | 21.04 | Blenheim | – | Omaka Aviation Heritage Centre | 🆓 Freiplatz Marlborough DC (SC) |
+| 35 | 22.04 | Blenheim → Kaikoura | 130 | – | 🆓 Freiplatz South Bay / Peninsula (5 S… |
+| 36 | 23.04 | Kaikoura | – | Kaikoura Whale Watch / Ohau Point | 🆓 Freiplatz South Bay (SC) |
+| 37 | 24.04 | Kaikoura → Picton | 130 | – | 🆓 Freiplatz Marlborough DC (SC) |
+| 38 | 25.04 | Picton → Wellington (Fähre) | – | Picton Fähre | 🆓 Freiplatz Evans Bay Marina CP (52 Bu… |
+| 39 | 26.04 | Wellington | – | Te Papa, Weta Cave | 🆓 Freiplatz Evans Bay Marina CP (SC) |
+| 40 | 27.04 | Wellington → Castlepoint | 100 | Castlepoint Scenic Reserve | 🆓 Freiplatz Castlepoint Beach CP (SC) |
+| 41 | 28.04 | Castlepoint → Napier | 190 | Cape Palliser | 🆓 Freiplatz Te Karaka / Perfume Point … |
+| 42 | 29.04 | Napier | – | Napier Art Deco / Cape Kidnappers | 🆓 Freiplatz Te Karaka / Perfume Point … |
+| 43 | 30.04 | Napier → Taupō | 145 | Huka Falls | 🆓 Freiplatz auf Council-Land (außer Re… |
+| 44 | 01.05 | Taupō | – | Mine Bay Maori Carvings | 🆓 Reid's Farm Free Campervan Site (Wai… |
+| 45 | 02.05 | Taupō → Tongariro/Ohakune | 80 | – | 🆓 Freiplatz Carrot Park Ohakune (SH49,… |
+| 46 | 03.05 | Tongariro (Ohakune) | – | Tongariro Alpine Crossing (Mangatepo… | 🏕 DOC Mangahuia (Tongariro, $15) |
+| 47 | 04.05 | Ohakune → Waitomo | 180 | – | 🆓 Freiplatz im District (SC, sofern ni… |
+| 48 | 05.05 | Waitomo | – | Ruakuri Bush Walk, Waitomo Glowworm … | 🆓 Freiplatz im District (SC) |
+| 49 | 06.05 | Waitomo → Matamata | 95 | – | 🆓 Freiplatz Pohlen Park (Matamata, SC) |
+| 50 | 07.05 | Matamata (Hobbiton) → Rotorua | 70 | Hobbiton Movie Set | 🆓 Freiplatz TECT Park / Government Gar… |
+| 51 | 08.05 | Rotorua | – | Kuirau Park, Te Puia | 🆓 Freiplatz TECT Park (SC, max 3 Nächte) |
+| 52 | 09.05 | Rotorua → Mt Maunganui → Coromandel | 210 | Mount Maunganui | 🆓 Freiplatz TCDC Thames (SC, max 2 Näc… |
+| 53 | 10.05 | Coromandel | – | Driving Creek Railway, Hot Water Beach | 🆓 Freiplatz TCDC Thames (SC) |
+| 54 | 11.05 | Coromandel → Auckland | 180 | Tiritiri Matangi | 🆓 Freiplatz Rodney (Te Ārai, SC) |
+| 55 | 12.05 | Auckland → Paihia | 230 | – | 🏕 DOC Maitai Bay (Karikari Pen., $15) |
 | 56 | 13.05 | Bay of Islands | – | Waitangi Treaty Grounds, Hole in the… | 🏕 DOC Maitai Bay ($15) |
 | 57 | 14.05 | Paihia → Kaitaia | 70 | – | 🆓 Freiplatz Awanui Reserve (SC, max 2 … |
 | 58 | 15.05 | Kaitaia → Cape Reinga | 180 | Cape Reinga, Ninety Mile Beach | 🏕 DOC Tapotupotu (Cape Reinga, $15) |
@@ -140,13 +140,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🏕 Stellplatz:** 🆓 Freiplatz All Day Bay (Waianakarua Rd, SC) — Küste Oamaru-Kakanui ist verboten · [Karte](https://www.google.com/maps/search/?api=1&query=-45.205144,170.892618)
 
-### Tag 4 · 22.03 — Timaru → Oamaru (85 km)
-
-**Fahrt/Route:** Durchfahrt / Vorab.
-
-**🏕 Stellplatz:** 🆓 Freiplatz All Day Bay (Waianakarua Rd, SC) — Küste Oamaru-Kakanui ist verboten · [Karte](https://www.google.com/maps/search/?api=1&query=-45.205144,170.892618)
-
-### Tag 5 · 23.03 — Oamaru
+### Tag 4 · 22.03 — Oamaru
 
 **Fahrt/Route:** Viktorianisches Stadtzentrum, Blue Penguin Colony (Abendtour).
 
@@ -157,7 +151,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Blue Penguin Colony Abendtour (Tickets vorab)
 
-### Tag 6 · 24.03 — Oamaru → Dunedin (115 km)
+### Tag 5 · 23.03 — Oamaru → Dunedin (115 km)
 
 **Fahrt/Route:** Moeraki Boulders (kurzer Stopp) → Dunedin, Otago Peninsula (Larnach Castle, Penguin Place)
 
@@ -171,7 +165,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Harwood Domain: Dunedin CC restriktiv – vorab in Rankers/CamperMate legale SC-Bucht prüfen
 
-### Tag 7 · 25.03 — Dunedin
+### Tag 6 · 24.03 — Dunedin
 
 **Fahrt/Route:** Otago Peninsula: Albatross Centre, Penguin Place, Sandfly Bay.
 
@@ -186,7 +180,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 2: Liquid Laundromat Dunedin South (28 Prince Albert Rd, 24/7) · 🚻 Sanidump: in Dunedin (i-Site / Holiday Park) · 💧 Frischwasser: in Dunedin auffüllen
 
-### Tag 8 · 26.03 — Dunedin → Catlins (150 km)
+### Tag 7 · 25.03 — Dunedin → Catlins (150 km)
 
 **Fahrt/Route:** Southern Scenic Route.
 
@@ -194,7 +188,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** ⛽ vor Catlins in Balclutha volltanken (Catlins kaum Tankstellen)
 
-### Tag 9 · 27.03 — Catlins
+### Tag 8 · 26.03 — Catlins
 
 **Fahrt/Route:** Curio Bay Petrified Forest, Purakaunui/McLean Falls, Slope Point.
 
@@ -205,22 +199,45 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Purakaunui Falls** (Rating 7/10): Mehrstufiger Wasserfall in den Catlins, einer der fotogensten Neuseelands; kurzer Waldweg. Klassiker auf der Südküste. · [Karte](https://www.google.com/maps/place/Purakaunui%20Falls/@-46.517571,169.560837,15z)
 - **Slope Point** (Rating 6/10): Südlichster Punkt der Südinsel mit rauen Klippen und dem 'Mitten in Nirgendwo'-Gefühl. Kurzer Spaziergang über Privatland (Schafe!). · [Karte](https://www.google.com/maps/place/Slope%20Point/@-46.674290,169.001601,15z)
 
-### Tag 10 · 28.03 — Catlins → Invercargill (75 km)
+### Tag 9 · 27.03 — Catlins → Stewart Island (~200 km)
 
-**Fahrt/Route:** Übergang Richtung Fiordland.
+**Fahrt/Route:** Catlins → Bluff (Fähre ab Bluff, ~1 h Überfahrt) → Stewart Island (Oban). Fähre vorab buchen.
 
-**🏕 Stellplatz:** 🆓 Freiplatz Southland DC area (SC) · 🏕 Fallback Amble On Inn $35+
+**🏕 Stellplatz:** 🏕 Stewart Island DOC-Campsites (Ruggedy/Ringaringa) · 🆓 Freedom Camping auf Stewart Island stark eingeschränkt – vorab prüfen · [Karte](https://www.google.com/maps/place/Oban%2C%20Stewart%20Island/@-46.893800,168.126200,15z)
 
-### Tag 11 · 29.03 — Invercargill → Te Anau (157 km)
+**⚠ Besonderheiten:** Stewart Island Fähre (Rakiura Ferry) + geführte Kiwi-Nachtwanderung vorab buchen (limitierte Plätze) · Fähre über Foveaux Strait wetterabhängig – Puffer einplanen
 
-**Fahrt/Route:** Mavora Lakes Abstecher (optional, ruhig).
+### Tag 10 · 28.03 — Stewart Island
+
+**Fahrt/Route:** Ulva Island (Vogelschutz, barrierefrei per Fähre), Rakiura Track, geführte Kiwi-Nachtwanderung (Ulva Island/Ocean Beach).
+
+**🏕 Stellplatz:** 🏕 Stewart Island DOC-Campsites (Ruggedy/Ringaringa) · 🆓 eingeschränkt · [Karte](https://www.google.com/maps/place/Oban%2C%20Stewart%20Island/@-46.893800,168.126200,15z)
+
+**🎯 Attraktionen:**
+- **Stewart Island** (Rating 9/10): Dritte Hauptinsel NZs, wild & urig: Kiwis in freier Wildbahn (geführte Nachtwanderung), Ulva Island Vogelschutz, raue Küste. Nur per Fähre ab Bluff erreichbar – lohnt den Umweg für Wildlife-Fans. · [Karte](https://www.google.com/maps/place/Stewart%20Island/@-46.893800,168.126200,15z)
+
+**⚠ Besonderheiten:** Kiwi-Nachtwanderung buchen (Rakiura Charters / stark limitiert)
+
+### Tag 11 · 29.03 — Stewart Island → Te Anau (~260 km)
+
+**Fahrt/Route:** Fähre zurück nach Bluff, dann Küstenstraße via Mossburn → Te Anau (optional Mavora Lakes Abstecher).
 
 **🏕 Stellplatz:** 🏕 DOC Lake Gunn ($15) · 🏕 Fallback Cascade Creek $18 · [Karte](https://www.google.com/maps/place/Lake%20Gunn%20DOC%20Campsite%2C%20Te%20Anau/@-44.882934,168.094980,15z)
 
 **🎯 Attraktionen:**
-- **Mavora Lakes** (Rating 7/10): Zwei glasklare Seen abseits der Massen, toll zum Angeln, Kayaken oder für den Filme-Look. Ruhiger Abstecher von Te Anau. · [Karte](https://www.google.com/maps/place/Mavora%20Lakes/@-45.138552,168.097832,15z)
+- **Mavora Lakes** (Rating 8/10): Fangorn-Forest-Kulisse, erreichbar über ca. 1,5–2 Std. Schotterstraße ab Te Anau – zwei friedliche Seen. · [Karte](https://www.google.com/maps/place/Mavora%20Lakes/@-45.300000,168.200000,15z)
 
 ### Tag 12 · 30.03 — Te Anau
+
+**Fahrt/Route:** Fiordland-Vorbereitung, Glowworm Caves, Kepler Track
+
+**🏕 Stellplatz:** 🏕 DOC Lake Gunn ($15) · 🏕 Fallback Cascade Creek $18 · [Karte](https://www.google.com/maps/place/Lake%20Gunn%20DOC%20Campsite%2C%20Te%20Anau/@-44.882934,168.094980,15z)
+
+**🎯 Attraktionen:**
+- **Te Anau Glowworm Caves** (Rating 8/10): Bootfahrt über den Te Anau-See zu einer Höhle mit leuchtenden Glowworms und unterirdischem Fluss. Geführte Tour, lohnend bei Nacht. · [Karte](https://www.google.com/maps/place/Te%20Anau%20Glowworm%20Caves/@-45.409885,167.706972,15z)
+- **Mavora Lakes** (Rating 8/10): Fangorn-Forest-Kulisse, erreichbar über ca. 1,5–2 Std. Schotterstraße ab Te Anau – zwei friedliche Seen. · [Karte](https://www.google.com/maps/place/Mavora%20Lakes/@-45.300000,168.200000,15z)
+
+### Tag 13 · 31.03 — Te Anau
 
 **Fahrt/Route:** Fiordland, Glowworm Caves, Kepler Track.
 
@@ -231,7 +248,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Te Anau Glowworm Caves Tour buchen
 
-### Tag 13 · 31.03 — Te Anau → Milford Sound (120 km)
+### Tag 14 · 01.04 — Te Anau → Milford Sound (120 km)
 
 **Fahrt/Route:** Milford Sound Cruise (Ketten im Mai prüfen!).
 
@@ -242,7 +259,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Milford Cruise buchen (RealNZ) – früh, Tageszeiten voll · langer Tag: Milford ~240 km gesamt (Hin- und Rückfahrt), früh los · Milford Road (SH94): Mietwagen dürfen oft KEINE Ketten – Mietbedingungen prüfen
 
-### Tag 14 · 01.04 — Te Anau → Queenstown (172 km)
+### Tag 15 · 02.04 — Te Anau → Queenstown (172 km)
 
 **Fahrt/Route:** Te Anau/Manapouri → Doubtful Sound Cruise (ruhigerer, wildlife-reicherer Fjord: Delfine, Pelzrobben, Zwergpinguine) → Queenstown
 
@@ -253,7 +270,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Doubtful Sound Cruise vorab buchen (ab Manapouri: Fähre + Bus + Boot)
 
-### Tag 15 · 02.04 — Queenstown
+### Tag 16 · 03.04 — Queenstown
 
 **Fahrt/Route:** Skyline, Fergburger.
 
@@ -261,10 +278,12 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🎯 Attraktionen:**
 - **Queenstown Skyline** (Rating 8/10): Gondel auf den Bob's Peak mit Panoramablick über Queenstown und den See; Luge und Restaurant. Einfacher 'Wow'-Ausblick ohne Wanderung. · [Karte](https://www.google.com/maps/place/Queenstown%20Skyline/@-45.026415,168.649602,15z)
+- **Deer Park Heights** (Rating 7/10): Isengard- und Lothlórien-Kulisse hoch über Queenstown: Aussichtspunkt mit Hochlandtieren, kurze Schotterstraße. · [Karte](https://www.google.com/maps/place/Deer%20Park%20Heights/@-45.020000,168.740000,15z)
+- **TSS Earnslaw** (Rating 7/10): Historisches Dampfschiff auf dem Lake Wakatipu bei Queenstown – kurze historische Rundfahrt. · [Karte](https://www.google.com/maps/place/TSS%20Earnslaw/@-45.030000,168.760000,15z)
 
-**🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 3: Queenstown CBD Liquid (24/7)
+**🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 3: Queenstown CBD Liquid (24/7) · 🚻 Sanidump: in Queenstown (i-Site / Holiday Park) · 💧 Frischwasser: in Queenstown auffüllen
 
-### Tag 16 · 03.04 — Queenstown → Glenorchy (45 km)
+### Tag 17 · 04.04 — Queenstown → Glenorchy (45 km)
 
 **Fahrt/Route:** LOTR-Drehorte, Paradise.
 
@@ -272,17 +291,31 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🎯 Attraktionen:**
 - **Glenorchy** (Rating 8/10): Malerisches Dorf am Head of Lake Wakatipu, Drehort vieler Herr-der-Ringe-Szenen; Ausgangspunkt für Wanderungen und Paragliding. Idyllisch. · [Karte](https://www.google.com/maps/place/Glenorchy/@-44.849749,168.385198,15z)
+- **Paradise (Glenorchy)** (Rating 7/10): Isengard-Waldszenen und Paradise-Flats bei Glenorchy – flache Wanderung durch urige Landschaft. · [Karte](https://www.google.com/maps/place/Paradise%20%28Glenorchy%29/@-44.870000,168.520000,15z)
 
-### Tag 17 · 04.04 — Queenstown → Lake Tekapo (170 km)
+### Tag 18 · 05.04 — Glenorchy → Arrowtown (95 km)
 
-**Fahrt/Route:** Wanaka → Lindis Pass → Lake Tekapo (türkisblauer See, Church of the Good Shepherd)
+**Fahrt/Route:** Glenorchy → Crown Range Road → Arrowtown (historisches Goldgräberstädtchen, Tussock-Landschaft), Skippers Canyon Abstecher (Ford-of-Bruinen-Szene).
+
+**🏕 Stellplatz:** 🆓 Freiplatz Arrowtown Lake Hayes (OTEC, SC) · 🏕 Fallback Arrowtown TOP 10 $45 · [Karte](https://www.google.com/maps/place/Arrowtown/@-44.899200,168.837200,15z)
+
+**🎯 Attraktionen:**
+- **Skippers Canyon** (Rating 7/10): Ford-of-Bruinen-Szene (Gandalfs Rettung): spektakuläre Schotter-Canyon-Straße östlich von Queenstown. · [Karte](https://www.google.com/maps/place/Skippers%20Canyon/@-44.920000,168.700000,15z)
+
+**⚠ Besonderheiten:** Crown Range Road: im Mai evtl. Kettepflicht – vorab prüfen
+
+### Tag 19 · 06.04 — Arrowtown → Lake Tekapo (270 km)
+
+**Fahrt/Route:** Arrowtown → Cromwell (Bannockburn, 'Power of the Dog') → Twizel (Mackenzie Country / Pelennor-Felder) → Lindis Pass → Lake Tekapo
 
 **🏕 Stellplatz:** 🏕 The Pines Lake Tekapo (günstiger Community-Platz am See) · 🆓 Fallback Lake Tekapo area · [Karte](https://www.google.com/maps/place/The%20Pines%2C%20Lake%20Tekapo/@-44.005600,170.489000,15z)
 
 **🎯 Attraktionen:**
 - **Church of the Good Shepherd** (Rating 8/10): Berühmte kleine Kirche aus den 1930ern am türkisblauen Lake Tekapo mit den Südalpen im Hintergrund – eines der meistfotografierten Motive NZs. · [Karte](https://www.google.com/maps/place/Church%20of%20the%20Good%20Shepherd/@-44.005900,170.479500,15z)
+- **Twizel / Mackenzie Country** (Rating 7/10): Pelennor-Felder-Schlacht-Drehort (Helm's Deep-Außenaufnahmen) im weiten Mackenzie Basin – flaches Tussock-Land bei Twizel. · [Karte](https://www.google.com/maps/place/Twizel%20/%20Mackenzie%20Country/@-44.016700,170.100000,15z)
+- **Bannockburn (Power of the Dog)** (Rating 6/10): Drehort des Films 'The Power of the Dog' (2021) bei Cromwell/Bannockburn – trockene Central-Otago-Landschaft. · [Karte](https://www.google.com/maps/place/Bannockburn%20%28Power%20of%20the%20Dog%29/@-45.050000,169.200000,15z)
 
-### Tag 18 · 05.04 — Lake Tekapo → Aoraki/Mt Cook (45 km)
+### Tag 20 · 07.04 — Lake Tekapo → Aoraki/Mt Cook (45 km)
 
 **Fahrt/Route:** Lake Tekapo → Lake Pukaki → Aoraki/Mt Cook (Hooker Valley)
 
@@ -293,7 +326,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** White Horse Hill DOC vorab online reservieren!
 
-### Tag 19 · 06.04 — Aoraki/Mt Cook
+### Tag 21 · 08.04 — Aoraki/Mt Cook
 
 **Fahrt/Route:** Hooker Valley Track.
 
@@ -302,7 +335,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Hooker Valley Track** (Rating 9/10): Der Klassiker im Aoraki/Mt Cook NP: ebener Wanderweg zu Gletscherblicken mit Hängebrücken über Wildbäche. Pflicht für Wanderer. · [Karte](https://www.google.com/maps/place/Hooker%20Valley%20Track/@-43.718374,170.098359,15z)
 
-### Tag 20 · 07.04 — Mt Cook → Wanaka (154 km)
+### Tag 22 · 09.04 — Mt Cook → Wanaka (154 km)
 
 **Fahrt/Route:** Rückfahrt.
 
@@ -313,7 +346,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Roys Peak ist anspruchsvoll (6–8 h) – ggf. auf einen Wanaka-Tag legen oder streichen
 
-### Tag 21 · 08.04 — Wanaka → Haast (140 km)
+### Tag 23 · 10.04 — Wanaka → Haast (140 km)
 
 **Fahrt/Route:** Haast Pass → Blue Pools Track (türkisblaues Gletscherwasser) → Franz Josef
 
@@ -324,7 +357,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** ⛽ vor Haast Pass in Wanaka volltanken (keine Tankstellen auf der Pass-Strecke)
 
-### Tag 22 · 09.04 — Haast → Franz Josef (135 km)
+### Tag 24 · 11.04 — Haast → Franz Josef (135 km)
 
 **Fahrt/Route:** Haast Pass → Fox Glacier (Lake Matheson) → Franz Josef (135 km, keine Rückfahrt nach Haast)
 
@@ -335,7 +368,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Lake Matheson früh morgens für Spiegelung
 
-### Tag 23 · 10.04 — Franz Josef
+### Tag 25 · 12.04 — Franz Josef
 
 **Fahrt/Route:** Franz Josef Glacier: Valley Walk + Heli-Hike (wetterabhängig) – 2. Nacht = Wetterpuffer
 
@@ -348,7 +381,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 4: Laundromat Franz Josef (64 Cron St, 24h, $2 coin) · 🚻 Sanidump: in Franz Josef (i-Site / Holiday Park) · 💧 Frischwasser: in Franz Josef auffüllen
 
-### Tag 24 · 11.04 — Franz Josef → Hokitika (140 km)
+### Tag 26 · 13.04 — Franz Josef → Hokitika (140 km)
 
 **Fahrt/Route:** Hokitika Gorge.
 
@@ -359,7 +392,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** ⛽ West Coast: in Hokitika tanken (Glacier Country / Franz Josef deutlich teurer)
 
-### Tag 25 · 12.04 — Hokitika → Punakaiki (60 km)
+### Tag 27 · 14.04 — Hokitika → Punakaiki (60 km)
 
 **Fahrt/Route:** Pancake Rocks.
 
@@ -368,19 +401,19 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Pancake Rocks** (Rating 8/10): Versteinerte Felsformationen an der Küste bei Punakaiki, bei Flut mit donnernden Blowholes. Kurzer, familienfreundlicher Rundweg. · [Karte](https://www.google.com/maps/place/Pancake%20Rocks/@-42.116876,171.327001,15z)
 
-### Tag 26 · 13.04 — Punakaiki → Westport (60 km)
+### Tag 28 · 15.04 — Punakaiki → Westport (60 km)
 
 **Fahrt/Route:** Küste.
 
 **🏕 Stellplatz:** 🆓 Freiplatz Carters Beach (Buller DC, SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-41.749309,171.574633)
 
-### Tag 27 · 14.04 — Westport → Nelson (180 km)
+### Tag 29 · 16.04 — Westport → Nelson (180 km)
 
 **Fahrt/Route:** Buller Gorge.
 
 **🏕 Stellplatz:** 🆓 Freiplatz Wakapuaka Reserve CP (3 Plätze, SC, max 2 Nächte) · [Karte](https://www.google.com/maps/search/?api=1&query=-41.218413,173.396900)
 
-### Tag 28 · 15.04 — Nelson
+### Tag 30 · 17.04 — Nelson
 
 **Fahrt/Route:** Founders Park, Centre of NZ.
 
@@ -388,10 +421,11 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🎯 Attraktionen:**
 - **Founders Park Nelson** (Rating 5/10): Freilichtmuseum und Park mit historischen Gebäuden, Café und einem Mini-Bahnmuseum. Nett, aber eher Nebenziel in Nelson. · [Karte](https://www.google.com/maps/place/Founders%20Park%20Nelson/@-41.261668,173.296313,15z)
+- **Nelson Lakes / Blue Lake** (Rating 8/10): Blue Lake gilt als 'klarster See der Welt'; Drehort 'Mission: Impossible – Fallout' – ruhiger Waldsee. · [Karte](https://www.google.com/maps/place/Nelson%20Lakes%20/%20Blue%20Lake/@-41.700000,172.850000,15z)
 
 **🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 5: Liquid Toi Toi / Master Valet Self-Service (24/7) · 🚻 Sanidump: in Nelson (i-Site / Holiday Park) · 💧 Frischwasser: in Nelson auffüllen
 
-### Tag 29 · 16.04 — Nelson → Abel Tasman (120 km)
+### Tag 31 · 18.04 — Nelson → Abel Tasman (120 km)
 
 **Fahrt/Route:** Goldstrände.
 
@@ -399,13 +433,17 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Marahau/Kaiteriteri = Freedom Camping verboten → DOC Tōtaranui
 
-### Tag 30 · 17.04 — Abel Tasman
+### Tag 32 · 19.04 — Abel Tasman
 
-**Fahrt/Route:** Coastal Track, Kayak.
+**Fahrt/Route:** Coastal Track, Kayak + Golden Bay Tagestrip: Wharariki Beach (Robben in den Dünen) & Farewell Spit Eco-Tour ab Collingwood
 
 **🏕 Stellplatz:** 🏕 DOC Tōtaranui ($15) · [Karte](https://www.google.com/maps/place/Totaranui%20DOC%20Campsite%2C%20Abel%20Tasman/@-41.142064,174.272917,15z)
 
-### Tag 31 · 18.04 — Abel Tasman → Blenheim (110 km)
+**🎯 Attraktionen:**
+- **Wharariki Beach** (Rating 8/10): Wilde Nordwestküste der Golden Bay mit Pelzrobben in den Dünen – spektakulär bei Flut. · [Karte](https://www.google.com/maps/place/Wharariki%20Beach/@-40.510000,172.690000,15z)
+- **Farewell Spit** (Rating 8/10): Nördlichste Landzunge der Südinsel, Tölpelkolonie & Watvögel – Eco-Tour ab Collingwood. · [Karte](https://www.google.com/maps/place/Farewell%20Spit/@-40.550000,172.970000,15z)
+
+### Tag 33 · 20.04 — Abel Tasman → Blenheim (110 km)
 
 **Fahrt/Route:** Pelorus Bridge.
 
@@ -413,22 +451,22 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Pelorus Bridge als DOC-Alternative ($15)
 
-### Tag 32 · 19.04 — Blenheim
+### Tag 34 · 21.04 — Blenheim
 
-**Fahrt/Route:** Omaka Aviation, Wein.
+**Fahrt/Route:** Omaka Aviation Heritage Centre (Weta-inszenierte Flugzeug-Dioramen), Wein optional.
 
 **🏕 Stellplatz:** 🆓 Freiplatz Marlborough DC (SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-41.511869,173.954586)
 
 **🎯 Attraktionen:**
 - **Omaka Aviation Heritage Centre** (Rating 7/10): Weltklasse-Ausstellung mit dioramaartig inszenierten Flugzeugen aus dem 1. und 2. Weltkrieg (von Weta gestaltet). Für Geschichte/Flugzeugfans ein Muss. · [Karte](https://www.google.com/maps/place/Omaka%20Aviation%20Heritage%20Centre/@-41.537911,173.929948,15z)
 
-### Tag 33 · 20.04 — Blenheim → Kaikoura (130 km)
+### Tag 35 · 22.04 — Blenheim → Kaikoura (130 km)
 
 **Fahrt/Route:** Pazifikküste.
 
 **🏕 Stellplatz:** 🆓 Freiplatz South Bay / Peninsula (5 SC-Sites) · [Karte](https://www.google.com/maps/search/?api=1&query=-42.420706,173.682868)
 
-### Tag 34 · 21.04 — Kaikoura
+### Tag 36 · 23.04 — Kaikoura
 
 **Fahrt/Route:** Whale Watch, Ohau Point Robben.
 
@@ -439,7 +477,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Whale Watch buchen (wetterabhängig)
 
-### Tag 35 · 22.04 — Kaikoura → Picton (130 km)
+### Tag 37 · 24.04 — Kaikoura → Picton (130 km)
 
 **Fahrt/Route:** Fähre vorbereiten.
 
@@ -447,7 +485,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Fähre-Tickets + Camper-Platz bestätigen (Interislander ~3,5 h oder Bluebridge ~2,5–3 h) · Check-in ~60–90 min vor Abfahrt · VOR Boarding: Toiletten-Kassette leeren & versiegeln, Grauwasser ablassen (Fähre-Pflicht!) · Camper-Höhe/Länge für Fahrzeug-Buchung kennen · i.d.R. nicht im Camper an Bord schlafen
 
-### Tag 36 · 23.04 — Picton → Wellington (Fähre) (– km)
+### Tag 38 · 25.04 — Picton → Wellington (Fähre) (– km)
 
 **Fahrt/Route:** Blenheim→Picton Terminal (~25 km), dann Cook Strait Fähre (3,5 h), Ankunft Wellington
 
@@ -458,7 +496,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Fähre: rechtzeitig einchecken, Camper früh laden · Evans Bay: Wellington CC extrem restriktiv – erlaubte SC-Buchten vorab in App prüfen
 
-### Tag 37 · 24.04 — Wellington
+### Tag 39 · 26.04 — Wellington
 
 **Fahrt/Route:** Te Papa, Weta Cave, Cable Car + Zealandia (Vogelschutz: Kiwi, Tuatara, seltene Vögel)
 
@@ -469,8 +507,9 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Weta Cave** (Rating 7/10): Mini-Museum und Shop der Weta-Workshop-Effekte (Herr der Ringe, Avatar); Einblicke in Film-Effekte. Für Filmfans nett, kurz. · [Karte](https://www.google.com/maps/place/Weta%20Cave/@-41.306349,174.824251,15z)
 - **Wellington Cable Car** (Rating 7/10): Historische Standseilbahn vom Zentrum zu den botanischen Gärten mit Stadtblick; unten das Cable Car Museum. Einfacher Wellington-Stopp. · [Karte](https://www.google.com/maps/place/Wellington%20Cable%20Car/@-41.284912,174.770542,15z)
 - **Zealandia** (Rating 8/10): Vogelschutz-Ökosystem mitten in Wellington: Kiwi, Tuatara, seltene Vögel wie Takahe – barrierefreier Rundweg in geschützter Natur. · [Karte](https://www.google.com/maps/place/Zealandia/@-41.293000,174.768000,15z)
+- **Kaitoke Regional Park** (Rating 7/10): Rivendell-Drehort aus Herr der Ringe: kurzer Abstecher in den dichten Wald nördlich von Wellington, barrierefreier Rundweg. · [Karte](https://www.google.com/maps/place/Kaitoke%20Regional%20Park/@-41.009000,175.029000,15z)
 
-### Tag 38 · 25.04 — Wellington → Castlepoint (100 km)
+### Tag 40 · 27.04 — Wellington → Castlepoint (100 km)
 
 **Fahrt/Route:** Wellington → Castlepoint (Riff, begehbarer Leuchtturm, Lagune)
 
@@ -479,7 +518,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Castlepoint Scenic Reserve** (Rating 8/10): Riff mit begehbarem Leuchtturm und einer geschützten Riesenlagune an der Wairarapa-Küste. · [Karte](https://www.google.com/maps/place/Castlepoint%20Scenic%20Reserve/@-40.900600,175.896000,15z)
 
-### Tag 39 · 26.04 — Castlepoint → Napier (190 km)
+### Tag 41 · 28.04 — Castlepoint → Napier (190 km)
 
 **Fahrt/Route:** Castlepoint → Cape Palliser (Seebären-Kolonie) → Napier
 
@@ -488,7 +527,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Cape Palliser** (Rating 7/10): Südlichste Spitze der Nordinsel mit Leuchtturm (255 Stufen) und einer robusten Robbenkolonie am Strand. Abstecher von Masterton/Napier. · [Karte](https://www.google.com/maps/place/Cape%20Palliser/@-41.612716,175.273415,15z)
 
-### Tag 40 · 27.04 — Napier
+### Tag 42 · 29.04 — Napier
 
 **Fahrt/Route:** Art-Déco, Cape Kidnappers.
 
@@ -499,7 +538,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Cape Kidnappers Gannet Safari buchen (nur bei Ebbe)
 
-### Tag 41 · 28.04 — Napier → Taupō (145 km)
+### Tag 43 · 30.04 — Napier → Taupō (145 km)
 
 **Fahrt/Route:** Thermalregion.
 
@@ -508,7 +547,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 **🎯 Attraktionen:**
 - **Huka Falls** (Rating 7/10): Türkisblaue, wilde Stromschnellen am Waikato River bei Taupō; kurzer Spaziergang zur Aussichtsplattform. Beeindruckend, gut erreichbar. · [Karte](https://www.google.com/maps/place/Huka%20Falls/@-38.649725,176.089376,15z)
 
-### Tag 42 · 29.04 — Taupō
+### Tag 44 · 01.05 — Taupō
 
 **Fahrt/Route:** Huka Falls, Mine Bay Carvings.
 
@@ -519,7 +558,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 7: Liquid Taupō (24/7) · 🚻 Sanidump: in Taupō (i-Site / Holiday Park) · 💧 Frischwasser: in Taupō auffüllen
 
-### Tag 43 · 30.04 — Taupō → Tongariro/Ohakune (80 km)
+### Tag 45 · 02.05 — Taupō → Tongariro/Ohakune (80 km)
 
 **Fahrt/Route:** Vulkane.
 
@@ -527,7 +566,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** $2-Münzen für Ohakune Coin-Laundromat mitführen
 
-### Tag 44 · 01.05 — Tongariro (Ohakune)
+### Tag 46 · 03.05 — Tongariro (Ohakune)
 
 **Fahrt/Route:** Alpine Crossing (buchungspflichtig!).
 
@@ -538,13 +577,13 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Tongariro Alpine Crossing JETZT buchen (Pflicht für alle) · Shuttle Mangatepopo↔Ketetahi nötig (einfach 19 km, kein Durchstieg) · Winterausrüstung!, wetteranfällig · Plan B bei Schnee/Sperrung: Taranaki Falls / Whakapapa Track
 
-### Tag 45 · 02.05 — Ohakune → Waitomo (180 km)
+### Tag 47 · 04.05 — Ohakune → Waitomo (180 km)
 
 **Fahrt/Route:** Waitomo Caves Anreise.
 
 **🏕 Stellplatz:** 🆓 Freiplatz im District (SC, sofern nicht ausgeschildert) · [Karte](https://www.google.com/maps/search/?api=1&query=-38.261094,175.110322)
 
-### Tag 46 · 03.05 — Waitomo
+### Tag 48 · 05.05 — Waitomo
 
 **Fahrt/Route:** Waitomo: Ruakuri Bush Walk (kostenlos, wilde Glühwürmchen nachts) + Glowworm Cave Tour
 
@@ -556,13 +595,13 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Waitomo Tour buchen (Black Water / Glowworm)
 
-### Tag 47 · 04.05 — Waitomo → Matamata (95 km)
+### Tag 49 · 06.05 — Waitomo → Matamata (95 km)
 
 **Fahrt/Route:** Anreise Hobbiton.
 
 **🏕 Stellplatz:** 🆓 Freiplatz Pohlen Park (Matamata, SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-37.812122,175.763730)
 
-### Tag 48 · 05.05 — Matamata (Hobbiton) → Rotorua (70 km)
+### Tag 50 · 07.05 — Matamata (Hobbiton) → Rotorua (70 km)
 
 **Fahrt/Route:** Hobbiton Tour.
 
@@ -575,7 +614,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🛠 Versorgung in der Nähe:** 🧺 Wäsche-Stop 7 alt: Choice Laundromats Rotorua (24/7) · 🚻 Sanidump: in Rotorua (i-Site / Holiday Park) · 💧 Frischwasser: in Rotorua auffüllen
 
-### Tag 49 · 06.05 — Rotorua
+### Tag 51 · 08.05 — Rotorua
 
 **Fahrt/Route:** Rotorua: Kuirau Park (kostenlos, kochende Schlammlöcher + heiße Fußbäder) + Te Puia, Wai-O-Tapu
 
@@ -586,7 +625,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 - **Te Puia** (Rating 8/10): Māori-Kulturzentrum in Rotorua mit Pōhutu-Geysir, Kiwi und traditionellen Schnitzereien. Gute Einführung in Geothermie und Kultur. · [Karte](https://www.google.com/maps/place/Te%20Puia/@-38.164351,176.250171,15z)
 - **Wai-O-Tapu** (Rating 8/10): Buntes geothermales Wunderland bei Rotorua mit Champagner-Pool und Lady Knox Geysir. Sehr fotogen, nach Regen/Vulkanaktivität am kräftigsten. · [Karte](https://www.google.com/maps/place/Wai-O-Tapu/@-38.355915,176.364328,15z)
 
-### Tag 50 · 07.05 — Rotorua → Mt Maunganui → Coromandel (210 km)
+### Tag 52 · 09.05 — Rotorua → Mt Maunganui → Coromandel (210 km)
 
 **Fahrt/Route:** Rotorua → über Tauranga / Mt Maunganui (kurzer Stopp) → Coromandel via SH25 (langsame Straßen)
 
@@ -597,7 +636,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Mt Maunganui nur kurzer Stopp (sonst direkt Coromandel via SH25) · langer Tag: ~210 km + langsame Coromandel-Straßen, früh starten · Raglan optional (+1 Tag)
 
-### Tag 51 · 08.05 — Coromandel
+### Tag 53 · 10.05 — Coromandel
 
 **Fahrt/Route:** Driving Creek, Hot Water Beach.
 
@@ -609,20 +648,9 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Hot Water Beach: Timing zur Ebbe zwingend!
 
-### Tag 52 · 09.05 — Coromandel → Whitianga (45 km)
+### Tag 54 · 11.05 — Coromandel → Auckland (180 km)
 
-**Fahrt/Route:** Cathedral Cove.
-
-**🏕 Stellplatz:** 🆓 Freiplatz TCDC Whitianga (SC, klein) · [Karte](https://www.google.com/maps/search/?api=1&query=-36.838665,175.807422)
-
-**🎯 Attraktionen:**
-- **Cathedral Cove** (Rating 9/10): Weiße Felsbögen und Buchten bei Hahei, nur zu Fuß oder per Boot erreichbar; eines der postkarten-schönsten Coromandel-Ziele. Wetterabhängig. · [Karte](https://www.google.com/maps/place/Cathedral%20Cove/@-36.828688,175.790376,15z)
-
-**⚠ Besonderheiten:** Cathedral Cove zu Fuß oder per Boot (wetterabhängig)
-
-### Tag 53 · 10.05 — Whitianga → Auckland (180 km)
-
-**Fahrt/Route:** Whitianga → Auckland + Tiritiri Matangi Fähre (Vogelschutzinsel: Kiwi, Tui, Saddleback – barrierefrei)
+**Fahrt/Route:** Coromandel → Auckland + Tiritiri Matangi Fähre (Vogelschutzinsel: Kiwi, Tui, Saddleback)
 
 **🏕 Stellplatz:** 🆓 Freiplatz Rodney (Te Ārai, SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-36.196807,174.577689)
 
@@ -631,15 +659,9 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **⚠ Besonderheiten:** Tiritiri Matangi Fähre vorab buchen (ab Gulf Harbour)
 
-### Tag 54 · 11.05 — Auckland → Whangārei (150 km)
+### Tag 55 · 12.05 — Auckland → Paihia (230 km)
 
-**Fahrt/Route:** Nordland.
-
-**🏕 Stellplatz:** 🆓 Freiplatz Parua Bay (15 Buchten, SC) · [Karte](https://www.google.com/maps/search/?api=1&query=-35.768227,174.481410)
-
-### Tag 55 · 12.05 — Whangārei → Paihia (60 km)
-
-**Fahrt/Route:** Bay of Islands.
+**Fahrt/Route:** Auckland → Bay of Islands (Paihia)
 
 **🏕 Stellplatz:** 🏕 DOC Maitai Bay (Karikari Pen., $15) · 🏕 Fallback Paihia TOP 10 ~$96 · [Karte](https://www.google.com/maps/place/Maitai%20Bay%20DOC%20Campsite%2C%20Bay%20of%20Islands/@-34.824777,173.410757,15z)
 
