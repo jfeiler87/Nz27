@@ -20,6 +20,8 @@ The plan is built and maintained here so it can be iterated on continuously
 - `README.md` — Short human-facing overview.
 - `TODO.md` — Open planning items beyond bookings, categorized.
 - `AGENTS.md` — This file.
+- `maps/nz_route.kml` — Google-My-Maps-importierbare KML: alle Stopps als Pins (nach Tag beschriftet) + Routen-Etappen. Regenerieren nach jeder Itinerar-Änderung: `python3 maps/build_kml.py` (liest `itinerary.md`).
+- `maps/build_kml.py` — Generator für `nz_route.kml` (extrahiert Koordinaten aus den `[Karte]`-Links, geocodiert Fehlende via Nominatim, Routen via OSRM).
 
 ## Hard constraints (do not violate)
 - **Dates are fixed** by the rental window (19 Mar – 18 May 2027).
