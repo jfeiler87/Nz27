@@ -12,6 +12,11 @@ The plan is built and maintained here so it can be iterated on continuously
 - `itinerary.md` — **SOURCE OF TRUTH.** Full day-by-day plan: route (South Island
   loop incl. West Coast + Abel Tasman), accommodation, booking checklist, and the
   campsite reference table (names, prices, links). Edit here.
+- `LOGISTIK.md` — Separate logistics reference (tanken / dump / waschen per region)
+  plus a "Wetter & Ausrüstung" section for the autumn travel window. Kept OUT of
+  itinerary.md on purpose (see Conventions).
+- `BUCHUNGS_TIMELINE.md` — Separate booking timeline / deadlines tracker. Also kept
+  out of itinerary.md.
 - `README.md` — Short human-facing overview.
 - `TODO.md` — Open planning items beyond bookings, categorized.
 - `AGENTS.md` — This file.
@@ -40,29 +45,34 @@ These sell out or have lead-time limits — act early:
 ## Conventions
 - Plan prose is **German** (user is a German speaker). Keep it that way.
 - Keep `itinerary.md` as the single source of truth; reference, don't duplicate.
+- **Auxiliary planning docs are separate `.md` files**, NOT embedded in itinerary.md:
+  `LOGISTIK.md` (logistics + weather) and `BUCHUNGS_TIMELINE.md` (booking timeline).
+  When adding reference material, prefer a new/extra file over bloating itinerary.md.
 - When adding a campsite, include: real name, price (NZD), booking URL, priority tier.
 - Keep tables scannable; avoid heavy nesting.
 
 ## Git & GitHub workflow (no `gh` CLI installed)
-- Token: `GITHUB_TOKEN` in `/home/hermes/.hermes/.env` (scope: `repo`).
-- Local working copy: `/home/hermes/nz_trip_2027` (remote already configured).
-- Push edits:
+- Token: `GITHUB_TOKEN` lives in `~/.hermes/.env` (Hermes env file; NOT in the shell
+  environment). Scope: `repo`.
+- A git credential helper is configured globally
+  (`~/.hermes/scripts/git_cred_helper.sh`) that reads `GITHUB_TOKEN` from the env file
+  at push time. **The token is NOT embedded in the remote URL** — `git push` just works.
+  If the token is rotated, only the `.env` file needs updating (the helper picks it up).
+- Local working copy: `/home/hermes/nz_trip_2027` (remote `origin` already configured,
+  branch `main`).
+- **Convention: commit AND push every change immediately** (user wants auto-push).
   ```bash
   export HOME=/home/hermes
   cd /home/hermes/nz_trip_2027
-  git add -A && git commit -m "type: short summary" && git push
+  git add <changed files>            # prefer explicit files over `git add -A`
+  git commit -m "type(scope): short German summary"
+  git push                           # uses the credential helper, no manual token
   ```
-  (The remote URL already embeds the token; if the token is rotated, update both
-  the `.env` file and the remote URL.)
-- Manage issues/PRs via the GitHub REST API, e.g.:
-  ```bash
-  curl -s -H "Authorization: token $GITHUB_TOKEN" \
-    https://api.github.com/repos/jfeiler87/Nz27/issues
-  ```
-- **Never** commit the token or the `.env` file.
+- Manage issues/PRs via the GitHub REST API authenticated with `GITHUB_TOKEN`
+  (e.g. `GET /repos/jfeiler87/Nz27/issues`). Never commit the token or the `.env` file.
 
 ## For a new agent picking this up
-1. Read `itinerary.md` and `TODO.md` in full.
+1. Read `itinerary.md`, `LOGISTIK.md`, `BUCHUNGS_TIMELINE.md`, and `TODO.md` in full.
 2. Respect the accommodation priority and booking deadlines above.
 3. For new actionable work, either edit the files or open a GitHub issue
    (label `booking` for reservations, `planning` for other tasks).
