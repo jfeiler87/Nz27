@@ -30,6 +30,37 @@ Besonderheiten / worauf achten:
 - Tongariro Alpine Crossing (~Tag 46): Anfang Mai evtl. schon Winterzustand (Schnee/Eis) → Winterausrüstung ernst nehmen, evtl. Gletscher-Alternative.
 - Milford/Doubtful: Regen = mehr Wasserfälle (optisch top), aber Schiffstour wetterabhängig buchen.
 
+## Camping-Apps & DOC-Pass
+
+Empfehlung für Unterkunfts-Planung (Android). Der DOC-Pass ersetzt Freedom-Camping nicht — beides ergänzt sich.
+
+Camping-Apps (installieren):
+- CamperMate — Allrounder: Freedom-Camping, DOC, Holiday Parks, Dump-Stationen, Regeln, Offline-Karten.
+- NZ Pocket Maps (kostenlos) — Offline-Topokarten + DOC-Campsites/Huts + Great Walks. Wichtig wegen Funklöcher (Fiordland, Catlins, Pässe, Stewart-Transfer).
+- WikiCamps NZ (einmalig ~7 €) ODER Rankers Camping NZ (kostenlos) — user-generierte Datenbank mit Bewertungen, filterbar nach DOC / frei / Holiday-Park.
+- doc.govt.nz (Browser) — DOC-Campsites buchen; Standorte auch in CamperMate / NZ Pocket Maps.
+- QLDC (Queenstown/Wanaka): 15 ausgewiesene Stellplätze für self-contained; teils kostenloser Permit online über qldc.govt.nz. Vor Ort tagesaktuell prüfen.
+- Campable-App — manche Councils/Designated-Plätze. NZMCA-Directory (Dump-Stationen) weiterhin nützlich.
+- Offline-Tipp: Vor Abflug (WLAN Christchurch) Karten für alle Regionen herunterladen; Google Maps deckt Campingplätze schlecht ab.
+
+DOC-Pass (Campsite Pass) — Fakten:
+- $295 pro Erwachsener / Jahr (365 Nächte), Kind 5–17 $147.50, 0–4 gratis. Als Paar also $590.
+- Deckt die meisten DOC-Conservation-Campsites (buchbar + nicht-buchbar). Max. 7 Nächte in 30 Tagen pro Site.
+- Ausgenommen: manche Sites/Zeiträume (DOC-Ausschlussliste prüfen), Great-Walk-Sites, serviced huts. Powered Sites: +$3/Person/Nacht.
+- Buchbare DOC-Sites MÜSSEN vor Ankunft online gebucht werden — Pass ersetzt Gebühr, nicht Buchung. Nicht-buchbare: first-come, kein Garant.
+- Nicht übertragbar, nach 48h nicht erstattbar.
+
+Warum Freedom-Camping trotz Pass relevant bleibt:
+- Pass gilt nur für DOC-Sites, nicht für freie Freedom-Spots, Holiday Parks oder Great-Walk.
+- DOC-Campsites liegen nicht überall (Lücken z.B. Catlins, Teile West Coast, Hinterland Otago, Nordinsel-Pässe) → Freedom füllt Zwischennächte.
+- Spontanität: Freedom = legalen Spot ansteuern ohne Buchung; nicht-buchbare DOC-Sites können voll sein.
+- Kosten: Freedom ist gratis — sinnvoll, wenn kein DOC-Platz in der Nähe ist.
+
+Lohnt sich der Pass?
+- Standard-DOC-Gebühr ~$15–20/Erw./Nacht → Pass pro Person break-even bei ~15–20 Nächten.
+- Bei 61 Tagen mit vielen DOC-Stops (Catlins, Fiordland, Mt Cook, Abel Tasman, Tongariro) vermutlich deutlich mehr → Pass lohnt sich wahrscheinlich.
+- Empfehlung: Pass kaufen bei ≥ ~15–20 DOC-Nächten pro Person; Freedom-Apps trotzdem installieren.
+
 ## Pro Region
 
 Christchurch & Umgebung (Tag 1–3)
