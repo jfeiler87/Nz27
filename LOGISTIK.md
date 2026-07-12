@@ -9,6 +9,27 @@ Schnelle Referenz fürs Unterwegs-Sein. Die Details pro Tag stehen im Haupt-Itin
 - Waschen: alle ~6–8 Tage → ~8 Stopps. Laundromats meist günstiger als HP-Wäscherei, viele 24/7, meist card/EFTPOS. $2-Münzen mitführen für Coin-Orte (Franz Josef, Picton, Ohakune, Whitianga, etliche Holiday Parks).
 - Apps: Rankers Camping NZ (Dump/Fuel/Supermarkets, Offline-Maps), CamperMate, NZMCD-Directory (Dump-Stationen), What3Words, Wetter-App.
 
+## Wetter & Ausrüstung (Herbst, 19.03–18.05)
+
+Klima-Erwartungswerte (langjährige Mittel, kein 2027-Wetterbericht — verlässlicher Forecast erst ~14 Tage vorher). Reisefenster reicht von spätem Sommer bis spätem Herbst: es wird über die Fahrt merklich kühler (~5–8 °C von Anfang bis Ende).
+
+- Generell Herbst: Tag ~17–21 °C (später 12–25 °C je nach Region), Nächte deutlich kühler. Regen in ganz NZ hoch & gleichmäßig verteilt, regionale Unterschiede riesig.
+
+Temperatur-/Regen-Charakter je Zone (Tag → Nacht):
+- Südinsel Ostküste (Christchurch, Akaroa, Oamaru, Dunedin, Kaikoura, Marlborough): trocken, sonnig, kühl. Tag ~18–21 → ~13–16 °C; Nacht ~7–10 → 3–6 °C, später Frost im Inland.
+- Otago-Hochland (Queenstown, Wanaka, Glenorchy, Mt Cook/Mackenzie): „4 Jahreszeiten am Tag". Tag ~15–19 → ~10–14 °C; Nacht ~4–8 → 0–4 °C, Frost/Schnee an Bergen möglich, Mt Cook Village im Mai frostig.
+- Westküste (Haast, Franz Josef, Hokitika, Punakaiki): sehr regenreich, mild. Tag ~16–20 → ~12–15 °C. Regenjacke Pflicht.
+- Fiordland & Stewart Island: nassestes + kühlstes. Milford ~7.000 mm/Jahr, ~200 Regentage (DOC). Tag ~13–17 → ~10–13 °C, windig, viele geschlossene Tage; Stewart feucht/stürmisch.
+- Nelson / Abel Tasman / Golden Bay: sonnigste, mildeste, trockenste Ecke. Tag ~18–22 → ~14–17 °C.
+- Wellington & Wairarapa: windig, wechselhaft, kühl. Tag ~16–19 → ~13–15 °C; starke Südwest-Stürme.
+- Nordinsel (Napier, Taupō, Tongariro, Rotorua, Auckland, Northland): wärmster Teil. Tag ~18–22 → ~14–18 °C; Nacht ~10–14 → 8–11 °C; Northland fast subtropisch-mild.
+
+Besonderheiten / worauf achten:
+- Schichten packen: mittags evtl. kurzärmlig, abends frisch. Regenjacke überall, bes. Fiordland/West Coast/Stewart.
+- Späte Pässe (ab Ende April): Crown Range, Lindis Pass, Haast Pass, Milford Road — Frost/Schnee/Glätte möglich → Wetter-Check vor Abfahrt, langsamer fahren.
+- Tongariro Alpine Crossing (~Tag 46): Anfang Mai evtl. schon Winterzustand (Schnee/Eis) → Winterausrüstung ernst nehmen, evtl. Gletscher-Alternative.
+- Milford/Doubtful: Regen = mehr Wasserfälle (optisch top), aber Schiffstour wetterabhängig buchen.
+
 ## Pro Region
 
 Christchurch & Umgebung (Tag 1–3)
