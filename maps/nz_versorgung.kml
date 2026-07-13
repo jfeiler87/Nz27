@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Versorgung</name>
+    <description>Versorgung: Wäsche (🧺), Sanidump (🚻), Frischwasser (💧), Tanken (⛽). Orte teils stadtebene (Geocoding).</description>
+    <Style id="ve"><IconStyle><color>ffff0000</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Wäsche (T1)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 1 (19.03) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 1: Super Suds / Lilly's Laundromat (24/7)</description>
+        <Point><coordinates>172.736508,-43.530160,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T1)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 1 (19.03) - Sanidump&lt;br/&gt;🚻 Sanidump: in Christchurch (i-Site / Holiday Park)</description>
+        <Point><coordinates>172.636434,-43.530955,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T1)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 1 (19.03) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Christchurch auffüllen</description>
+        <Point><coordinates>172.736508,-43.529460,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T6)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 6 (24.03) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 2: Liquid Laundromat Dunedin South (28 Prince Albert Rd, 24/7)</description>
+        <Point><coordinates>170.674744,-45.813618,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T6)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 6 (24.03) - Sanidump&lt;br/&gt;🚻 Sanidump: in Dunedin (i-Site / Holiday Park)</description>
+        <Point><coordinates>170.503576,-45.874098,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T6)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 6 (24.03) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Dunedin auffüllen</description>
+        <Point><coordinates>170.674744,-45.812918,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T7)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 7 (25.03) - Tanken&lt;br/&gt;⛽ vor Catlins in Balclutha volltanken (Catlins kaum Tankstellen)</description>
+        <Point><coordinates>169.470842,-46.559768,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T16)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 16 (03.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 3: Queenstown CBD Liquid (24/7)</description>
+        <Point><coordinates>168.696881,-45.028549,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T16)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 16 (03.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Queenstown (i-Site / Holiday Park)</description>
+        <Point><coordinates>168.661000,-45.032192,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T16)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 16 (03.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Queenstown auffüllen</description>
+        <Point><coordinates>168.696881,-45.027849,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T23)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 23 (10.04) - Tanken&lt;br/&gt;⛽ vor Haast Pass in Wanaka volltanken (keine Tankstellen auf der Pass-Strecke)</description>
+        <Point><coordinates>169.043669,-43.875698,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T25)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 25 (12.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 4: Laundromat Franz Josef (64 Cron St, 24h, $2 coin)</description>
+        <Point><coordinates>170.224655,-43.292015,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T25)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 25 (12.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Franz Josef (i-Site / Holiday Park)</description>
+        <Point><coordinates>170.181932,-43.387382,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T25)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 25 (12.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Franz Josef auffüllen</description>
+        <Point><coordinates>170.224655,-43.291315,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T26)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 26 (13.04) - Tanken&lt;br/&gt;⛽ West Coast: in Hokitika tanken (Glacier Country / Franz Josef deutlich teurer)</description>
+        <Point><coordinates>170.919891,-42.791151,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T30)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 30 (17.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 5: Liquid Toi Toi / Master Valet Self-Service (24/7)</description>
+        <Point><coordinates>173.396900,-41.213163,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T30)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 30 (17.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Nelson (i-Site / Holiday Park)</description>
+        <Point><coordinates>173.283676,-41.271085,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T30)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 30 (17.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Nelson auffüllen</description>
+        <Point><coordinates>173.396900,-41.212463,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T38)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 38 (25.04) - Tanken&lt;br/&gt;⛽ Vor der Fähre in Picton volltanken + Dump komplett leeren &amp; versiegeln (in Wellington kein Camper-Tanken nötig)</description>
+        <Point><coordinates>174.798576,-41.305623,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T39)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 39 (26.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 6: Janice Laundry Newtown (180 Adelaide Rd, 24/7)</description>
+        <Point><coordinates>174.798576,-41.305273,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T39)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 39 (26.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Wellington (i-Site / Holiday Park)</description>
+        <Point><coordinates>174.777211,-41.288795,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T39)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 39 (26.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Wellington auffüllen</description>
+        <Point><coordinates>174.798576,-41.304573,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T44)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 44 (01.05) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 7: Liquid Taupō (24/7)</description>
+        <Point><coordinates>176.080000,-38.683300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T44)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 44 (01.05) - Sanidump&lt;br/&gt;🚻 Sanidump: in Taupō (i-Site / Holiday Park)</description>
+        <Point><coordinates>176.080000,-38.682950,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T44)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 44 (01.05) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Taupō auffüllen</description>
+        <Point><coordinates>176.080000,-38.682600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T50)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 50 (07.05) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 7 alt: Choice Laundromats Rotorua (24/7)</description>
+        <Point><coordinates>176.145291,-37.934438,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T50)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 50 (07.05) - Sanidump&lt;br/&gt;🚻 Sanidump: in Rotorua (i-Site / Holiday Park)</description>
+        <Point><coordinates>176.252543,-38.136073,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T50)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 50 (07.05) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Rotorua auffüllen</description>
+        <Point><coordinates>176.145291,-37.933738,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T61)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 61 (18.05) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 8: Mint Laundromat (Beach Rd, 24/7) optional</description>
+        <Point><coordinates>174.763300,-36.838700,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T61)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 61 (18.05) - Sanidump&lt;br/&gt;🚻 Sanidump: in Auckland (i-Site / Holiday Park)</description>
+        <Point><coordinates>174.763180,-36.852095,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T61)</name>
+        <styleUrl>#ve</styleUrl>
+        <description>Tag 61 (18.05) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Auckland auffüllen</description>
+        <Point><coordinates>174.763300,-36.838000,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>

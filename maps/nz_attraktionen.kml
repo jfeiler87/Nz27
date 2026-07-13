@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Attraktionen</name>
+    <description>Sehenswuerdigkeiten laut itinerary (mit Rating).</description>
+    <Style id="at"><IconStyle><color>ff00ff00</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Akaroa (T2)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 2 (20.03) - Christchurch → Akaroa (75 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Akaroa/@-43.804317,172.967833,15z</description>
+        <Point><coordinates>172.967833,-43.804317,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Oamaru Blue Penguin Colony (T4)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 4 (22.03) - Oamaru | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Oamaru%20Blue%20Penguin%20Colony/@-45.110276,170.980178,15z</description>
+        <Point><coordinates>170.980178,-45.110276,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Moeraki Boulders (T5)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Moeraki%20Boulders/@-45.340500,170.823800,15z</description>
+        <Point><coordinates>170.823800,-45.340500,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Albatross Centre (T5)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Royal%20Albatross%20Centre/@-45.776126,170.728536,15z</description>
+        <Point><coordinates>170.728536,-45.776126,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Penguin Place (T5)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Penguin%20Place/@-45.796663,170.730091,15z</description>
+        <Point><coordinates>170.730091,-45.796663,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandfly Bay (T5)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Sandfly%20Bay/@-45.897203,170.650028,15z</description>
+        <Point><coordinates>170.650028,-45.897203,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Royal Albatross Centre (T6)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 6 (24.03) - Dunedin | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Royal%20Albatross%20Centre/@-45.776126,170.728536,15z</description>
+        <Point><coordinates>170.728536,-45.776126,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Penguin Place (T6)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 6 (24.03) - Dunedin | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Penguin%20Place/@-45.796663,170.730091,15z</description>
+        <Point><coordinates>170.730091,-45.796663,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sandfly Bay (T6)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 6 (24.03) - Dunedin | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Sandfly%20Bay/@-45.897203,170.650028,15z</description>
+        <Point><coordinates>170.650028,-45.897203,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Curio Bay Petrified Forest (T8)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 8 (26.03) - Catlins | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Curio%20Bay%20Petrified%20Forest/@-46.663648,169.101016,15z</description>
+        <Point><coordinates>169.101016,-46.663648,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Purakaunui Falls (T8)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 8 (26.03) - Catlins | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Purakaunui%20Falls/@-46.517571,169.560837,15z</description>
+        <Point><coordinates>169.560837,-46.517571,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Slope Point (T8)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 8 (26.03) - Catlins | Rating 6/10&lt;br/&gt;https://www.google.com/maps/place/Slope%20Point/@-46.674290,169.001601,15z</description>
+        <Point><coordinates>169.001601,-46.674290,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Stewart Island (T10)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 10 (28.03) - Stewart Island | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Stewart%20Island/@-46.893800,168.126200,15z</description>
+        <Point><coordinates>168.126200,-46.893800,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mavora Lakes (T11)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 11 (29.03) - Stewart Island → Te Anau (~260 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Mavora%20Lakes/@-45.300000,168.200000,15z</description>
+        <Point><coordinates>168.200000,-45.300000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Te Anau Glowworm Caves (T12)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 12 (30.03) - Te Anau | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Anau%20Glowworm%20Caves/@-45.409885,167.706972,15z</description>
+        <Point><coordinates>167.706972,-45.409885,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mavora Lakes (T12)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 12 (30.03) - Te Anau | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Mavora%20Lakes/@-45.300000,168.200000,15z</description>
+        <Point><coordinates>168.200000,-45.300000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Te Anau Glowworm Caves (T13)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 13 (31.03) - Te Anau | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Anau%20Glowworm%20Caves/@-45.409885,167.706972,15z</description>
+        <Point><coordinates>167.706972,-45.409885,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Milford Sound (T14)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 14 (01.04) - Te Anau → Milford Sound (120 km) | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Milford%20Sound/@-44.619019,167.868760,15z</description>
+        <Point><coordinates>167.868760,-44.619019,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Doubtful Sound (T15)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 15 (02.04) - Te Anau → Queenstown (172 km) | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Doubtful%20Sound/@-45.414600,167.718000,15z</description>
+        <Point><coordinates>167.718000,-45.414600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Queenstown Skyline (T16)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 16 (03.04) - Queenstown | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Queenstown%20Skyline/@-45.026415,168.649602,15z</description>
+        <Point><coordinates>168.649602,-45.026415,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Deer Park Heights (T16)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 16 (03.04) - Queenstown | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Deer%20Park%20Heights/@-45.020000,168.740000,15z</description>
+        <Point><coordinates>168.740000,-45.020000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>TSS Earnslaw (T16)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 16 (03.04) - Queenstown | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/TSS%20Earnslaw/@-45.030000,168.760000,15z</description>
+        <Point><coordinates>168.760000,-45.030000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Glenorchy (T17)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 17 (04.04) - Queenstown → Glenorchy (45 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Glenorchy/@-44.849749,168.385198,15z</description>
+        <Point><coordinates>168.385198,-44.849749,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Paradise (Glenorchy) (T17)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 17 (04.04) - Queenstown → Glenorchy (45 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Paradise%20%28Glenorchy%29/@-44.870000,168.520000,15z</description>
+        <Point><coordinates>168.520000,-44.870000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Skippers Canyon (T18)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 18 (05.04) - Glenorchy → Arrowtown (95 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Skippers%20Canyon/@-44.920000,168.700000,15z</description>
+        <Point><coordinates>168.700000,-44.920000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Church of the Good Shepherd (T19)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Church%20of%20the%20Good%20Shepherd/@-44.005900,170.479500,15z</description>
+        <Point><coordinates>170.479500,-44.005900,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Twizel / Mackenzie Country (T19)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Twizel%20/%20Mackenzie%20Country/@-44.016700,170.100000,15z</description>
+        <Point><coordinates>170.100000,-44.016700,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Bannockburn (Power of the Dog) (T19)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Rating 6/10&lt;br/&gt;https://www.google.com/maps/place/Bannockburn%20%28Power%20of%20the%20Dog%29/@-45.050000,169.200000,15z</description>
+        <Point><coordinates>169.200000,-45.050000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hooker Valley Track (T20)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 20 (07.04) - Lake Tekapo → Aoraki/Mt Cook (115 km) | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Hooker%20Valley%20Track/@-43.718374,170.098359,15z</description>
+        <Point><coordinates>170.098359,-43.718374,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Flock Hill / Mount Sunday (T20)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 20 (07.04) - Lake Tekapo → Aoraki/Mt Cook (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Flock%20Hill%20/%20Mount%20Sunday/@-43.983000,170.933000,15z</description>
+        <Point><coordinates>170.933000,-43.983000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hooker Valley Track (T21)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 21 (08.04) - Aoraki/Mt Cook | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Hooker%20Valley%20Track/@-43.718374,170.098359,15z</description>
+        <Point><coordinates>170.098359,-43.718374,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Roys Peak (T22)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 22 (09.04) - Mt Cook → Wanaka (154 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Roys%20Peak/@-44.693998,169.048730,15z</description>
+        <Point><coordinates>169.048730,-44.693998,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Pools Track (T23)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 23 (10.04) - Wanaka → Haast (140 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Blue%20Pools%20Track/@-44.160800,169.126800,15z</description>
+        <Point><coordinates>169.126800,-44.160800,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Matheson (T24)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 24 (11.04) - Haast → Franz Josef (135 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Lake%20Matheson/@-43.463955,170.012521,15z</description>
+        <Point><coordinates>170.012521,-43.463955,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Franz Josef Glacier (T25)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 25 (12.04) - Franz Josef | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Franz%20Josef%20Glacier/@-43.387386,170.182815,15z</description>
+        <Point><coordinates>170.182815,-43.387386,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hokitika Gorge (T26)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 26 (13.04) - Franz Josef → Hokitika (140 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hokitika%20Gorge/@-42.955152,171.015903,15z</description>
+        <Point><coordinates>171.015903,-42.955152,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Pancake Rocks (T27)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 27 (14.04) - Hokitika → Punakaiki (60 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Pancake%20Rocks/@-42.116876,171.327001,15z</description>
+        <Point><coordinates>171.327001,-42.116876,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Founders Park Nelson (T30)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 30 (17.04) - Nelson | Rating 5/10&lt;br/&gt;https://www.google.com/maps/place/Founders%20Park%20Nelson/@-41.261668,173.296313,15z</description>
+        <Point><coordinates>173.296313,-41.261668,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Nelson Lakes / Blue Lake (T30)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 30 (17.04) - Nelson | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Nelson%20Lakes%20/%20Blue%20Lake/@-41.700000,172.850000,15z</description>
+        <Point><coordinates>172.850000,-41.700000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wharariki Beach (T32)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 32 (19.04) - Abel Tasman | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Wharariki%20Beach/@-40.510000,172.690000,15z</description>
+        <Point><coordinates>172.690000,-40.510000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Farewell Spit (T32)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 32 (19.04) - Abel Tasman | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Farewell%20Spit/@-40.550000,172.970000,15z</description>
+        <Point><coordinates>172.970000,-40.550000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Omaka Aviation Heritage Centre (T34)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 34 (21.04) - Blenheim | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Omaka%20Aviation%20Heritage%20Centre/@-41.537911,173.929948,15z</description>
+        <Point><coordinates>173.929948,-41.537911,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaikoura Whale Watch / Ohau Point (T36)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 36 (23.04) - Kaikoura | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Kaikoura%20Whale%20Watch%20/%20Ohau%20Point/@-42.247513,173.829984,15z</description>
+        <Point><coordinates>173.829984,-42.247513,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Picton Fähre (T38)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 38 (25.04) - Picton → Wellington (Fähre) (– km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Picton%20F%C3%A4hre/@-41.290916,174.006908,15z</description>
+        <Point><coordinates>174.006908,-41.290916,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Te Papa (T39)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 39 (26.04) - Wellington | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Papa/@-41.290333,174.781927,15z</description>
+        <Point><coordinates>174.781927,-41.290333,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Weta Cave (T39)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 39 (26.04) - Wellington | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Weta%20Cave/@-41.306349,174.824251,15z</description>
+        <Point><coordinates>174.824251,-41.306349,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wellington Cable Car (T39)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 39 (26.04) - Wellington | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Wellington%20Cable%20Car/@-41.284912,174.770542,15z</description>
+        <Point><coordinates>174.770542,-41.284912,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Zealandia (T39)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 39 (26.04) - Wellington | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Zealandia/@-41.293000,174.768000,15z</description>
+        <Point><coordinates>174.768000,-41.293000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaitoke Regional Park (T39)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 39 (26.04) - Wellington | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Kaitoke%20Regional%20Park/@-41.009000,175.029000,15z</description>
+        <Point><coordinates>175.029000,-41.009000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Castlepoint Scenic Reserve (T40)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 40 (27.04) - Wellington → Castlepoint (100 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Castlepoint%20Scenic%20Reserve/@-40.900600,175.896000,15z</description>
+        <Point><coordinates>175.896000,-40.900600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Palliser (T41)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 41 (28.04) - Castlepoint → Napier (370 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Cape%20Palliser/@-41.612716,175.273415,15z</description>
+        <Point><coordinates>175.273415,-41.612716,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Napier Art Deco / Cape Kidnappers (T42)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 42 (29.04) - Napier | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Napier%20Art%20Deco%20/%20Cape%20Kidnappers/@-39.642800,177.096003,15z</description>
+        <Point><coordinates>177.096003,-39.642800,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Huka Falls (T43)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 43 (30.04) - Napier → Taupō (145 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Huka%20Falls/@-38.649725,176.089376,15z</description>
+        <Point><coordinates>176.089376,-38.649725,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mine Bay Maori Carvings (T44)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 44 (01.05) - Taupō | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Mine%20Bay%20Maori%20Carvings/@-38.760000,175.970000,15z</description>
+        <Point><coordinates>175.970000,-38.760000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tongariro Alpine Crossing (Mangatepopo) (T46)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 46 (03.05) - Ohakune | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Tongariro%20Alpine%20Crossing%20%28Mangatepopo%29/@-39.144862,175.580751,15z</description>
+        <Point><coordinates>175.580751,-39.144862,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruakuri Bush Walk (T48)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 48 (05.05) - Waitomo | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Ruakuri%20Bush%20Walk/@-38.245600,175.006000,15z</description>
+        <Point><coordinates>175.006000,-38.245600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Waitomo Glowworm Caves (T48)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 48 (05.05) - Waitomo | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Waitomo%20Glowworm%20Caves/@-38.260869,175.103543,15z</description>
+        <Point><coordinates>175.103543,-38.260869,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hobbiton Movie Set (T50)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 50 (07.05) - Matamata (Hobbiton) → Rotorua (70 km) | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Hobbiton%20Movie%20Set/@-37.857945,175.680909,15z</description>
+        <Point><coordinates>175.680909,-37.857945,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuirau Park (T51)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 51 (08.05) - Rotorua | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Kuirau%20Park/@-38.160000,176.245000,15z</description>
+        <Point><coordinates>176.245000,-38.160000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Te Puia (T51)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 51 (08.05) - Rotorua | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Puia/@-38.164351,176.250171,15z</description>
+        <Point><coordinates>176.250171,-38.164351,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wai-O-Tapu (T51)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 51 (08.05) - Rotorua | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Wai-O-Tapu/@-38.355915,176.364328,15z</description>
+        <Point><coordinates>176.364328,-38.355915,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Maunganui (T52)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 52 (09.05) - Rotorua → Mt Maunganui → Coromandel (210 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Mount%20Maunganui/@-37.638022,176.183884,15z</description>
+        <Point><coordinates>176.183884,-37.638022,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Driving Creek Railway (T53)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 53 (10.05) - Coromandel | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Driving%20Creek%20Railway/@-36.737138,175.506383,15z</description>
+        <Point><coordinates>175.506383,-36.737138,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hot Water Beach (T53)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 53 (10.05) - Coromandel | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hot%20Water%20Beach/@-36.889811,175.823566,15z</description>
+        <Point><coordinates>175.823566,-36.889811,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tiritiri Matangi (T54)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 54 (11.05) - Coromandel → Auckland (180 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Tiritiri%20Matangi/@-36.596000,174.883000,15z</description>
+        <Point><coordinates>174.883000,-36.596000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Waitangi Treaty Grounds (T56)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 56 (13.05) - Paihia | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Waitangi%20Treaty%20Grounds/@-35.274429,174.079581,15z</description>
+        <Point><coordinates>174.079581,-35.274429,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hole in the Rock (T56)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 56 (13.05) - Paihia | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hole%20in%20the%20Rock/@-35.165662,174.339060,15z</description>
+        <Point><coordinates>174.339060,-35.165662,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Russell (T56)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 56 (13.05) - Paihia | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Russell/@-35.261792,174.121529,15z</description>
+        <Point><coordinates>174.121529,-35.261792,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Cape Reinga (T58)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 58 (15.05) - Kaitaia → Cape Reinga (180 km) | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Cape%20Reinga/@-34.420184,172.679348,15z</description>
+        <Point><coordinates>172.679348,-34.420184,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ninety Mile Beach (T58)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 58 (15.05) - Kaitaia → Cape Reinga (180 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Ninety%20Mile%20Beach/@-34.852456,173.045929,15z</description>
+        <Point><coordinates>173.045929,-34.852456,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tane Mahuta (T59)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 59 (16.05) - Cape Reinga → Waipoua (Trounson) (160 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Tane%20Mahuta/@-35.720800,173.530900,15z</description>
+        <Point><coordinates>173.530900,-35.720800,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Trounson Kauri Park (T59)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 59 (16.05) - Cape Reinga → Waipoua (Trounson) (160 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Trounson%20Kauri%20Park/@-35.444000,173.533000,15z</description>
+        <Point><coordinates>173.533000,-35.444000,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Hauraki Gulf (T60)</name>
+        <styleUrl>#at</styleUrl>
+        <description>Tag 60 (17.05) - Waipoua (Trounson) → Auckland (180 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hauraki%20Gulf/@-36.700000,175.000000,15z</description>
+        <Point><coordinates>175.000000,-36.700000,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>

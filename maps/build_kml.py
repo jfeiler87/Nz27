@@ -1,12 +1,34 @@
-import re, json, urllib.request, urllib.parse, time, os, sys
+import re, json, urllib.request, urllib.parse, time, os
 
 PATH = "/home/hermes/nz_trip_2027/itinerary.md"
+OUTDIR = "/home/hermes/nz_trip_2027/maps"
+
 text = open(PATH, encoding="utf-8").read()
 
 def esc(s):
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
-# ---- parse sections ----
+def parse_coord(url):
+    if not url: return None
+    m = re.search(r'@(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)', url)
+    if m: return (float(m.group(1)), float(m.group(2)))
+    m = re.search(r'query=(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)', url)
+    if m: return (float(m.group(1)), float(m.group(2)))
+    return None
+
+# ---------- geocoding ----------
+def geocode(q):
+    url = "https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=nz&q=" + urllib.parse.quote(q)
+    req = urllib.request.Request(url, headers={"User-Agent": "nz-trip-planner/1.0"})
+    try:
+        data = json.load(urllib.request.urlopen(req, timeout=15))
+        if data:
+            return (float(data[0]["lat"]), float(data[0]["lon"]))
+    except Exception:
+        pass
+    return None
+
+# ---------- parse sections ----------
 headers = list(re.finditer(r'^### Tag (\d+) · ([0-9.]+) — (.+)$', text, re.M))
 stops = []
 for i, m in enumerate(headers):
@@ -19,122 +41,206 @@ for i, m in enumerate(headers):
     lm = re.search(r'\(https://www\.google\.com/maps/[^\)]+\)', sline)
     url = lm.group(0)[1:-1] if lm else None
     name = re.split(r'[·\[]', sline)[0].strip()
-    stops.append({"day": day, "date": date, "title": title, "name": name, "url": url, "coord": None})
+    coord = parse_coord(url)
+    # attractions
+    am = re.search(r'🎯 Attraktionen:\*\*(.*?)(?=\*\*[⚠🛠]|###|\Z)', sec, re.S)
+    attractions = []
+    if am:
+        for b in re.finditer(r'^- \*\*(.+?)\*\*(.*?)(?=\n- |\Z)', am.group(1), re.S | re.M):
+            an = b.group(1).strip()
+            rest = b.group(2)
+            rm = re.search(r'Rating (\d+)/10', rest)
+            rating = rm.group(1) if rm else None
+            alm = re.search(r'\(https://www\.google\.com/maps/[^\)]+\)', rest)
+            aurl = alm.group(0)[1:-1] if alm else None
+            acoord = parse_coord(aurl) if aurl else None
+            attractions.append({"name": an, "rating": rating, "coord": acoord, "url": aurl})
+    # supply
+    vm = re.search(r'🛠 Versorgung in der Nähe:\*\*\s*(.+)', sec)
+    supply = []
+    if vm:
+        typemap = {"🧺": "Wäsche", "🚻": "Sanidump", "💧": "Frischwasser", "⛽": "Tanken"}
+        for p in re.split(r'\s\u00b7\s', vm.group(1)):
+            p = p.strip()
+            if not p:
+                continue
+            emoji = p[0] if p[0] in typemap else None
+            supply.append({"type": typemap.get(emoji, "Versorgung"), "text": p})
+    stops.append({"day": day, "date": date, "title": title, "name": name,
+                  "url": url, "coord": coord, "attractions": attractions, "supply": supply})
 
-def parse_coord(url):
-    if not url: return None
-    m = re.search(r'@(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)', url)
-    if m: return (float(m.group(1)), float(m.group(2)))  # lat, lon
-    m = re.search(r'query=(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)', url)
-    if m: return (float(m.group(1)), float(m.group(2)))
-    return None
-
+# geocode missing stellplatz coords
 for s in stops:
-    s["coord"] = parse_coord(s["url"])
-
-# ---- geocode missing ----
-def geocode(q):
-    url = "https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=nz&q=" + urllib.parse.quote(q)
-    req = urllib.request.Request(url, headers={"User-Agent": "nz-trip-planner/1.0"})
-    try:
-        data = json.load(urllib.request.urlopen(req, timeout=15))
-        if data:
-            return (float(data[0]["lat"]), float(data[0]["lon"]))
-    except Exception:
-        pass
-    return None
-
-missing = [s for s in stops if not s["coord"]]
-for s in missing:
-    q = f"{s['name']}, {s['title']}, New Zealand"
-    c = geocode(q)
-    if not c:
-        c = geocode(f"{s['title']}, New Zealand")
-    s["coord"] = c
-    time.sleep(1.1)
-
-# Fallback for return day without campsite -> Auckland
+    if not s["coord"]:
+        c = geocode(f"{s['name']}, {s['title']}, New Zealand") or geocode(f"{s['title']}, New Zealand")
+        s["coord"] = c
+        time.sleep(1.1)
 for s in stops:
     if not s["coord"] and s["day"] == 61:
         s["coord"] = (-36.8485, 174.7633)
 
-print(f"Tage gesamt: {len(stops)} | mit Koordinate: {sum(1 for s in stops if s['coord'])} | ohne: {[s['day'] for s in stops if not s['coord']]}", flush=True)
+# ---------- placemark helpers ----------
+def pm_point(name, desc, lat, lon, style=None):
+    s = f'      <Placemark>\n        <name>{esc(name)}</name>\n'
+    if style: s += f'        <styleUrl>#{style}</styleUrl>\n'
+    s += f'        <description>{esc(desc)}</description>\n'
+    s += f'        <Point><coordinates>{lon:.6f},{lat:.6f},0</coordinates></Point>\n      </Placemark>'
+    return s
 
-# ---- merge consecutive identical coords into one pin ----
-pins = []
+def pm_line(name, coords, style=None):
+    c = " ".join(f"{lon:.6f},{lat:.6f},0" for lon, lat in coords)
+    s = f'      <Placemark>\n        <name>{esc(name)}</name>\n'
+    if style: s += f'        <styleUrl>#{style}</styleUrl>\n'
+    s += '        <LineString><tessellate>1</tessellate><coordinates>' + c + '</coordinates></LineString>\n      </Placemark>'
+    return s
+
+def style_def(sid, color, line=False, width=3):
+    if line:
+        return f'    <Style id="{sid}"><LineStyle><color>{color}</color><width>{width}</width></LineStyle></Style>'
+    return f'    <Style id="{sid}"><IconStyle><color>{color}</color><scale>1.0</scale></IconStyle></Style>'
+
+def kml_doc(name, desc, pms, styles):
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<kml xmlns="http://www.opengis.net/kml/2.2">\n  <Document>\n'
+            f'    <name>{esc(name)}</name>\n    <description>{esc(desc)}</description>\n'
+            + "\n".join(styles) + "\n" + "\n".join(pms) + "\n  </Document>\n</kml>")
+
+def dayrange(days):
+    return f"{days[0]}-{days[-1]}" if len(days) > 1 else str(days[0])
+
+# ---------- 1) Stellplätze ----------
+STELL = "ff0000ff"
+stell_pins = []
+prev = None
 for s in stops:
     if not s["coord"]:
         continue
-    if pins and pins[-1]["coord"] == s["coord"]:
-        pins[-1]["days"].append(s["day"])
+    if prev and prev["coord"] == s["coord"]:
+        prev["days"].append(s["day"])
     else:
-        pins.append({"days": [s["day"]], "date": s["date"], "title": s["title"],
-                     "name": s["name"], "coord": s["coord"], "url": s["url"]})
+        prev = {"days": [s["day"]], "date": s["date"], "title": s["title"],
+                "name": s["name"], "coord": s["coord"], "url": s["url"]}
+        stell_pins.append(prev)
 
-# ---- route legs (real roads via OSRM, fallback straight) ----
+stell_pms = []
+for p in stell_pins:
+    nm = f"T{dayrange(p['days'])} - {p['title']}"
+    desc = f"Tag {dayrange(p['days'])} ({p['date']}) - {p['title']}"
+    if p["name"]:
+        desc += f" | Stellplatz: {p['name']}"
+    if p["url"]:
+        desc += f"<br/>{p['url']}"
+    stell_pms.append(pm_point(nm, desc, p["coord"][0], p["coord"][1], "st"))
+stell_doc = kml_doc("NZ27 Stellplätze", "Uebernachtungs-Stellplaetze (Freiplatz/DOC/Holiday Park) je Tag.",
+                    stell_pms, [style_def("st", STELL)])
+
+# ---------- 2) Attraktionen ----------
+ATTR = "ff00ff00"
+attr_pms = []
+attr_missing = 0
+for s in stops:
+    region = re.split(r'[→(]', s["title"])[0].strip()
+    for a in s["attractions"]:
+        lat, lon = (a["coord"] if a["coord"] else (None, None))
+        if lat is None:
+            c = geocode(f"{a['name']}, {region}, New Zealand")
+            if c:
+                lat, lon = c
+            else:
+                attr_missing += 1
+                continue
+            time.sleep(1.1)
+        nm = f"{a['name']} (T{s['day']})"
+        desc = f"Tag {s['day']} ({s['date']}) - {s['title']}"
+        if a["rating"]:
+            desc += f" | Rating {a['rating']}/10"
+        if a["url"]:
+            desc += f"<br/>{a['url']}"
+        attr_pms.append(pm_point(nm, desc, lat, lon, "at"))
+attr_doc = kml_doc("NZ27 Attraktionen", "Sehenswuerdigkeiten laut itinerary (mit Rating).",
+                   attr_pms, [style_def("at", ATTR)])
+
+# ---------- 3) Versorgung ----------
+VERS = "ffff0000"
+vers_pms = []
+cnt = 0
+for s in stops:
+    for item in s["supply"]:
+        place = None
+        im = re.search(r'\bin\s+([A-Za-zÄÖÜäöü][A-Za-zÄÖÜäöü\s\-]+?)(?:\(|$|,)', item["text"])
+        if im:
+            c = geocode(im.group(1).strip() + ", New Zealand")
+            if c:
+                place = c
+        if not place:
+            if s["coord"]:
+                place = (s["coord"][0] + cnt * 0.00035, s["coord"][1])
+            else:
+                place = geocode(s["title"].split("(")[0].strip() + ", New Zealand")
+            if not place:
+                continue
+        cnt += 1
+        nm = f"{item['type']} (T{s['day']})"
+        desc = f"Tag {s['day']} ({s['date']}) - {item['type']}<br/>{item['text']}"
+        vers_pms.append(pm_point(nm, desc, place[0], place[1], "ve"))
+vers_doc = kml_doc("NZ27 Versorgung", "Versorgung: Wäsche (🧺), Sanidump (🚻), Frischwasser (💧), Tanken (⛽). Orte teils stadtebene (Geocoding).",
+                   vers_pms, [style_def("ve", VERS)])
+
+# ---------- 4) Fähre ----------
+FERR = "ff00a5ff"
+ferr_pms = []
+for i, s in enumerate(stops):
+    if "Fähre" in s["title"]:
+        w = s["coord"] or geocode("Wellington Interislander Terminal, New Zealand")
+        p = None
+        if i > 0 and stops[i-1]["coord"]:
+            p = stops[i-1]["coord"]
+        else:
+            p = geocode("Picton, New Zealand")
+        if w:
+            ferr_pms.append(pm_point("Interislander Fähre Wellington (Ankunft)", f"Tag {s['day']} ({s['date']}) - {s['title']}", w[0], w[1], "fe"))
+        if p:
+            ferr_pms.append(pm_point("Interislander Fähre Picton (Abfahrt)", "Cook Strait Fähre, Camper mitbuchten!", p[0], p[1], "fe"))
+        time.sleep(1.1)
+ferr_doc = kml_doc("NZ27 Fähre", "Cook-Strait-Fähre Picton <-> Wellington (Camper mitbuchten).",
+                   ferr_pms, [style_def("fe", FERR)])
+
+# ---------- 5) Route ----------
+ROUTE = "ff800080"
 def osrm(lat1, lon1, lat2, lon2):
     url = f"http://router.project-osrm.org/route/v1/driving/{lon1},{lat1};{lon2},{lat2}?overview=full&geometries=geojson"
     try:
         data = json.load(urllib.request.urlopen(url, timeout=15))
         if data.get("code") == "Ok":
-            return data["routes"][0]["geometry"]["coordinates"]  # [lon,lat]
+            return data["routes"][0]["geometry"]["coordinates"]
     except Exception:
         pass
     return None
 
-legs = []
+route_pms = []
 ordered = [s for s in stops if s["coord"]]
 for i in range(len(ordered)-1):
     a, b = ordered[i]["coord"], ordered[i+1]["coord"]
     g = osrm(a[0], a[1], b[0], b[1])
     if g:
-        legs.append((ordered[i]["day"], ordered[i+1]["day"], g))
+        route_pms.append(pm_line(f"T{ordered[i]['day']}-T{ordered[i+1]['day']}", [(lat, lon) for lon, lat in g], "rt"))
     else:
-        legs.append((ordered[i]["day"], ordered[i+1]["day"], [[a[1], a[0]], [b[1], b[0]]]))
+        route_pms.append(pm_line(f"T{ordered[i]['day']}-T{ordered[i+1]['day']}", [a, b], "rt"))
     time.sleep(0.1)
+route_doc = kml_doc("NZ27 Route", "Routen-Etappen (echte Straßen via OSRM; Fähre = gerade Linie).",
+                    route_pms, [style_def("rt", ROUTE, line=True, width=3)])
 
-# ---- build KML ----
-def coord_str(latlon):
-    return f"{latlon[1]:.6f},{latlon[0]:.6f},0"
+# ---------- write files ----------
+os.makedirs(OUTDIR, exist_ok=True)
+files = {
+    "nz_stellplaetze.kml": stell_doc,
+    "nz_attraktionen.kml": attr_doc,
+    "nz_versorgung.kml": vers_doc,
+    "nz_faehre.kml": ferr_doc,
+    "nz_route.kml": route_doc,
+}
+for fn, doc in files.items():
+    open(os.path.join(OUTDIR, fn), "w", encoding="utf-8").write(doc)
+    print(f"  {fn}: {len(doc)} Zeichen", flush=True)
 
-def dayrange(days):
-    return f"{days[0]}-{days[-1]}" if len(days) > 1 else str(days[0])
-
-kml = []
-kml.append('<?xml version="1.0" encoding="UTF-8"?>')
-kml.append('<kml xmlns="http://www.opengis.net/kml/2.2">')
-kml.append('  <Document>')
-kml.append('    <name>NZ Campervan Route 2027 (19.03-18.05)</name>')
-kml.append('    <description>Stopps + Routenueberblick aus itinerary.md. Import in Google My Maps: Meine Orte - Karten - Karte erstellen - Importieren.</description>')
-kml.append('    <Style id="pin"><IconStyle><color>ff0000ff</color><scale>1.0</scale></IconStyle></Style>')
-kml.append('    <Style id="route"><LineStyle><color>ffff0000</color><width>3</width></LineStyle></Style>')
-kml.append('    <Folder><name>Stopps (Pins)</name>')
-for p in pins:
-    nm = esc(f"T{dayrange(p['days'])} - {p['title']}")
-    desc = esc(f"Tag {dayrange(p['days'])} ({p['date']}) - {p['title']}")
-    if p["url"]:
-        desc += "<br/>" + esc(p["url"])
-    kml.append('      <Placemark>')
-    kml.append(f'        <name>{nm}</name>')
-    kml.append(f'        <description>{desc}</description>')
-    kml.append('        <styleUrl>#pin</styleUrl>')
-    kml.append('        <Point><coordinates>' + coord_str(p["coord"]) + '</coordinates></Point>')
-    kml.append('      </Placemark>')
-kml.append('    </Folder>')
-kml.append('    <Folder><name>Route (Etappen)</name>')
-for d1, d2, g in legs:
-    coords = " ".join(f"{lon:.6f},{lat:.6f},0" for lon, lat in g)
-    kml.append('      <Placemark>')
-    kml.append(f'        <name>{esc(f"T{d1}-T{d2}")}</name>')
-    kml.append('        <styleUrl>#route</styleUrl>')
-    kml.append('        <LineString><tessellate>1</tessellate><coordinates>' + coords + '</coordinates></LineString>')
-    kml.append('      </Placemark>')
-kml.append('    </Folder>')
-kml.append('  </Document>')
-kml.append('</kml>')
-kml_text = "\n".join(kml)
-
-out = "/home/hermes/nz_trip_2027/maps/nz_route.kml"
-os.makedirs(os.path.dirname(out), exist_ok=True)
-open(out, "w", encoding="utf-8").write(kml_text)
-print(f"KML geschrieben: {out} | Pins: {len(pins)} | Legs: {len(legs)} | Groesse: {len(kml_text)} Zeichen", flush=True)
+print(f"Stellplatz-Pins: {len(stell_pins)} | Attraktionen: {len(attr_pms)} (ohne Koord uebersprungen: {attr_missing}) | Versorgung: {len(vers_pms)} | Fähre: {len(ferr_pms)} | Route-Legs: {len(route_pms)}", flush=True)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Fähre</name>
+    <description>Cook-Strait-Fähre Picton &lt;-&gt; Wellington (Camper mitbuchten).</description>
+    <Style id="fe"><IconStyle><color>ff00a5ff</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Interislander Fähre Wellington (Ankunft)</name>
+        <styleUrl>#fe</styleUrl>
+        <description>Tag 38 (25.04) - Picton → Wellington (Fähre) (– km)</description>
+        <Point><coordinates>174.798576,-41.311923,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Interislander Fähre Picton (Abfahrt)</name>
+        <styleUrl>#fe</styleUrl>
+        <description>Cook Strait Fähre, Camper mitbuchten!</description>
+        <Point><coordinates>173.954586,-41.511869,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>
