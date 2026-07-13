@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Versorgung Tanken</name>
+    <description>Versorgung: Tanken.</description>
+    <Style id="ve_Tanken"><IconStyle><color>ff0000ff</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Tanken (T7)</name>
+        <styleUrl>#ve_Tanken</styleUrl>
+        <description>Tag 7 (25.03) - Tanken&lt;br/&gt;⛽ vor Catlins in Balclutha volltanken (Catlins kaum Tankstellen)</description>
+        <Point><coordinates>169.470842,-46.559768,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T23)</name>
+        <styleUrl>#ve_Tanken</styleUrl>
+        <description>Tag 23 (10.04) - Tanken&lt;br/&gt;⛽ vor Haast Pass in Wanaka volltanken (keine Tankstellen auf der Pass-Strecke)</description>
+        <Point><coordinates>169.043669,-43.875698,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T26)</name>
+        <styleUrl>#ve_Tanken</styleUrl>
+        <description>Tag 26 (13.04) - Tanken&lt;br/&gt;⛽ West Coast: in Hokitika tanken (Glacier Country / Franz Josef deutlich teurer)</description>
+        <Point><coordinates>170.919891,-42.791151,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanken (T38)</name>
+        <styleUrl>#ve_Tanken</styleUrl>
+        <description>Tag 38 (25.04) - Tanken&lt;br/&gt;⛽ Vor der Fähre in Picton volltanken + Dump komplett leeren &amp; versiegeln (in Wellington kein Camper-Tanken nötig)</description>
+        <Point><coordinates>174.798576,-41.305623,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>

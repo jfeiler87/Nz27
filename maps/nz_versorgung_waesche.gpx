@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="nz-trip-planner" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>NZ27 Versorgung Wäsche</name></metadata>
+  <wpt lat="-43.530160" lon="172.736508">
+    <name>Wäsche (T1)</name>
+    <desc>Tag 1 (19.03) - Wäsche
+🧺 Wäsche-Stop 1: Super Suds / Lilly's Laundromat (24/7)</desc>
+  </wpt>
+  <wpt lat="-45.813618" lon="170.674744">
+    <name>Wäsche (T6)</name>
+    <desc>Tag 6 (24.03) - Wäsche
+🧺 Wäsche-Stop 2: Liquid Laundromat Dunedin South (28 Prince Albert Rd, 24/7)</desc>
+  </wpt>
+  <wpt lat="-45.028549" lon="168.696881">
+    <name>Wäsche (T16)</name>
+    <desc>Tag 16 (03.04) - Wäsche
+🧺 Wäsche-Stop 3: Queenstown CBD Liquid (24/7)</desc>
+  </wpt>
+  <wpt lat="-43.292015" lon="170.224655">
+    <name>Wäsche (T25)</name>
+    <desc>Tag 25 (12.04) - Wäsche
+🧺 Wäsche-Stop 4: Laundromat Franz Josef (64 Cron St, 24h, $2 coin)</desc>
+  </wpt>
+  <wpt lat="-41.213163" lon="173.396900">
+    <name>Wäsche (T30)</name>
+    <desc>Tag 30 (17.04) - Wäsche
+🧺 Wäsche-Stop 5: Liquid Toi Toi / Master Valet Self-Service (24/7)</desc>
+  </wpt>
+  <wpt lat="-41.305273" lon="174.798576">
+    <name>Wäsche (T39)</name>
+    <desc>Tag 39 (26.04) - Wäsche
+🧺 Wäsche-Stop 6: Janice Laundry Newtown (180 Adelaide Rd, 24/7)</desc>
+  </wpt>
+  <wpt lat="-38.683300" lon="176.080000">
+    <name>Wäsche (T44)</name>
+    <desc>Tag 44 (01.05) - Wäsche
+🧺 Wäsche-Stop 7: Liquid Taupō (24/7)</desc>
+  </wpt>
+  <wpt lat="-37.934438" lon="176.145291">
+    <name>Wäsche (T50)</name>
+    <desc>Tag 50 (07.05) - Wäsche
+🧺 Wäsche-Stop 7 alt: Choice Laundromats Rotorua (24/7)</desc>
+  </wpt>
+  <wpt lat="-36.838700" lon="174.763300">
+    <name>Wäsche (T61)</name>
+    <desc>Tag 61 (18.05) - Wäsche
+🧺 Wäsche-Stop 8: Mint Laundromat (Beach Rd, 24/7) optional</desc>
+  </wpt>
+</gpx>

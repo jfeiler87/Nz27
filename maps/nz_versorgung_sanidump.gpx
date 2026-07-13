@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="nz-trip-planner" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>NZ27 Versorgung Sanidump</name></metadata>
+  <wpt lat="-43.529810" lon="172.736508">
+    <name>Sanidump (T1)</name>
+    <desc>Tag 1 (19.03) - Sanidump
+🚻 Sanidump: in Christchurch (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-45.813268" lon="170.674744">
+    <name>Sanidump (T6)</name>
+    <desc>Tag 6 (24.03) - Sanidump
+🚻 Sanidump: in Dunedin (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-45.028199" lon="168.696881">
+    <name>Sanidump (T16)</name>
+    <desc>Tag 16 (03.04) - Sanidump
+🚻 Sanidump: in Queenstown (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-43.291665" lon="170.224655">
+    <name>Sanidump (T25)</name>
+    <desc>Tag 25 (12.04) - Sanidump
+🚻 Sanidump: in Franz Josef (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-41.212813" lon="173.396900">
+    <name>Sanidump (T30)</name>
+    <desc>Tag 30 (17.04) - Sanidump
+🚻 Sanidump: in Nelson (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-41.304923" lon="174.798576">
+    <name>Sanidump (T39)</name>
+    <desc>Tag 39 (26.04) - Sanidump
+🚻 Sanidump: in Wellington (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-38.682950" lon="176.080000">
+    <name>Sanidump (T44)</name>
+    <desc>Tag 44 (01.05) - Sanidump
+🚻 Sanidump: in Taupō (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-37.934088" lon="176.145291">
+    <name>Sanidump (T50)</name>
+    <desc>Tag 50 (07.05) - Sanidump
+🚻 Sanidump: in Rotorua (i-Site / Holiday Park)</desc>
+  </wpt>
+  <wpt lat="-36.838350" lon="174.763300">
+    <name>Sanidump (T61)</name>
+    <desc>Tag 61 (18.05) - Sanidump
+🚻 Sanidump: in Auckland (i-Site / Holiday Park)</desc>
+  </wpt>
+</gpx>

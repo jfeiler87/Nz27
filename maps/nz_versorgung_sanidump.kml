@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Versorgung Sanidump</name>
+    <description>Versorgung: Sanidump.</description>
+    <Style id="ve_Sanidump"><IconStyle><color>ff00ffff</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Sanidump (T1)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 1 (19.03) - Sanidump&lt;br/&gt;🚻 Sanidump: in Christchurch (i-Site / Holiday Park)</description>
+        <Point><coordinates>172.736508,-43.529810,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T6)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 6 (24.03) - Sanidump&lt;br/&gt;🚻 Sanidump: in Dunedin (i-Site / Holiday Park)</description>
+        <Point><coordinates>170.674744,-45.813268,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T16)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 16 (03.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Queenstown (i-Site / Holiday Park)</description>
+        <Point><coordinates>168.696881,-45.028199,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T25)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 25 (12.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Franz Josef (i-Site / Holiday Park)</description>
+        <Point><coordinates>170.224655,-43.291665,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T30)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 30 (17.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Nelson (i-Site / Holiday Park)</description>
+        <Point><coordinates>173.396900,-41.212813,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T39)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 39 (26.04) - Sanidump&lt;br/&gt;🚻 Sanidump: in Wellington (i-Site / Holiday Park)</description>
+        <Point><coordinates>174.798576,-41.304923,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T44)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 44 (01.05) - Sanidump&lt;br/&gt;🚻 Sanidump: in Taupō (i-Site / Holiday Park)</description>
+        <Point><coordinates>176.080000,-38.682950,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T50)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 50 (07.05) - Sanidump&lt;br/&gt;🚻 Sanidump: in Rotorua (i-Site / Holiday Park)</description>
+        <Point><coordinates>176.145291,-37.934088,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanidump (T61)</name>
+        <styleUrl>#ve_Sanidump</styleUrl>
+        <description>Tag 61 (18.05) - Sanidump&lt;br/&gt;🚻 Sanidump: in Auckland (i-Site / Holiday Park)</description>
+        <Point><coordinates>174.763300,-36.838350,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>

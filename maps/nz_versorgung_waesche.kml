@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Versorgung Wäsche</name>
+    <description>Versorgung: Wäsche.</description>
+    <Style id="ve_Wäsche"><IconStyle><color>ffff0000</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Wäsche (T1)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 1 (19.03) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 1: Super Suds / Lilly's Laundromat (24/7)</description>
+        <Point><coordinates>172.736508,-43.530160,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T6)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 6 (24.03) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 2: Liquid Laundromat Dunedin South (28 Prince Albert Rd, 24/7)</description>
+        <Point><coordinates>170.674744,-45.813618,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T16)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 16 (03.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 3: Queenstown CBD Liquid (24/7)</description>
+        <Point><coordinates>168.696881,-45.028549,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T25)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 25 (12.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 4: Laundromat Franz Josef (64 Cron St, 24h, $2 coin)</description>
+        <Point><coordinates>170.224655,-43.292015,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T30)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 30 (17.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 5: Liquid Toi Toi / Master Valet Self-Service (24/7)</description>
+        <Point><coordinates>173.396900,-41.213163,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T39)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 39 (26.04) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 6: Janice Laundry Newtown (180 Adelaide Rd, 24/7)</description>
+        <Point><coordinates>174.798576,-41.305273,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T44)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 44 (01.05) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 7: Liquid Taupō (24/7)</description>
+        <Point><coordinates>176.080000,-38.683300,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T50)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 50 (07.05) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 7 alt: Choice Laundromats Rotorua (24/7)</description>
+        <Point><coordinates>176.145291,-37.934438,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Wäsche (T61)</name>
+        <styleUrl>#ve_Wäsche</styleUrl>
+        <description>Tag 61 (18.05) - Wäsche&lt;br/&gt;🧺 Wäsche-Stop 8: Mint Laundromat (Beach Rd, 24/7) optional</description>
+        <Point><coordinates>174.763300,-36.838700,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>

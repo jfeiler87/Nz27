@@ -20,7 +20,7 @@ The plan is built and maintained here so it can be iterated on continuously
 - `README.md` — Short human-facing overview.
 - `TODO.md` — Open planning items beyond bookings, categorized.
 - `AGENTS.md` — This file.
-- `maps/*.kml` + `maps/*.gpx` — Je Kategorie eine Datei in beiden Formaten (KML → Google My Maps, GPX → OsmAnd/Maps.me), pro Datei = eigener Layer: `nz_stellplaetze` (Übernachtungen), `nz_attraktionen` (Sehenswürdigkeiten + Rating), `nz_versorgung` (Wäsche / Sanidump / Wasser / Tanken), `nz_faehre` (Cook-Strait-Fähre), `nz_route` (Routen-Etappen). Regenerieren nach jeder Itinerar-Änderung: `python3 maps/build_kml.py` (liest `itinerary.md`, erzeugt alle 10 Dateien).
+- `maps/*.kml` + `maps/*.gpx` — Je Kategorie eine Datei in beiden Formaten (KML → Google My Maps, GPX → OsmAnd/Maps.me), pro Datei = eigener Layer: `nz_stellplaetze` (Übernachtungen), `nz_attraktionen` (Sehenswürdigkeiten + Rating), `nz_versorgung_{waesche,sanidump,wasser,tanken}` (Versorgung je Typ = eigener Layer), `nz_faehre` (Cook-Strait-Fähre), `nz_route` (Routen-Etappen). Regenerieren nach jeder Itinerar-Änderung: `python3 maps/build_kml.py` (liest `itinerary.md`, erzeugt alle 16 Dateien).
 - `maps/build_kml.py` — Generator für KML + GPX (extrahiert Koordinaten aus den `[Karte]`-Links, geocodiert Fehlende via Nominatim, Routen via OSRM).
 - `maps/README.md` — Kurzanleitung: KML (Google My Maps) + GPX (OsmAnd/Maps.me) Import + Regenerierung.
 

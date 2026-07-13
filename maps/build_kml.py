@@ -195,10 +195,10 @@ for s in stops:
 attr_kml = kml_doc("NZ27 Attraktionen", "Sehenswuerdigkeiten laut itinerary (mit Rating).", attr_pms, [style_def("at", ATTR)])
 attr_gpx = gpx_wpt_file("NZ27 Attraktionen", "Sehenswuerdigkeiten laut itinerary (mit Rating).", attr_list)
 
-# ---------- 3) Versorgung ----------
-VERS = "ffff0000"
-vers_list = []
-vers_pms = []
+# ---------- 3) Versorgung (pro Typ eigener Layer) ----------
+VERS_COLORS = {"Wäsche": "ffff0000", "Sanidump": "ff00ffff", "Frischwasser": "ff00a5ff", "Tanken": "ff0000ff"}
+VERS_FILE = {"Wäsche": "waesche", "Sanidump": "sanidump", "Frischwasser": "wasser", "Tanken": "tanken"}
+vers_by_type = {t: {"pms": [], "wpts": []} for t in VERS_COLORS}
 cnt = 0
 for s in stops:
     for item in s["supply"]:
@@ -218,10 +218,9 @@ for s in stops:
         cnt += 1
         nm = f"{item['type']} (T{s['day']})"
         desc = f"Tag {s['day']} ({s['date']}) - {item['type']}\n{item['text']}"
-        vers_list.append((nm, desc, place[0], place[1]))
-        vers_pms.append(pm_point(nm, f"Tag {s['day']} ({s['date']}) - {item['type']}<br/>{item['text']}", place[0], place[1], "ve"))
-vers_kml = kml_doc("NZ27 Versorgung", "Versorgung: Wäsche/Sanidump/Wasser/Tanken.", vers_pms, [style_def("ve", VERS)])
-vers_gpx = gpx_wpt_file("NZ27 Versorgung", "Versorgung: Wäsche/Sanidump/Wasser/Tanken.", vers_list)
+        lat, lon = place[0], place[1]
+        vers_by_type[item["type"]]["wpts"].append((nm, desc, lat, lon))
+        vers_by_type[item["type"]]["pms"].append(pm_point(nm, f"Tag {s['day']} ({s['date']}) - {item['type']}<br/>{item['text']}", lat, lon, f"ve_{item['type']}"))
 
 # ---------- 4) Fähre ----------
 FERR = "ff00a5ff"
@@ -271,12 +270,17 @@ os.makedirs(OUTDIR, exist_ok=True)
 files = {
     "nz_stellplaetze.kml": stell_kml, "nz_stellplaetze.gpx": stell_gpx,
     "nz_attraktionen.kml": attr_kml, "nz_attraktionen.gpx": attr_gpx,
-    "nz_versorgung.kml": vers_kml, "nz_versorgung.gpx": vers_gpx,
     "nz_faehre.kml": ferr_kml, "nz_faehre.gpx": ferr_gpx,
     "nz_route.kml": route_kml, "nz_route.gpx": route_gpx,
 }
+for t in VERS_COLORS:
+    base = f"nz_versorgung_{VERS_FILE[t]}"
+    files[base + ".kml"] = kml_doc(f"NZ27 Versorgung {t}", f"Versorgung: {t}.", vers_by_type[t]["pms"], [style_def(f"ve_{t}", VERS_COLORS[t])])
+    files[base + ".gpx"] = gpx_wpt_file(f"NZ27 Versorgung {t}", f"Versorgung: {t}.", vers_by_type[t]["wpts"])
+
 for fn, doc in files.items():
     open(os.path.join(OUTDIR, fn), "w", encoding="utf-8").write(doc)
     print(f"  {fn}: {len(doc)} Zeichen", flush=True)
 
-print(f"Stellplatz: {len(stell_pins)} | Attraktionen: {len(attr_list)} (fehlend: {attr_missing}) | Versorgung: {len(vers_list)} | Fähre: {len(ferr_list)} | Route-Legs: {len(route_legs)}", flush=True)
+vers_total = sum(len(v["wpts"]) for v in vers_by_type.values())
+print(f"Stellplatz: {len(stell_pins)} | Attraktionen: {len(attr_list)} (fehlend: {attr_missing}) | Versorgung gesamt: {vers_total} (Waesche {len(vers_by_type['Wäsche']['wpts'])}, Sanidump {len(vers_by_type['Sanidump']['wpts'])}, Wasser {len(vers_by_type['Frischwasser']['wpts'])}, Tanken {len(vers_by_type['Tanken']['wpts'])}) | Fähre: {len(ferr_list)} | Route-Legs: {len(route_legs)}", flush=True)

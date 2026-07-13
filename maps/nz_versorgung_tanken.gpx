@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="nz-trip-planner" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>NZ27 Versorgung Tanken</name></metadata>
+  <wpt lat="-46.559768" lon="169.470842">
+    <name>Tanken (T7)</name>
+    <desc>Tag 7 (25.03) - Tanken
+⛽ vor Catlins in Balclutha volltanken (Catlins kaum Tankstellen)</desc>
+  </wpt>
+  <wpt lat="-43.875698" lon="169.043669">
+    <name>Tanken (T23)</name>
+    <desc>Tag 23 (10.04) - Tanken
+⛽ vor Haast Pass in Wanaka volltanken (keine Tankstellen auf der Pass-Strecke)</desc>
+  </wpt>
+  <wpt lat="-42.791151" lon="170.919891">
+    <name>Tanken (T26)</name>
+    <desc>Tag 26 (13.04) - Tanken
+⛽ West Coast: in Hokitika tanken (Glacier Country / Franz Josef deutlich teurer)</desc>
+  </wpt>
+  <wpt lat="-41.305623" lon="174.798576">
+    <name>Tanken (T38)</name>
+    <desc>Tag 38 (25.04) - Tanken
+⛽ Vor der Fähre in Picton volltanken + Dump komplett leeren &amp; versiegeln (in Wellington kein Camper-Tanken nötig)</desc>
+  </wpt>
+</gpx>

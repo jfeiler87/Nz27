@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>NZ27 Versorgung Frischwasser</name>
+    <description>Versorgung: Frischwasser.</description>
+    <Style id="ve_Frischwasser"><IconStyle><color>ff00a5ff</color><scale>1.0</scale></IconStyle></Style>
+      <Placemark>
+        <name>Frischwasser (T1)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 1 (19.03) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Christchurch auffüllen</description>
+        <Point><coordinates>172.736508,-43.529460,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T6)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 6 (24.03) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Dunedin auffüllen</description>
+        <Point><coordinates>170.674744,-45.812918,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T16)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 16 (03.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Queenstown auffüllen</description>
+        <Point><coordinates>168.696881,-45.027849,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T25)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 25 (12.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Franz Josef auffüllen</description>
+        <Point><coordinates>170.224655,-43.291315,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T30)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 30 (17.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Nelson auffüllen</description>
+        <Point><coordinates>173.396900,-41.212463,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T39)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 39 (26.04) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Wellington auffüllen</description>
+        <Point><coordinates>174.798576,-41.304573,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T44)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 44 (01.05) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Taupō auffüllen</description>
+        <Point><coordinates>176.080000,-38.682600,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T50)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 50 (07.05) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Rotorua auffüllen</description>
+        <Point><coordinates>176.145291,-37.933738,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Frischwasser (T61)</name>
+        <styleUrl>#ve_Frischwasser</styleUrl>
+        <description>Tag 61 (18.05) - Frischwasser&lt;br/&gt;💧 Frischwasser: in Auckland auffüllen</description>
+        <Point><coordinates>174.763300,-36.838000,0</coordinates></Point>
+      </Placemark>
+  </Document>
+</kml>
