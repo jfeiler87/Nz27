@@ -85,7 +85,7 @@ def pm_point(name, desc, lat, lon, style=None):
     return s
 
 def pm_line(name, coords, style=None):
-    c = " ".join(f"{lon:.6f},{lat:.6f},0" for lon, lat in coords)
+    c = " ".join(f"{lon:.6f},{lat:.6f},0" for lat, lon in coords)
     s = f'      <Placemark>\n        <name>{esc(name)}</name>\n'
     if style: s += f'        <styleUrl>#{style}</styleUrl>\n'
     s += '        <LineString><tessellate>1</tessellate><coordinates>' + c + '</coordinates></LineString>\n      </Placemark>'
@@ -244,7 +244,7 @@ ferr_gpx = gpx_wpt_file("NZ27 Fähre", "Cook-Strait-Fähre Picton <-> Wellington
 # ---------- 5) Route ----------
 ROUTE = "ff800080"
 def osrm(lat1, lon1, lat2, lon2):
-    url = f"http://router.project-osrm.org/route/v1/driving/{lon1},{lat1};{lon2},{lat2}?overview=full&geometries=geojson"
+    url = f"http://router.project-osrm.org/route/v1/driving/{lon1},{lat1};{lon2},{lat2}?overview=simplified&geometries=geojson"
     try:
         data = json.load(urllib.request.urlopen(url, timeout=15))
         if data.get("code") == "Ok":
