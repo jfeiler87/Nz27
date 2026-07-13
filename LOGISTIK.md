@@ -3,7 +3,7 @@
 Schnelle Referenz fürs Unterwegs-Sein. Die Details pro Tag stehen im Haupt-Itinerar (§3, Block "🛠 Versorgung in der Nähe").
 
 ## Grundregeln (aus §4 des Plans)
-- Tanken: vor jedem remoten Abschnitt volltanken. Catlins, Haast Pass, West Coast haben wenig/teure Tankstellen; Glacier Country (Franz Josef) besonders teuer.
+- Tanken: vor jedem remoten Abschnitt volltanken. Catlins, Haast Pass, West Coast haben wenig/teure Tankstellen; Glacier Country (Franz Josef) besonders teuer. Im Karten-Layer `nz_versorgung_tanken` sind nur diese strategischen Südinsel-Stopps markiert; auf der Nordinsel gibt es durchgehend Tankstellen (Z/BP/Gull/Caltex/Challenge) in allen Orten — einfach bei Bedarf füllen.
 - Dump: Kassette + Grauwasser alle 2–3 Tage an Dump-Stationen leeren (i-Site, DOC-Besucherzentren, Holiday Parks). VOR der Fähre komplett leeren & versiegeln!
 - Frischwasser: Tank (~100 L) in Städten, i-Site/DOC oder Holiday Parks auffüllen – vor remoten Etappen top-up.
 - Waschen: alle ~6–8 Tage → ~8 Stopps. Laundromats meist günstiger als HP-Wäscherei, viele 24/7, meist card/EFTPOS. $2-Münzen mitführen für Coin-Orte (Franz Josef, Picton, Ohakune, Whitianga, etliche Holiday Parks).
