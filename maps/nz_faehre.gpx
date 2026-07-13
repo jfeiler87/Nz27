@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="nz-trip-planner" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>NZ27 Fähre</name></metadata>
+  <wpt lat="-41.311923" lon="174.798576">
+    <name>Interislander Fähre Wellington (Ankunft)</name>
+    <desc>Tag 38 (25.04) - Picton → Wellington (Fähre) (– km)</desc>
+  </wpt>
+  <wpt lat="-41.511869" lon="173.954586">
+    <name>Interislander Fähre Picton (Abfahrt)</name>
+    <desc>Cook Strait Fähre, Camper mitbuchten!</desc>
+  </wpt>
+</gpx>

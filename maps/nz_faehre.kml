@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>NZ27 Fähre</name>
-    <description>Cook-Strait-Fähre Picton &lt;-&gt; Wellington (Camper mitbuchten).</description>
+    <description>Cook-Strait-Fähre Picton &lt;-&gt; Wellington.</description>
     <Style id="fe"><IconStyle><color>ff00a5ff</color><scale>1.0</scale></IconStyle></Style>
       <Placemark>
         <name>Interislander Fähre Wellington (Ankunft)</name>

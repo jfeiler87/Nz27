@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="nz-trip-planner" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>NZ27 Stellplätze</name></metadata>
+  <wpt lat="-43.530160" lon="172.736508">
+    <name>T1 - Christchurch (Abholung)</name>
+    <desc>Tag 1 (19.03) - Christchurch (Abholung) | Stellplatz: 🆓 Freiplatz South New Brighton / Waimairi (SC, max 2 Nächte, restricted zone)
+https://www.google.com/maps/place/South%20New%20Brighton%20Campground%2C%20Christchurch/@-43.530160,172.736508,15z</desc>
+  </wpt>
+  <wpt lat="-43.804317" lon="172.967833">
+    <name>T2 - Christchurch → Akaroa (75 km)</name>
+    <desc>Tag 2 (20.03) - Christchurch → Akaroa (75 km) | Stellplatz: 🆓 Freiplatz N-Ende Haupt-Hafen-Parkplatz (SC, voll schnell)
+https://www.google.com/maps/place/Hafen%20Campground%2C%20Akaroa/@-43.804317,172.967833,15z</desc>
+  </wpt>
+  <wpt lat="-45.205144" lon="170.892618">
+    <name>T3-4 - Akaroa → Oamaru (230 km)</name>
+    <desc>Tag 3-4 (21.03) - Akaroa → Oamaru (230 km) | Stellplatz: 🆓 Freiplatz All Day Bay (Waianakarua Rd, SC) — Küste Oamaru-Kakanui ist verboten
+https://www.google.com/maps/search/?api=1&amp;query=-45.205144,170.892618</desc>
+  </wpt>
+  <wpt lat="-45.814668" lon="170.674744">
+    <name>T5-6 - Oamaru → Dunedin (115 km)</name>
+    <desc>Tag 5-6 (23.03) - Oamaru → Dunedin (115 km) | Stellplatz: 🆓 Freiplatz Harwood Domain, Otago Peninsula (SC, max 2 Nächte)
+https://www.google.com/maps/search/?api=1&amp;query=-45.814668,170.674744</desc>
+  </wpt>
+  <wpt lat="-46.561868" lon="169.470842">
+    <name>T7 - Dunedin → Catlins (150 km)</name>
+    <desc>Tag 7 (25.03) - Dunedin → Catlins (150 km) | Stellplatz: 🆓 Freiplatz Papatowai (signpostet, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-46.561868,169.470842</desc>
+  </wpt>
+  <wpt lat="-45.738101" lon="170.623286">
+    <name>T8 - Catlins</name>
+    <desc>Tag 8 (26.03) - Catlins | Stellplatz: 🏕 DOC Pūrākaunui Bay ($15/Erw.)
+https://www.google.com/maps/place/Purakaunui%20Bay%20DOC%20Campsite%2C%20Catlins/@-45.738101,170.623286,15z</desc>
+  </wpt>
+  <wpt lat="-46.893800" lon="168.126200">
+    <name>T9-10 - Catlins → Stewart Island (~200 km)</name>
+    <desc>Tag 9-10 (27.03) - Catlins → Stewart Island (~200 km) | Stellplatz: 🏕 Stewart Island DOC-Campsites (Ruggedy/Ringaringa)
+https://www.google.com/maps/place/Oban%2C%20Stewart%20Island/@-46.893800,168.126200,15z</desc>
+  </wpt>
+  <wpt lat="-44.882934" lon="168.094980">
+    <name>T11-14 - Stewart Island → Te Anau (~260 km)</name>
+    <desc>Tag 11-14 (29.03) - Stewart Island → Te Anau (~260 km) | Stellplatz: 🏕 DOC Lake Gunn ($15)
+https://www.google.com/maps/place/Lake%20Gunn%20DOC%20Campsite%2C%20Te%20Anau/@-44.882934,168.094980,15z</desc>
+  </wpt>
+  <wpt lat="-45.030999" lon="168.696881">
+    <name>T15-17 - Te Anau → Queenstown (172 km)</name>
+    <desc>Tag 15-17 (02.04) - Te Anau → Queenstown (172 km) | Stellplatz: 🆓 Freiplatz Frankton Arm CP (15 CPs, SC, max 2 Nächte pro CP – über 3 Nächte zwischen den CPs wechseln)
+https://www.google.com/maps/search/?api=1&amp;query=-45.030999,168.696881</desc>
+  </wpt>
+  <wpt lat="-44.899200" lon="168.837200">
+    <name>T18 - Glenorchy → Arrowtown (95 km)</name>
+    <desc>Tag 18 (05.04) - Glenorchy → Arrowtown (95 km) | Stellplatz: 🆓 Freiplatz Arrowtown Lake Hayes (OTEC, SC)
+https://www.google.com/maps/place/Arrowtown/@-44.899200,168.837200,15z</desc>
+  </wpt>
+  <wpt lat="-44.005600" lon="170.489000">
+    <name>T19 - Arrowtown → Lake Tekapo (270 km)</name>
+    <desc>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Stellplatz: 🏕 The Pines Lake Tekapo (günstiger Community-Platz am See)
+https://www.google.com/maps/place/The%20Pines%2C%20Lake%20Tekapo/@-44.005600,170.489000,15z</desc>
+  </wpt>
+  <wpt lat="-43.733300" lon="170.116700">
+    <name>T20 - Lake Tekapo → Aoraki/Mt Cook (115 km)</name>
+    <desc>Tag 20 (07.04) - Lake Tekapo → Aoraki/Mt Cook (115 km) | Stellplatz: 🏕 DOC White Horse Hill (Mt Cook) $15
+https://www.google.com/maps/place/White%20Horse%20Hill%20DOC%20Campsite%2C%20Mt%20Cook/@-43.733300,170.116700,15z</desc>
+  </wpt>
+  <wpt lat="-44.190100" lon="170.139801">
+    <name>T21 - Aoraki/Mt Cook</name>
+    <desc>Tag 21 (08.04) - Aoraki/Mt Cook | Stellplatz: 🆓 Freiplatz Lake Pukaki Overnight (SC)
+https://www.google.com/maps/search/?api=1&amp;query=-44.190100,170.139801</desc>
+  </wpt>
+  <wpt lat="-44.694169" lon="169.136464">
+    <name>T22 - Mt Cook → Wanaka (154 km)</name>
+    <desc>Tag 22 (09.04) - Mt Cook → Wanaka (154 km) | Stellplatz: 🆓 Freiplatz Wanaka CPs (QLDC, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-44.694169,169.136464</desc>
+  </wpt>
+  <wpt lat="-43.879198" lon="169.043669">
+    <name>T23 - Wanaka → Haast (140 km)</name>
+    <desc>Tag 23 (10.04) - Wanaka → Haast (140 km) | Stellplatz: 🆓 Freiplatz Haast (Marks Rd, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-43.879198,169.043669</desc>
+  </wpt>
+  <wpt lat="-43.295865" lon="170.224655">
+    <name>T24-25 - Haast → Franz Josef (135 km)</name>
+    <desc>Tag 24-25 (11.04) - Haast → Franz Josef (135 km) | Stellplatz: 🏕 DOC Otto/MacDonalds (Franz Josef) $15
+https://www.google.com/maps/place/Otto/MacDonalds%20DOC%20Campsite%2C%20Franz%20Josef/@-43.295865,170.224655,15z</desc>
+  </wpt>
+  <wpt lat="-42.796051" lon="170.919891">
+    <name>T26 - Franz Josef → Hokitika (140 km)</name>
+    <desc>Tag 26 (13.04) - Franz Josef → Hokitika (140 km) | Stellplatz: 🏕 DOC Lake Māhinapua ($15)
+https://www.google.com/maps/place/Lake%20Mahinapua%20DOC%20Campsite%2C%20Hokitika/@-42.796051,170.919891,15z</desc>
+  </wpt>
+  <wpt lat="-42.130800" lon="171.301900">
+    <name>T27 - Hokitika → Punakaiki (60 km)</name>
+    <desc>Tag 27 (14.04) - Hokitika → Punakaiki (60 km) | Stellplatz: 🆓 Freiplatz McMillan Rd (SC, ~12 Vans)
+https://www.google.com/maps/search/?api=1&amp;query=-42.130800,171.301900</desc>
+  </wpt>
+  <wpt lat="-41.749309" lon="171.574633">
+    <name>T28 - Punakaiki → Westport (60 km)</name>
+    <desc>Tag 28 (15.04) - Punakaiki → Westport (60 km) | Stellplatz: 🆓 Freiplatz Carters Beach (Buller DC, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-41.749309,171.574633</desc>
+  </wpt>
+  <wpt lat="-41.218413" lon="173.396900">
+    <name>T29-30 - Westport → Nelson (180 km)</name>
+    <desc>Tag 29-30 (16.04) - Westport → Nelson (180 km) | Stellplatz: 🆓 Freiplatz Wakapuaka Reserve CP (3 Plätze, SC, max 2 Nächte)
+https://www.google.com/maps/search/?api=1&amp;query=-41.218413,173.396900</desc>
+  </wpt>
+  <wpt lat="-41.142064" lon="174.272917">
+    <name>T31-32 - Nelson → Abel Tasman (120 km)</name>
+    <desc>Tag 31-32 (18.04) - Nelson → Abel Tasman (120 km) | Stellplatz: 🏕 DOC Tōtaranui ($15)
+https://www.google.com/maps/place/Totaranui%20DOC%20Campsite%2C%20Abel%20Tasman/@-41.142064,174.272917,15z</desc>
+  </wpt>
+  <wpt lat="-41.511869" lon="173.954586">
+    <name>T33-34 - Abel Tasman → Blenheim (110 km)</name>
+    <desc>Tag 33-34 (20.04) - Abel Tasman → Blenheim (110 km) | Stellplatz: 🆓 Freiplatz Marlborough DC (SC)
+https://www.google.com/maps/search/?api=1&amp;query=-41.511869,173.954586</desc>
+  </wpt>
+  <wpt lat="-42.420706" lon="173.682868">
+    <name>T35-36 - Blenheim → Kaikoura (130 km)</name>
+    <desc>Tag 35-36 (22.04) - Blenheim → Kaikoura (130 km) | Stellplatz: 🆓 Freiplatz South Bay / Peninsula (5 SC-Sites)
+https://www.google.com/maps/search/?api=1&amp;query=-42.420706,173.682868</desc>
+  </wpt>
+  <wpt lat="-41.511869" lon="173.954586">
+    <name>T37 - Kaikoura → Picton (130 km)</name>
+    <desc>Tag 37 (24.04) - Kaikoura → Picton (130 km) | Stellplatz: 🆓 Freiplatz Marlborough DC (SC)
+https://www.google.com/maps/search/?api=1&amp;query=-41.511869,173.954586</desc>
+  </wpt>
+  <wpt lat="-41.311923" lon="174.798576">
+    <name>T38-39 - Picton → Wellington (Fähre) (– km)</name>
+    <desc>Tag 38-39 (25.04) - Picton → Wellington (Fähre) (– km) | Stellplatz: 🆓 Freiplatz Evans Bay Marina CP (52 Buchten, SC, max 4 Nächte/Monat)
+https://www.google.com/maps/search/?api=1&amp;query=-41.311923,174.798576</desc>
+  </wpt>
+  <wpt lat="-40.900600" lon="175.896000">
+    <name>T40 - Wellington → Castlepoint (100 km)</name>
+    <desc>Tag 40 (27.04) - Wellington → Castlepoint (100 km) | Stellplatz: 🆓 Freiplatz Castlepoint Beach CP (SC)
+https://www.google.com/maps/search/?api=1&amp;query=-40.900600,175.896000</desc>
+  </wpt>
+  <wpt lat="-39.479077" lon="176.898216">
+    <name>T41-42 - Castlepoint → Napier (370 km)</name>
+    <desc>Tag 41-42 (28.04) - Castlepoint → Napier (370 km) | Stellplatz: 🆓 Freiplatz Te Karaka / Perfume Point CP (SC)
+https://www.google.com/maps/search/?api=1&amp;query=-39.479077,176.898216</desc>
+  </wpt>
+  <wpt lat="-38.686620" lon="176.069477">
+    <name>T43 - Napier → Taupō (145 km)</name>
+    <desc>Tag 43 (30.04) - Napier → Taupō (145 km) | Stellplatz: 🆓 Freiplatz auf Council-Land (außer Reserves &amp; Ferry Rd, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-38.686620,176.069477</desc>
+  </wpt>
+  <wpt lat="-38.691000" lon="176.080000">
+    <name>T44 - Taupō</name>
+    <desc>Tag 44 (01.05) - Taupō | Stellplatz: 🆓 Reid's Farm Free Campervan Site (Waikato River)
+https://www.google.com/maps/place/Reids%20Farm%2C%20Taupo/@-38.691000,176.080000,15z</desc>
+  </wpt>
+  <wpt lat="-39.416945" lon="175.399613">
+    <name>T45 - Taupō → Tongariro/Ohakune (80 km)</name>
+    <desc>Tag 45 (02.05) - Taupō → Tongariro/Ohakune (80 km) | Stellplatz: 🆓 Freiplatz Carrot Park Ohakune (SH49, SC, 1 Nacht/Monat)
+https://www.google.com/maps/search/?api=1&amp;query=-39.416945,175.399613</desc>
+  </wpt>
+  <wpt lat="-39.416700" lon="175.366700">
+    <name>T46 - Ohakune</name>
+    <desc>Tag 46 (03.05) - Ohakune | Stellplatz: 🏕 DOC Mangahuia (Tongariro, $15)
+https://www.google.com/maps/place/Mangahuia%20DOC%20Campsite%2C%20Ohakune/@-39.416700,175.366700,15z</desc>
+  </wpt>
+  <wpt lat="-38.261094" lon="175.110322">
+    <name>T47-48 - Ohakune → Waitomo (180 km)</name>
+    <desc>Tag 47-48 (04.05) - Ohakune → Waitomo (180 km) | Stellplatz: 🆓 Freiplatz im District (SC, sofern nicht ausgeschildert)
+https://www.google.com/maps/search/?api=1&amp;query=-38.261094,175.110322</desc>
+  </wpt>
+  <wpt lat="-37.812122" lon="175.763730">
+    <name>T49 - Waitomo → Matamata (95 km)</name>
+    <desc>Tag 49 (06.05) - Waitomo → Matamata (95 km) | Stellplatz: 🆓 Freiplatz Pohlen Park (Matamata, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-37.812122,175.763730</desc>
+  </wpt>
+  <wpt lat="-37.943188" lon="176.145291">
+    <name>T50-51 - Matamata (Hobbiton) → Rotorua (70 km)</name>
+    <desc>Tag 50-51 (07.05) - Matamata (Hobbiton) → Rotorua (70 km) | Stellplatz: 🆓 Freiplatz TECT Park / Government Gardens CP (SC, TECT max 3 Nächte)
+https://www.google.com/maps/search/?api=1&amp;query=-37.943188,176.145291</desc>
+  </wpt>
+  <wpt lat="-37.158766" lon="175.586661">
+    <name>T52-53 - Rotorua → Mt Maunganui → Coromandel (210 km)</name>
+    <desc>Tag 52-53 (09.05) - Rotorua → Mt Maunganui → Coromandel (210 km) | Stellplatz: 🆓 Freiplatz TCDC Thames (SC, max 2 Nächte)
+https://www.google.com/maps/search/?api=1&amp;query=-37.158766,175.586661</desc>
+  </wpt>
+  <wpt lat="-36.196807" lon="174.577689">
+    <name>T54 - Coromandel → Auckland (180 km)</name>
+    <desc>Tag 54 (11.05) - Coromandel → Auckland (180 km) | Stellplatz: 🆓 Freiplatz Rodney (Te Ārai, SC)
+https://www.google.com/maps/search/?api=1&amp;query=-36.196807,174.577689</desc>
+  </wpt>
+  <wpt lat="-34.824777" lon="173.410757">
+    <name>T55-56 - Auckland → Paihia (230 km)</name>
+    <desc>Tag 55-56 (12.05) - Auckland → Paihia (230 km) | Stellplatz: 🏕 DOC Maitai Bay (Karikari Pen., $15)
+https://www.google.com/maps/place/Maitai%20Bay%20DOC%20Campsite%2C%20Bay%20of%20Islands/@-34.824777,173.410757,15z</desc>
+  </wpt>
+  <wpt lat="-35.103930" lon="173.262492">
+    <name>T57 - Paihia → Kaitaia (70 km)</name>
+    <desc>Tag 57 (14.05) - Paihia → Kaitaia (70 km) | Stellplatz: 🆓 Freiplatz Awanui Reserve (SC, max 2 Nächte)
+https://www.google.com/maps/search/?api=1&amp;query=-35.103930,173.262492</desc>
+  </wpt>
+  <wpt lat="-34.433300" lon="172.850000">
+    <name>T58 - Kaitaia → Cape Reinga (180 km)</name>
+    <desc>Tag 58 (15.05) - Kaitaia → Cape Reinga (180 km) | Stellplatz: 🏕 DOC Tapotupotu (Cape Reinga, $15)
+https://www.google.com/maps/place/Tapotupotu%20DOC%20Campsite%2C%20Cape%20Reinga/@-34.433300,172.850000,15z</desc>
+  </wpt>
+  <wpt lat="-35.444000" lon="173.533000">
+    <name>T59 - Cape Reinga → Waipoua (Trounson) (160 km)</name>
+    <desc>Tag 59 (16.05) - Cape Reinga → Waipoua (Trounson) (160 km) | Stellplatz: 🏕 DOC Trounson Kauri Park (Waipoua, $15)
+https://www.google.com/maps/place/Trounson%20Kauri%20Park%20DOC%20Campsite%2C%20Waipoua/@-35.444000,173.533000,15z</desc>
+  </wpt>
+  <wpt lat="-36.196807" lon="174.577689">
+    <name>T60 - Waipoua (Trounson) → Auckland (180 km)</name>
+    <desc>Tag 60 (17.05) - Waipoua (Trounson) → Auckland (180 km) | Stellplatz: 🆓 Freiplatz Rodney (SC)
+https://www.google.com/maps/search/?api=1&amp;query=-36.196807,174.577689</desc>
+  </wpt>
+  <wpt lat="-36.848500" lon="174.763300">
+    <name>T61 - Auckland → Rückgabe (– km)</name>
+    <desc>Tag 61 (18.05) - Auckland → Rückgabe (– km) | Stellplatz: –</desc>
+  </wpt>
+</gpx>

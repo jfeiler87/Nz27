@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>NZ27 Versorgung</name>
-    <description>Versorgung: Wäsche (🧺), Sanidump (🚻), Frischwasser (💧), Tanken (⛽). Orte teils stadtebene (Geocoding).</description>
+    <description>Versorgung: Wäsche/Sanidump/Wasser/Tanken.</description>
     <Style id="ve"><IconStyle><color>ffff0000</color><scale>1.0</scale></IconStyle></Style>
       <Placemark>
         <name>Wäsche (T1)</name>

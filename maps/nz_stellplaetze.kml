@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>NZ27 Stellplätze</name>
-    <description>Uebernachtungs-Stellplaetze (Freiplatz/DOC/Holiday Park) je Tag.</description>
+    <description>Uebernachtungs-Stellplaetze je Tag.</description>
     <Style id="st"><IconStyle><color>ff0000ff</color><scale>1.0</scale></IconStyle></Style>
       <Placemark>
         <name>T1 - Christchurch (Abholung)</name>

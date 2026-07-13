@@ -42,7 +42,6 @@ for i, m in enumerate(headers):
     url = lm.group(0)[1:-1] if lm else None
     name = re.split(r'[·\[]', sline)[0].strip()
     coord = parse_coord(url)
-    # attractions
     am = re.search(r'🎯 Attraktionen:\*\*(.*?)(?=\*\*[⚠🛠]|###|\Z)', sec, re.S)
     attractions = []
     if am:
@@ -55,7 +54,6 @@ for i, m in enumerate(headers):
             aurl = alm.group(0)[1:-1] if alm else None
             acoord = parse_coord(aurl) if aurl else None
             attractions.append({"name": an, "rating": rating, "coord": acoord, "url": aurl})
-    # supply
     vm = re.search(r'🛠 Versorgung in der Nähe:\*\*\s*(.+)', sec)
     supply = []
     if vm:
@@ -69,7 +67,6 @@ for i, m in enumerate(headers):
     stops.append({"day": day, "date": date, "title": title, "name": name,
                   "url": url, "coord": coord, "attractions": attractions, "supply": supply})
 
-# geocode missing stellplatz coords
 for s in stops:
     if not s["coord"]:
         c = geocode(f"{s['name']}, {s['title']}, New Zealand") or geocode(f"{s['title']}, New Zealand")
@@ -79,7 +76,7 @@ for s in stops:
     if not s["coord"] and s["day"] == 61:
         s["coord"] = (-36.8485, 174.7633)
 
-# ---------- placemark helpers ----------
+# ---------- KML helpers ----------
 def pm_point(name, desc, lat, lon, style=None):
     s = f'      <Placemark>\n        <name>{esc(name)}</name>\n'
     if style: s += f'        <styleUrl>#{style}</styleUrl>\n'
@@ -108,6 +105,36 @@ def kml_doc(name, desc, pms, styles):
 def dayrange(days):
     return f"{days[0]}-{days[-1]}" if len(days) > 1 else str(days[0])
 
+# ---------- GPX helpers ----------
+GPX_HEAD = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<gpx version="1.1" creator="nz-trip-planner" '
+            'xmlns="http://www.topografix.com/GPX/1/1" '
+            'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" '
+            'xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">')
+
+def gpx_wpt_file(name, desc, wpts):
+    out = [GPX_HEAD, f'  <metadata><name>{esc(name)}</name></metadata>']
+    for label, d, lat, lon in wpts:
+        out.append(f'  <wpt lat="{lat:.6f}" lon="{lon:.6f}">')
+        out.append(f'    <name>{esc(label)}</name>')
+        out.append(f'    <desc>{esc(d)}</desc>')
+        out.append('  </wpt>')
+    out.append('</gpx>')
+    return "\n".join(out)
+
+def gpx_track_file(name, desc, legs):
+    out = [GPX_HEAD, f'  <metadata><name>{esc(name)}</name></metadata>', '  <trk>']
+    out.append(f'    <name>{esc(name)}</name>')
+    out.append(f'    <desc>{esc(desc)}</desc>')
+    out.append('    <trkseg>')
+    for leg in legs:
+        for lat, lon in leg:
+            out.append(f'      <trkpt lat="{lat:.6f}" lon="{lon:.6f}"></trkpt>')
+    out.append('    </trkseg>')
+    out.append('  </trk>')
+    out.append('</gpx>')
+    return "\n".join(out)
+
 # ---------- 1) Stellplätze ----------
 STELL = "ff0000ff"
 stell_pins = []
@@ -122,20 +149,25 @@ for s in stops:
                 "name": s["name"], "coord": s["coord"], "url": s["url"]}
         stell_pins.append(prev)
 
+stell_wpts = []
 stell_pms = []
 for p in stell_pins:
     nm = f"T{dayrange(p['days'])} - {p['title']}"
     desc = f"Tag {dayrange(p['days'])} ({p['date']}) - {p['title']}"
     if p["name"]:
         desc += f" | Stellplatz: {p['name']}"
+    link = ""
     if p["url"]:
-        desc += f"<br/>{p['url']}"
-    stell_pms.append(pm_point(nm, desc, p["coord"][0], p["coord"][1], "st"))
-stell_doc = kml_doc("NZ27 Stellplätze", "Uebernachtungs-Stellplaetze (Freiplatz/DOC/Holiday Park) je Tag.",
-                    stell_pms, [style_def("st", STELL)])
+        link = f"<br/>{p['url']}"
+        desc += f"\n{p['url']}"
+    stell_wpts.append((nm, desc, p["coord"][0], p["coord"][1]))
+    stell_pms.append(pm_point(nm, f"Tag {dayrange(p['days'])} ({p['date']}) - {p['title']}" + (f" | Stellplatz: {p['name']}" if p['name'] else "") + link, p["coord"][0], p["coord"][1], "st"))
+stell_kml = kml_doc("NZ27 Stellplätze", "Uebernachtungs-Stellplaetze je Tag.", stell_pms, [style_def("st", STELL)])
+stell_gpx = gpx_wpt_file("NZ27 Stellplätze", "Uebernachtungs-Stellplaetze je Tag.", stell_wpts)
 
 # ---------- 2) Attraktionen ----------
 ATTR = "ff00ff00"
+attr_list = []
 attr_pms = []
 attr_missing = 0
 for s in stops:
@@ -154,14 +186,18 @@ for s in stops:
         desc = f"Tag {s['day']} ({s['date']}) - {s['title']}"
         if a["rating"]:
             desc += f" | Rating {a['rating']}/10"
+        link = ""
         if a["url"]:
-            desc += f"<br/>{a['url']}"
-        attr_pms.append(pm_point(nm, desc, lat, lon, "at"))
-attr_doc = kml_doc("NZ27 Attraktionen", "Sehenswuerdigkeiten laut itinerary (mit Rating).",
-                   attr_pms, [style_def("at", ATTR)])
+            link = f"<br/>{a['url']}"
+            desc += f"\n{a['url']}"
+        attr_list.append((nm, desc, lat, lon))
+        attr_pms.append(pm_point(nm, f"Tag {s['day']} ({s['date']}) - {s['title']}" + (f" | Rating {a['rating']}/10" if a['rating'] else "") + link, lat, lon, "at"))
+attr_kml = kml_doc("NZ27 Attraktionen", "Sehenswuerdigkeiten laut itinerary (mit Rating).", attr_pms, [style_def("at", ATTR)])
+attr_gpx = gpx_wpt_file("NZ27 Attraktionen", "Sehenswuerdigkeiten laut itinerary (mit Rating).", attr_list)
 
 # ---------- 3) Versorgung ----------
 VERS = "ffff0000"
+vers_list = []
 vers_pms = []
 cnt = 0
 for s in stops:
@@ -181,29 +217,29 @@ for s in stops:
                 continue
         cnt += 1
         nm = f"{item['type']} (T{s['day']})"
-        desc = f"Tag {s['day']} ({s['date']}) - {item['type']}<br/>{item['text']}"
-        vers_pms.append(pm_point(nm, desc, place[0], place[1], "ve"))
-vers_doc = kml_doc("NZ27 Versorgung", "Versorgung: Wäsche (🧺), Sanidump (🚻), Frischwasser (💧), Tanken (⛽). Orte teils stadtebene (Geocoding).",
-                   vers_pms, [style_def("ve", VERS)])
+        desc = f"Tag {s['day']} ({s['date']}) - {item['type']}\n{item['text']}"
+        vers_list.append((nm, desc, place[0], place[1]))
+        vers_pms.append(pm_point(nm, f"Tag {s['day']} ({s['date']}) - {item['type']}<br/>{item['text']}", place[0], place[1], "ve"))
+vers_kml = kml_doc("NZ27 Versorgung", "Versorgung: Wäsche/Sanidump/Wasser/Tanken.", vers_pms, [style_def("ve", VERS)])
+vers_gpx = gpx_wpt_file("NZ27 Versorgung", "Versorgung: Wäsche/Sanidump/Wasser/Tanken.", vers_list)
 
 # ---------- 4) Fähre ----------
 FERR = "ff00a5ff"
+ferr_list = []
 ferr_pms = []
 for i, s in enumerate(stops):
     if "Fähre" in s["title"]:
         w = s["coord"] or geocode("Wellington Interislander Terminal, New Zealand")
-        p = None
-        if i > 0 and stops[i-1]["coord"]:
-            p = stops[i-1]["coord"]
-        else:
-            p = geocode("Picton, New Zealand")
+        p = stops[i-1]["coord"] if i > 0 and stops[i-1]["coord"] else geocode("Picton, New Zealand")
         if w:
+            ferr_list.append(("Interislander Fähre Wellington (Ankunft)", f"Tag {s['day']} ({s['date']}) - {s['title']}", w[0], w[1]))
             ferr_pms.append(pm_point("Interislander Fähre Wellington (Ankunft)", f"Tag {s['day']} ({s['date']}) - {s['title']}", w[0], w[1], "fe"))
         if p:
+            ferr_list.append(("Interislander Fähre Picton (Abfahrt)", "Cook Strait Fähre, Camper mitbuchten!", p[0], p[1]))
             ferr_pms.append(pm_point("Interislander Fähre Picton (Abfahrt)", "Cook Strait Fähre, Camper mitbuchten!", p[0], p[1], "fe"))
         time.sleep(1.1)
-ferr_doc = kml_doc("NZ27 Fähre", "Cook-Strait-Fähre Picton <-> Wellington (Camper mitbuchten).",
-                   ferr_pms, [style_def("fe", FERR)])
+ferr_kml = kml_doc("NZ27 Fähre", "Cook-Strait-Fähre Picton <-> Wellington.", ferr_pms, [style_def("fe", FERR)])
+ferr_gpx = gpx_wpt_file("NZ27 Fähre", "Cook-Strait-Fähre Picton <-> Wellington.", ferr_list)
 
 # ---------- 5) Route ----------
 ROUTE = "ff800080"
@@ -218,29 +254,29 @@ def osrm(lat1, lon1, lat2, lon2):
     return None
 
 route_pms = []
+route_legs = []
 ordered = [s for s in stops if s["coord"]]
 for i in range(len(ordered)-1):
     a, b = ordered[i]["coord"], ordered[i+1]["coord"]
     g = osrm(a[0], a[1], b[0], b[1])
-    if g:
-        route_pms.append(pm_line(f"T{ordered[i]['day']}-T{ordered[i+1]['day']}", [(lat, lon) for lon, lat in g], "rt"))
-    else:
-        route_pms.append(pm_line(f"T{ordered[i]['day']}-T{ordered[i+1]['day']}", [a, b], "rt"))
+    leg = [(lat, lon) for lon, lat in g] if g else [a, b]
+    route_legs.append(leg)
+    route_pms.append(pm_line(f"T{ordered[i]['day']}-T{ordered[i+1]['day']}", leg, "rt"))
     time.sleep(0.1)
-route_doc = kml_doc("NZ27 Route", "Routen-Etappen (echte Straßen via OSRM; Fähre = gerade Linie).",
-                    route_pms, [style_def("rt", ROUTE, line=True, width=3)])
+route_kml = kml_doc("NZ27 Route", "Routen-Etappen (echte Straßen via OSRM; Fähre = gerade Linie).", route_pms, [style_def("rt", ROUTE, line=True, width=3)])
+route_gpx = gpx_track_file("NZ27 Route", "Routen-Etappen (echte Straßen via OSRM; Fähre = gerade Linie).", route_legs)
 
 # ---------- write files ----------
 os.makedirs(OUTDIR, exist_ok=True)
 files = {
-    "nz_stellplaetze.kml": stell_doc,
-    "nz_attraktionen.kml": attr_doc,
-    "nz_versorgung.kml": vers_doc,
-    "nz_faehre.kml": ferr_doc,
-    "nz_route.kml": route_doc,
+    "nz_stellplaetze.kml": stell_kml, "nz_stellplaetze.gpx": stell_gpx,
+    "nz_attraktionen.kml": attr_kml, "nz_attraktionen.gpx": attr_gpx,
+    "nz_versorgung.kml": vers_kml, "nz_versorgung.gpx": vers_gpx,
+    "nz_faehre.kml": ferr_kml, "nz_faehre.gpx": ferr_gpx,
+    "nz_route.kml": route_kml, "nz_route.gpx": route_gpx,
 }
 for fn, doc in files.items():
     open(os.path.join(OUTDIR, fn), "w", encoding="utf-8").write(doc)
     print(f"  {fn}: {len(doc)} Zeichen", flush=True)
 
-print(f"Stellplatz-Pins: {len(stell_pins)} | Attraktionen: {len(attr_pms)} (ohne Koord uebersprungen: {attr_missing}) | Versorgung: {len(vers_pms)} | Fähre: {len(ferr_pms)} | Route-Legs: {len(route_pms)}", flush=True)
+print(f"Stellplatz: {len(stell_pins)} | Attraktionen: {len(attr_list)} (fehlend: {attr_missing}) | Versorgung: {len(vers_list)} | Fähre: {len(ferr_list)} | Route-Legs: {len(route_legs)}", flush=True)

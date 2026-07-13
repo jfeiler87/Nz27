@@ -20,9 +20,9 @@ The plan is built and maintained here so it can be iterated on continuously
 - `README.md` — Short human-facing overview.
 - `TODO.md` — Open planning items beyond bookings, categorized.
 - `AGENTS.md` — This file.
-- `maps/*.kml` — Google-My-Maps-Layer (je Datei = eigener Layer): `nz_stellplaetze.kml` (Übernachtungen), `nz_attraktionen.kml` (Sehenswürdigkeiten + Rating), `nz_versorgung.kml` (Wäsche / Sanidump / Wasser / Tanken), `nz_faehre.kml` (Cook-Strait-Fähre), `nz_route.kml` (Routen-Etappen). Regenerieren nach jeder Itinerar-Änderung: `python3 maps/build_kml.py` (liest `itinerary.md`).
-- `maps/build_kml.py` — Generator für die KMLs (extrahiert Koordinaten aus den `[Karte]`-Links, geocodiert Fehlende via Nominatim, Routen via OSRM).
-- `maps/README.md` — Kurzanleitung: Layer-Import in Google My Maps + Regenerierung.
+- `maps/*.kml` + `maps/*.gpx` — Je Kategorie eine Datei in beiden Formaten (KML → Google My Maps, GPX → OsmAnd/Maps.me), pro Datei = eigener Layer: `nz_stellplaetze` (Übernachtungen), `nz_attraktionen` (Sehenswürdigkeiten + Rating), `nz_versorgung` (Wäsche / Sanidump / Wasser / Tanken), `nz_faehre` (Cook-Strait-Fähre), `nz_route` (Routen-Etappen). Regenerieren nach jeder Itinerar-Änderung: `python3 maps/build_kml.py` (liest `itinerary.md`, erzeugt alle 10 Dateien).
+- `maps/build_kml.py` — Generator für KML + GPX (extrahiert Koordinaten aus den `[Karte]`-Links, geocodiert Fehlende via Nominatim, Routen via OSRM).
+- `maps/README.md` — Kurzanleitung: KML (Google My Maps) + GPX (OsmAnd/Maps.me) Import + Regenerierung.
 
 ## Hard constraints (do not violate)
 - **Dates are fixed** by the rental window (19 Mar – 18 May 2027).
