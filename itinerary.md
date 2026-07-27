@@ -14,9 +14,19 @@
 - **Freiplätze verifizieren:** Regeln/Bylaws ändern sich laufend. Immer vor Ort Schilder + **Rankers Camping NZ / CamperMate App** prüfen. Viele Freiplätze: SC-only, max 1–2 Nächte, begrenzte Plätze (früh da sein).
 - **DOC Campsite Pass:** Lohnt sich, wenn ihr viele DOC-Plätze nutzt (deckt die meisten DOC-Campsites für ein Jahr). Buchen: https://www.doc.govt.nz
 - **Jahreszeit:** Herbst (März–Mai). Mild, weniger Crowds. Später Mai = alpiner Vorwinter (Tongariro braucht Winterausrüstung).
-- **Wetterpuffer:** Mit vollem Programm bleibt kaum Puffer. Wetterabhängige Highlights flexibel halten.
+- **Wetterpuffer:** ~4–6 bewusste Puffer-Tage verteilt + Contingency (s. §0.1). Wetterabhängige Highlights flexibel halten.
 - **Preise:** Stand 2026-Raten; 2027 kann abweichen – vor Buchung prüfen. `*` = DOC (pro Erw.).
 - **Status-Spalte:** `( )` noch offen · `(x)` erledigt/gebucht.
+
+### 0.1 Wetter-Puffer, Contingency & Fallbacks (Grill-Session 27.07.2026)
+
+Folgende Design-Entscheidungen sind bestätigt (Kurzform; Details in `LOGISTIK.md` bzw. `AGENTS.md` → Entschiedene Planungsgrundsätze):
+
+- **Kein Budgetdeckel** — Leitlinie **Erlebnis > Kosten, kein Luxus**. Unterkunft bleibt frei/DOC-zuerst.
+- **Stewart Island behalten** (Tag 9–11) mit Wetter-Contingency: fällt Fähre/Flug aus → Puffer-Tag in Bluff/Invercargill, erst danach überspringen.
+- **Marquee-Aktivitäten committet, je mit Wetter-Fallback:** Tongariro Alpine Crossing → Taranaki Falls / Whakapapa Track (schon drin); Franz Josef Heli-Hike → Gletscher-Tal-Walk (schon drin); Milford → Doubtful Sound / Scenic Flight (schon drin).
+- **~4–6 bewusste Wetter-Puffer**, verteilt: Te Anau (Tag 12/13 flex), Franz Josef (Tag 25 = Puffer-Nacht), Tongariro (Tag 46 flex), + Float am Nordinsel-Ende (Tag 54/60) für ausgefallene Tage. Daten fix → Puffer = flexible Reihenfolge, keine Extra-Tage.
+- **Alpenpässe** (Crown Range, Lindis Pass, Haast Pass, Milford Road): vor Abfahrt Wetter-Check, langsamer fahren, bei Sperrung Route tauschen.
 
 ---
 
@@ -207,7 +217,7 @@ Jede Etappe ist klar gegliedert: **Fahrt/Route** · **🏕 Stellplatz** (mit Kar
 
 **🏕 Stellplatz:** 🏕 Stewart Island DOC-Campsites (Ruggedy/Ringaringa) · 🆓 Freedom Camping auf Stewart Island stark eingeschränkt – vorab prüfen · [Karte](https://www.google.com/maps/place/Oban%2C%20Stewart%20Island/@-46.893800,168.126200,15z)
 
-**⚠ Besonderheiten:** Stewart Island Fähre (Rakiura Ferry) + geführte Kiwi-Nachtwanderung vorab buchen (limitierte Plätze) · Fähre über Foveaux Strait wetterabhängig – mit Stornieroption buchen. WETTERRISIKO: fällt die Fähre aus, Stewart überspringen (kein Kaskadieren) und Tag 12 direkt Richtung Te Anau fahren.
+**⚠ Besonderheiten:** Stewart Island Fähre (Rakiura Ferry) + geführte Kiwi-Nachtwanderung vorab buchen (limitierte Plätze) · Fähre über Foveaux Strait wetterabhängig – mit Stornieroption buchen. WETTERRISIKO: fällt die Fähre/der Flug aus → 1 Puffer-Tag in Bluff/Invercargill (Contingency), danach erneut versuchen. Passt auch das nicht, Stewart überspringen (kein Kaskadieren) und Tag 12 direkt Richtung Te Anau fahren.
 
 ### Tag 10 · 28.03 — Stewart Island
 

@@ -58,8 +58,8 @@ Warum Freedom-Camping trotz Pass relevant bleibt:
 
 Lohnt sich der Pass?
 - Standard-DOC-Gebühr ~$15–20/Erw./Nacht → Pass pro Person break-even bei ~15–20 Nächten.
-- Bei 61 Tagen mit vielen DOC-Stops (Catlins, Fiordland, Mt Cook, Abel Tasman, Tongariro) vermutlich deutlich mehr → Pass lohnt sich wahrscheinlich.
-- Empfehlung: Pass kaufen bei ≥ ~15–20 DOC-Nächten pro Person; Freedom-Apps trotzdem installieren.
+- Bei 61 Tagen mit vielen DOC-Stops (Catlins, Fiordland, Mt Cook, Abel Tasman, Tongariro) vermutlich deutlich mehr → Pass lohnt sich (entschieden: kaufen).
+- Entscheidung: DOC Pass kaufen (Paar $590) — Plan hat deutlich >15–20 DOC-Nächte; Freedom-Apps trotzdem installieren.
 
 ## Pro Region
 

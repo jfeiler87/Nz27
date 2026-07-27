@@ -54,6 +54,18 @@ These sell out or have lead-time limits — act early:
 - When adding a campsite, include: real name, price (NZD), booking URL, priority tier.
 - Keep tables scannable; avoid heavy nesting.
 
+## Entschiedene Planungsgrundsätze (Grill-Session 27.07.2026)
+
+Design-Entscheidungen, bestätigt per Grill-Session (Operatives in `itinerary.md` §0.1):
+
+- Reise bestätigt (19.03.–18.05.2027 fix).
+- Kein Budgetdeckel; Leitlinie **Erlebnis > Kosten, kein Luxus**; Unterkunft bleibt frei/DOC-zuerst.
+- **Stewart Island behalten** (Tag 9–11) mit Wetter-Contingency (Puffer Bluff/Invercargill).
+- **Marquee-Aktivitäten committet + Wetter-Fallback** (Tongariro, Glacier Heli, Milford).
+- **~4–6 Wetter-Puffer** verteilt + Float am Ende.
+- **DOC Campsite Pass: kaufen** (Paar $590).
+- **Versicherung:** Reisekranken vorhanden + Camper Premium (0 € Selbstbehalt) = ausreichend.
+
 ## Git & GitHub workflow (no `gh` CLI installed)
 - Token: `GITHUB_TOKEN` lives in `~/.hermes/.env` (Hermes env file; NOT in the shell
   environment). Scope: `repo`.
