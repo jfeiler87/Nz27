@@ -23,6 +23,7 @@ data/route_cache.json┘                  └► maps/nz_*.kml|gpx    (GENERIERT
 - `tools/build.py` — Generator. `python3 tools/build.py` (online, füllt Cache) bzw. `--offline`.
   Bricht mit Exit 1 ab, wenn `reise.yaml` eine unbekannte Orts-id referenziert.
 - `itinerary.md` — generierte Lesefassung (Übersicht + Tag für Tag).
+- `BROSCHUERE.md` — Offline-Broschüre fürs Tablet (`tools/broschuere.py`), Kommentar-Export, wie man Rückmeldungen einarbeitet.
 - `maps/` — generierte KML (Google My Maps) + GPX (OsmAnd/Organic Maps); Anleitung in `maps/README.md`.
 - `BUCHUNGS_TIMELINE.md` — was wann zu buchen/zu klären ist. `TODO.md` — offene Punkte.
 - `LOGISTIK.md` — Wetter, Ausrüstung, Apps, Camper-Betrieb (Hintergrundwissen).

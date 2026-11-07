@@ -12,6 +12,7 @@ West Coast, Abel Tasman/Golden Bay, Kaikōura), Fähre am 25.04., Nordinsel bis 
 - **[LOGISTIK.md](LOGISTIK.md)** — Wetter, Ausrüstung, Apps, Camper-Betrieb.
 - **[maps/](maps/README.md)** — KML (Google My Maps) und GPX (Organic Maps/OsmAnd) je Layer.
 - **[recherche/](recherche/)** — Faktenchecks mit Quellen.
+- **[BROSCHUERE.md](BROSCHUERE.md)** — Offline-Broschüre fürs Tablet bauen und Kommentare einarbeiten.
 
 ## Plan ändern
 Nicht `itinerary.md` editieren, sondern `data/reise.yaml` (Tage) bzw. `data/orte_*.json` (Orte), dann:

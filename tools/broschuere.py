@@ -44,6 +44,7 @@ for fn in sorted(glob.glob(os.path.join(DATA, "orte_*.json"))):
 REISE = load_yaml("reise.yaml", {})
 ABLAUF = load_yaml("ablauf.yaml", {}) or {}
 VORSCHLAEGE = load_yaml("vorschlaege.yaml", []) or []
+BESCHR = load_yaml("beschreibungen.yaml", {}) or {}
 ROUTES = json.load(open(os.path.join(DATA, "route_cache.json"), encoding="utf-8"))
 BILDER = {}
 for fn in glob.glob(os.path.join(DATA, "bilder_*.json")):
@@ -51,9 +52,13 @@ for fn in glob.glob(os.path.join(DATA, "bilder_*.json")):
 START = dt.date.fromisoformat(str(REISE["meta"]["start"]))
 
 
-def nav(oid):
+def nav(oid, origin=None):
     o = ORTE[oid]
-    return f"https://www.google.com/maps/dir/?api=1&destination={o['lat']:.6f},{o['lon']:.6f}&travelmode=driving"
+    u = f"https://www.google.com/maps/dir/?api=1&destination={o['lat']:.6f},{o['lon']:.6f}&travelmode=driving"
+    if origin and origin in ORTE and origin != oid:
+        s = ORTE[origin]
+        u += f"&origin={s['lat']:.6f},{s['lon']:.6f}"
+    return u
 
 
 # ------------------------------------------------------------------ Sonne (NOAA-Näherung)
@@ -137,13 +142,17 @@ def route_fuer(a, b):
     return ROUTES.get(f"{oa['lat']:.5f},{oa['lon']:.5f}|{ob['lat']:.5f},{ob['lon']:.5f}")
 
 
+VON = None  # Startpunkt des aktuellen Tages (für origin= in Navigationslinks)
+
+
 def ortinfo(oid):
     o = ORTE.get(oid)
     if not o:
         return {"id": oid, "name": oid, "fehlt": True}
     return {"id": oid, "name": o["name"], "ziel": o.get("ziel", ""), "hinweis": o.get("hinweis", ""),
-            "unsicher": o.get("konfidenz") == "niedrig", "nav": nav(oid), "lat": o["lat"], "lon": o["lon"],
-            "bilder": bilder_fuer(oid)}
+            "unsicher": o.get("konfidenz") == "niedrig", "nav": nav(oid, VON), "navhier": nav(oid),
+            "start": ORTE[VON]["name"] if VON in ORTE and VON != oid else "",
+            "text": BESCHR.get(oid, ""), "lat": o["lat"], "lon": o["lon"], "bilder": bilder_fuer(oid)}
 
 
 tage = []
@@ -151,6 +160,7 @@ prev = REISE["meta"].get("startort")
 for t in REISE["tage"]:
     d = START + dt.timedelta(days=t["tag"] - 1)
     von = t.get("start_ort") or prev
+    VON = von
     n = t.get("nacht")
     ziel = n["ort"] if n else t.get("end_ort")
     r = None if t.get("faehre") else route_fuer(von, ziel)
@@ -169,13 +179,14 @@ for t in REISE["tage"]:
                                                        "ort": ortinfo(a["ort"])} for a in n.get("alternativen", [])]},
         "versorgung": [{"typ": VERS.get(v["typ"], v["typ"]), "text": v.get("text", ""),
                         "ort": ortinfo(v["ort"]) if v.get("ort") else None} for v in t.get("versorgung", [])],
-        "ablauf": (ABLAUF.get(t["tag"]) or {}),
+        "ablauf": (ABLAUF.get(t["tag"]) or {}), "von": ORTE[von]["name"] if von in ORTE else "",
         "vorschlaege": [{"id": f"v{t['tag']}-{v['ort']}", "titel": v["titel"], "text": v.get("text", ""),
                          "aufwand": v.get("aufwand", ""), "quelle": v.get("quelle", ""), "ort": ortinfo(v["ort"])}
                         for v in VORSCHLAEGE if v.get("tag") == t["tag"]],
     })
     prev = ziel or prev
 
+VON = None
 DATEN = {
     "titel": REISE["meta"]["titel"], "gebaut": dt.datetime.now().strftime("%d.%m.%Y %H:%M"),
     "fixpunkte": [{"datum": f["datum"], "was": f["was"], "ort": ortinfo(f["ort"]) if f.get("ort") else None}

@@ -60,7 +60,10 @@ svg.map{width:100%;height:auto;background:var(--sea);border-radius:14px;border:1
 .map .pt{fill:var(--acc)}
 .map .ptc{fill:var(--route)}
 .map text{font-size:.42px;fill:var(--ink)}
-.two{display:grid;grid-template-columns:1fr 280px;gap:22px;align-items:start}
+.lead{font-size:19px;font-weight:550}
+.fliess p{margin:0 0 12px}
+.otext{margin:8px 0 4px}.otext p{margin:0 0 8px}
+.two{display:grid;grid-template-columns:1fr 340px;gap:22px;align-items:start}
 table{border-collapse:collapse;width:100%;font-size:15px}
 td,th{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
 #warn{display:none;background:var(--warn);color:#fff;padding:8px 14px;font-size:14px}
@@ -90,6 +93,7 @@ function save(){try{localStorage.setItem(KEY,JSON.stringify(S));}catch(e){speich
 const $=(s,el=document)=>el.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const md=s=>esc(s).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>");
+const absaetze=s=>String(s||"").trim().split(/\n\s*\n/).map(x=>`<p>${md(x)}</p>`).join("");
 const hatKommentar=id=>(S.seiten[id]&&S.seiten[id].text.trim())?1:0;
 
 /* ---------- Karte ---------- */
@@ -124,7 +128,7 @@ function bilder(o){return o&&o.bilder&&o.bilder.length?`<div class="imgs">${o.bi
 function ortZeile(o,extra=""){
   if(!o)return"";
   if(o.fehlt)return `<div class="ort"><span class="name">${esc(o.name)}</span><span class="badge b-warn">Koordinate fehlt</span></div>`;
-  return `<div class="ort"><span class="name">${esc(o.name)}</span>${extra}${o.unsicher?'<span class="badge b-warn">⚠ Ort unsicher</span>':""}<a class="navbtn" href="${o.nav}" target="_blank" rel="noopener">🧭 Navigation</a></div>${o.ziel?`<div class="ziel">Ziel: ${esc(o.ziel)}</div>`:""}${o.hinweis?`<div class="ziel">${esc(o.hinweis)}</div>`:""}`;
+  return `<div class="ort"><span class="name">${esc(o.name)}</span>${extra}${o.unsicher?'<span class="badge b-warn">⚠ Ort unsicher</span>':""}<a class="navbtn" href="${o.nav}" target="_blank" rel="noopener">🧭 ${o.start?"Route ab "+esc(o.start.split(" (")[0].slice(0,28)):"Navigation"}</a>${o.start?`<a class="ziel" href="${o.navhier}" target="_blank" rel="noopener">📍 ab Standort</a>`:""}</div>${o.text?`<div class="otext">${absaetze(o.text)}</div>`:""}${o.ziel?`<div class="ziel">Ziel: ${esc(o.ziel)}</div>`:""}${o.hinweis?`<div class="ziel">${esc(o.hinweis)}</div>`:""}`;
 }
 function kommentar(id,label){
   const v=(S.seiten[id]||{}).text||"";
@@ -153,9 +157,9 @@ function seiteTag(t){
   const a=t.ablauf||{};
   let h=`<div class="kicker">Tag ${t.tag} · ${esc(t.datum)} · ${t.insel=="sued"?"Südinsel":"Nordinsel"}</div><h1>${esc(t.titel)}</h1>
   <div class="chips">${t.km!=null?`<span class="chip">🚐 ${t.km} km · ${Math.floor(t.min/60)}:${String(t.min%60).padStart(2,"0")} h</span>`:""}<span class="chip">🌅 ${t.sonne[0]} · 🌇 ${t.sonne[1]}</span>${t.vorschlaege.length?`<span class="chip">💡 ${t.vorschlaege.length} Vorschlag</span>`:""}</div>
-  <div class="two"><div>${a.intro?`<p>${md(a.intro)}</p>`:""}${t.fahrt?`<p class="ziel">${md(t.fahrt)}</p>`:""}
-  ${(a.schritte||[]).length?`<div class="sec">So könnte der Tag laufen</div><div class="card"><ul class="timeline">${a.schritte.map(s=>`<li><span class="z">${esc(s.zeit)}</span><span>${md(s.text)}</span></li>`).join("")}</ul></div>`:""}
-  </div><div>${karte(t)}</div></div>`;
+  <div class="two"><div>${a.intro?`<p class="lead">${md(a.intro)}</p>`:""}${a.text?`<div class="fliess">${absaetze(a.text)}</div>`:""}${t.fahrt?`<p class="ziel">${md(t.fahrt)}</p>`:""}</div>
+  <div>${karte(t)}<p class="ziel">${t.von?`Start: ${esc(t.von)}`:""}${t.nacht?`<br>Ziel: ${esc(t.nacht.ort.name)}`:""}</p></div></div>
+  ${(a.schritte||[]).length?`<div class="sec">So könnte der Tag laufen</div><div class="card"><ul class="timeline">${a.schritte.map(s=>`<li><span class="z">${esc(s.zeit)}</span><span>${md(s.text)}</span></li>`).join("")}</ul></div>`:""}`;
   t.hinweise.forEach(x=>h+=`<div class="hint">⚠️ ${md(x)}</div>`);
   if(t.programm.length){h+=`<div class="sec">Programm</div>`;t.programm.forEach(p=>{h+=`<div class="card">${ortZeile(p.ort,p.optional?'<span class="badge b-opt">optional</span>':"")}${p.text?`<p>${md(p.text)}</p>`:""}${bilder(p.ort)}</div>`})}
   if(t.nacht){const n=t.nacht;h+=`<div class="sec">Übernachtung</div><div class="card">${ortZeile(n.ort,`<span class="badge">${esc(n.typ)}</span>`)}${n.hinweis?`<p>${md(n.hinweis)}</p>`:""}${bilder(n.ort)}${n.alternativen.map(x=>`<div style="margin-top:14px;padding-top:12px;border-top:1px solid var(--line)"><div class="ziel">Alternative</div>${ortZeile(x.ort,`<span class="badge">${esc(x.typ)}</span>`)}${x.hinweis?`<div class="ziel">${md(x.hinweis)}</div>`:""}</div>`).join("")}</div>`}

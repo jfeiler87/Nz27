@@ -1,0 +1,1425 @@
+1:
+  "intro": "Ankommen statt Programm: Camper übernehmen, einkaufen, früh schlafen."
+  "text": |-
+    Der erste Tag bleibt bewusst klein. Nach dem langen Flug ist nichts weiter geplant, als den Camper zu übernehmen und sich in Christchurch einzurichten. Vom Hotel Lylo am Flughafen sind es nur wenige Minuten zum Britz-Depot in Harewood, das um 08:00 öffnet. Der Hotel-Check-out ist bis 10:00 möglich, es besteht also keine Eile.
+
+    Bei der Übergabe lohnt es sich, in Ruhe nachzufragen: grüne SC-Plakette, Kettenregel, späteste Rückgabezeit, dazu Gas, Toilette und Wasser. Danach geht es zum Großeinkauf in den Supermarkt Northlands/Papanui, SIM oder eSIM werden aktiviert und die Offline-Karten geladen. Wer Kleidung waschen möchte, nutzt die Wäscherei, deren Standort laut Plan unsicher ist.
+
+    Die Strecke ist mit 7 km und rund zehn Minuten reiner Fahrzeit minimal. Die erste Nacht verbringt ihr auf einem Holiday Park mit Strom, damit der Camper zur Ruhe kommt und ihr den Jetlag ausschlafen könnt. Sonnenuntergang ist um 19:45, den Abend lässt ihr einfach ausklingen. Morgen geht es zum ersten Mal wirklich los, in Richtung Akaroa.
+  "schritte":
+  - "zeit": "08:30"
+    "text": "Ausschlafen und in Ruhe frühstücken, Gepäck packen. Das Britz-Depot öffnet zwar um 08:00, aber niemand muss als Erster dort sein."
+  - "zeit": "09:45"
+    "text": "Hotel-Check-out (spätestens 10:00) und die paar Minuten zum Britz-Depot Harewood fahren."
+  - "zeit": "~10:00"
+    "text": "Camper übernehmen: grüne SC-Plakette, Kettenregel und späteste Rückgabezeit erfragen, Gas, Toilette und Wasser erklären lassen. Eine gute Stunde einplanen."
+  - "zeit": "~11:30"
+    "text": "SIM/eSIM aktivieren und Offline-Karten laden, am besten bei einem Kaffee, bevor es losgeht."
+  - "zeit": "~12:30"
+    "text": "Mittagessen, dann Großeinkauf im Supermarkt Northlands/Papanui: Grundausstattung für die ersten Tage."
+  - "zeit": "~14:30"
+    "text": "Wer die Flugkleidung waschen will, nutzt die Wäscherei (Standort laut Plan unsicher, vorher kurz prüfen). Sonst direkt zum Holiday Park."
+  - "zeit": "~15:30"
+    "text": "Einchecken auf dem Christchurch TOP 10 Holiday Park, an den Strom, Betten machen, Camper einräumen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:45. Früh essen und früh schlafen, damit der Jetlag morgen nicht die Fahrt nach Akaroa trübt."
+2:
+  "intro": "Über die Port Hills zum Hafenstädtchen Akaroa, mit Delfin-Cruise als Tageshöhepunkt."
+  "text": |-
+    Von Christchurch führt die Straße über die Port Hills hinauf zum Hilltop Lookout. Von dort blickt man in den Krater des erloschenen Vulkans, in dem Akaroa Harbour liegt. Es ist ein schöner Auftakt für die Reise, und der Fotostopp lohnt sich. Die reine Fahrzeit von 1:29 h verlängert sich im Camper auf rund 1:45 h.
+
+    In Akaroa selbst bestimmt die Delfin-Cruise den Rhythmus. Die Hafenrundfahrt mit Black Cat zeigt Hector-Delfine, die Saison dauert bis etwa April. Die Uhrzeit richtet sich nach der Buchung, die zwei bis vier Wochen vorher erfolgen sollte. Der Ort hat französische Wurzeln, mit Cafés, einem Leuchtturm und kleinen Straßen zum Bummeln.
+
+    Übernachtet wird am Childrens Bay Freedom Camping, nur mit grüner SC-Plakette und nach Prüfung der Schilder vor Ort. Falls der Platz nicht passt, ist der Akaroa Top 10 Holiday Park die Alternative. Am Wochenende kann der Parkplatz im Ort knapp sein, plant also etwas Zeit zum Suchen ein.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt in Christchurch. Reine Fahrzeit 1:29 h, im Camper realistisch rund 1:45 h."
+  - "zeit": "~10:30"
+    "text": "Fotostopp am Hilltop Lookout (Hilltop Tavern, Akaroa Rd) mit Blick über den Akaroa-Krater."
+  - "zeit": "~11:15"
+    "text": "Ankunft in Akaroa, Camper am Wharf oder in der Nähe abstellen. Wochenende: etwas Parkplatzsuche einplanen."
+  - "zeit": "~12:00"
+    "text": "Delfin-Cruise ab Akaroa Wharf (Black Cat). Die genaue Uhrzeit richtet sich nach der gebuchten Abfahrt, den Rest des Tages darum herum legen."
+  - "zeit": "~14:00"
+    "text": "Mittagessen in einem Café im französisch angehauchten Dörfchen."
+  - "zeit": "~15:30"
+    "text": "Bummel durch den Ort und zum Leuchtturm."
+  - "zeit": "~17:00"
+    "text": "Zum Freedom-Camping-Platz Childrens Bay, Schild und SC-Plakette prüfen. Ist er voll oder unklar: Akaroa Top 10 Holiday Park."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:42, Abendessen mit Blick auf die Bucht."
+3:
+  "intro": "Zurück durch Christchurch und auf der Inland Scenic Route 72 nach Peel Forest."
+  "text": |-
+    Heute geht es vom Meer ins Landesinnere. Von Akaroa fahrt ihr zurück durch Christchurch und folgt dann der Inland Scenic Route 72 über Mt Somers und Geraldine nach Süden. Die reine Fahrzeit beträgt knapp drei Stunden, im Camper sind es eher dreieinhalb. Der Tag ist ein Fahrtag mit ruhigen Pausen, die Landschaft wird allmählich weiter.
+
+    Mount Sunday, die Kulisse von Edoras, bleibt eine Option. Die Zufahrt über die Hakatere-Potts Rd hat aber mehr als 12 km Schotter und ist nur mit schriftlicher Britz-Freigabe erlaubt. Ohne diese Freigabe lasst ihr den Abstecher aus. Mit Freigabe wird die Nacht am Lake Clearwater verbracht, rund 10 km Schotter, und nicht in Peel Forest.
+
+    In Peel Forest wartet der DOC Campground mit kurzen Waldwegen ab Te Wanahu Flat. Ihr besucht die Big Tōtara und die Emily Falls, beides ohne großen Aufwand. Der Sonnenuntergang um 19:47 gibt genug Zeit. Morgen ist Vollmond, die Nacht wird hell.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt in Akaroa, zurück durch Christchurch (reine Fahrzeit 2:58 h, im Camper rund 3:30 h bis Peel Forest)."
+  - "zeit": "~10:30"
+    "text": "Kurzer Stopp in Christchurch oder an der Strecke für Tanken und Nachkaufen. Sonntag, die Läden sind offen."
+  - "zeit": "~11:30"
+    "text": "Auf die Route 72 Richtung Mt Somers und Geraldine, Landschaft genießen, Picknick-Pause."
+  - "zeit": "~12:30"
+    "text": "Optional Mount Sunday: nur mit schriftlicher Britz-Freigabe. Dann geht die Nacht an den Lake Clearwater statt nach Peel Forest, der Schotter (~10 km) ist laut Plan knapp unter der 12-km-Grenze."
+  - "zeit": "~14:30"
+    "text": "Ankunft in Peel Forest, Platz auf dem DOC Campground sichern."
+  - "zeit": "~15:30"
+    "text": "Kurze Waldwege ab Te Wanahu Flat zur Big Tōtara und zu den Emily Falls."
+  - "zeit": "~17:30"
+    "text": "Kaffee und Ruhe am Camper, Abendessen kochen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:47, danach früh schlafen. Morgen ist Vollmond, die Nacht wird hell."
+4:
+  "intro": "Der türkise Lake Tekapo mit Kirche, Aussichtsberg und optional heißen Becken."
+  "text": |-
+    Von Peel Forest geht die Fahrt über Geraldine und Fairlie in Richtung Burkes Pass und hinauf ins Mackenzie-Becken. Mit 105 km und knapp zwei Stunden im Camper ist der Tag kurz. Das Licht ist die Hauptsache: Der See ist am schönsten bei tiefstehender Sonne, deshalb bleibt am Nachmittag Zeit.
+
+    Die Church of the Good Shepherd steht am Ufer des türkisfarbenen Sees. Um die Mittagszeit sind oft Busse da, daher am besten kurz schauen und in Ruhe fotografieren. Danach führt die Mt John Summit Road zum Astro Café, von wo der Blick über das gesamte Becken reicht. Optional gibt es Tekapo Springs mit heißen Becken und Seeblick.
+
+    Freedom Camping im Ort Tekapo ist verboten. Die Nacht verbringt ihr deshalb am Edwards Stream Overnight, ungefähr 6 km östlich, nur mit SC-Plakette. Alternativ steht der Lakes Edge Holiday Park direkt am See bereit. Am 22.03. ist Vollmond, Sterne gibt es erst in den späteren Nächten, etwa um den 7.4. in Wanaka und Haast.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt in Peel Forest über Geraldine und Fairlie, reine Fahrzeit 1:27 h, im Camper gut 1:45 h."
+  - "zeit": "~11:30"
+    "text": "Ankunft in Tekapo. Church of the Good Shepherd: um die Mittagszeit sind Busse da, also kurz schauen und die Fotos in Ruhe machen."
+  - "zeit": "~12:30"
+    "text": "Mittagessen am See oder im Ort."
+  - "zeit": "~14:00"
+    "text": "Mt John Summit Road hinauf, Astro Café, Rundumblick über das Becken."
+  - "zeit": "~16:00"
+    "text": "Optional Tekapo Springs: heiße Becken mit Seeblick, schön bei Kälte und tiefer Sonne."
+  - "zeit": "~17:30"
+    "text": "Einkauf oder Wasser auffüllen, dann Fahrt zum Platz Edwards Stream Overnight, ca. 6 km östlich. SC-Plakette und Schild prüfen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:48, Vollmond steigt auf. Fällt der Platz aus: Lakes Edge Holiday Park direkt am See."
+5:
+  "intro": "Peters Lookout am Pukaki und der Hooker Valley Track unter Mt Cook."
+  "text": |-
+    Zwischen Tekapo und Aoraki/Mt Cook liegt eine der schönsten Strecken der Südinsel. Der erste Stopp ist Peters Lookout am Lake Pukaki, der klassische Fotopunkt über dem türkisfarbenen See. Bei klarem Wetter steht Mt Cook am Horizont. Die Fahrt dauert reine 1:31 h, im Camper knapp zwei Stunden.
+
+    Am White Horse Hill Campsite checkt ihr ein, den Platz habt ihr für zwei Nächte vorab online gebucht. Am frühen Nachmittag geht ihr den Hooker Valley Track: 10 km hin und zurück, rund 100 Höhenmeter und etwa drei Stunden mit Fotopausen. Hängebrücken führen über den Fluss, am Ende liegt ein Gletschersee mit dem Berg vor euch.
+
+    Packt Wasser, Proviant und Regenjacke ein, denn das Wetter im Hochgebirge wechselt schnell. Sonnenuntergang ist um 19:48. Wenn die Wolken weg sind, färbt sich der Berg zum Abend. Der Platz ist der ideale Ausgangspunkt für den Pufferplan von morgen. Praktisch gedacht: Der DOC Campsite ist online vorgebucht, es gibt also keinen Stress bei der Platzsuche. Kocht am Camper, genießt den Blick auf die Berge und legt euch rechtzeitig hin, denn der Puffertag morgen hängt vom Wetter ab.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt in Tekapo (reine Fahrzeit 1:31 h)."
+  - "zeit": "~09:45"
+    "text": "Peters Lookout am Lake Pukaki, der klassische Fotostopp. Mt Cook am Horizont, wenn das Wetter mitspielt."
+  - "zeit": "~11:00"
+    "text": "Weiter am See entlang nach Mt Cook Village, Camper am DOC Campsite einchecken."
+  - "zeit": "~12:00"
+    "text": "Mittagessen am Camper, Proviant und Wasser für die Wanderung packen."
+  - "zeit": "~13:00"
+    "text": "Hooker Valley Track ab dem White Horse Hill Parkplatz, 10 km hin und zurück, rund 3 h inklusive Fotopausen."
+  - "zeit": "~16:30"
+    "text": "Zurück am Camper, Pause, Kaffee, Füße hoch."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:48. Wenn die Wolken weg sind, färbt sich Mt Cook zum Abend rosa."
+6:
+  "intro": "Pufferfenster am Mt Cook: Gletscherblick, Kea Point oder Skiflug, je nach Wetter."
+  "text": |-
+    Der zweite Tag am White Horse Hill ist ein Puffertag. Die Idee ist einfach: Hat gestern der Hooker Valley Track geklappt, ist heute entspannt angesagt. War das Wetter schlecht, holt ihr die Wanderung nach. Das erspart Stress und Entscheidungen im letzten Moment.
+
+    Zur ruhigen Variante gehören der Tasman Glacier View und die Blue Lakes, beides mit kurzen Wegen und ein paar Treppen. Danach folgt der Kea Point, rund zwei Stunden Wanderung mit Blick auf Gletscher und Berg. Der Skiflug mit Gletscherlandung am Tasman Glacier ist optional, braucht klares Wetter und lässt sich spontan buchen.
+
+    Der Abend bleibt ruhig am DOC Campsite. Der Sonnenuntergang um 19:46 kommt auf der Ostseite des Berges mit weichem Licht. Morgen steht die längste Fahrt der Südinsel an, deshalb früh essen und schlafen gehen. Tankstand und Vorräte vorher prüfen. Die Route des Tages ist kurz und bleibt im Tal rund um White Horse Hill. Das ist Absicht: Ein Puffertag soll Luft lassen, damit ihr nicht kaskadiert, sondern gelassen entscheidet. Fällt ein Highlight aus, wird nichts erzwungen.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Wetter prüfen und Plan wählen. Gestern gelaufen: Variante A. Gestern verregnet: Variante B."
+  - "zeit": "~09:30"
+    "text": "Variante A: Tasman Glacier View mit kurzen Treppen und Blick auf die Blue Lakes. Variante B: Hooker Valley Track nachholen, 10 km, ca. 3 h."
+  - "zeit": "~11:30"
+    "text": "Optional Skiflugzeug ab Mount Cook Airport, nur bei klarem Himmel, spontan buchbar. Bei Wolken lieber am Boden bleiben."
+  - "zeit": "~13:00"
+    "text": "Mittagessen am Camper."
+  - "zeit": "~14:30"
+    "text": "Variante A: Kea Point (ca. 2 h), Blick auf Mueller-Gletscher und Mt Cook. Variante B: Tasman Glacier View, wenn noch Lust und Sicht."
+  - "zeit": "~17:00"
+    "text": "Zurück am DOC Campsite, ausruhen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:46. Klare Nacht, früh schlafen, morgen wartet eine lange Fahrt."
+7:
+  "intro": "Langer Fahrtag durchs Waitaki-Tal nach Oamaru, mit Clay Cliffs, Elephant Rocks und Pinguinen am Abend."
+  "text": |-
+    Der Tag führt vom Hochgebirge ans Meer, rund 228 km und reine 3:13 h Fahrzeit, im Camper eher 3:50 h plus Stopps. Es ist der längste Fahrtag der Südinsel, der Weg durch das Waitaki-Tal ist aber abwechslungsreich. Das Tal wird nach unten hin weiter und trockener, mit kahlen Hügeln und Seen.
+
+    Die Clay Cliffs bei Omarama sind ein kurzer Spaziergang an eine Landschaft aus erodierten Lehmwänden, mit Maut für die Zufahrt. Danach folgen die Elephant Rocks bei Duntroon, bekannt als Kulisse für Narnia. Kommt ihr am Nachmittag in Oamaru an, steht ein Großeinkauf für Ostern an, denn am Karfreitag und Ostersonntag bleiben die Läden zu. Tankt bei BP Oamaru.
+
+    Abends kommen die Zwergpinguine der Blue Penguin Colony an Land, ganzjährig jeden Abend. Das Abendticket ist vorgebucht, die Zeit steht darauf. Danach fahrt ihr im Dunkeln nach All Day Bay. Wenn ihr zu müde seid, steht als Alternative der Oamaru TOP 10 Holiday Park bereit.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Abfahrt in Mt Cook. Reine Fahrzeit 3:13 h, im Camper rund 3:50 h plus Stopps."
+  - "zeit": "~10:30"
+    "text": "Clay Cliffs bei Omarama (kurzer Weg, Mautstraße)."
+  - "zeit": "~12:00"
+    "text": "Mittagspause unterwegs, Picknick oder Café."
+  - "zeit": "~14:00"
+    "text": "Elephant Rocks bei Duntroon, die Kulisse aus Narnia."
+  - "zeit": "~15:30"
+    "text": "Ankunft in Oamaru: Großeinkauf für die Ostertage und Tanken bei BP Oamaru, Thames St."
+  - "zeit": "~17:00"
+    "text": "Kleine Pause im Hafen, dann Abendessen."
+  - "zeit": "~19:45"
+    "text": "Blue Penguin Colony mit Abendticket. Eintrittszeit laut Ticket, die Pinguine kommen nach Sonnenuntergang (19:41) an Land."
+  - "zeit": "nachts"
+    "text": "Fahrt nach All Day Bay (Kakanui), Ankunft im Dunkeln. Schild und SC-Plakette prüfen, notfalls Holiday Park."
+8:
+  "intro": "Karfreitag an der Küste: Moeraki Boulders nach der Tide, Tunnel Beach und Ankunft auf der Otago Peninsula."
+  "text": |-
+    Am Karfreitag sind die Supermärkte geschlossen, Tankstellen aber offen. Der Einkauf von gestern macht sich jetzt bezahlt. Die Küstenstraße führt von All Day Bay südwärts, zuerst zu den Moeraki Boulders. Die runden Steine sind bei Ebbe am schönsten, die Gezeitentabelle bestimmt deshalb den Zeitpunkt.
+
+    Ist die Ebbe am Vormittag, kommt ihr direkt hin. Liegt sie später, nehmt euch Zeit am Strand und kommt am Mittag. Weiter geht es Richtung Dunedin zum Tunnel Beach: 2 km Weg, der Rückweg ist steil mit rund 150 Höhenmetern. Plant ausreichend Zeit ein, auch wenn die Sonne erst um 19:40 untergeht.
+
+    Zum Schluss fahrt ihr über die Otago Peninsula nach Portobello und checkt im Portobello Village Tourist Park ein. Freedom Camping ist hier sehr eingeschränkt, deshalb gibt es den Holiday Park. Die Dump Station in St Kilda (Standort laut Plan unsicher) liegt unterwegs, falls ihr sie braucht. Reine Fahrzeit insgesamt: 1:51 h. Die Fahrt folgt der SH1 entlang der Ostküste, mit Meer auf der einen und Weideland auf der anderen Seite. Am Karfreitag ist wenig Verkehr in den Orten, Cafés können aber geschlossen sein. Ein Picknick aus den Vorräten ist die sichere Lösung.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Ruhiger Start in All Day Bay, Frühstück am Strand. Gezeitentabelle für Moeraki Boulders prüfen."
+  - "zeit": "~10:30"
+    "text": "Moeraki Boulders je nach Ebbe/Flut (Gezeitentabelle prüfen). Ebbe am Vormittag: direkt hierher, Boulders liegen frei. Ebbe erst mittags/nachmittags: etwas später kommen und vorher in Ruhe am Strand verweilen."
+  - "zeit": "~12:00"
+    "text": "Mittagessen unterwegs (Karfreitag: vorher eingekauft oder Café). Weiter nach Süden Richtung Dunedin, reine Fahrzeit gesamt 1:51 h, im Camper plus ca. 20 %."
+  - "zeit": "~14:30"
+    "text": "Tunnel Beach: 2 km, steiler Rückweg mit rund 150 Hm. Genug Zeit einplanen, Sonnenuntergang ist 19:40."
+  - "zeit": "~16:30"
+    "text": "Optional Dump Station Dunedin (Dunedin Holiday Park, St Kilda), Standort unsicher, vor Ort prüfen. Tankstellen haben heute offen."
+  - "zeit": "~17:30"
+    "text": "Fahrt über die Otago Peninsula nach Portobello, Check-in im Portobello Village Tourist Park."
+  - "zeit": "abends"
+    "text": "Abendessen aus dem eigenen Vorrat, Karfreitag sind Läden zu."
+9:
+  "intro": "Ein Halbinseltag mit Seelöwen, Albatrossen und Pinguinen, dazu Wäsche in Dunedin."
+  "text": |-
+    Der zweite Tag auf der Otago Peninsula ist ein gemütlicher Tag ohne Fahrtstrecke. Am Morgen fahrt ihr zum Liquid Laundromat in Dunedin und gebt die Wäsche ab. Währenddessen gibt es Kaffee in der Nähe. Der Sonnenuntergang um 19:38 lässt dem Nachmittag viel Licht.
+
+    Sandfly Bay ist das landschaftliche Highlight: Dünen und Seelöwen am Strand, der Abstieg ist steil, der Rückweg entsprechend anstrengend. Am Nachmittag wartet das Royal Albatross Centre am Taiaroa Head. Die Albatrosse haben rund 3 m Spannweite, und der März gilt als gute Zeit. Das Zentrum ist optional und hängt von der Buchung ab.
+
+    Penguin Place mit Gelbaugenpinguinen ist ebenfalls optional und nur sinnvoll, wenn die Touren Ende März bestätigt sind. Prüft vorher telefonisch. Am Ende des Tages seid ihr zurück im Portobello Village Tourist Park. Der Tag hat keinen Druck, nehmt nur mit, worauf ihr Lust habt. Die Halbinsel hat schmale Straßen mit Meerblick, das Fahren ist ruhig, aber langsam. Seid ihr mit Albatros und Pinguinen fertig, bleibt noch Zeit für einen Spaziergang am Wasser in Portobello, bevor der Abend am Camper beginnt.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Fahrt zum Liquid Laundromat Dunedin (28 Prince Albert Rd), Wäsche einwerfen. Während des Waschens Frühstückscafé in der Nähe."
+  - "zeit": "~10:30"
+    "text": "Auf der Rückfahrt Sandfly Bay: Dünen und Seelöwen. Der Abstieg ist steil, Rückweg entsprechend. Sonnenuntergang ist 19:38, der Nachmittag bleibt hell."
+  - "zeit": "~12:30"
+    "text": "Mittagessen am Camper oder im Café Portobello."
+  - "zeit": "~14:00"
+    "text": "Optional Royal Albatross Centre am Taiaroa Head: Albatrosse mit rund 3 m Spannweite, gute Zeit im März. Abfahrtszeit nach Buchung."
+  - "zeit": "~16:00"
+    "text": "Optional Penguin Place (Gelbaugenpinguine), nur wenn Touren Ende März bestätigt sind."
+  - "zeit": "~17:30"
+    "text": "Zurück im Holiday Park, Wäsche verstauen, Zeit am Wasser."
+  - "zeit": "abends"
+    "text": "Zweite Nacht in Portobello. Kein Fahrtag mehr heute, einfach gemütlich kochen."
+10:
+  "intro": "Ostersonntag in die Catlins: Volltanken in Balclutha, Nugget Point und die Purakaunui Falls."
+  "text": |-
+    Der Ostersonntag bringt euch von der Otago Peninsula in die Catlins. Die reine Fahrzeit von 2:21 h wird im Camper zu rund drei Stunden. Läden sind teils zu, deshalb tankt ihr in Balclutha voll, bevor die einsame Küstenregion beginnt. Danach gibt es kaum noch Tankstellen.
+
+    Der erste große Stopp ist Nugget Point mit dem Leuchtturm auf einem schmalen Felsgrat und Robben in der Tiefe. Der Weg vom Parkplatz ist kurz, die Aussicht beeindruckend. Danach folgen die Purakaunui Falls, ein Wasserfall in 20 Minuten Gehzeit, eingebettet in Wald.
+
+    Der Purākaunui Bay DOC Campsite ist über Ostern schnell voll, also nicht zu spät eintreffen. Als Alternative steht die Papatowai Campsite bereit. Der Sonnenuntergang um 19:40 färbt die Bucht, und das Abendessen gelingt mit den Vorräten aus Oamaru. Morgen ist ein Tide-Tag, darum Gezeitentabelle bereithalten. Die Strecke führt von Dunedin zunächst über die SH1 nach Balclutha und dann in die Catlins, wo die Straßen schmaler und kurviger werden. Die Landschaft aus Wald, Weiden und Küste ist abwechslungsreich. Plant Pausen ein und fahrt nicht in Eile.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt in Portobello. Reine Fahrzeit 2:21 h, im Camper rund 2:50 h."
+  - "zeit": "~10:45"
+    "text": "Volltanken in Balclutha (Z). Vor den Catlins gibt es kaum Tankstellen, Ostersonntag trotzdem Läden teils zu."
+  - "zeit": "~11:45"
+    "text": "Nugget Point: Leuchtturm auf dem Felsgrat, unten Robben. Kurzer Weg vom Parkplatz."
+  - "zeit": "~13:00"
+    "text": "Picknick am Camper oder in einer Bucht."
+  - "zeit": "~14:45"
+    "text": "Purakaunui Falls, 20 Minuten vom Parkplatz."
+  - "zeit": "~15:30"
+    "text": "Zum Purākaunui Bay DOC Campsite, Platz sichern. Ist er voll: Papatowai Campsite."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:40 an der Bucht. Abendessen aus den Ostervorräten."
+11:
+  "intro": "Ein Tag nach der Tide: McLean Falls, Cathedral Caves, Curio Bay und Slope Point."
+  "text": |-
+    Heute entscheidet die Tide über die Reihenfolge. Cathedral Caves sind nur bei Ebbe zugänglich und nur, wenn geöffnet; Saison und Gezeiten solltet ihr vorher prüfen. Auch der versteinerte Wald in Curio Bay ist bei Ebbe am besten sichtbar. Die Strecke ist mit 69 km kurz, ihr habt viel Zeit.
+
+    Der Tag beginnt mit den McLean Falls, ein rund 40-minütiger Weg durch den Wald. Die Höhlen kommen dran, wenn Ebbe am Vormittag liegt, sonst zieht ihr Curio Bay vor. In der Porpoise Bay zeigen sich oft Hector-Delfine. Zum Abschluss ist Slope Point optional, 20 Minuten über Weideland zum südlichsten Punkt der Südinsel.
+
+    Die Nacht verbringt ihr auf dem Curioscape Campground in Curio Bay. Der Sonnenuntergang um 19:40 lädt zu einem Strandspaziergang ein. Morgen steht eine längere Fahrt nach Te Anau an, Tank und Vorräte prüfen. Die Catlins sind ein Landstrich mit Wasserfällen, Wald und rauer Südküste. Zwischen den Stopps liegen nur kurze Strecken, es bleibt also Raum für Pausen. Wer in Porpoise Bay Delfine sieht, hat Glück, planen lässt es sich nicht.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Frühstück in Ruhe, Gezeitentabelle für Cathedral Caves und Curio Bay prüfen."
+  - "zeit": "~10:00"
+    "text": "McLean Falls, ca. 40 Minuten durch den Wald."
+  - "zeit": "~11:30"
+    "text": "Cathedral Caves je nach Ebbe/Flut (Gezeitentabelle prüfen). Ebbe am Vormittag: jetzt gehen. Ebbe erst am Nachmittag: Curio Bay vorziehen und die Höhlen weglassen oder verschieben."
+  - "zeit": "~13:00"
+    "text": "Mittagspause."
+  - "zeit": "~14:30"
+    "text": "Curio Bay: versteinerter Wald bei Ebbe, in Porpoise Bay oft Hector-Delfine. Je nach Tide früher oder später."
+  - "zeit": "~16:30"
+    "text": "Optional Slope Point, 20 Minuten über Weideland, südlichster Punkt der Südinsel."
+  - "zeit": "~17:30"
+    "text": "Einchecken auf dem Curioscape Campground."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:40. Bei Dämmerung noch einmal zum Strand, wenn die Delfine da waren."
+12:
+  "intro": "Von der Südküste nach Te Anau: Einkauf in Invercargill, Versorgung und ein Platz am See."
+  "text": |-
+    Heute lasst ihr die Catlins hinter euch. Die Fahrt führt über Invercargill nach Te Anau, 258 km und reine 3:30 h, im Camper rund 4:15 h. Es ist ein Versorgungstag vor der Milford Road, wo es keine Läden gibt. In Invercargill kauft ihr für drei Nächte ein.
+
+    In Te Anau stehen Tanken (Caltex, Bowen St) und die Dump Station im Lakeview Holiday Park an, deren Standort laut Plan unsicher ist. Frisches gibt es bei Fresh Choice. Dazu bleibt Zeit für die Promenade am See, ein Kaffee und ein Ruhetag-Gefühl. Die Landschaft wird nach Norden hin gebirgiger, Fiordland kündigt sich an.
+
+    Die Nacht verbringt ihr am Henry Creek DOC Campsite am Lake Te Anau, etwa 25 Minuten nördlich. Als Alternative gibt es den Te Anau Lakeview Holiday Park mit Wäsche, Strom und Dump, sinnvoll nach sechs Nächten seit Oamaru. Sonnenuntergang ist um 19:44. Der Tag hat keine Pflichtprogramme, nur die Strecke und die Versorgung. Wer das Fahren leid ist, legt in Invercargill eine längere Pause ein. Die Berge von Fiordland tauchen gegen Ende der Fahrt am Horizont auf und kündigen die kommenden Tage an.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Abfahrt in Curio Bay. Reine Fahrzeit 3:30 h, im Camper rund 4:15 h plus Stopps."
+  - "zeit": "~10:00"
+    "text": "Invercargill: Einkauf im Supermarkt für die drei Nächte an der Milford Road."
+  - "zeit": "~11:30"
+    "text": "Mittagspause unterwegs, danach Weiterfahrt nach Te Anau."
+  - "zeit": "~14:00"
+    "text": "Te Anau: Tanken bei Caltex (Bowen St) und Dump Station im Lakeview HP (Standort laut Plan unsicher). Frische Sachen bei Fresh Choice."
+  - "zeit": "~15:00"
+    "text": "Spaziergang an der See-Promenade, Kaffeepause."
+  - "zeit": "~16:30"
+    "text": "Zu Henry Creek am Lake Te Anau, ca. 25 Minuten. Alternativ Te Anau Lakeview Holiday Park für Wäsche und Strom (sechs Nächte seit Oamaru)."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:44."
+13:
+  "intro": "Kurze Fahrt in den Fiordland-Urwald zum Cascade Creek, mit Mirror Lakes und Lake Gunn."
+  "text": |-
+    Heute beginnt die Milford Road, eine der berühmtesten Straßen Neuseelands. Die Strecke ist mit 52 km und knapp 50 Minuten reiner Fahrzeit kurz, dafür gibt es viele Stopps. Die Landschaft ändert sich rasch: Urwald, Seen und steile Berge.
+
+    Der erste Halt sind die Mirror Lakes, nur fünf Minuten vom Parkplatz. Bei Windstille spiegeln sich die Berge im Wasser. Danach geht es zum Cascade Creek DOC Campsite, wo ihr den Lake Gunn Nature Walk macht: 45 Minuten durch Urwald. Als Alternative gibt es den Knobs Flat Campsite, dessen Standort laut Plan unsicher ist.
+
+    Auf der Milford Road gibt es keine Läden, also Mittagessen und Proviant vorher einpacken. Der Sonnenuntergang um 19:41 kommt früh genug, damit ihr zeitig zur Ruhe kommt. Morgen ist Milford Sound, ihr solltet früh aufstehen und das Wetter prüfen. Die Fahrt auf der Milford Road beginnt in offener Seenlandschaft und endet im dichten Wald. Fotostopps gibt es viele, lasst euch Zeit. Sandfliegen und Kühle sind im Fiordland normal, eine warme Jacke und Insektenschutz gehören in den Rucksack.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Aufbruch am Camp, Weg Richtung Te Anau Downs und Milford Road (reine Fahrzeit 0:43 h, im Camper gut 50 Minuten)."
+  - "zeit": "~10:30"
+    "text": "Mirror Lakes: 5 Minuten, bei Windstille spiegeln sich die Berge im Wasser."
+  - "zeit": "~12:00"
+    "text": "Mittagessen unterwegs. Auf der Milford Road gibt es keine Läden mehr."
+  - "zeit": "~13:30"
+    "text": "Ankunft am Cascade Creek DOC Campsite, Platz suchen. Alternative: Knobs Flat (Standort laut Plan unsicher)."
+  - "zeit": "~14:30"
+    "text": "Lake Gunn Nature Walk, 45 Minuten durch Urwald."
+  - "zeit": "~16:30"
+    "text": "Camp einrichten, Wetter für morgen prüfen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:41, früh essen und schlafen, damit die Milford-Fahrt morgen entspannt startet."
+14:
+  "intro": "Milford Sound vor den Tourbussen: früh los, Cruise und The Chasm."
+  "text": |-
+    Der Höhepunkt der Fiordland-Tage ist Milford Sound. Wer früh fährt, ist vor den Tourbussen am Fjord und hat am Homer Tunnel weniger Wartezeit an der Ampel. Von Cascade Creek bis zum Cruise Terminal ist es ein Stück, im Camper dauert die Fahrt länger als rechnerisch. Sonnenaufgang ist um 08:04.
+
+    Die Cruise dauert rund zwei Stunden und führt am Mitre Peak, an Wasserfällen und an Robben vorbei. Sie sollte mit flexibler Umbuchung gebucht sein: Bei Regen oder Sperre wird sie auf morgen verschoben. Nach der Rückkehr lohnt The Chasm, ein kurzer Weg von 20 Minuten zu einem Wasserfall in einer Felsschlucht.
+
+    Zurück am Cascade Creek bleibt Zeit zum Ausruhen am Lake Gunn. Sonnenuntergang ist um 19:39. Der Tag ist ein Fahrtag mit einem großen Programmpunkt, also plant Pausen ein. Morgen ist der Puffertag, der falls nötig die Cruise auffängt. Plant die Rückfahrt gelassen, denn auch am Homer Tunnel kann es zu Wartezeiten kommen. Wer früh startet, hat ruhigere Straßen und freie Parkplätze am Terminal. Mit dem Fjord im Rücken fühlt sich der Nachmittag am See entspannt an.
+  "schritte":
+  - "zeit": "~07:00"
+    "text": "Aufbruch am Cascade Creek. Sonnenaufgang 08:04, die Strecke zum Fjord dauert im Camper länger als die rechnerische Fahrzeit."
+  - "zeit": "~08:00"
+    "text": "Homer Tunnel mit Ampel, ein paar Minuten Wartezeit einrechnen."
+  - "zeit": "~08:45"
+    "text": "Ankunft am Cruise Terminal Milford Sound, Parkplatz suchen."
+  - "zeit": "~09:15"
+    "text": "Milford Sound Cruise, ca. 2 Stunden mit Mitre Peak, Wasserfällen und Robben. Gebuchte Abfahrtszeit gilt, früh buchen lohnt sich."
+  - "zeit": "~12:00"
+    "text": "Mittagessen am Terminal oder am Camper."
+  - "zeit": "~13:00"
+    "text": "Rückfahrt, Stopp an The Chasm, 20 Minuten Waldweg zum Wasserfall."
+  - "zeit": "~15:00"
+    "text": "Zurück am Cascade Creek, Ruhe am Lake Gunn."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:39. Fällt die Cruise aus, wird sie auf Tag 15 geschoben."
+15:
+  "intro": "Pufferfenster an der Milford Road: Cruise nachholen oder ruhiger Tag mit Key Summit als Option."
+  "text": |-
+    Heute ist der Pufferplan für Milford. Hat die Cruise gestern geklappt, wird der Tag ruhig. War sie ausgefallen, wird sie nachgeholt, das kostet wieder die frühe Fahrt zum Fjord. Beide Varianten sind eingeplant, damit keine Hektik aufkommt.
+
+    Für die ruhige Variante gibt es den Key Summit ab The Divide: 3 Stunden hin und zurück, rund 400 Höhenmeter, ein Grenzfall zu eurem Profil. Geht nur bei Lust und Sicht. Alternativ bleibt ein Scenic Flight, oder ihr genießt die Zeit am See. Die Landschaft an der Milford Road lädt auch zum einfachen Sitzen und Schauen ein.
+
+    Die Nacht verbringt ihr am Henry Creek DOC Campsite, näher an Te Anau. Das macht die Fahrt morgen nach Queenstown kürzer. Die Strecke über Te Anau Downs ist mit 52 km kurz. Sonnenuntergang ist um 19:38. Prüft am Abend Wäsche und Vorräte für Queenstown. Egal welche Variante: Der Tag soll nicht stressen. Wetter in Fiordland wechselt schnell, deshalb wird erst am Morgen entschieden. Wer die Cruise nicht nachholen muss, hat einen freien Tag in einer der schönsten Gegenden der Reise.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Wetter und Cruise-Status prüfen. Variante A: Cruise gestern gemacht. Variante B: Cruise ausgefallen."
+  - "zeit": "~09:00"
+    "text": "Variante B: früh nach Milford Sound zur Ersatz-Cruise (Homer Tunnel Ampel, Abfahrtszeit nach Umbuchung). Variante A: Ruhiger Start, Frühstück am See."
+  - "zeit": "~10:00"
+    "text": "Variante A: Optional Key Summit ab The Divide, 3 Stunden hin und zurück, rund 400 Hm, Grenzfall und nur bei Lust und Sicht."
+  - "zeit": "~13:00"
+    "text": "Mittagessen am Camper oder am Divide."
+  - "zeit": "~14:00"
+    "text": "Variante A ohne Wanderung: Scenic Flight oder einfach Zeit am See. Variante B: nach der Cruise Rückfahrt."
+  - "zeit": "~16:00"
+    "text": "Rückfahrt über Te Anau Downs (reine Fahrzeit 0:43 h) zum Henry Creek DOC Campsite."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 19:38. Wäsche und Vorräte für Queenstown prüfen."
+16:
+  "intro": "Nach Queenstown mit Wäsche, Gondel im Abendlicht und Nacht am Moke Lake. Nachts werden die Uhren zurückgestellt."
+  "text": |-
+    Von Te Anau Downs führt die Straße über 209 km nach Queenstown, reine 2:48 h, im Camper rund 3:20 h. Am Mittag erreicht ihr den Lake Wakatipu, der Tag wird dann zum Stadttag. Zuerst stehen praktische Dinge an: Wäsche im Washatipu Laundry und die Dump Station, deren Standorte laut Plan unsicher sind.
+
+    Am späten Nachmittag fahrt ihr mit der Skyline-Gondel hinauf, optional gibt es die Luge. Die Aussicht über den See im Abendlicht ist der Höhepunkt. Danach folgt das Fergburger, mit einer Schlange ist zu rechnen. Freedom Camping ist in Queenstown nur auf ausgewiesenen QLDC-Plätzen erlaubt, sonst droht eine Strafe von 400 NZD.
+
+    Die Nacht verbringt ihr am Moke Lake DOC Campsite, ungefähr 6 km Zufahrt mit kurzem Schotter. Kommt vor dem Sonnenuntergang um 19:34 an. Nachts um 3:00 werden die Uhren auf 2:00 zurückgestellt, ihr gewinnt eine Stunde Schlaf. Die Fahrt führt am Ende am Lake Wakatipu entlang in die Stadt. Queenstown ist im Herbst belebt, wegen der Schulferien Mitte April sogar noch voller. Der Moke Lake ist dagegen ruhig, und der Abend dort bildet einen schönen Kontrast zum Trubel.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt am Henry Creek. Reine Fahrzeit 2:48 h, im Camper rund 3:20 h."
+  - "zeit": "~12:30"
+    "text": "Ankunft in Queenstown, Mittagessen."
+  - "zeit": "~13:30"
+    "text": "Wäsche im Washatipu Laundry (Beach St, Selbstbedienung) und Dump Station (Standorte laut Plan unsicher). Freedom Camping nur auf ausgewiesenen QLDC-Plätzen."
+  - "zeit": "~16:00"
+    "text": "Skyline-Gondel am späten Nachmittag, optional Luge. Aussicht über den See im Abendlicht."
+  - "zeit": "~18:00"
+    "text": "Fergburger, rechne mit Schlange."
+  - "zeit": "~19:00"
+    "text": "Fahrt zum Moke Lake DOC Campsite, rund 6 km Zufahrt mit kurzem Schotterstück. Sonnenuntergang 19:34, vorher ankommen."
+  - "zeit": "nachts"
+    "text": "Nachts um 3:00 werden die Uhren auf 2:00 zurückgestellt, eine Stunde mehr Schlaf."
+17:
+  "intro": "Herbstfarben in Arrowtown, optional Dampfschiff oder Jetboat und Aussicht über Deer Park Heights."
+  "text": |-
+    Der Tag gehört Queenstown und Arrowtown, ohne Fahrtstress. Die Uhren sind seit der Nacht eine Stunde zurück, der Morgen beginnt später. Anfang April sind die Herbstfarben in Arrowtown auf dem Höhepunkt. Deshalb kommt der Ort früh am Tag, wenn es noch ruhig ist.
+
+    Arrowtown ist ein Goldgräber-Städtchen mit historischen Häusern und dem Chinese Settlement. Parken könnt ihr an der Buckingham St. Danach bleibt Zeit für Kaffee und Läden. Am Nachmittag sind zwei Optionen möglich: das Dampfschiff TSS Earnslaw oder ein Adrenalin-Erlebnis wie Jetboat, beides nach Buchung. Deer Park Heights ist eine Mautstraße mit Aussicht und Drehorten, der Standort ist laut Plan unsicher.
+
+    Die Nacht verbringt ihr wieder am Moke Lake DOC Campsite. Sonnenuntergang ist um 18:32. Der Tag ist ohne Pflichttermine, wählt nach Wetter und Laune. Am Morgen am Moke Lake lohnt ein kurzer Spaziergang am See, bevor es in die Stadt geht. Der Tag hat keine festen Zeiten, nur die optionalen Buchungen. Wählt nach Wetter, und lasst die Gondel oder das Schiff aus, wenn die Sicht schlecht ist.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Frühstück am Moke Lake, entspannter Start nach der Zeitumstellung."
+  - "zeit": "~10:00"
+    "text": "Fahrt nach Arrowtown, Parken an der Buckingham St."
+  - "zeit": "~10:30"
+    "text": "Arrowtown: Goldgräberhäuschen, Chinese Settlement, Herbstfarben. Zeit für Kaffee und Läden."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in Arrowtown oder am Camper."
+  - "zeit": "~14:30"
+    "text": "Optional TSS Earnslaw (Dampfschiff) oder Jetboat, Abfahrt am Steamer Wharf. Zeit laut Buchung."
+  - "zeit": "~16:00"
+    "text": "Optional Deer Park Heights (Mautstraße, Standort unsicher), Aussicht und Drehorte."
+  - "zeit": "abends"
+    "text": "Zurück zum Moke Lake DOC Campsite, Sonnenuntergang 18:32."
+18:
+  "intro": "Kurze Fahrt zum Seekopf nach Glenorchy: Bennetts Bluff, Lagoon Walk und roter Bootsschuppen."
+  "text": |-
+    Von Queenstown nach Glenorchy sind es 47 km und knapp 45 Minuten im Camper. Die Straße verläuft am Lake Wakatipu entlang, und die Berge ragen steil auf. Es ist eine der schönsten Strecken der Reise, gerade weil sie so kurz ist. In Queenstown füllt ihr noch einmal Vorräte auf und tankt.
+
+    Der Aussichtspunkt Bennetts Bluff liegt unterwegs. In Glenorchy erwarten euch der rote Bootsschuppen am Wharf und der Lagoon Walk. Der Abend am Seekopf ist stimmungsvoll. Paradise im Dart-Tal ist optional und nur sinnvoll, wenn der Schotter ab Asphaltende kürzer als 12 km ist; das müsst ihr vor Ort prüfen.
+
+    Die Nacht verbringt ihr im Mrs Woolly's Campground. Als Alternative gibt es den Twelve Mile Delta DOC Campsite. Sonnenuntergang ist um 18:31. Der Neumond naht, die Nächte werden dunkler. Die Straße nach Glenorchy ist kurvig und eng, im Camper heißt das gemütliches Tempo. Wer nachmittags am Seekopf ist, erlebt das weiche Licht der Berge. Der rote Bootsschuppen ist ein beliebtes Fotomotiv, abends oft ohne Gedränge.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt am Moke Lake, über Queenstown nach Glenorchy (reine Fahrzeit 0:37 h, im Camper rund 45 Minuten)."
+  - "zeit": "~10:00"
+    "text": "Letzte Einkäufe in Queenstown, Tanken. In Glenorchy gibt es nur wenig."
+  - "zeit": "~11:00"
+    "text": "Bennetts Bluff Lookout, Aussicht auf den See."
+  - "zeit": "~12:00"
+    "text": "Ankunft in Glenorchy, Mittagessen."
+  - "zeit": "~13:30"
+    "text": "Lagoon Walk und roter Bootsschuppen am Wharf."
+  - "zeit": "~15:00"
+    "text": "Optional Paradise im Dart-Tal, nur wenn der Schotter ab Asphaltende kürzer als 12 km ist (vor Ort prüfen)."
+  - "zeit": "~17:00"
+    "text": "Einchecken im Mrs Woolly's Campground. Alternative: Twelve Mile Delta DOC."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:31, Abend am Seekopf."
+19:
+  "intro": "Über die Kawarau Gorge nach Wanaka, weil die Crown Range für Britz verboten ist. Die Strecke ist länger als im Plan."
+  "text": |-
+    Die Crown Range ist für Britz gesperrt, daher geht es über Queenstown und die Kawarau Gorge nach Cromwell und weiter nach Wanaka. Die im Plan genannten 118 km passen dafür vermutlich nicht, rechnet mit rund drei Stunden reiner Fahrzeit im Camper. Es ist ein Fahrtag mit landschaftlicher Abwechslung.
+
+    An der Kawarau Bridge könnt ihr beim Bungy zuschauen, das ist optional. In Cromwell lohnen sich das Heritage Precinct und die Obststände, ein guter Platz für die Mittagspause. In Wanaka tankt ihr bei BP Connect und checkt im Albert Town Campground ein.
+
+    Am Abend fahrt ihr zum Roys Bay Parkplatz und zu That Wanaka Tree. Sonnenuntergang ist um 18:26, das Licht ist weich. Als Alternative zum Campground gibt es den Wanaka Holiday Park. Der Tag ist lang, aber der See entschädigt. Die Kawarau Gorge ist eine schmale Schlucht mit Fluss und Felswänden. Danach öffnet sich das Land zu Obstgärten und Weinbergen um Cromwell. Wer die Strecke ruhig angeht, hat am Ende noch Zeit für den Sonnenuntergang am Baum in Wanaka.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt in Glenorchy, über Queenstown. Die Strecke über Cromwell ist länger als die rechnerischen 118 km, rechne mit rund 3 Stunden reiner Fahrzeit im Camper."
+  - "zeit": "~10:30"
+    "text": "Kawarau Bridge: Bungy zuschauen (optional), Parkplatz AJ Hackett."
+  - "zeit": "~12:00"
+    "text": "Cromwell Heritage Precinct und Obststände, Mittagessen."
+  - "zeit": "~14:00"
+    "text": "Weiter nach Wanaka, Tanken (BP Connect) bei Ankunft."
+  - "zeit": "~15:30"
+    "text": "Einchecken im Albert Town Campground."
+  - "zeit": "~17:00"
+    "text": "Zum Roys Bay Parkplatz und That Wanaka Tree. Sonnenuntergang ist 18:26."
+  - "zeit": "abends"
+    "text": "Zurück zum Campground. Alternative: Wanaka Holiday Park."
+20:
+  "intro": "Wanaka-Tag mit Mt Iron, Lake Hawea und Neumond-Sternenhimmel."
+  "text": |-
+    Heute gibt es keine Fahrtstrecke, der Tag gehört Wanaka. Der Mt Iron Track ist ein 4,5 km langer Rundweg mit rund 240 Höhenmetern und bietet Blick über beide Seen. Das Profil passt gut, der Weg ist ohne Eile machbar.
+
+    Am Nachmittag lohnt der Lake Hawea Lookout und eine kurze Fahrt am See entlang. Dazu stehen die Wanaka Public Dump Station und der Einkauf an, denn morgen führt der Weg über den Haast Pass, und danach gibt es kaum noch Läden. Vergesst nicht, volltanken am nächsten Morgen einzuplanen.
+
+    Am 07.04. ist Neumond, die Nacht ist deshalb besonders dunkel. Ab Albert Town oder am Lake Hawea könnt ihr den Sternenhimmel sehen, wenn die Wolken mitspielen. Sonnenuntergang ist um 18:24. Der Albert Town Campground bleibt eure Basis. Mit Mt Iron und Lake Hawea sind zwei einfache Ziele geplant, beide passen zu eurem Profil. Der Rest des Tages ist frei für Wäsche, Einkauf und Pausen am See. Tanken und Proviant für die Haast-Pass-Fahrt nicht vergessen.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Ausgiebiges Frühstück am Albert Town Campground."
+  - "zeit": "~10:00"
+    "text": "Mt Iron Track, 4,5 km Rundweg, rund 240 Hm, Blick über beide Seen."
+  - "zeit": "~12:30"
+    "text": "Mittagessen in Wanaka, Spaziergang am See."
+  - "zeit": "~14:00"
+    "text": "Wanaka Public Dump Station und Einkauf."
+  - "zeit": "~15:00"
+    "text": "Lake Hawea Lookout und kurze Fahrt am See entlang."
+  - "zeit": "~17:00"
+    "text": "Zurück zum Camp, Abendessen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:24, Neumond 07.04.: ab Albert Town oder Lake Hawea Sternenhimmel."
+21:
+  "intro": "Über den Haast Pass zur Küste: Blue Pools, Fantail Falls, Thunder Creek Falls und Nacht am Lake Paringa."
+  "text": |-
+    Der Haast Pass verbindet das Hochland mit der wilden Westküste. Die Strecke ist 186 km lang, reine 2:23 h, im Camper rund 2:50 h. In Wanaka muss der Tank voll sein, denn bis Haast gibt es keine Tankstelle. Der Weg führt durch Wald, entlang von Flüssen und über den Pass.
+
+    Die Stopps sind kurz und lohnen sich: Blue Pools mit 1,5 km flachem Weg, Fantail Falls und Thunder Creek Falls mit je fünf Minuten. Alles passt zu eurem Profil und ist ohne Wanderung machbar. Die Landschaft wechselt zum Regenwald, die Luft wird feuchter.
+
+    Die Nacht verbringt ihr am Lake Paringa DOC Campsite, einem ruhigen Platz am See. Als Alternative gibt es Haast, Marks Road, dessen Standort laut Plan unsicher ist. Sonnenuntergang ist um 18:22. Sandfliegen sind an der Westküste üblich, Insektenschutz sollte griffbereit sein. Die Fahrt dauert mit Stopps einen ganzen Tag, aber ohne Eile. Nehmt euch Zeit für die Blue Pools und lasst die kurzen Wasserfälle nicht aus. Die Westküste ist regnerisch, Regenjacke und Insektenschutz sollten griffbereit sein.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "In Wanaka volltanken und Proviant ergänzen, danach Abfahrt (reine Fahrzeit 2:23 h, im Camper rund 2:50 h)."
+  - "zeit": "~10:30"
+    "text": "Blue Pools am Haast Pass, 1,5 km flacher Weg."
+  - "zeit": "~12:00"
+    "text": "Mittagessen am Camper an einem der Parkplätze."
+  - "zeit": "~13:00"
+    "text": "Fantail Falls (5 Minuten) und Thunder Creek Falls (5 Minuten), kurze Fotostopps."
+  - "zeit": "~14:30"
+    "text": "Weiterfahrt Richtung Haast und Küste, die Landschaft wechselt zum Regenwald."
+  - "zeit": "~16:00"
+    "text": "Ankunft am Lake Paringa DOC Campsite. Alternative: Haast, Marks Road (Standort laut Plan unsicher)."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:22, Sandfliegen sind hier üblich, Insektenschutz bereithalten."
+22:
+  "intro": "Von der Küste nach Fox Glacier: Ship Creek als Abstecher, Lake Matheson am Abend."
+  "text": |-
+    Heute geht es entlang der Westküste nach Norden bis Fox Glacier. Die Strecke ist mit 71 km und gut einer Stunde reiner Fahrzeit kurz. Der Ship Creek liegt in Richtung Haast und ist damit ein Abstecher zurück vom Campsite. Wer nicht zurück will, lässt ihn aus.
+
+    Am Ship Creek gibt es zwei Wege, je rund 30 Minuten: durch Dünen und durch Sumpfwald. In Fox Glacier checkt ihr im Fox Glacier TOP 10 Holiday Park ein, mit Wäsche und Strom. Der Platz liegt nah am Lake Matheson, was für den Morgen praktisch ist.
+
+    Am späten Nachmittag fahrt ihr zum Lake Matheson. Die Spiegelung funktioniert bei Windstille, Sonnenuntergang ist um 18:18. Klappt es heute nicht, probiert ihr es morgen früh noch einmal. Der Tag ist leicht und lässt Zeit zum Ausruhen. Die Tage in Fox und Franz Josef drehen sich um die Gletscher. Heute ist es noch ruhig: ein kurzer Fahrtag, Wäsche und Strom im Holiday Park und am Abend der See. Der frühe Sonnenuntergang um 18:18 setzt dem Tag einen klaren Rahmen.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Aufbruch am Lake Paringa, zurück in Richtung Haast zum Ship Creek (liegt auf der Haast-Seite, Abstecher)."
+  - "zeit": "~09:30"
+    "text": "Ship Creek: Dünen- und Sumpfwaldweg, je ca. 30 Minuten. Wer keinen Umweg will, streicht ihn."
+  - "zeit": "~11:30"
+    "text": "Weiterfahrt nach Norden, reine Fahrzeit 0:56 h, im Camper gut eine Stunde."
+  - "zeit": "~13:00"
+    "text": "Mittagessen unterwegs, Ankunft in Fox Glacier."
+  - "zeit": "~14:00"
+    "text": "Einchecken im Fox Glacier TOP 10 Holiday Park, Wäsche und Strom."
+  - "zeit": "~16:30"
+    "text": "Zum Lake Matheson Parkplatz, Spiegelung bei Windstille am späten Nachmittag. Sonnenuntergang 18:18."
+  - "zeit": "abends"
+    "text": "Morgen früh nochmal, falls die Spiegelung heute ausgefallen ist."
+23:
+  "intro": "Frühaufsteher-Tag: Lake Matheson zum Sonnenaufgang, danach der Heli-Hike in Franz Josef."
+  "text": |-
+    Heute lohnt es sich ausnahmsweise, früh aufzustehen. Lake Matheson spiegelt am besten am windstillen Morgen, Sonnenaufgang ist um 07:05. Danach geht es zurück zum Camper, Frühstück und Check-out im Holiday Park.
+
+    Von Fox Glacier nach Franz Josef sind es 37 km, im Camper rund 45 Minuten. Der Heli-Hike auf dem Franz Josef Glacier dauert zwei bis drei Stunden auf dem Eis, in gemütlichem Tempo. Die Zeit richtet sich nach der Buchung. Der Ausweichtermin ist morgen, falls Wetter oder Wolken den Flug verhindern.
+
+    Nach dem Hike gibt es Mittagessen im Ort, dann fahrt ihr zum Otto/MacDonalds DOC Campsite am Lake Mapourika. Sonnenuntergang ist um 18:16. Der Tag ist das Highlight der West Coast, plant ihn ohne weitere Verpflichtungen. Der Heli-Hike ist wetterabhängig und eines der Highlights der West Coast. Packt feste Schuhe, warme Kleidung und Handschuhe ein. Wenn der Flug ausfällt, ist das kein Drama: Morgen steht der Ausweichtermin bereit. Danach reicht ein ruhiger Nachmittag am See völlig aus.
+  "schritte":
+  - "zeit": "~06:45"
+    "text": "Aufstehen, Kaffee. Ziel ist Lake Matheson zum Sonnenaufgang."
+  - "zeit": "~07:15"
+    "text": "Lake Matheson: Spiegelung der Berge am windstillen Morgen."
+  - "zeit": "~09:00"
+    "text": "Frühstück am Camper, Check-out im Holiday Park."
+  - "zeit": "~10:00"
+    "text": "Fahrt nach Franz Josef (reine Fahrzeit 0:37 h, im Camper rund 45 Minuten). Zum Heli-Hike Büro, Zeit laut Buchung."
+  - "zeit": "~11:00"
+    "text": "Heli-Hike auf dem Franz Josef Glacier, 2 bis 3 Stunden auf dem Eis, gemütliches Tempo. Gebuchte Zeit gilt."
+  - "zeit": "~15:00"
+    "text": "Mittagessen im Ort, Wetter für morgen prüfen. Fällt der Flug aus, morgen Ausweichtermin."
+  - "zeit": "~16:30"
+    "text": "Fahrt zum Otto/MacDonalds DOC Campsite am Lake Mapourika."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:16."
+24:
+  "intro": "Puffertag in Franz Josef: Heli-Hike nachholen oder Gletschertal-Spaziergang und Okarito."
+  "text": |-
+    Heute ist der Ausweichtermin für den Heli-Hike. Hat der Flug gestern geklappt, bleibt der Tag ruhig. Wenn nicht, geht es heute auf das Eis. Beide Varianten sind eingeplant, damit keine Hektik entsteht.
+
+    Bei der ruhigen Variante gibt es den Glacier Valley Walk, rund 1,5 Stunden, und optional einen Ausflug nach Okarito mit Lagune und Trig-Walk. Die Wäsche erledigt ihr im Laundromat Franz Josef in der Cron St, in der Wartezeit passt ein Kaffee. Die Landschaft der Gegend ist regenwaldig, mit Blick auf die Berge.
+
+    Die Nacht verbringt ihr wieder am Lake Mapourika. Sonnenuntergang ist um 18:14. Prüft am Abend das Wetter und den nächsten Tag, denn es geht weiter nach Hokitika, mit dem Abstecher zum Hokitika Gorge. Die Strecke ist an diesem Tag minimal oder entfällt ganz. Das gibt euch die Möglichkeit, ohne Zeitdruck zu entscheiden. Auch das Laundromat in der Cron St passt gut in einen Tag ohne feste Termine, bevor es nach Hokitika weitergeht.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Wetter und Flugstatus prüfen. Gestern geflogen: Variante A. Gestern ausgefallen: Variante B."
+  - "zeit": "~09:00"
+    "text": "Variante B: Heli-Hike nachholen (Zeit laut Umbuchung). Variante A: ruhiger Start."
+  - "zeit": "~10:30"
+    "text": "Wäsche im Laundromat Franz Josef (64 Cron St) einwerfen, während des Waschens Kaffee."
+  - "zeit": "~12:30"
+    "text": "Mittagessen. Variante A: Glacier Valley Walk, 1,5 Stunden."
+  - "zeit": "~14:30"
+    "text": "Variante A: Optional Okarito Lagune und Trig-Walk. Variante B: Glacier Valley Walk kurz oder Ruhe am See."
+  - "zeit": "~17:00"
+    "text": "Zurück am Lake Mapourika."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:14."
+25:
+  "intro": "Zum Hokitika Gorge und zum Treibholzstrand: türkises Wasser und Sonnenuntergang."
+  "text": |-
+    Von Franz Josef führt die SH6 nach Norden nach Hokitika, 112 km und reine 1:28 h, im Camper rund 1:45 h. Der Hokitika Gorge liegt abseits der Hauptstraße und verlängert die Fahrt. Er ist es wert: Türkisfarbener Fluss und eine Hängebrücke, rund eine Stunde Zeit.
+
+    In Hokitika gibt es Mittagessen, Tanken bei Challenge und die Dump Station. Danach fahrt ihr zum Lake Māhinapua DOC Campsite und sichert euch einen Platz. Der Abend gehört dem Strand: Das Hokitika Beach Sign mit den Treibholz-Buchstaben ist ein beliebter Ort zum Sonnenuntergang.
+
+    Sonnenuntergang ist um 18:10, also fahrt ihr früh genug zurück in den Ort. Der Campsite liegt etwas außerhalb am See, ruhig und grün. Der Tag ist gut machbar, wenn ihr nicht trödelt, aber ohne Eile. Der Weg verläuft an der Küste der West Coast, mit Regenwald, Seen und Flussmündungen. Der Hokitika Gorge ist der einzige größere Abstecher. Plant zwischen den Stopps Pausen ein, denn die Straßen sind kurvig und der Tag insgesamt gut gefüllt.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt am Lake Mapourika. Reine Fahrzeit 1:28 h bis Hokitika, im Camper rund 1:45 h, dazu der Abstecher zum Gorge."
+  - "zeit": "~11:00"
+    "text": "Hokitika Gorge: türkiser Fluss, Hängebrücke, rund eine Stunde."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in Hokitika."
+  - "zeit": "~14:30"
+    "text": "Tanken (Challenge) und Dump Station in Hokitika."
+  - "zeit": "~15:30"
+    "text": "Zum Lake Māhinapua DOC Campsite, Platz sichern."
+  - "zeit": "~17:15"
+    "text": "Zurück nach Hokitika zum Beach Sign mit den Treibholz-Buchstaben, Sonnenuntergang ist 18:10."
+  - "zeit": "abends"
+    "text": "Abendessen am Camp."
+26:
+  "intro": "Pancake Rocks und Blowholes zur Flut, danach der Truman Track und Nacht direkt am Strand."
+  "text": |-
+    Heute geht die Fahrt von Hokitika nach Punakaiki, 95 km und rund 1:40 h im Camper. Die Straße verläuft an der Küste, mit Meerblick und Regenwald. Es ist ein kurzer Tag mit viel Zeit für die Highlights.
+
+    Die Pancake Rocks am Dolomite Point sind bei Flut am besten, dann spritzen die Blowholes. Die Gezeitentabelle bestimmt, ob ihr zuerst die Felsen oder den Truman Track lauft. Der Truman Track dauert 30 Minuten und führt durch Küstenwald zum Strand und Wasserfall.
+
+    Die Nacht verbringt ihr im Punakaiki Beach Camp direkt am Strand. Als Alternative gibt es den McMillan Rd Self-Contained Campsite. Sonnenuntergang ist um 18:08. Nehmt euch Zeit für den Abend am Meer, die Wellen sind hier eindrucksvoll. Die Küstenstraße SH6 ist hier besonders schön, mit Meerblick. Zwischen den beiden Wegen am Dolomite Point und am Truman Track liegt nur eine kurze Fahrt. Danach bleibt der Abend entspannt am Strand. Gezeitentabelle vorher prüfen.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt in Hokitika (reine Fahrzeit 1:21 h, im Camper rund 1:40 h)."
+  - "zeit": "~11:30"
+    "text": "Ankunft in Punakaiki, Camper am Parkplatz Dolomite Point."
+  - "zeit": "~12:00"
+    "text": "Pancake Rocks je nach Ebbe/Flut (Gezeitentabelle prüfen). Flut mittags: Rundweg jetzt. Flut später: erst Mittagessen und Truman Track, die Felsen später."
+  - "zeit": "~13:30"
+    "text": "Mittagessen im Ort oder am Camper."
+  - "zeit": "~15:00"
+    "text": "Truman Track, 30 Minuten durch Küstenwald zum Strand und Wasserfall."
+  - "zeit": "~16:30"
+    "text": "Einchecken im Punakaiki Beach Camp. Alternative: McMillan Rd Self-Contained Campsite."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:08 am Strand."
+27:
+  "intro": "Pufferfenster an der West Coast: Cape Foulwind mit Robbenkolonie, bei Regen Pancake Rocks nachholen."
+  "text": |-
+    Heute ist ein kurzer Tag an der West Coast. Er dient als Puffer: Hat es gestern geregnet, holt ihr Pancake Rocks und Truman Track nach. Sonst fahrt ihr die 58 km nach Westport in knapp einer Stunde im Camper.
+
+    Die Cape Foulwind Walkway führt zur Robbenkolonie bei Tauranga Bay. Der Weg ist kurz und gut machbar, die Robben sind direkt am Meer zu sehen. In Westport kauft ihr ein und tankt, denn nach dem Buller Gorge gibt es weniger Möglichkeiten.
+
+    Die Nacht verbringt ihr am Carters Beach. Der Freiplatz ist laut Plan nicht bestätigt, prüft Schild und Plakette. Alternativ gibt es den Seal Colony TOP 10 Holiday Park. Sonnenuntergang ist um 18:05. Der Tag lässt Raum zum Entspannen. Die Strecke ist kurz, deshalb ist der Tag flexibel. Wer gestern Regen hatte, holt das Verpasste nach, sonst genießt er die Küste ohne Programmdruck. Seerobben und Meer sind hier nah, bringt ein Fernglas mit, falls vorhanden.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Ruhiger Start in Punakaiki. Falls gestern Regen war, Pancake Rocks und Truman Track nachholen (Variante B)."
+  - "zeit": "~11:00"
+    "text": "Fahrt Richtung Westport (reine Fahrzeit 0:47 h, im Camper gut 55 Minuten)."
+  - "zeit": "~12:00"
+    "text": "Mittagessen und Einkauf in Westport, Tanken vor dem Buller Gorge."
+  - "zeit": "~13:30"
+    "text": "Cape Foulwind Walkway und Robbenkolonie Tauranga Bay."
+  - "zeit": "~16:00"
+    "text": "Zum Carters Beach, Schild und SC-Plakette prüfen. Falls nicht erlaubt: Seal Colony TOP 10."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 18:05."
+28:
+  "intro": "Durch den Buller Gorge nach St Arnaud an den Lake Rotoiti."
+  "text": |-
+    Heute verlasst ihr die West Coast und fahrt durch den Buller Gorge ins Landesinnere. Die Strecke ist 160 km lang, reine 2:14 h, im Camper rund 2:40 h. Der Fluss begleitet euch lange, die Täler werden enger und waldiger.
+
+    An der Buller Gorge Swingbridge könnt ihr optional anhalten: eine Hängebrücke über den Fluss. Mittags gibt es eine Pause unterwegs. Am Nachmittag erreicht ihr St Arnaud und den Kerr Bay DOC Campsite am Lake Rotoiti. Die Schulferien haben begonnen, der Platz sollte gebucht sein.
+
+    Am Steg am Kerr Bay und auf dem Honeydew Walk, einem kurzen Weg im Wald, genießt ihr die Ruhe. Sonnenuntergang ist um 17:59. Tankt und kauft in Westport ein, denn St Arnaud hat wenig. Die Fahrt durch den Buller Gorge ist kurvig, aber landschaftlich reizvoll. Mit dem Wechsel von der Küste ins Gebirge ändert sich auch das Wetter. In den Schulferien sind Plätze knapp, deshalb ist die Vorbuchung am Lake Rotoiti wichtig.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt in Westport, Tanken und Frisches einkaufen (reine Fahrzeit 2:14 h, im Camper rund 2:40 h)."
+  - "zeit": "~10:30"
+    "text": "Optional Buller Gorge Swingbridge: Hängebrücke über den Fluss."
+  - "zeit": "~12:30"
+    "text": "Mittagessen unterwegs."
+  - "zeit": "~14:30"
+    "text": "Ankunft am Kerr Bay DOC Campsite, Platz beziehen."
+  - "zeit": "~15:30"
+    "text": "Steg am Kerr Bay und Honeydew Walk, kurzer Weg im Wald am See."
+  - "zeit": "~17:00"
+    "text": "Kaffee am Wasser, Abendessen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:59."
+29:
+  "intro": "Nelson als Versorgungsstopp, dann weiter nach Marahau am Abel Tasman."
+  "text": |-
+    Von St Arnaud geht es nach Nelson und weiter nach Marahau, 115 km und rund zwei Stunden im Camper. Der Tag ist ein Versorgungstag: Wäsche, Einkauf und Dump stehen an, bevor ihr in den Nationalpark kommt.
+
+    In Nelson wascht ihr im Public Laundry am Montgomery Square, kauft im Supermarkt ein und fahrt zur Dump Station in Richmond (Fittal St). Danach geht es über Motueka weiter, optional zum Kaiteriteri Strand. Die Landschaft wird zur Küstenlandschaft mit Buchten und Hügeln.
+
+    Die Nacht verbringt ihr im Marahau Beach Camp. Freedom Camping ist in Marahau und Kaiteriteri verboten, der Platz ist wegen der Schulferien reserviert. Am Abend bestätigt ihr Wassertaxi oder Kajak für morgen. Sonnenuntergang ist um 17:57. Nelson ist eine der sonnigeren Städte Neuseelands, ideal für Erledigungen. Danach beginnt die Küstenlandschaft des Abel Tasman. In den Schulferien ist es voll, deshalb ist die Reservierung im Marahau Beach Camp wichtig. Packt Einkäufe und Wäsche sinnvoll zusammen, damit die Wartezeiten kurz bleiben.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt am Kerr Bay (reine Fahrzeit 1:38 h, im Camper rund 2 Stunden)."
+  - "zeit": "~10:30"
+    "text": "Nelson: Wäsche im Public Laundry am Montgomery Square, in der Wartezeit Café."
+  - "zeit": "~12:00"
+    "text": "Einkauf im Supermarkt für die Tage in Abel Tasman."
+  - "zeit": "~13:00"
+    "text": "Dump Station in Richmond (Fittal St)."
+  - "zeit": "~14:00"
+    "text": "Weiterfahrt über Motueka. Optional Kaiteriteri Strand."
+  - "zeit": "~15:30"
+    "text": "Einchecken im Marahau Beach Camp."
+  - "zeit": "~17:00"
+    "text": "Wassertaxi oder Kajak für morgen bestätigen, Abel Tasman Centre."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:57."
+30:
+  "intro": "Abel Tasman Nationalpark: Wassertaxi hin, zu Fuß zurück oder Kajaktour."
+  "text": |-
+    Heute steht der Abel Tasman Nationalpark auf dem Programm, ohne Fahrtstrecke. Ihr fahrt mit dem Wassertaxi nach Anchorage oder Bark Bay und lauft zurück nach Marahau. Der Abschnitt sollte höchstens 12 km lang sein, bei Bark Bay prüft ihr vorher die Länge. Alternativ gibt es eine geführte Kajaktour.
+
+    Der Küstenpfad führt durch Wald und an goldenen Stränden entlang, mit Blick auf das türkisfarbene Wasser. Packt Wasser, Proviant und Regenjacke ein. Das Wassertaxi ist in den Schulferien vorab gebucht, die Abfahrtszeit richtet sich nach der Buchung.
+
+    Am Nachmittag seid ihr zurück im Marahau Beach Camp. Sonnenuntergang ist um 17:56. Der Tag ist anstrengend, aber das Profil passt zu eurem Pensum, wenn ihr den Abschnitt klug wählt. Wählt den Wanderabschnitt nach Gezeiten und Boot, nicht nach Ehrgeiz. Ein Tag im Nationalpark soll ein Genuss sein, kein Marsch. Am Ende kehrt ihr mit müden Beinen und vielen Bildern zum Camper zurück. Ein früher Rückzug zum Camper ist ausdrücklich erlaubt.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Frühstück am Camp, Rucksack mit Wasser, Proviant und Regenjacke packen."
+  - "zeit": "~09:30"
+    "text": "Zum Abel Tasman Centre in Marahau. Die genaue Abfahrt richtet sich nach der gebuchten Zeit."
+  - "zeit": "~10:00"
+    "text": "Wassertaxi nach Anchorage oder Bark Bay. Alternativ geführte Kajaktour."
+  - "zeit": "~11:00"
+    "text": "Wanderung zurück nach Marahau, Abschnitt höchstens 12 km (Bark Bay vorher auf Länge prüfen)."
+  - "zeit": "~13:00"
+    "text": "Picknick an einer Bucht."
+  - "zeit": "~16:00"
+    "text": "Zurück im Marahau Beach Camp, Pause."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:56."
+31:
+  "intro": "Über den Takaka Hill in die Golden Bay: Te Waikoropupū Springs mit dem klarsten Quellwasser."
+  "text": |-
+    Von Marahau führt die Straße über den Takaka Hill in die Golden Bay, 84 km und gut 1:25 h im Camper. Oben bietet Hawkes Lookout eine optionale Aussicht. Die Straße ist kurvig, die Landschaft ändert sich von Küste zu Hügeln.
+
+    In Takaka gibt es Mittagessen und Einkauf für Collingwood. Die Te Waikoropupū Springs sind das Highlight: Das klarste Quellwasser, ein 45-minütiger Weg. Wainui Falls sind optional, rund 1,5 Stunden Waldweg, aber etwas ab vom Weg.
+
+    Die Nacht verbringt ihr im Collingwood Camping Ground, einem Gemeinde-Campingplatz nahe Farewell Spit und Wharariki. Als Alternative gibt es den Pōhara Beach Top 10 Holiday Park. Sonnenuntergang ist um 17:56. Der Tag bleibt entspannt. Die Golden Bay ist abgelegen und ruhig, die Straßen sind frei. Nach dem Takaka Hill fühlt sich die Landschaft anders an: weite Buchten, Hügel und kleine Orte. Kauft in Takaka ein, denn Collingwood ist klein. Die Fahrt selbst ist kurz, die Stopps machen den Tag.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt in Marahau (reine Fahrzeit 1:11 h, im Camper gut 1:25 h)."
+  - "zeit": "~09:45"
+    "text": "Optional Hawkes Lookout auf dem Takaka Hill."
+  - "zeit": "~11:00"
+    "text": "Optional Wainui Falls, ca. 1,5 Stunden Waldweg."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in Takaka, Einkauf für Collingwood."
+  - "zeit": "~14:00"
+    "text": "Te Waikoropupū Springs, 45 Minuten, klarstes Quellwasser."
+  - "zeit": "~16:00"
+    "text": "Weiter nach Collingwood, Check-in im Collingwood Camping Ground."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:56. Alternativ Pōhara Beach Top 10."
+32:
+  "intro": "Farewell Spit und Wharariki Beach, beide tideabhängig, mit zwei Varianten."
+  "text": |-
+    Heute hängt alles an der Tide. Die Farewell Spit Tour dauert rund sechs Stunden und ist gezeitenabhängig, mit Dünen und Leuchtturm. Die Tourzeiten für April 2027 sind noch nicht veröffentlicht, deshalb gibt es zwei Varianten. Golden Bay ist als Puffer gedacht.
+
+    Mit Tour startet ihr zur gebuchten Zeit am Büro in Collingwood. Ohne Tour könnt ihr Wharariki Beach morgens oder nachmittags besuchen. Der Weg vom Parkplatz dauert rund 20 Minuten durch Dünen, am Strand warten die Archway Islands und Robbenbabys in den Felspools. Je nach Ebbe oder Flut (Gezeitentabelle prüfen) ist früher oder später besser.
+
+    Die Nacht verbringt ihr wieder im Collingwood Camping Ground. Sonnenuntergang ist um 17:54, das Licht am Nachmittag ist ideal für Fotos. Der Tag ist flexibel, wählt je nach Gezeiten und Wetter. Die Golden Bay ist am Ende der Straße, hier endet die Reise nach Norden. Mehrere Pufferstunden sind eingeplant, weil Tourzeiten sich nach den Gezeiten richten. Bleibt flexibel und entscheidet erst nach Blick in die Tabelle.
+  "schritte":
+  - "zeit": "~08:00"
+    "text": "Gezeitentabelle prüfen und die Tourzeit klären (Büro Collingwood)."
+  - "zeit": "~09:00"
+    "text": "Variante A (Farewell Spit Tour): Start laut gebuchter Zeit, Dünen und Leuchtturm, ca. 6 Stunden. Variante B (ohne Tour): Wharariki ruhig morgens oder nachmittags."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in Collingwood oder unterwegs."
+  - "zeit": "~14:30"
+    "text": "Fahrt zum Wharariki Beach Parkplatz, ca. 20 Minuten durch Dünen. Je nach Ebbe/Flut (Gezeitentabelle prüfen) besser früher oder später."
+  - "zeit": "~16:00"
+    "text": "Archway Islands, Robbenbabys in den Felspools. Sonnenuntergang 17:54, Licht am Nachmittag."
+  - "zeit": "~17:30"
+    "text": "Rückfahrt nach Collingwood."
+  - "zeit": "abends"
+    "text": "Zweite Nacht im Collingwood Camping Ground."
+33:
+  "intro": "Zurück über den Takaka Hill nach Marlborough: Fahrtag zum Pelorus Bridge."
+  "text": |-
+    Der Tag ist ein Fahrtag: 184 km und reine 2:48 h, im Camper rund 3:20 h. Von Collingwood geht es über Takaka und den Takaka Hill nach Nelson und weiter nach Pelorus Bridge. Die Landschaft wechselt von Küste zu Wald.
+
+    Unterwegs gibt es eine Mittagspause in Nelson oder Richmond und die Möglichkeit zum Tanken. Am Nachmittag erreicht ihr den Pelorus Bridge DOC Campground, der wegen der Schulferien gebucht sein sollte. Die Badestelle gilt als Drehort der Fässer-Szene aus dem Hobbit, dazu gibt es kurze Waldwege.
+
+    Der Abend am Fluss ist ruhig. Sonnenuntergang ist um 17:49. Der Tag ist ohne Programmdruck, nutzt die Zeit zum Entspannen und für Wäsche oder Aufräumen im Camper. Die Strecke ist lang, aber bekannt: Ihr fahrt dieselbe Straße über den Hügel zurück. Das macht es einfacher, die Pausen zu planen. Am Pelorus Bridge wartet danach ein Platz am Fluss, der die Fahrt belohnt. Wer früh losfährt, hat am Nachmittag genug Zeit für den Fluss.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt in Collingwood (reine Fahrzeit 2:48 h, im Camper rund 3:20 h)."
+  - "zeit": "~10:00"
+    "text": "Takaka und Takaka Hill, Tanken."
+  - "zeit": "~12:00"
+    "text": "Mittagessen unterwegs in Nelson oder Richmond."
+  - "zeit": "~14:00"
+    "text": "Ankunft am Pelorus Bridge DOC Campground, Platz beziehen."
+  - "zeit": "~15:00"
+    "text": "Badestelle (Hobbit-Fässer-Szene) und kurze Waldwege."
+  - "zeit": "~17:00"
+    "text": "Entspannter Abend am Fluss."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:49."
+34:
+  "intro": "Von den Weinbergen ans Meer nach Kaikōura, mit Ohau Point als Robbenstopp."
+  "text": |-
+    Heute fahrt ihr von Pelorus Bridge über Blenheim nach Kaikōura, 182 km und rund 3:10 h im Camper. Am Vormittag ist optional das Omaka Aviation Heritage Centre bei Blenheim möglich, mit Weta-Dioramen. In Blenheim gibt es Mittagessen und die Dump Station, deren Standort laut Plan unsicher ist.
+
+    Ab dort folgt die SH1 der Küste. Am Ohau Point Lookout liegt eine Robbenkolonie direkt an der Straße. Das ist ein einfacher Stopp ohne Wanderung, mit Blick aufs Meer.
+
+    Die Nacht verbringt ihr am Puhi Puhi DOC Campsite, erreichbar über 6 km Nebenstraße, teils Schotter. Alternativen sind der West End Car Park und der Kaikoura TOP 10 Holiday Park. Sonnenuntergang ist um 17:45. Am 21.04. ist Vollmond, das Meer liegt im Mondlicht. Die Fahrt entlang der Küste bei Kaikōura ist spektakulär: Meer links, Berge rechts. Die Straße ist schmal, fahrt entspannt und nutzt die Haltebuchten für Fotos. Am Abend kommt die Ruhe am Meer nach der langen Fahrt.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt am Pelorus Bridge (reine Fahrzeit 2:39 h, im Camper rund 3:10 h)."
+  - "zeit": "~09:30"
+    "text": "Optional Omaka Aviation Heritage Centre bei Blenheim."
+  - "zeit": "~11:30"
+    "text": "Mittagessen in Blenheim. Dump Station Blenheim (Standort laut Plan unsicher)."
+  - "zeit": "~13:00"
+    "text": "Weiterfahrt auf der SH1 entlang der Küste Richtung Kaikōura."
+  - "zeit": "~15:00"
+    "text": "Ohau Point Lookout: Robbenkolonie direkt an der SH1."
+  - "zeit": "~16:00"
+    "text": "Zum Puhi Puhi DOC Campsite, ca. 6 km Nebenstraße."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:45, Vollmond am Meer. Alternativen: West End Car Park Kaikoura oder TOP 10."
+35:
+  "intro": "Whale Watch in Kaikōura, wetterabhängig, dazu Peninsula Walkway und Robben."
+  "text": |-
+    Heute steht die Whale Watch an, eine Tour von rund 3,5 Stunden zu den Pottwalen. Sie ist wetterabhängig, deshalb ist der morgige Tag als Ausweichtermin eingeplant. Prüft früh das Wetter und die Tourbestätigung. Die Abfahrt ist an der Whaleway Station, die Zeit richtet sich nach der Buchung.
+
+    Nach der Tour bleibt Zeit für Mittagessen in Kaikōura und den Peninsula Walkway mit Robben am Point Kean. Der Weg ist gut machbar und führt an der Küste entlang. Wer noch Energie hat, bummelt durch den Ort.
+
+    Die Nacht verbringt ihr am Puhi Puhi DOC Campsite. Alternativ nutzt ihr den Kaikoura TOP 10 Holiday Park für Wäsche und Strom, sieben Nächte seit Fox. Sonnenuntergang ist um 17:44. Der Tag ist ein Höhepunkt der Reise. Falls die Tour ausfällt, ist das kein Verlust. Der Ausweichtermin am Freitag fängt das auf. Warm anziehen: Auf dem Meer ist es kühl und windig, auch bei Sonne. Ein Reisetablett gegen Seekrankheit kann sinnvoll sein.
+  "schritte":
+  - "zeit": "~07:30"
+    "text": "Wetter und Tourstatus prüfen, Anruf beim Anbieter falls nötig."
+  - "zeit": "~08:30"
+    "text": "Fahrt zur Whaleway Station (Check-in vor der Abfahrt). Abfahrtszeit laut Buchung."
+  - "zeit": "~09:00"
+    "text": "Whale Watch, ca. 3,5 Stunden, Pottwale. Bei schlechtem Wetter fällt die Tour aus, dann morgen."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in Kaikōura."
+  - "zeit": "~14:30"
+    "text": "Peninsula Walkway und Robben am Point Kean."
+  - "zeit": "~16:30"
+    "text": "Wäsche und Strom im Kaikoura TOP 10 (sieben Nächte seit Fox) oder zurück zum Puhi Puhi."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:44."
+36:
+  "intro": "Puffertag in Kaikōura: Whale Watch nachholen oder Delfin- und Albatros-Tour und Crayfish."
+  "text": |-
+    Heute ist der Pufferplan für Kaikōura. Hat die Whale Watch gestern geklappt, wird der Tag frei. Ist sie ausgefallen, wird sie heute nachgeholt. Alternativ gibt es eine Delfin- oder Albatros-Tour.
+
+    Der Rest des Tages gehört dem Meer. Ein Mittagessen mit Crayfish gehört zu Kaikōura, dazu ein Spaziergang am Strand und Robben an der Küste. Die Landschaft zwischen Bergen und Pazifik ist ein schöner Abschluss der Südinsel.
+
+    Am Nachmittag kauft ihr ein und tankt für morgen. Morgen ist Fahrtag nach Picton, danach folgt ANZAC Day. Die Nacht verbringt ihr am Puhi Puhi DOC Campsite. Sonnenuntergang ist um 17:42. Früh essen und früh schlafen. Je nach Wetter und Stimmung ist der Tag voll oder ganz frei. Kaikōura ist ein Ort, an dem Meer und Berge dicht beieinander liegen. Ein Spaziergang am Wasser, gutes Essen und ein früher Abend passen zum Profil. Morgen ist die Fahrt nach Picton, ANZAC Day folgt. Prüft vorher kurz die Öffnungszeiten der Lokale.
+  "schritte":
+  - "zeit": "~08:00"
+    "text": "Wetter prüfen. Gestern gefahren: Variante A. Gestern ausgefallen: Variante B."
+  - "zeit": "~08:30"
+    "text": "Variante B: Whale Watch nachholen (Zeit laut Umbuchung). Variante A: Delfin- oder Albatros-Tour, falls Lust."
+  - "zeit": "~12:30"
+    "text": "Mittagessen mit Crayfish am Meer."
+  - "zeit": "~14:30"
+    "text": "Spaziergang, Robben, Ruhe am Strand."
+  - "zeit": "~16:30"
+    "text": "Einkauf und Tanken für morgen. Morgen Fahrtag nach Picton, danach ANZAC Day."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:42. Früh essen, morgen früh abfahren."
+37:
+  "intro": "Letzter Südinsel-Tag: Einkauf und Versorgung vor ANZAC Day, Fahrt nach Picton."
+  "text": |-
+    Heute fahrt ihr von Kaikōura über Blenheim nach Picton, 163 km und gut drei Stunden im Camper. Der Tag ist wegen des morgigen ANZAC Day wichtig: Läden bleiben bis 13 Uhr zu. Deshalb kauft ihr heute ein, tankt und leert Toilette und Grauwasser.
+
+    In Blenheim ist ein optionaler Weingut-Mittag bei Allan Scott möglich, der Fahrer trinkt natürlich nicht. In Picton erledigt ihr Tanken bei Z in der High St und die Dump Station an der Wairau Rd. Die Queen Charlotte Drive ist kurvig, mit Aussicht auf die Sounds, optional mit dem Cullen Point Lookout.
+
+    Die Nacht verbringt ihr am Momorangi Bay DOC Campsite, rund 15 Minuten bis zur Fähre. Alternativ gibt es den Picton Holiday Park für Wäsche. Sonnenuntergang ist um 17:41. Macht den Camper reisefertig, morgen geht die Fähre. Der Tag ist mit Fahrt und Erledigungen gut gefüllt, aber nicht überladen. Die Reihenfolge zählt: erst Einkauf, dann Tanken, dann Dump. Danach bleibt der Abend am Momorangi Bay für Ruhe und Packen.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt in Kaikōura (reine Fahrzeit 2:33 h, im Camper gut 3 Stunden)."
+  - "zeit": "~11:30"
+    "text": "Ankunft in Blenheim, Einkauf für Sonntag und Montag."
+  - "zeit": "~12:30"
+    "text": "Optional Weingut-Mittag bei Allan Scott (Cellar Door und Bistro). Fahrer trinkt nicht."
+  - "zeit": "~14:30"
+    "text": "Picton: Tanken (Z, High St) und Dump Station (Wairau Rd). Wäsche im Holiday Park, falls Zeit."
+  - "zeit": "~15:30"
+    "text": "Optional Cullen Point Lookout an der Queen Charlotte Drive, kurvig und Aussicht."
+  - "zeit": "~16:30"
+    "text": "Einchecken im Momorangi Bay DOC Campsite, ca. 15 Minuten bis zur Fähre."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:41. Camper reisefertig machen."
+38:
+  "intro": "Fährtag: Bluebridge von Picton nach Wellington, Check-in bis 12:00."
+  "text": |-
+    Heute überquert ihr die Cook Strait. Die Bluebridge-Fähre fährt um 13:00, Check-in ist bis 12:00 am Terminal in Picton. Vorher dreht ihr das Gas ab, das ist Vorschrift an Bord. Es ist ANZAC Day, Läden sind bis 13 Uhr zu, kauft also besser am Vortag.
+
+    Vom Momorangi Bay Campsite fahrt ihr nach Picton, mit Puffer für den Check-in. Die Überfahrt dauert rund 3,5 Stunden, durch die Marlborough Sounds. Ankunft in Wellington ist gegen 16:30.
+
+    Die Nacht verbringt ihr am Evans Bay Marina Freedom Camping, laut Plan nicht bestätigt. Sonst nutzt ihr den Wellington TOP 10 Holiday Park. Sonnenuntergang ist um 17:36, also seid ihr knapp vor der Dämmerung dort. Optional gibt es abends den Mt Victoria Lookout. Kommt mit Zeitpuffer zum Terminal und haltet Papiere bereit. Auf der Überfahrt habt ihr Zeit zum Ausruhen. Nach der Ankunft in Wellington ist es nur ein kurzes Stück zum Platz am Evans Bay.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Frühstück am Momorangi Bay, Camper aufräumen. Gas abdrehen, das ist Pflicht an Bord."
+  - "zeit": "~09:30"
+    "text": "Fahrt nach Picton, Café, letzte Einkäufe. ANZAC Day: Läden bis 13 Uhr zu."
+  - "zeit": "~11:00"
+    "text": "Zum Bluebridge Terminal, Check-in, Zeitpuffer einplanen (Check-in bis 12:00)."
+  - "zeit": "~13:00"
+    "text": "Abfahrt der Fähre, ca. 3,5 Stunden. Auf dem Deck die Marlborough Sounds sehen."
+  - "zeit": "~16:30"
+    "text": "Ankunft in Wellington."
+  - "zeit": "~17:15"
+    "text": "Zum Evans Bay Marina Freedom Camping, Schild und SC-Plakette prüfen. Falls nicht erlaubt: Wellington TOP 10 Hutt Park."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:36. Optional Mt Victoria Lookout bei Nacht."
+39:
+  "intro": "Ein ganzer Tag Wellington: Te Papa, Cable Car, Botanischer Garten und Weta Cave."
+  "text": |-
+    Der Tag in Wellington ist ein Stadttag, ohne Fahrtstrecke. Der 26.04. ist ANZAC-Ersatzfeiertag, die Museen sind trotzdem offen. Ihr startet mit Dump Station am Evans Bay (kostenlos) und Wäsche in der Janice Laundry in Newtown.
+
+    Te Papa ist das Highlight: Das Nationalmuseum hat freien Eintritt, euer Camper kann am Barnett Street Car Park stehen. Danach gibt es Mittagessen in der Stadt. Am Nachmittag fahrt ihr mit dem Cable Car ab Lambton Quay hinauf zum Botanischen Garten.
+
+    Zum Schluss ist Weta Cave in Miramar möglich, die Öffnungszeiten prüft ihr vorher. Die Nacht verbringt ihr wieder am Evans Bay Marina. Sonnenuntergang ist um 17:35. Der Tag hat viele Optionen, wählt nach Laune. Wellington ist kompakt, vieles liegt nah beieinander. Plant die Reihenfolge so, dass der Camper möglichst wenig bewegt werden muss. Te Papa allein kann einen halben Tag füllen, der Rest ist optional. Zwischen den Zielen sind Wege kurz, lasst euch Zeit für Pausen.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Frühstück, danach Dump Station Evans Bay (kostenlos)."
+  - "zeit": "~09:30"
+    "text": "Wäsche in der Janice Laundry Newtown abgeben oder starten."
+  - "zeit": "~10:30"
+    "text": "Te Papa, Eintritt frei, Camper am Barnett Street Car Park."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in der Stadt."
+  - "zeit": "~14:00"
+    "text": "Cable Car ab Lambton Quay und Botanischer Garten."
+  - "zeit": "~16:00"
+    "text": "Weta Cave in Miramar, Öffnungszeiten vorher prüfen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:35, Rückfahrt zum Evans Bay Marina."
+40:
+  "intro": "Raue Küste im Süden der Nordinsel: Pūtangirua Pinnacles und Cape Palliser."
+  "text": |-
+    Heute verlasst ihr Wellington und fahrt an die wilde Küste der Wairarapa. Die Strecke ist 130 km lang, rund zwei Stunden im Camper. Kaitoke (Bruchtal) ist ein optionaler Umweg über die SH2, den ihr nur bei früher Abfahrt nehmt.
+
+    Die Pūtangirua Pinnacles erreicht ihr durch ein Flussbett, 1,5 bis 3 Stunden. Die Felsnadeln sind eine der Kulissen aus Der Herr der Ringe. Danach geht es zum Cape Palliser mit Robbenkolonie an der Straße und einem Leuchtturm mit 250 Stufen.
+
+    Die Nacht verbringt ihr am Pūtangirua Pinnacles DOC Campsite. Sonnenuntergang ist um 17:32, also plant die Zeit gut. Im Gebiet gibt es kaum Läden, kauft vorher ein. Die Tage werden kürzer, achtet auf das Licht. Am Pūtangirua Pinnacles Campsite startet auch der Weg zu den Felsnadeln, ihr schlaft also direkt am Ziel. Das ist praktisch für den Morgen. Beachtet die Tageslichtzeit, denn die Sonne geht um 17:32 unter. Nehmt Wasser und feste Schuhe für das Flussbett mit.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Abfahrt in Wellington (reine Fahrzeit 1:50 h, im Camper gut 2 Stunden)."
+  - "zeit": "~09:30"
+    "text": "Optional Kaitoke Regional Park (Rivendell), kleiner Umweg über SH2. Bei späterer Abfahrt streichen."
+  - "zeit": "~11:30"
+    "text": "Mittagspause unterwegs, Einkauf vor der Küstenstraße."
+  - "zeit": "~12:30"
+    "text": "Pūtangirua Pinnacles: 1,5 bis 3 Stunden im Flussbett."
+  - "zeit": "~15:30"
+    "text": "Cape Palliser: Robbenkolonie an der Straße und Leuchtturm mit 250 Stufen."
+  - "zeit": "~16:45"
+    "text": "Zurück zum Pūtangirua Pinnacles DOC Campsite."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:32."
+41:
+  "intro": "Von der Wildküste ins Weinland und weiter an die Ostküste nach Castlepoint. Ein entspannter Fahrtag mit Mittag in Martinborough."
+  "text": |-
+    Der Tag beginnt an der rauen Südküste der Wairarapa und führt Schritt für Schritt in sanftere Landschaft. Vom Pūtangirua Pinnacles Campsite geht es zurück ins Landesinnere nach Martinborough, einem kleinen Weinort mit Platz, Cafés und Ruhe. Dort lohnt sich eine lange Mittagspause, denn die Strecke danach ist leicht und führt durch offenes Farmland nach Osten.
+
+    Die Fahrt dauert rechnerisch gut zwei Stunden, im Camper eher zweieinhalb. Wer unterwegs einkaufen will, tut das auf dem Weg, denn Castlepoint ist ein kleiner Ort am Meer. Gegen Nachmittag taucht der Leuchtturm auf dem Riff auf, das Wahrzeichen der Gegend. Daneben liegen Deliverance Cove und der Castle Rock, die man zu Fuß erkunden kann.
+
+    Der Platz ist ein Freedom-Camping-Gelände nur für Self-Contained-Fahrzeuge. Prüft vor Ort Schild und grüne Plakette. Bei klarem Himmel ist der Sonnenuntergang um 17:27 über dem Riff ein schöner Abschluss. Die Fahrt am nächsten Tag nach Napier ist lang, deshalb früh schlafen.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Frühstück am Pūtangirua Pinnacles Campsite, in Ruhe zusammenpacken."
+  - "zeit": "~09:30"
+    "text": "Abfahrt Richtung Martinborough (reine Fahrzeit gesamt 2:08 h, im Camper rund 2:35 h)."
+  - "zeit": "~11:00"
+    "text": "Martinborough: Spaziergang um den Dorfplatz, Café oder Mittag. Der Weinort ist ruhig, Fahrer bleibt nüchtern."
+  - "zeit": "~12:30"
+    "text": "Weiter nach Osten, unterwegs Supermarkt (z. B. Masterton) für die nächsten Tage."
+  - "zeit": "~14:30"
+    "text": "Ankunft in Castlepoint, Parkplatz am Leuchtturm."
+  - "zeit": "~15:00"
+    "text": "Leuchtturm auf dem Riff, Deliverance Cove und Castle Rock erkunden."
+  - "zeit": "~16:45"
+    "text": "Platz auf dem Castlepoint Freedom Camping beziehen (nur Self-Contained, Schild prüfen)."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:27, Abendlicht am Riff."
+42:
+  "intro": "Der längste Fahrtag auf der Nordinsel: von Castlepoint bis Napier, mit Te Mata Peak als Abendlicht-Stopp."
+  "text": |-
+    Heute stehen fast fünf Stunden Fahrzeit im Camper an, die längste Etappe des Nordinsel-Abschnitts. Von der Küste bei Castlepoint geht es nach Westen und dann nach Norden durch die Wairarapa und weiter Richtung Hawke's Bay. Die Straße führt durch weite Farmlandschaft, die zum Ziel hin offener wird. Ein früher Aufbruch ist hier sinnvoll, damit am Ende noch Tageslicht für den Höhepunkt bleibt.
+
+    Plant zwei längere Pausen ein: eine nach zwei Stunden und ein richtiges Mittagessen. Zum Tanken lieber vorher als erst bei Reserve anhalten. Der Te Mata Peak bei Havelock North liegt kurz vor Napier und gibt Weitblick über die Hawke's Bay. Die Auffahrt geht bis zum Gipfelparkplatz, es braucht also keine Wanderung.
+
+    Die Nacht verbringt ihr am Perfume Point (Te Karaka) in Napier. Wenn ihr zu müde seid, ist der Napier Beach TOP 10 Holiday Park die bequemere Wahl. Morgen ist Napier-Tag mit Art Deco, deshalb heute nichts mehr erzwingen.
+  "schritte":
+  - "zeit": "~08:15"
+    "text": "Früh los, Tanken in Masterton oder unterwegs. Reine Fahrzeit 3:57 h, im Camper rund 4:45 h."
+  - "zeit": "~10:30"
+    "text": "Erste Pause nach rund zwei Stunden, Kaffee und Beine vertreten."
+  - "zeit": "~12:30"
+    "text": "Mittagessen unterwegs in einem Ort an der SH2."
+  - "zeit": "~14:00"
+    "text": "Weiterfahrt nach Hawke's Bay, die Landschaft wird weiter und trockener."
+  - "zeit": "~15:30"
+    "text": "Te Mata Peak bei Havelock North, Auffahrt bis zum Gipfelparkplatz, Weitblick über die Ebene."
+  - "zeit": "~16:45"
+    "text": "Fahrt nach Napier, Platz Perfume Point (Te Karaka) beziehen. Alternativ Napier Beach TOP 10."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:26, früh ins Bett."
+43:
+  "intro": "Ein ganzer Tag in Napier: Art-Deco-Rundgang und optional Cape Kidnappers, dazu Wäsche und Dump."
+  "text": |-
+    Nach dem langen Fahrtag ist Napier ein Ruhetag mit Kultur. Die Stadt wurde im Art-Deco-Stil neu aufgebaut, und der Rundgang vom Art Deco Centre aus führt an den Fassaden und der Promenade entlang. Das Wetter an der Küste entscheidet, ob man sich lange auf der Marine Parade aufhält, oder ins Café geht.
+
+    Am Nachmittag steht Cape Kidnappers an, eine Tour zu den Klippen mit Tölpelkolonie. Sie ist optional, weil die Saison laut Plan am 30.04. endet und die Abfahrtszeit nach Buchung gilt. Wer nicht fährt, hat Zeit für den Strand oder einen weiteren Stadtbummel.
+
+    Die Nacht ist wieder auf einem Holiday Park. Das passt, denn nach fast einer Woche unterwegs gibt es Strom, Wäsche und Dump. Nutzt die Gelegenheit, den Camper aufzuräumen, bevor es morgen nach Taupō geht. Napier liegt am Meer und hat ein mildes Klima. Der Tag verbindet Kultur, Strand und Natur. Wer die Tölpelkolonie sehen möchte, sollte die Tour vorab sichern, denn die Saison endet heute.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Frühstück am Perfume Point, danach Dump Station an der Marine Parade."
+  - "zeit": "~09:30"
+    "text": "Napier Art Deco Centre: Rundgang durch die Innenstadt."
+  - "zeit": "~11:30"
+    "text": "Kaffee und Mittag in der Stadt, Spaziergang an der Marine Parade."
+  - "zeit": "~13:00"
+    "text": "Optional Cape Kidnappers mit Gannet Safaris Overland, Abfahrt an der Basis. Saison endet laut Plan heute am 30.04., Zeit nach Buchung."
+  - "zeit": "~16:00"
+    "text": "Zurück nach Napier, Wäsche im Holiday Park."
+  - "zeit": "~17:00"
+    "text": "Einchecken im Napier Beach TOP 10 Holiday Park."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:24."
+44:
+  "intro": "Napier nach Taupō über das Landesinnere, am Nachmittag Huka Falls und der heiße Bach im Spa Park."
+  "text": |-
+    Die Fahrt von Napier nach Taupō führt ins Landesinnere und dauert rund zweieinhalb Stunden. Die Küstenebene weicht bewaldeten Hügeln, bis sich irgendwann der große See öffnet. Mit der Mittagspause in Taupō bleibt genug Zeit für den Nachmittag, denn heute stehen nur zwei Stopps auf dem Programm.
+
+    Die Huka Falls liegen am Waikato River, nahe dem Platz. Das Wasser rauscht kräftig durch eine enge Schlucht. Danach geht es zum Spa Thermal Park: Dort mündet ein warmer Bach in den Fluss, und man kann kostenlos darin baden. Badesachen und ein Handtuch gehören in den Rucksack.
+
+    Der Freiplatz Hipapatua (Reid's Farm) liegt in der Nähe der Sehenswürdigkeiten. Schaut vor Ort nach Schild und Regeln. Als Alternative steht der Taupo TOP 10 Holiday Park bereit. Morgen ist ein ganzer Tag in Taupō, der Abend heute darf ruhig sein. Der Weg nach Taupō führt durch das Hochland der Nordinsel. Der große See ist das Zentrum der Region, sein Ufer bietet viele Aussichten. Nehmt Badesachen für den heißen Bach mit.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt in Napier (reine Fahrzeit 2:05 h, im Camper rund 2:30 h)."
+  - "zeit": "~11:00"
+    "text": "Kaffeepause unterwegs, die Straße führt durch bewaldetes Hügelland."
+  - "zeit": "~12:30"
+    "text": "Ankunft in Taupō, Mittagessen und Einkauf."
+  - "zeit": "~14:00"
+    "text": "Huka Falls, kurzer Weg vom Parkplatz."
+  - "zeit": "~15:30"
+    "text": "Spa Thermal Park: freier heißer Bach (Otumuheke) zum Baden."
+  - "zeit": "~16:45"
+    "text": "Zum Hipapatua / Reid's Farm Campsite, Schild prüfen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:28."
+45:
+  "intro": "Ein freier Tag am Lake Taupō mit Craters of the Moon, Bootsfahrt und Wäsche, bei klarer Sicht optional ein Rundflug."
+  "text": |-
+    Der zweite Tag in Taupō ist der entspannteste der Woche. Am Morgen werden die Alltagsaufgaben erledigt: Wäsche im Liquid Laundromat und Entleeren an der Dump Station am Marina, wo es auch Trinkwasser gibt. Danach wartet Craters of the Moon, ein Rundweg über dampfende Erde, den man in etwa 45 Minuten schafft.
+
+    Am Nachmittag geht es auf den See. Die Bootsfahrt führt zu den Mine-Bay-Felsschnitzereien, die nur vom Wasser aus gut zu sehen sind. Wer Glück mit dem Wetter hat, kann zusätzlich einen Rundflug mit dem Wasserflugzeug buchen: Bei klarer Sicht sieht man Tongariro, Ngauruhoe und Ruapehu aus der Luft. Das ist optional und hängt von den Wolken ab.
+
+    Der Abend gehört dem Camper am See. Ab dem 02.05. rückt der Neumond näher, der Himmel wird dunkler. Mit etwas Glück gibt es klare Sterne, ein guter Abschluss vor der Weiterfahrt in den Nationalpark. Sonntage in Taupō sind ruhig, die Läden haben meist offen. Der Rundflug ist nur bei klarer Sicht sinnvoll, entscheidet deshalb morgens nach dem Wetterbericht. Alles andere läuft ohne Zeitdruck.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Ausschlafen, Frühstück. Wetter prüfen für den Rundflug."
+  - "zeit": "~09:30"
+    "text": "Wäsche im Liquid Laundromat Taupō, Dump Station am Marina (mit Trinkwasser)."
+  - "zeit": "~10:30"
+    "text": "Craters of the Moon, rund 45 Minuten Rundweg über dampfende Erde."
+  - "zeit": "~12:30"
+    "text": "Mittagessen am Hafen."
+  - "zeit": "~14:00"
+    "text": "Mine Bay Carvings Cruise ab Taupō Boat Harbour. Abfahrtszeit nach Buchung."
+  - "zeit": "~16:30"
+    "text": "Optional Floatplane-Rundflug über Tongariro, Ngauruhoe und Ruapehu, nur bei klarer Sicht."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:27. Neumond naht, gute Sterne am Reid's Farm Campsite."
+46:
+  "intro": "Taupō nach Tongariro: Wasserfälle am Fuß der Vulkane, keine hohen Pässe zu Fuß."
+  "text": |-
+    Von Taupō geht es nach Süden in den Tongariro-Nationalpark. Die Fahrt dauert unter zwei Stunden und bringt die Vulkankegel allmählich ins Blickfeld. Das Tongariro Alpine Crossing ist für diese Reise bewusst gestrichen, stattdessen gibt es kürzere Wege, die zum Profil passen.
+
+    Der Taranaki Falls Loop startet am Whakapapa Visitor Centre und ist rund 6 km lang mit etwa 150 Höhenmetern. Er führt durch alpines Gelände zu einem Wasserfall, der Weg ist gut machbar. Danach geht es zu den Tawhai Falls, auch Gollum's Pool genannt, was nur 20 Minuten dauert und für Herr-der-Ringe-Fans ein Fotostopp ist.
+
+    Die Nacht verbringt ihr am Mangahuia DOC Campsite. Im Park gibt es nur wenig Einkaufsmöglichkeiten, packt also vorher alles ein. Mit dem Neumond in der Nähe ist der Himmel dunkel, der Abend am Camper kann sternenklar werden. Wärmere Kleidung nicht vergessen, es wird in der Höhe kühl. Auch ohne Gipfelwanderung ist die Nähe der Vulkane eindrucksvoll. Die Wege sind gut ausgebaut und leicht zu gehen. Wolken können die Gipfel verhüllen, dann bleiben die Wasserfälle das Hauptziel.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt in Taupō (reine Fahrzeit 1:33 h, im Camper rund 1:50 h). Vorher Einkauf, im Park gibt es wenig."
+  - "zeit": "~11:30"
+    "text": "Ankunft am Whakapapa Visitor Centre."
+  - "zeit": "~12:00"
+    "text": "Taranaki Falls Loop: 6 km, rund 2 Stunden, ca. 150 Hm."
+  - "zeit": "~14:30"
+    "text": "Picknick am Camper."
+  - "zeit": "~15:00"
+    "text": "Tawhai Falls (Gollum's Pool), 20 Minuten."
+  - "zeit": "~15:45"
+    "text": "Einchecken am Mangahuia DOC Campsite. Alternative: Whakapapa Holiday Park."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:27. Dunkle Nacht, Sterne."
+47:
+  "intro": "Vom Vulkanland ins Höhlenland: Waitomo Glowworm Caves am Nachmittag, Glühwürmchen-Weg am Abend."
+  "text": |-
+    Heute wechselt die Landschaft vom rauen Vulkanland zu grünen Hügeln und Kalksteinhöhlen. Die Fahrt nach Waitomo dauert rund zweieinhalb Stunden im Camper. Man fährt durch Farmland und kleine Orte, bis die Höhlenregion beginnt. Der Holiday Park im Ort ist ein bequemer Standort, der Check-in klappt gut zur Mittagszeit.
+
+    Die Waitomo Glowworm Caves besucht ihr auf einer geführten Tour mit Bootsfahrt durch die Grotte, wo tausende Glühwürmchen die Decke beleuchten. Die Tour ist ein Monat vorher gebucht, die Uhrzeit richtet sich nach der Buchung. Der Rest des Tages bleibt locker.
+
+    Am Abend bietet der Ruakuri Bush Walk eine kostenlose Alternative: Nach Einbruch der Dunkelheit leuchten dort wilde Glühwürmchen im Wald. Nehmt eine Taschenlampe mit und geht vorsichtig. Rund um Neumond ist es besonders dunkel, das ist ideal. Morgen ist der große Hobbiton-Tag, also früh schlafen. Waitomo ist klein und touristisch, aber die Höhlen sind einzigartig. Plant die Tour so, dass ihr vorher in Ruhe ankommt. Der gratis Weg am Abend zeigt, dass Glühwürmchen auch ohne Eintritt zu erleben sind.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt am Mangahuia DOC Campsite (reine Fahrzeit 2:02 h, im Camper rund 2:30 h)."
+  - "zeit": "~10:30"
+    "text": "Kaffeepause unterwegs, Landschaft wird grüner."
+  - "zeit": "~12:00"
+    "text": "Ankunft in Waitomo, Mittagessen, Einchecken im Waitomo TOP 10 Holiday Park."
+  - "zeit": "~14:00"
+    "text": "Waitomo Glowworm Caves mit Bootsfahrt. Uhrzeit nach Buchung."
+  - "zeit": "~16:30"
+    "text": "Wäsche oder Pause im Holiday Park."
+  - "zeit": "~18:15"
+    "text": "Nach Einbruch der Dunkelheit zum Ruakuri Bush Walk, wilde Glühwürmchen, gratis. Taschenlampe mit."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:29."
+48:
+  "intro": "Fixpunkt des Tages: Hobbiton Evening Banquet um 15:30. Davor noch ein kurzer Abstecher zur Natural Bridge, dann rechtzeitig nach Matamata."
+  "text": |-
+    Der Tag hat einen festen Termin: Um 15:30 beginnt das Hobbiton Evening Banquet, und dafür solltet ihr 15 Minuten früher am Shires Rest sein. Von Waitomo bis dorthin braucht ihr rund zwei Stunden. Am Vormittag bleibt nur wenig Spielraum, deshalb gibt es nur kurze Stopps, die ohne Hetze möglich sind. Die Mangapohue Natural Bridge ist in 20 Minuten besucht, die Marokopa Falls sind optional und nur etwas für einen frühen Aufbruch.
+
+    Plant die Abfahrt aus der Gegend nicht später als 11:00 bis 11:30. Die ursprünglich notierte Abfahrt um 14:00 wäre zu spät. Unterwegs findet ihr eine Mittagspause in einem der Orte zwischen Waitomo und Matamata. Parken ist am Shires Rest möglich.
+
+    Die Tour dauert etwa 4,5 Stunden und endet gegen 20:00, mit Laternenrundgang im Dunkeln. Nur das erste Getränk ist inklusive, der Fahrer sollte es bei diesem bleiben lassen. Zehn Minuten entfernt wartet der Opal Hot Springs Holiday Park mit Thermalbecken für den Abend.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Frühstück, Check-out in Waitomo."
+  - "zeit": "~09:45"
+    "text": "Mangapohue Natural Bridge, 20 Minuten."
+  - "zeit": "~10:30"
+    "text": "Optional Marokopa Falls, 20 Minuten. Nur wenn um 11:00 abgefahren wird, sonst streichen."
+  - "zeit": "~11:15"
+    "text": "Rückfahrt Richtung Hobbiton, rund 2 Stunden mit Mittagspause unterwegs."
+  - "zeit": "~14:45"
+    "text": "Ankunft am The Shires Rest, 501 Buckland Rd. Vor Ort 15 Minuten vorher da sein."
+  - "zeit": "15:30"
+    "text": "Hobbiton Evening Banquet Tour, ca. 4,5 Stunden. Fahrer: ein Getränk inklusive."
+  - "zeit": "~20:15"
+    "text": "Nach dem Banquet 10 Minuten zum Opal Hot Springs Holiday Park in Matamata."
+  - "zeit": "nachts"
+    "text": "Thermalbecken bei Dunkelheit, wenn noch Lust. Sonnenuntergang war 17:26."
+49:
+  "intro": "Matamata nach Rotorua: Schlammlöcher, Redwoods und ein ruhiger Abend am See Ōkareka."
+  "text": |-
+    Von Matamata nach Rotorua ist es nur eine knappe Stunde Fahrt, ein Fahrtag mit viel Luft. Der Vormittag gehört den Becken des Holiday Parks, danach geht es los in die geothermale Welt der Stadt. Schon beim Hereinfahren liegt der typische Schwefelgeruch in der Luft.
+
+    Im Kuirau Park gibt es Schlammlöcher, dampfende Teiche und ein kostenloses Fußbad mitten in der Stadt. Danach führt der Weg in den Redwoods Whakarewarewa Forest mit hohen Bäumen und Rundwegen. Abends ist der Treewalk beleuchtet. Wer ihn besuchen will, kommt erst im Dunkeln zum Campsite, deshalb ist der Treewalk nur optional.
+
+    Der Lake Ōkareka DOC Campsite liegt etwas außerhalb am See. Rund um Neumond am 06.05. ist es auf dem Campsite angenehm dunkel. Als Alternative steht der Government Gardens Parkplatz zentral in Rotorua bereit. Wäsche und Dump werden morgen erledigt. Rotorua riecht nach Schwefel, das gehört dazu. Die Stadt ist zentral für die Geothermie. Wer mag, nimmt ein Bad in den Thermalbecken am Morgen. Der Rest des Tages ist locker und ohne Druck.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Frühstück, bei Lust Thermalbecken im Opal Hot Springs Holiday Park."
+  - "zeit": "~10:30"
+    "text": "Abfahrt nach Rotorua (reine Fahrzeit 1:24 h, im Camper rund 1:40 h)."
+  - "zeit": "~12:30"
+    "text": "Kuirau Park: Schlammlöcher und Fußbad, gratis."
+  - "zeit": "~14:00"
+    "text": "Mittagessen in der Stadt."
+  - "zeit": "~15:00"
+    "text": "Redwoods Whakarewarewa Forest, Rundwege, Treewalk am Abend beleuchtet."
+  - "zeit": "~16:45"
+    "text": "Fahrt zum Lake Ōkareka DOC Campsite. Sonnenuntergang 17:22."
+  - "zeit": "abends"
+    "text": "Neumond 06.05., dunkler Himmel, Sterne."
+50:
+  "intro": "Geothermie-Tag: Wai-O-Tapu mit dem Lady-Knox-Geysir um 10:15, optional Te Puia, am Nachmittag Wäsche und Dump."
+  "text": |-
+    Heute steht das Herz der Geothermie auf dem Programm. Der Tag beginnt mit der Fahrt zu Wai-O-Tapu, wo um 10:15 der Lady Knox Geysir ausbricht. Kommt rechtzeitig, damit ihr einen guten Platz bekommt. Danach geht es auf dem Rundweg durch den Park mit farbigen Becken und dem Champagne Pool, einem der Höhepunkte.
+
+    Am frühen Nachmittag seid ihr zurück in Rotorua. Für die Versorgung gibt es einen 24/7 Waschsalon, und die Dump Station ist kostenlos. Das Organisatorische ist schnell erledigt. Wer noch Energie hat, besucht optional Te Puia mit dem Pōhutu-Geysir und Einblicken in die Māori-Kultur.
+
+    Der Rückweg zum Campsite am Lake Ōkareka ist kurz. Bei der Sonnenuntergangszeit um 17:21 reicht es für einen letzten Spaziergang am Wasser. Morgen beginnt die lange Fahrt nach Coromandel, daher rechtzeitig Tank und Wasser prüfen. Die Wai-O-Tapu-Wege sind flach und gut zu gehen. Ein früher Start lohnt sich wegen des Geysirs. Der Nachmittag bleibt für Wäsche und Dump, damit der Camper für Coromandel bereit ist.
+  "schritte":
+  - "zeit": "~08:45"
+    "text": "Aufbruch vom Lake Ōkareka zu Wai-O-Tapu."
+  - "zeit": "~09:45"
+    "text": "Ankunft am Parkplatz Wai-O-Tapu Thermal Wonderland, Tickets."
+  - "zeit": "10:15"
+    "text": "Lady Knox Geysir, Ausbruch laut Programm."
+  - "zeit": "~11:00"
+    "text": "Rundgang durch den Park mit Champagne Pool."
+  - "zeit": "~13:30"
+    "text": "Rückfahrt nach Rotorua, Mittagessen."
+  - "zeit": "~15:00"
+    "text": "Wäsche im 24/7 Waschsalon, kostenlose Dump Station Rotorua."
+  - "zeit": "~16:00"
+    "text": "Optional Te Puia mit Pōhutu-Geysir und Māori-Kultur."
+  - "zeit": "abends"
+    "text": "Zurück am Lake Ōkareka, Sonnenuntergang 17:21."
+51:
+  "intro": "Langer Fahrtag nach Hahei auf der Coromandel-Halbinsel, mit Mount Maunganui als Beinevertreten."
+  "text": |-
+    Von den heißen Quellen Rotoruas geht es an die Ostküste und dann auf die Coromandel-Halbinsel. Heute sitzt ihr rund vier Stunden im Camper, deshalb lohnt es sich, den Tag bewusst zu gliedern. Der Mount Maunganui bietet mit seinem flachen Base Track von 3,5 km eine schöne Gelegenheit, Beine zu vertreten und frische Luft zu atmen.
+
+    Am Nachmittag erreicht ihr Hahei. Freedom Camping ist dort verboten, der Campingplatz Hahei Beach Resort liegt direkt am Strand. Das ist praktisch, weil morgen die Gezeiten über den Ablauf entscheiden: Hot Water Beach funktioniert nur um Ebbe, Cathedral Cove hängt vom Wegstatus ab.
+
+    Schaut am Abend in die Gezeitentabelle, bevor ihr den nächsten Tag plant. Der Sonnenuntergang um 17:24 kommt früh, also nutzt das Licht für einen Spaziergang am Strand. Der Tag ist anstrengend, aber das Ziel ist einer der schönsten Plätze der Reise. Die Fahrt ist lang, deshalb teilt sie in zwei Hälften. Der Halt am Mount Maunganui bringt Bewegung und frische Luft. In Hahei angekommen, lohnt es, nichts mehr zu planen außer dem Blick auf die Gezeiten.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Abfahrt in Rotorua (reine Fahrzeit 3:21 h, im Camper rund 4 Stunden)."
+  - "zeit": "~10:00"
+    "text": "Optional Mount Maunganui Base Track, 3,5 km flach."
+  - "zeit": "~12:00"
+    "text": "Mittagessen am Mount Maunganui oder unterwegs."
+  - "zeit": "~13:00"
+    "text": "Weiter Richtung Coromandel."
+  - "zeit": "~15:00"
+    "text": "Ankunft im Hahei Beach Resort, Camper beziehen."
+  - "zeit": "~16:00"
+    "text": "Strandspaziergang."
+  - "zeit": "~16:45"
+    "text": "Gezeitentabelle für Hot Water Beach und Cathedral Cove prüfen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:24."
+52:
+  "intro": "Tide-Tag in Hahei: Hot Water Beach zur Ebbe und Cathedral Cove, die Reihenfolge richtet sich nach der Gezeitentabelle."
+  "text": |-
+    Heute steht alles unter dem Zeichen der Gezeiten. Hot Water Beach ist nur rund um die Ebbe besonders spannend: Dann könnt ihr im Sand eigene Pools graben, in die heißes Wasser aufsteigt. Das Zeitfenster beträgt etwa zwei Stunden um Ebbe. Eine Schaufel gehört ins Gepäck, die genaue Zeit steht in der Gezeitentabelle.
+
+    Cathedral Cove ist das zweite Ziel. Der Weg ist in der Vergangenheit nach Erdrutschen zeitweise gesperrt gewesen, daher vorher den Wegstatus prüfen. Ist der Zugang gesperrt, gibt es die Alternative per Boot. Startpunkt ist der Hahei Visitor Car Park (Park & Ride).
+
+    Wenn die Ebbe am Vormittag liegt, geht ihr zuerst zum Hot Water Beach. Liegt sie nachmittags, kommt Cathedral Cove zuerst dran. Das gibt einen entspannten Rhythmus mit Mittagspause im Ort. Am Abend nach dem Sonnenuntergang um 17:24 tut eine warme Dusche im Resort gut. Beide Ziele sind sehr beliebt und können voll sein, besonders in Schulferienzeiten. Kommt eher etwas früher. Nach dem Graben im heißen Sand tut ein warmes Getränk am Camper gut.
+  "schritte":
+  - "zeit": "~08:00"
+    "text": "Gezeitentabelle prüfen und Variante wählen."
+  - "zeit": "~09:00"
+    "text": "Variante A (Ebbe am Vormittag): Hot Water Beach, ca. 2 Stunden um Ebbe, eigenen Pool graben. Schaufel mitbringen."
+  - "zeit": "~10:30"
+    "text": "Variante B (Ebbe am Nachmittag): erst Cathedral Cove, Wegstatus prüfen (nach Erdrutschen zeitweise nur per Boot)."
+  - "zeit": "~12:30"
+    "text": "Mittagessen im Ort oder am Camper."
+  - "zeit": "~14:00"
+    "text": "Die jeweils andere Station: Cathedral Cove über Hahei Park & Ride oder Hot Water Beach."
+  - "zeit": "~16:30"
+    "text": "Zurück am Hahei Beach Resort, Duschen, Aufwärmen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:24."
+53:
+  "intro": "Küstenstraße über Coromandel Town nach Thames. Der Plan nennt 85 km, realistisch ist es deutlich mehr."
+  "text": |-
+    Der Tag führt von Hahei in Richtung Westen nach Coromandel Town und dann an der Küste entlang nach Thames. Die im Plan genannten 85 km passen vermutlich nicht für die gesamte Route, rechnet daher mit mehr Fahrzeit. Die Straße SH25 an der Küste ist kurvig und sehr schön, das Wasser immer im Blick.
+
+    In Coromandel Town ist die Driving Creek Railway der Höhepunkt des Tages, eine kleine Bergbahn durch den Wald. Der Ort selbst hat Cafés für die Mittagspause. Nördlich von Colville gilt für Britz ein Fahrverbot, das bleibt außen vor.
+
+    In Thames erledigt ihr Dump und Einkauf, bevor ihr zum Kauaeranga Valley fahrt. Der Kahikatea DOC Campsite liegt im Tal und bietet eine ruhige Nacht. Wer Strom oder mehr Komfort möchte, wählt den Danby Field Freedom Camping Platz. Der Tag ist eine gute Mischung aus Fahrt und Entdecken. Die Küstenstraße SH25 ist eine der schönsten der Coromandel-Halbinsel. Sie ist kurvig und schmal, im Camper heißt das langsam fahren. Plant genug Zeit ein, auch für Fotostopps am Wasser.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt in Hahei Richtung Coromandel Town. Die Strecke ist länger als die im Plan genannten 85 km."
+  - "zeit": "~11:15"
+    "text": "Ankunft in Coromandel Town, Driving Creek Railway."
+  - "zeit": "~13:00"
+    "text": "Mittagessen im Ort."
+  - "zeit": "~14:00"
+    "text": "Küstenstraße SH25 Richtung Thames, nicht nördlich von Colville."
+  - "zeit": "~15:30"
+    "text": "Dump Station Thames, Einkauf."
+  - "zeit": "~16:15"
+    "text": "Zum Kauaeranga Valley, Kahikatea DOC Campsite. Alternative: Danby Field in Thames."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:23."
+54:
+  "intro": "Um Auckland herum nach Norden: Goat Island und Matakana, die Stadt zur Rushhour meiden."
+  "text": |-
+    Heute geht es um Auckland herum nach Norden, und das gelingt am besten außerhalb der Stoßzeiten. Wer um 08:30 im Kauaeranga Valley startet, kommt gegen 10:15 an der Stadt vorbei, nach dem Morgenverkehr. Die Fahrt dauert insgesamt knapp vier Stunden, mit Mittagspause in Matakana Village.
+
+    Das Dorf ist klein und hat Cafés und Märkte. Danach geht es zum Goat Island Marine Reserve, einem Meeresschutzgebiet. Ob Schnorcheln oder Glasbodenboot möglich ist, hängt vom Wetter ab. Informiert euch vor Ort über die Bedingungen.
+
+    Die Nacht verbringt ihr am Te Ārai Self-Contained Campground, der Auckland Council gehört. Prüft auch hier Schild und Plakette. Falls der Platz nicht passt, ist der Uretiti Beach DOC Campsite die Alternative. Der Sonnenuntergang um 17:28 lässt noch genug Zeit zum Einrichten. Morgen geht es weiter in die Bay of Islands. Der Tag ist lang, aber ohne Programmdruck. Die Umfahrung von Auckland ist der kritische Teil, deshalb der Start vor 08:30. Danach wird die Landschaft ruhiger und ländlicher bis zum Platz am Strand.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Abfahrt im Kauaeranga Valley (reine Fahrzeit 3:12 h, im Camper rund 3:50 h)."
+  - "zeit": "~10:15"
+    "text": "Auckland südlich umfahren, nach der Morgenrushhour."
+  - "zeit": "~12:30"
+    "text": "Matakana Village, Mittagessen."
+  - "zeit": "~14:00"
+    "text": "Goat Island Marine Reserve: Schnorcheln oder Glasbodenboot je nach Wetter."
+  - "zeit": "~16:30"
+    "text": "Fahrt zum Te Ārai Self-Contained Campground."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:28. Alternative: Uretiti Beach DOC."
+55:
+  "intro": "Von Te Ārai in die Bay of Islands: Whangārei Falls und Waitangi Treaty Grounds."
+  "text": |-
+    Die Fahrt von Te Ārai in die Bay of Islands führt durch Northland und dauert knapp drei Stunden im Camper. Der erste Stopp ist Whangārei mit den Whangārei Falls, einem schönen Wasserfall, der sich mit einem kurzen Spaziergang erreichen lässt. Danach bietet die Stadt ein gutes Mittagessen und Einkaufsmöglichkeiten.
+
+    Am Nachmittag erreicht ihr die Bay of Islands. Die Waitangi Treaty Grounds sind ein historischer Ort, an dem der Vertrag von Waitangi unterzeichnet wurde. Prüft die Öffnungszeiten vorher, damit ihr genug Zeit habt.
+
+    Übernachtet wird im Seaview Camper Van Park in Paihia, einem einfachen Camper-Park. Freedom Camping ist im Ort verboten. Als Alternativen gibt es den Paihia TOP 10 Holiday Park und den Russell TOP 10 Holiday Park. Der Sonnenuntergang um 17:31 lässt noch Zeit für einen Spaziergang am Wasser. Northland ist grün und hügelig, mit Blick auf Buchten. Die Waitangi Treaty Grounds sind ein historischer Ort, der Zeit verdient. Am Abend könnt ihr am Wasser in Paihia ausruhen.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt am Te Ārai (reine Fahrzeit 2:22 h, im Camper rund 2:50 h)."
+  - "zeit": "~10:15"
+    "text": "Whangārei Falls, kurzer Spaziergang."
+  - "zeit": "~12:00"
+    "text": "Mittagessen in Whangārei, Einkauf."
+  - "zeit": "~13:30"
+    "text": "Weiter nach Norden zur Bay of Islands."
+  - "zeit": "~15:00"
+    "text": "Waitangi Treaty Grounds, Parkplatz. Öffnungszeiten vorher prüfen."
+  - "zeit": "~16:30"
+    "text": "Einchecken im Seaview Camper Van Park in Paihia."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:31."
+56:
+  "intro": "Ein ganzer Tag in der Bay of Islands: Hole in the Rock Bootstour und Fähre nach Russell."
+  "text": |-
+    Heute bleibt der Camper stehen, die Bay of Islands wird vom Wasser aus erkundet. Die Bootstour zum Hole in the Rock fährt von Paihia Wharf ab, mit etwas Glück zeigen sich Delfine. Die Abfahrtszeit richtet sich nach der Buchung, der Rest des Tages ist locker.
+
+    Am Nachmittag setzt ihr mit der Personenfähre ab Paihia Wharf nach Russell über. Der Ort ist ruhig und eignet sich für einen Spaziergang und einen Kaffee. Die Fähre bringt euch am Ende zurück nach Paihia.
+
+    Praktisches wie Wäsche erledigt ihr im Holiday Park, den Dump gibt es in Kawakawa. Das ist die nächste Station zu Paihia. Der Sonnenuntergang um 17:30 passt für einen ruhigen Abend im Camper Van Park. Morgen beginnt die Fahrt zur Halbinsel Karikari. Der Tag ist bewusst frei von Fahrt, sodass ihr Zeit auf dem Wasser habt. Bei schlechtem Wetter fallen Bootstouren aus, dann bleibt Zeit für den Ort. Russell ist von Paihia aus leicht erreichbar.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Frühstück, Bootstour bestätigen."
+  - "zeit": "~09:30"
+    "text": "Bootstour Hole in the Rock ab Paihia Wharf, Delfine möglich. Abfahrtszeit nach Buchung."
+  - "zeit": "~13:00"
+    "text": "Mittagessen in Paihia."
+  - "zeit": "~14:00"
+    "text": "Personenfähre nach Russell, Camper bleibt stehen."
+  - "zeit": "~16:30"
+    "text": "Zurück nach Paihia, Wäsche im Holiday Park."
+  - "zeit": "~17:00"
+    "text": "Dump Station Kawakawa, falls nötig."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:30."
+57:
+  "intro": "In den hohen Norden nach Karikari: weiße Strände und ein abgelegener DOC-Platz an der Maitai Bay."
+  "text": |-
+    Von Paihia aus geht es nach Norden, Richtung Karikari-Halbinsel. Die Fahrt dauert etwa zwei Stunden. Unterwegs liegt Kerikeri mit den Rainbow Falls, einem optionalen Fotostopp, und mit einem guten Platz für Einkauf und Tanken. Auf der Halbinsel selbst gibt es wenig Einkaufsmöglichkeiten.
+
+    Die Karikari-Halbinsel ist bekannt für ihre weißen Strände. Der Maitai Bay DOC Campsite liegt in einer geschützten Bucht und bietet viel Ruhe. Am Nachmittag bleibt Zeit, die Strände zu erkunden und die Beine zu vertreten.
+
+    Der Platz ist abgelegen, bringt also Wasser und Proviant mit. Der Sonnenuntergang um 17:33 kommt früh. Nutzt die verbleibende Tageszeit für Spaziergänge. Morgen geht es weiter nach Cape Reinga, dem nördlichen Ende der Reise. Kerikeri ist der letzte größere Ort vor der Halbinsel, nutzt ihn zum Auffüllen. Karikari ist abgelegen, die Straßen sind ruhiger. Strand und Wasser laden zu langen Spaziergängen ein. Wer mag, nimmt Badesachen und Handtuch für den Strand mit. Der Platz ist einfach, ruhig und weit von der Stadt entfernt.
+  "schritte":
+  - "zeit": "~09:30"
+    "text": "Abfahrt in Paihia (reine Fahrzeit 1:47 h, im Camper rund 2:10 h)."
+  - "zeit": "~10:30"
+    "text": "Optional Rainbow Falls in Kerikeri."
+  - "zeit": "~11:30"
+    "text": "Einkauf in Kerikeri und Tanken, auf Karikari gibt es wenig."
+  - "zeit": "~13:00"
+    "text": "Mittagessen unterwegs."
+  - "zeit": "~14:30"
+    "text": "Ankunft am Maitai Bay DOC Campsite."
+  - "zeit": "~15:30"
+    "text": "Strände der Halbinsel erkunden."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:33."
+58:
+  "intro": "Zum nördlichsten Punkt: Te Paki Sanddünen und das Cape Reinga, wo Tasman Sea und Pazifik aufeinandertreffen."
+  "text": |-
+    Der Tag führt zum nördlichen Ende der Reise. Die Fahrt von Karikari nach Cape Reinga dauert im Camper rund drei Stunden, durch eine immer einsamere Landschaft. Die Te Paki Sanddünen sind der erste Stopp. Dort gibt es einen Sandboarding-Verleih vor Ort. Der Ninety Mile Beach ist für Britz verboten, ihr schaut ihn nur von den Dünen aus an.
+
+    Weiter geht es zum Cape Reinga Leuchtturm. Hier treffen Tasman Sea und Pazifik aufeinander, ein besonderer Ort. Plant genug Zeit für den Weg zum Leuchtturm und für Fotos ein.
+
+    Die Nacht verbringt ihr am Tapotupotu DOC Campsite. Auch hier gilt: Nehmt Wasser und Proviant mit. Der Sonnenuntergang um 17:35 gibt noch Licht für die Ankunft. Morgen steht die längste Fahrt der Nordinsel an, deshalb heute früh zur Ruhe kommen. Die Straße nach Norden wird einsamer, Landschaft und Wetter wechseln. Cape Reinga hat eine besondere Stimmung, mit Wind und Weite. Zieht warme Kleidung an, auch wenn die Sonne scheint, und vergesst die Kamera nicht.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt an der Maitai Bay (reine Fahrzeit 2:33 h, im Camper rund 3 Stunden)."
+  - "zeit": "~11:30"
+    "text": "Kaffeepause unterwegs, Tanken."
+  - "zeit": "~12:30"
+    "text": "Te Paki Giant Sand Dunes, Sandboarding-Verleih vor Ort. Nur die Dünen, nicht auf den Ninety Mile Beach."
+  - "zeit": "~14:00"
+    "text": "Mittagessen am Camper."
+  - "zeit": "~15:30"
+    "text": "Cape Reinga Leuchtturm: Tasman Sea trifft Pazifik."
+  - "zeit": "~16:45"
+    "text": "Zum Tapotupotu DOC Campsite."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:35."
+59:
+  "intro": "Lange Etappe von Cape Reinga nach Süden bis Waipoua, mit Tāne Mahuta am späten Nachmittag."
+  "text": |-
+    Heute ist eine lange Etappe angesagt. Von Cape Reinga führt der Weg nach Süden, rechnerisch fast vier Stunden, im Camper eher knapp fünf. Plant Pausen ein und startet früh. In Kaitaia lohnt sich ein Einkauf, denn am Ziel gibt es wenig.
+
+    Die Route verläuft über das Hokianga, bei Bedarf mit der Kohukohu-Fähre. Prüft vorher den Fahrplan, damit keine Wartezeiten entstehen. Am Nachmittag erreicht ihr den Waipoua-Wald, wo Tāne Mahuta steht, der größte Kauri. Der Weg vom Parkplatz ist kurz, der Baum beeindruckend.
+
+    Zum Abschluss geht es zum Trounson Kauri Park DOC Campground. Der Platz liegt im Kauri-Wald, und nachts sind Kiwi-Rufe zu hören. Das ist ein besonderes Erlebnis, wenn es ruhig bleibt. Alternativ gibt es den Kai Iwi Lakes Campground. Der Tag ist anstrengend, aber der Wald belohnt. Der Tag ist anspruchsvoll und braucht Disziplin bei den Pausen. Dafür ist das Ziel ein Höhepunkt: uralte Kauri-Bäume im Dunkel des Waldes. Wer Kiwi-Rufe hören will, bleibt abends ruhig und lauscht.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Früh los, Tanken. Reine Fahrzeit 3:57 h, im Camper rund 4:45 h."
+  - "zeit": "~11:00"
+    "text": "Pause in Kaitaia, Einkauf."
+  - "zeit": "~12:30"
+    "text": "Mittagessen unterwegs."
+  - "zeit": "~13:30"
+    "text": "Über Hokianga, ggf. Kohukohu-Fähre (Fahrplan vorher prüfen)."
+  - "zeit": "~15:30"
+    "text": "Tāne Mahuta, größter Kauri, kurzer Weg."
+  - "zeit": "~16:15"
+    "text": "Trounson Kauri Park DOC Campground beziehen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:28. Nachts Kiwi-Rufe."
+60:
+  "intro": "Letzte Fahrt nach Auckland: Muriwai optional, dann Dump, Tanken und die letzte Nacht am Ambury Regional Park."
+  "text": |-
+    Die letzte Fahrt führt aus dem Waipoua-Wald nach Süden bis Auckland. Mit rund vier Stunden im Camper ist der Tag gut machbar. Wer Lust hat, schaut bei Muriwai vorbei: schwarzer Surfstrand und Klippen laden zu einem kurzen Spaziergang ein, es ist aber optional.
+
+    Wichtig ist das Timing in Auckland. Plant, vor dem Feierabendverkehr in der Stadt zu sein. Auf dem Weg zum Campground liegt die Dump Station Mobil Wiri, nahe der Britz-Station, und ihr tankt nahe Māngere voll, damit morgen alles bereit ist.
+
+    Der Ambury Regional Park Campground ist ein Bauernhof-Campingplatz, etwa 15 Minuten von der Britz-Station entfernt. Er muss vorab gebucht sein. Am Abend packt ihr und putzt den Camper innen. Morgen ist Rückgabe, also lieber heute schon ordnen. Rushhour in Auckland vermeidet ihr durch frühe Ankunft. Die Fahrt endet in einem Stadtpark mit Bauernhof-Charakter. Der Abend dient dem Packen, damit die Rückgabe morgen reibungslos läuft. Der Camper sollte vorher leer und sauber sein.
+  "schritte":
+  - "zeit": "~09:00"
+    "text": "Abfahrt in Trounson (reine Fahrzeit 3:13 h, im Camper rund 3:50 h)."
+  - "zeit": "~12:30"
+    "text": "Optional Muriwai: schwarzer Surfstrand und Klippen. Mittagessen."
+  - "zeit": "~14:00"
+    "text": "Weiter nach Süden, vor dem Feierabendverkehr durch Auckland."
+  - "zeit": "~15:30"
+    "text": "Dump Station Mobil Wiri und Volltanken nahe Māngere."
+  - "zeit": "~16:30"
+    "text": "Einchecken im Ambury Regional Park Campground (vorab gebucht)."
+  - "zeit": "~17:00"
+    "text": "Packen, Camper innen putzen."
+  - "zeit": "abends"
+    "text": "Sonnenuntergang 17:21."
+61:
+  "intro": "Letzter Tag: Camper bei Britz Māngere abgeben, optional ein Tag in Auckland, 20:30 Abflug."
+  "text": |-
+    Der letzte Tag ist entspannt, aber mit klaren Terminen. Vormittags gebt ihr den Camper bei Britz in Māngere zurück. Die Station ist von 08:00 bis 16:30 geöffnet, Tank voll und Kassette leer sind Pflicht. Danach ist das Fahrzeug erledigt und ihr seid ohne Gepäck-Sorgen unterwegs.
+
+    Mit der Gepäckaufbewahrung am Flughafen bleibt der Tag frei. Wer mag, besucht Auckland: Der Maungawhau / Mount Eden gibt einen Überblick über die Stadt, am Viaduct Harbour lässt sich gut zu Mittag essen, und optional gibt es eine Fähre nach Devonport. Plant genug Zeit ein, um bis etwa 17:30 wieder am Flughafen zu sein.
+
+    Der Flug EK 449 geht um 20:30 nach Dubai, von dort weiter mit EK 55 nach Düsseldorf. Der Sonnenuntergang ist um 17:20, ihr verlasst Neuseeland also mit der Abenddämmerung. Nach 61 Tagen sind das letzte Stunden einer langen Reise. Behaltet die Uhr im Blick: Rückgabe, Stadtbesuch und Flughafen müssen zeitlich passen. Kleines Gepäck für den Stadtbesuch genügt. Ein entspannter Abschluss ist wichtiger als jede Sehenswürdigkeit.
+  "schritte":
+  - "zeit": "~08:30"
+    "text": "Frühstück, letzte Dinge packen, Camper vollständig ausräumen."
+  - "zeit": "~09:15"
+    "text": "Rückgabe bei Britz Māngere (Station 08:00 bis 16:30): Tank voll, Kassette leer."
+  - "zeit": "~10:00"
+    "text": "Zum Flughafen, Gepäck in die Aufbewahrung."
+  - "zeit": "~11:00"
+    "text": "Optional Auckland: Maungawhau / Mount Eden."
+  - "zeit": "~13:00"
+    "text": "Mittagessen am Viaduct Harbour, optional Fähre nach Devonport."
+  - "zeit": "~16:30"
+    "text": "Zurück zum Flughafen."
+  - "zeit": "~17:30"
+    "text": "Am Flughafen sein, Gepäck holen, einchecken."
+  - "zeit": "20:30"
+    "text": "Abflug EK 449 nach Dubai, weiter EK 55 nach Düsseldorf."
