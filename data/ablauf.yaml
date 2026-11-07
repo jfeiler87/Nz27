@@ -477,7 +477,7 @@
   "text": |-
     Der Haast Pass verbindet das Hochland mit der wilden Westküste. Die Strecke ist 186 km lang, reine 2:23 h, im Camper rund 2:50 h. In Wanaka muss der Tank voll sein, denn bis Haast gibt es keine Tankstelle. Der Weg führt durch Wald, entlang von Flüssen und über den Pass.
 
-    Die Stopps sind kurz und lohnen sich: Blue Pools mit 1,5 km flachem Weg, Fantail Falls und Thunder Creek Falls mit je fünf Minuten. Alles passt zu eurem Profil und ist ohne Wanderung machbar. Die Landschaft wechselt zum Regenwald, die Luft wird feuchter.
+    Die Stopps sind kurz und lohnen sich: Blue Pools mit 1,5 km flachem Weg, Fantail Falls und Thunder Creek Falls mit je fünf Minuten. Hinter Haast erreicht ihr die Tasmansee; am Ship Creek führen zwei kurze Wege durch Dünen und urigen Kahikatea-Sumpfwald. Alles passt zu eurem Profil und ist ohne Wanderung machbar.
 
     Die Nacht verbringt ihr am Lake Paringa DOC Campsite, einem ruhigen Platz am See. Als Alternative gibt es Haast, Marks Road, dessen Standort laut Plan unsicher ist. Sonnenuntergang ist um 18:22. Sandfliegen sind an der Westküste üblich, Insektenschutz sollte griffbereit sein. Die Fahrt dauert mit Stopps einen ganzen Tag, aber ohne Eile. Nehmt euch Zeit für die Blue Pools und lasst die kurzen Wasserfälle nicht aus. Die Westküste ist regnerisch, Regenjacke und Insektenschutz sollten griffbereit sein.
   "schritte":
@@ -490,24 +490,22 @@
   - "zeit": "~13:00"
     "text": "Fantail Falls (5 Minuten) und Thunder Creek Falls (5 Minuten), kurze Fotostopps."
   - "zeit": "~14:30"
-    "text": "Weiterfahrt Richtung Haast und Küste, die Landschaft wechselt zum Regenwald."
+    "text": "Weiterfahrt über Haast an die Küste. Kurz hinter Haast: Ship Creek mit Dünen- und Sumpfwaldweg (je ca. 30 Minuten), oft mit Brandung und Treibholz."
   - "zeit": "~16:00"
     "text": "Ankunft am Lake Paringa DOC Campsite. Alternative: Haast, Marks Road (Standort laut Plan unsicher)."
   - "zeit": "abends"
     "text": "Sonnenuntergang 18:22, Sandfliegen sind hier üblich, Insektenschutz bereithalten."
 22:
-  "intro": "Von der Küste nach Fox Glacier: Ship Creek als Abstecher, Lake Matheson am Abend."
+  "intro": "Kurzer Fahrtag an der Küste nach Fox Glacier, Lake Matheson am Abend."
   "text": |-
-    Heute geht es entlang der Westküste nach Norden bis Fox Glacier. Die Strecke ist mit 71 km und gut einer Stunde reiner Fahrzeit kurz. Der Ship Creek liegt in Richtung Haast und ist damit ein Abstecher zurück vom Campsite. Wer nicht zurück will, lässt ihn aus.
+    Heute geht es entlang der Westküste nach Norden bis Fox Glacier. Die Strecke ist mit 71 km und gut einer Stunde reiner Fahrzeit kurz; zwischen Regenwald und Weideland tauchen bei klarem Wetter erstmals die Gletscherberge auf. Ihr könnt den Morgen am Lake Paringa ruhig angehen lassen.
 
-    Am Ship Creek gibt es zwei Wege, je rund 30 Minuten: durch Dünen und durch Sumpfwald. In Fox Glacier checkt ihr im Fox Glacier TOP 10 Holiday Park ein, mit Wäsche und Strom. Der Platz liegt nah am Lake Matheson, was für den Morgen praktisch ist.
+    In Fox Glacier checkt ihr im Fox Glacier TOP 10 Holiday Park ein, mit Wäsche und Strom. Der Platz liegt nah am Lake Matheson, was für den Morgen praktisch ist.
 
     Am späten Nachmittag fahrt ihr zum Lake Matheson. Die Spiegelung funktioniert bei Windstille, Sonnenuntergang ist um 18:18. Klappt es heute nicht, probiert ihr es morgen früh noch einmal. Der Tag ist leicht und lässt Zeit zum Ausruhen. Die Tage in Fox und Franz Josef drehen sich um die Gletscher. Heute ist es noch ruhig: ein kurzer Fahrtag, Wäsche und Strom im Holiday Park und am Abend der See. Der frühe Sonnenuntergang um 18:18 setzt dem Tag einen klaren Rahmen.
   "schritte":
   - "zeit": "~09:00"
-    "text": "Aufbruch am Lake Paringa, zurück in Richtung Haast zum Ship Creek (liegt auf der Haast-Seite, Abstecher)."
-  - "zeit": "~09:30"
-    "text": "Ship Creek: Dünen- und Sumpfwaldweg, je ca. 30 Minuten. Wer keinen Umweg will, streicht ihn."
+    "text": "Gemütliches Frühstück am Lake Paringa, Aufbruch Richtung Norden."
   - "zeit": "~11:30"
     "text": "Weiterfahrt nach Norden, reine Fahrzeit 0:56 h, im Camper gut eine Stunde."
   - "zeit": "~13:00"

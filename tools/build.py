@@ -122,10 +122,12 @@ for i, t in enumerate(TAGE):
     t["_von"] = t.get("start_ort") or prev
     ziel = t["nacht"]["ort"] if t.get("nacht") else t.get("end_ort")
     t["_route"] = None
-    if t.get("faehre"):
-        t["_route"] = None
-    elif t["_von"] and ziel:
-        t["_route"] = route(t["_von"], ziel)
+    if not t.get("faehre") and t["_von"] and ziel:
+        pts = [t["_von"], *t.get("via", []), ziel]
+        legs = [route(a, b) for a, b in zip(pts, pts[1:])]
+        if all(legs):
+            t["_route"] = {"km": sum(x["km"] for x in legs), "min": sum(x["min"] for x in legs),
+                           "geom": [g for x in legs for g in x["geom"]]}
 
 
 def ddmm(d):
@@ -301,6 +303,8 @@ if __name__ == "__main__":
     open(os.path.join(ROOT, "itinerary.md"), "w", encoding="utf-8").write(text)
     stats = maps()
     json.dump(CACHE, open(CACHE_FILE, "w", encoding="utf-8"), indent=0)
+    json.dump({t["tag"]: t["_route"] for t in TAGE if t["_route"]},
+              open(os.path.join(DATA, "tage_routen.json"), "w", encoding="utf-8"))
     niedrig = sorted({oid for oid, o in ORTE.items() if o.get("konfidenz") == "niedrig"})
     print("Layer:", stats)
     print(f"Orte gesamt: {len(ORTE)} · unsicher: {len(niedrig)}")

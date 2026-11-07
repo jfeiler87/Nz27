@@ -155,6 +155,7 @@ tage:
     nacht:
       typ: frei
       ort: all-day-bay-kakanui
+      hinweis: "~25 min südlich, nach den Pinguinen im Dunkeln anfahren – sonst Holiday Park in Oamaru"
       alternativen:
         - typ: hp
           ort: oamaru-top10
@@ -370,6 +371,7 @@ tage:
   - tag: 19
     insel: sued
     titel: "Glenorchy → Wanaka (über Cromwell)"
+    via: [kawarau-bridge, cromwell-heritage]
     fahrt: "SH6 durch die Kawarau Gorge – Crown Range ist für Britz verboten."
     programm:
       - ort: kawarau-bridge
@@ -407,7 +409,7 @@ tage:
 
   - tag: 21
     insel: sued
-    titel: "Wanaka → Haast Pass → Haast"
+    titel: "Wanaka → Haast Pass → Lake Paringa"
     hinweise:
       - "In Wanaka volltanken – keine Tankstelle bis Haast."
     programm:
@@ -417,6 +419,8 @@ tage:
         text: "Fantail Falls (5 min)"
       - ort: thunder-creek-falls
         text: "Thunder Creek Falls (5 min)"
+      - ort: ship-creek
+        text: "Hinter Haast: Ship Creek – Dünen- und Sumpfwald-Weg (je 30 min)"
     nacht:
       typ: doc
       ort: lake-paringa-doc
@@ -426,10 +430,8 @@ tage:
 
   - tag: 22
     insel: sued
-    titel: "Haast → Fox Glacier"
+    titel: "Lake Paringa → Fox Glacier"
     programm:
-      - ort: ship-creek
-        text: "Ship Creek: Dünen- und Sumpfwald-Weg (je 30 min)"
       - ort: lake-matheson
         text: "Lake Matheson am Abend (Spiegelung bei Windstille; morgen früh nochmal)"
     nacht:
@@ -859,7 +861,7 @@ tage:
         text: "Mangapohue Natural Bridge (20 min)"
       - ort: marokopa-falls
         optional: true
-        text: "Marokopa Falls (20 min) – nur wenn Zeit bis 14:00 Abfahrt"
+        text: "Marokopa Falls (20 min) – nur bei Abfahrt Richtung Hobbiton spätestens ~11:30"
       - ort: hobbiton-shires-rest
         text: "HOBBITON Evening Banquet 15:30 – 15 min vorher da sein; Fahrer: ein Getränk inklusive, mehr nicht"
     nacht:
@@ -936,6 +938,8 @@ tage:
   - tag: 53
     insel: nord
     titel: "Hahei → Coromandel Town → Thames"
+    via: [driving-creek-railway]
+    fahrt: "Nach Coromandel Town über SH25 (Kuaotunu) fahren, NICHT die 309 Road (Schotter > 12 km). km-Angabe ggf. zu niedrig, weil OSRM die 309 Road nimmt."
     programm:
       - ort: driving-creek-railway
         text: "Driving Creek Railway"

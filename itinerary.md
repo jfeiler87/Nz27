@@ -49,10 +49,10 @@
 | 16 | Sa 03.04. | Te Anau Downs → Queenstown | 209 km / 2:48 h | Moke Lake DOC Campsite |
 | 17 | So 04.04. | Queenstown + Arrowtown | – | Moke Lake DOC Campsite |
 | 18 | Mo 05.04. | Queenstown → Glenorchy | 47 km / 0:37 h | Mrs Woolly's Campground, Glenorchy |
-| 19 | Di 06.04. | Glenorchy → Wanaka (über Cromwell) | 118 km / 1:55 h | Albert Town Campground |
+| 19 | Di 06.04. | Glenorchy → Wanaka (über Cromwell) | 162 km / 2:16 h | Albert Town Campground |
 | 20 | Mi 07.04. | Wanaka | – | Albert Town Campground |
-| 21 | Do 08.04. | Wanaka → Haast Pass → Haast | 186 km / 2:23 h | Lake Paringa DOC Campsite |
-| 22 | Fr 09.04. | Haast → Fox Glacier | 71 km / 0:56 h | Fox Glacier TOP 10 Holiday Park |
+| 21 | Do 08.04. | Wanaka → Haast Pass → Lake Paringa | 186 km / 2:23 h | Lake Paringa DOC Campsite |
+| 22 | Fr 09.04. | Lake Paringa → Fox Glacier | 71 km / 0:56 h | Fox Glacier TOP 10 Holiday Park |
 | 23 | Sa 10.04. | Fox → Franz Josef (Heli-Hike) | 37 km / 0:37 h | Otto/MacDonalds DOC Campsite (Lake Mapourika) |
 | 24 | So 11.04. | Franz Josef (Puffer) | – | Otto/MacDonalds DOC Campsite (Lake Mapourika) |
 | 25 | Mo 12.04. | Franz Josef → Hokitika | 112 km / 1:28 h | Lake Māhinapua DOC Campsite |
@@ -83,7 +83,7 @@
 | 50 | Fr 07.05. | Rotorua – Geothermie | – | Lake Ōkareka DOC Campsite |
 | 51 | Sa 08.05. | Rotorua → Coromandel (Hahei) | 219 km / 3:21 h | Hahei Beach Resort (Campingplatz) |
 | 52 | So 09.05. | Hot Water Beach + Cathedral Cove | – | Hahei Beach Resort (Campingplatz) |
-| 53 | Mo 10.05. | Hahei → Coromandel Town → Thames | 85 km / 1:19 h | Kauaeranga Valley – Kahikatea DOC Campsite |
+| 53 | Mo 10.05. | Hahei → Coromandel Town → Thames | 127 km / 2:16 h | Kauaeranga Valley – Kahikatea DOC Campsite |
 | 54 | Di 11.05. | Coromandel → Matakana / Goat Island | 223 km / 3:12 h | Te Ārai Self-Contained Campground (Auckland Council) |
 | 55 | Mi 12.05. | Matakana → Bay of Islands | 154 km / 2:22 h | Seaview Camper Van Park (Paihia) |
 | 56 | Do 13.05. | Bay of Islands | – | Seaview Camper Van Park (Paihia) |
@@ -177,7 +177,7 @@
 - [Elephant Rocks Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-44.894149,170.658553&travelmode=driving) – Elephant Rocks bei Duntroon (Narnia-Kulisse)
 - [Ōamaru Blue Penguin Colony Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-45.110337,170.979353&travelmode=driving) – Abends: Zwergpinguine kommen ganzjährig jeden Abend an Land
 
-**Nacht:** 🆓 Freiplatz [All Day Bay (Kakanui)](https://www.google.com/maps/dir/?api=1&destination=-45.212354,170.884831&travelmode=driving)
+**Nacht:** 🆓 Freiplatz [All Day Bay (Kakanui)](https://www.google.com/maps/dir/?api=1&destination=-45.212354,170.884831&travelmode=driving) – ~25 min südlich, nach den Pinguinen im Dunkeln anfahren – sonst Holiday Park in Oamaru
   - Alternative: 🏠 Holiday Park [Oamaru TOP 10 Holiday Park](https://www.google.com/maps/dir/?api=1&destination=-45.097261,170.955397&travelmode=driving)
 
 **Versorgung:** 🛒 Einkauf: GROSSEINKAUF für Ostern (Karfreitag + Ostersonntag Läden zu) · ⛽ Tanken: [BP Oamaru, 214 Thames St (SH1)](https://www.google.com/maps/dir/?api=1&destination=-45.093645,170.972637&travelmode=driving)
@@ -320,7 +320,7 @@
 
 #### Tag 19 · Di 06.04. — Glenorchy → Wanaka (über Cromwell)
 
-**Fahrt:** 118 km · 1:55 h reine Fahrzeit · SH6 durch die Kawarau Gorge – Crown Range ist für Britz verboten.
+**Fahrt:** 162 km · 2:16 h reine Fahrzeit · SH6 durch die Kawarau Gorge – Crown Range ist für Britz verboten.
 
 **Programm:**
 - [Kawarau Bridge Bungy Parkplatz (AJ Hackett)](https://www.google.com/maps/dir/?api=1&destination=-45.009654,168.901516&travelmode=driving) *(optional)* – Kawarau Bridge (Bungy-Zuschauen)
@@ -344,7 +344,7 @@
 
 **Versorgung:** 🚻 Dump: [Wanaka Public Dump Station](https://www.google.com/maps/dir/?api=1&destination=-44.700857,169.128461&travelmode=driving)
 
-#### Tag 21 · Do 08.04. — Wanaka → Haast Pass → Haast
+#### Tag 21 · Do 08.04. — Wanaka → Haast Pass → Lake Paringa
 
 **Fahrt:** 186 km · 2:23 h reine Fahrzeit
 
@@ -352,18 +352,18 @@
 - [Blue Pools Parkplatz (Haast Pass)](https://www.google.com/maps/dir/?api=1&destination=-44.160428,169.287001&travelmode=driving) – Blue Pools (1,5 km, flach)
 - [Fantail Falls Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-44.076739,169.386638&travelmode=driving) – Fantail Falls (5 min)
 - [Thunder Creek Falls Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-44.037372,169.367116&travelmode=driving) – Thunder Creek Falls (5 min)
+- [Ship Creek Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-43.758285,169.147276&travelmode=driving) – Hinter Haast: Ship Creek – Dünen- und Sumpfwald-Weg (je 30 min)
 
 **Nacht:** 🏕 DOC [Lake Paringa DOC Campsite](https://www.google.com/maps/dir/?api=1&destination=-43.721676,169.411301&travelmode=driving)
   - Alternative: 🆓 Freiplatz [Haast, Marks Road](https://www.google.com/maps/dir/?api=1&destination=-43.881435,169.043142&travelmode=driving) ⚠️
 
 > ⚠️ In Wanaka volltanken – keine Tankstelle bis Haast.
 
-#### Tag 22 · Fr 09.04. — Haast → Fox Glacier
+#### Tag 22 · Fr 09.04. — Lake Paringa → Fox Glacier
 
 **Fahrt:** 71 km · 0:56 h reine Fahrzeit
 
 **Programm:**
-- [Ship Creek Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-43.758285,169.147276&travelmode=driving) – Ship Creek: Dünen- und Sumpfwald-Weg (je 30 min)
 - [Lake Matheson Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-43.448946,169.969811&travelmode=driving) – Lake Matheson am Abend (Spiegelung bei Windstille; morgen früh nochmal)
 
 **Nacht:** 🏠 Holiday Park [Fox Glacier TOP 10 Holiday Park](https://www.google.com/maps/dir/?api=1&destination=-43.464347,170.008542&travelmode=driving) – Holiday Park: Wäsche/Strom – nah an Lake Matheson für den Morgen
@@ -662,7 +662,7 @@
 
 **Programm:**
 - [Mangapohue Natural Bridge – Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-38.261436,174.899415&travelmode=driving) – Mangapohue Natural Bridge (20 min)
-- [Marokopa Falls – Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-38.259303,174.848782&travelmode=driving) *(optional)* – Marokopa Falls (20 min) – nur wenn Zeit bis 14:00 Abfahrt
+- [Marokopa Falls – Parkplatz](https://www.google.com/maps/dir/?api=1&destination=-38.259303,174.848782&travelmode=driving) *(optional)* – Marokopa Falls (20 min) – nur bei Abfahrt Richtung Hobbiton spätestens ~11:30
 - [Hobbiton Movie Set – The Shires Rest](https://www.google.com/maps/dir/?api=1&destination=-37.872720,175.683841&travelmode=driving) – HOBBITON Evening Banquet 15:30 – 15 min vorher da sein; Fahrer: ein Getränk inklusive, mehr nicht
 
 **Nacht:** 🏠 Holiday Park [Opal Hot Springs Holiday Park (Matamata)](https://www.google.com/maps/dir/?api=1&destination=-37.787601,175.838311&travelmode=driving) – 10 min von Hobbiton, Thermalbecken
@@ -711,7 +711,7 @@
 
 #### Tag 53 · Mo 10.05. — Hahei → Coromandel Town → Thames
 
-**Fahrt:** 85 km · 1:19 h reine Fahrzeit
+**Fahrt:** 127 km · 2:16 h reine Fahrzeit · Nach Coromandel Town über SH25 (Kuaotunu) fahren, NICHT die 309 Road (Schotter > 12 km). km-Angabe ggf. zu niedrig, weil OSRM die 309 Road nimmt.
 
 **Programm:**
 - [Driving Creek Railway (Coromandel Town)](https://www.google.com/maps/dir/?api=1&destination=-36.737103,175.503083&travelmode=driving) – Driving Creek Railway
@@ -814,4 +814,4 @@
 - 20:30 EK 449
 
 ---
-*Gesamtstrecke (nur Übernachtung→Übernachtung): ~5842 km.*
+*Gesamtstrecke (nur Übernachtung→Übernachtung): ~5928 km.*

@@ -45,7 +45,7 @@ REISE = load_yaml("reise.yaml", {})
 ABLAUF = load_yaml("ablauf.yaml", {}) or {}
 VORSCHLAEGE = load_yaml("vorschlaege.yaml", []) or []
 BESCHR = load_yaml("beschreibungen.yaml", {}) or {}
-ROUTES = json.load(open(os.path.join(DATA, "route_cache.json"), encoding="utf-8"))
+TAGESROUTEN = json.load(open(os.path.join(DATA, "tage_routen.json"), encoding="utf-8"))
 BILDER = {}
 for fn in glob.glob(os.path.join(DATA, "bilder_*.json")):
     BILDER.update(json.load(open(fn, encoding="utf-8")))
@@ -135,13 +135,6 @@ def kueste():
 
 
 # ------------------------------------------------------------------ Daten zusammenstellen
-def route_fuer(a, b):
-    if a not in ORTE or b not in ORTE or a == b:
-        return None
-    oa, ob = ORTE[a], ORTE[b]
-    return ROUTES.get(f"{oa['lat']:.5f},{oa['lon']:.5f}|{ob['lat']:.5f},{ob['lon']:.5f}")
-
-
 VON = None  # Startpunkt des aktuellen Tages (für origin= in Navigationslinks)
 
 
@@ -163,7 +156,7 @@ for t in REISE["tage"]:
     VON = von
     n = t.get("nacht")
     ziel = n["ort"] if n else t.get("end_ort")
-    r = None if t.get("faehre") else route_fuer(von, ziel)
+    r = TAGESROUTEN.get(str(t["tag"]))
     sp = ORTE.get(ziel) or ORTE.get(von)
     auf, unter = sonne(sp["lat"], sp["lon"], d) if sp else ("", "")
     tage.append({
