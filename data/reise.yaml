@@ -1,0 +1,1083 @@
+# Quelle der Wahrheit für den Reiseplan. Orte nur per id (siehe data/orte_*.json).
+# Nach Änderungen: python3 tools/build.py
+meta:
+  titel: "Neuseeland Campervan 2027"
+  start: 2027-03-19
+  startort: lylo-christchurch-airport
+
+fixpunkte:
+  - datum: "Di 16.03. 20:45"
+    was: "Abflug Düsseldorf EK 58 → Dubai → EK 412 (via Sydney) → Christchurch; Ankunft voraussichtlich Do 18.03. ~14:00 (in Emirates-App prüfen)"
+  - datum: "Do 18.03."
+    was: "Hotel Lylo Christchurch Airport, 5 Peter Leeming Rd – Check-in ab 15:00"
+    ort: lylo-christchurch-airport
+  - datum: "Fr 19.03."
+    was: "Hotel-Check-out bis 10:00 · Camper-Abholung Britz Christchurch (Wanderer), 159 Orchard Rd, Harewood – Station 08:00–16:30"
+    ort: britz-christchurch
+  - datum: "So 25.04. 13:00"
+    was: "Bluebridge Picton → Wellington, Tarif „Super Sail“ (Umbuchung bis 1 h vorher gegen Preisdifferenz, keine Erstattung) – Fahrzeug-Check-in bis 12:00"
+    ort: bluebridge-picton
+  - datum: "Mi 05.05. 15:30"
+    was: "Hobbiton Evening Banquet Tour (~4,5 h, Ende ~20:00) ab The Shires Rest, 501 Buckland Rd"
+    ort: hobbiton-shires-rest
+  - datum: "Di 18.05. vormittags"
+    was: "Camper-Rückgabe Britz Auckland, 470 Oruarangi Rd, Māngere – Station 08:00–16:30"
+    ort: britz-auckland
+  - datum: "Di 18.05. 20:30"
+    was: "Abflug Auckland EK 449 → Dubai → EK 55 Düsseldorf"
+    ort: akl-airport-intl
+
+grundsaetze:
+  - "**Übernachtung:** schönster legaler Platz zuerst (Freiplatz für Self-Contained oder DOC), Kosten nur Tiebreaker. Alle 5–7 Nächte steht ein Holiday Park als Alternative drin (Wäsche, Strom, Dump)."
+  - "**Freiplätze** nur mit grüner SC-Plakette (seit 7.6.2026 Pflicht) und immer vor Ort prüfen: Schild + CamperMate/Rankers. Regeln ändern sich laufend."
+  - "**Britz-Verbote:** Skippers Rd, Crown Range/Cardrona Valley Rd, Ball Hut Rd, Ninety Mile Beach, nördlich Colville, Mt Aspiring Rd hinter Treble Cone. Schotter nur < 12 km zu Campingplatz/Attraktion."
+  - "**Wandern:** max. ~15 km / ~400 Höhenmeter. Dafür Rundflüge/Bootstouren an Highlights."
+  - "**Wetter:** Puffer in Mt Cook, Milford Road, Franz Josef, West Coast, Kaikoura. Fällt ein Highlight aus → am Puffertag nachholen, sonst streichen (nicht kaskadieren)."
+  - "**Kalender:** Ostern 26.–29.03. (Karfreitag + Ostersonntag Läden zu) · NZ-Schulferien 10.–26.04. (früh buchen) · ANZAC Day So 25.04. (Läden bis 13 Uhr zu) + Mo 26.04. Feiertag."
+  - "**Mond:** Vollmond 22.03. + 21.04., Neumond 07.04. + 06.05. → dunkelste Nächte ~3.–11.04. (Wanaka/Haast/West Coast) und ~2.–10.05."
+
+tage:
+# ============================================================ SÜDINSEL
+  - tag: 1
+    insel: sued
+    titel: "Christchurch – Abholung"
+    start_ort: britz-christchurch
+    fahrt: "Jetlag-Tag: nur Abholung, Großeinkauf, kurze Strecke."
+    programm:
+      - text: "Camper übernehmen: grüne SC-Plakette, Kettenregel und späteste Rückgabezeit fragen; Gas/Toilette/Wasser erklären lassen"
+      - text: "Großeinkauf, SIM/eSIM aktivieren, Offline-Karten laden"
+    nacht:
+      typ: hp
+      ort: christchurch-top10
+      hinweis: "Nähe Flughafen, Strom + Ruhe für den ersten Abend"
+    versorgung:
+      - typ: einkauf
+        text: "Supermarkt Northlands/Papanui"
+      - typ: waesche
+        ort: laundry-christchurch
+
+  - tag: 2
+    insel: sued
+    titel: "Christchurch → Akaroa"
+    programm:
+      - ort: hilltop-lookout
+        text: "Aussicht über den Akaroa-Krater beim Hinunterfahren"
+      - ort: akaroa-wharf
+        text: "Hector-Delfine: Hafenrundfahrt (Black Cat), Saison bis ~April"
+      - text: "Französisches Dörfchen, Leuchtturm, Cafés"
+    nacht:
+      typ: frei
+      ort: akaroa-freedom-childrens-bay
+      alternativen:
+        - typ: hp
+          ort: akaroa-top10
+    buchung:
+      - "Akaroa Harbour Nature Cruise 2–4 Wochen vorher"
+
+  - tag: 3
+    insel: sued
+    titel: "Akaroa → Peel Forest (optional Mount Sunday)"
+    fahrt: "Über Christchurch und Inland Scenic Route 72 (Mt Somers, Geraldine)."
+    programm:
+      - ort: mount-sunday-edoras
+        optional: true
+        text: "Edoras/Mount Sunday – nur mit schriftlicher Britz-Freigabe (Hakatere-Potts Rd >12 km Schotter). Dann Nacht am Lake Clearwater statt Peel Forest."
+      - ort: peel-forest
+        text: "Kurze Waldwege zu Big Tōtara und Emily Falls"
+    nacht:
+      typ: doc
+      ort: peel-forest-campground
+      alternativen:
+        - typ: camp
+          ort: lake-clearwater
+          hinweis: "~10 km Schotter (< 12 km, Britz-konform); mit Edoras-Freigabe die naheliegende Nacht"
+
+  - tag: 4
+    insel: sued
+    titel: "Peel Forest → Lake Tekapo"
+    programm:
+      - ort: tekapo-church
+        text: "Kirche am türkisen See"
+      - ort: mt-john-observatory
+        text: "Mt John Summit Road + Astro Café: bester Blick über das Becken"
+      - ort: tekapo-springs
+        optional: true
+        text: "Heiße Becken mit Seeblick"
+    nacht:
+      typ: frei
+      ort: tekapo-edwards-stream
+      hinweis: "SC-Platz ~6 km östlich (im Ort Tekapo Freedom Camping verboten). Vollmond – Sterne kommen um den 7.4. in Wanaka/Haast"
+      alternativen:
+        - typ: hp
+          ort: lakes-edge-tekapo
+          hinweis: "direkt am See"
+
+  - tag: 5
+    insel: sued
+    titel: "Lake Tekapo → Aoraki/Mt Cook"
+    programm:
+      - ort: peters-lookout-pukaki
+        text: "Klassischer Fotostopp über Lake Pukaki"
+      - ort: hooker-valley
+        text: "Hooker Valley Track: 10 km hin/zurück, ~100 Hm, 3 h – Hängebrücken + Gletschersee"
+    nacht:
+      typ: doc
+      ort: white-horse-hill-doc
+      hinweis: "online vorbuchen"
+    buchung:
+      - "White Horse Hill DOC (2 Nächte) früh buchen"
+
+  - tag: 6
+    insel: sued
+    titel: "Aoraki/Mt Cook (Puffer/Flug)"
+    programm:
+      - ort: tasman-glacier-viewpoint
+        text: "Tasman Glacier View + Blue Lakes (kurz, Treppen)"
+      - ort: hooker-valley
+        text: "Kea Point (2 h) – oder Hooker Valley nachholen, falls Tag 5 verregnet"
+      - ort: mt-cook-airport
+        optional: true
+        text: "Skiflugzeug mit Gletscherlandung (Tasman Glacier) bei klarem Wetter, spontan buchbar"
+    nacht:
+      typ: doc
+      ort: white-horse-hill-doc
+
+  - tag: 7
+    insel: sued
+    titel: "Mt Cook → Waitaki-Tal → Oamaru"
+    programm:
+      - ort: clay-cliffs
+        text: "Clay Cliffs bei Omarama (kurzer Weg, Mautstraße)"
+      - ort: elephant-rocks
+        text: "Elephant Rocks bei Duntroon (Narnia-Kulisse)"
+      - ort: oamaru-blue-penguin
+        text: "Abends: Zwergpinguine kommen ganzjährig jeden Abend an Land"
+    nacht:
+      typ: frei
+      ort: all-day-bay-kakanui
+      alternativen:
+        - typ: hp
+          ort: oamaru-top10
+    versorgung:
+      - typ: einkauf
+        text: "GROSSEINKAUF für Ostern (Karfreitag + Ostersonntag Läden zu)"
+      - typ: tanken
+        ort: tanken-oamaru
+    buchung:
+      - "Oamaru Blue Penguin Colony Abendticket"
+
+  - tag: 8
+    insel: sued
+    titel: "Oamaru → Moeraki → Dunedin/Otago Peninsula"
+    hinweise:
+      - "Karfreitag: Supermärkte zu, Tankstellen offen."
+    programm:
+      - ort: moeraki-boulders
+        text: "Moeraki Boulders – bei Ebbe am schönsten"
+      - ort: tunnel-beach
+        text: "Tunnel Beach (2 km, steil zurück ~150 Hm)"
+    nacht:
+      typ: hp
+      ort: portobello-campground
+      hinweis: "Otago Peninsula: Freiplätze sehr eingeschränkt"
+      alternativen:
+        - typ: frei
+          ort: harwood-domain
+          hinweis: "nicht bestätigt – nur nach App/Schild"
+    versorgung:
+      - typ: dump
+        ort: dump-dunedin
+
+  - tag: 9
+    insel: sued
+    titel: "Otago Peninsula"
+    programm:
+      - ort: royal-albatross-centre
+        optional: true
+        text: "Royal Albatross (3 m Spannweite) – März gute Zeit"
+      - ort: penguin-place
+        optional: true
+        text: "Gelbaugenpinguine – nur wenn Touren Ende März bestätigt"
+      - ort: sandfly-bay
+        text: "Sandfly Bay: Dünen + Seelöwen (Abstieg steil)"
+    nacht:
+      typ: hp
+      ort: portobello-campground
+    versorgung:
+      - typ: waesche
+        ort: laundry-dunedin-liquid
+
+  - tag: 10
+    insel: sued
+    titel: "Dunedin → Catlins"
+    hinweise:
+      - "Ostersonntag: Läden teils zu. Vor den Catlins in Balclutha volltanken."
+    programm:
+      - ort: nugget-point
+        text: "Nugget Point Leuchtturm (Sonnenaufgang/-untergang), Robben"
+      - ort: purakaunui-falls
+        text: "Purakaunui Falls (20 min)"
+    nacht:
+      typ: doc
+      ort: purakaunui-bay-doc
+      hinweis: "Ostern voll möglich → früh da sein"
+      alternativen:
+        - typ: frei
+          ort: papatowai-campsite
+    versorgung:
+      - typ: tanken
+        ort: fuel-balclutha
+
+  - tag: 11
+    insel: sued
+    titel: "Catlins"
+    programm:
+      - ort: mclean-falls
+        text: "McLean Falls (40 min)"
+      - ort: cathedral-caves
+        optional: true
+        text: "Cathedral Caves – nur bei Ebbe und nur, wenn geöffnet (Saison/Gezeiten prüfen)"
+      - ort: curio-bay
+        text: "Versteinerter Wald bei Ebbe, Hector-Delfine in Porpoise Bay"
+      - ort: slope-point
+        optional: true
+        text: "Südlichster Punkt der Südinsel (20 min über Weide)"
+    nacht:
+      typ: camp
+      ort: curio-bay-curioscape
+
+  - tag: 12
+    insel: sued
+    titel: "Catlins → Te Anau"
+    fahrt: "Über Invercargill (Einkauf) nach Te Anau."
+    programm:
+      - text: "Te Anau: See-Promenade, Versorgung, Ruhetag-Charakter"
+    nacht:
+      typ: doc
+      ort: henry-creek-doc
+      hinweis: "am Lake Te Anau, 25 min nördlich"
+      alternativen:
+        - typ: hp
+          ort: te-anau-lakeview-hp
+          hinweis: "Wäsche, Dump, Wasser, Strom vor 3 Nächten Milford Road (6 Nächte seit Oamaru)"
+    versorgung:
+      - typ: einkauf
+        text: "Invercargill oder Te Anau (Fresh Choice)"
+      - typ: tanken
+        ort: fuel-te-anau
+      - typ: dump
+        ort: dump-te-anau
+
+  - tag: 13
+    insel: sued
+    titel: "Te Anau → Milford Road"
+    programm:
+      - ort: mirror-lakes
+        text: "Mirror Lakes (5 min)"
+      - ort: cascade-creek-doc
+        text: "Lake Gunn Nature Walk (45 min, Urwald)"
+    nacht:
+      typ: doc
+      ort: cascade-creek-doc
+      alternativen:
+        - typ: doc
+          ort: knobs-flat
+
+  - tag: 14
+    insel: sued
+    titel: "Milford Sound"
+    programm:
+      - ort: milford-sound-terminal
+        text: "Milford Sound Cruise (~2 h) – Mitre Peak, Wasserfälle, Robben. Früh fahren: Homer Tunnel hat Ampel-Wartezeiten"
+      - ort: the-chasm
+        text: "The Chasm (20 min)"
+    nacht:
+      typ: doc
+      ort: cascade-creek-doc
+    buchung:
+      - "Milford-Cruise mit flexibler Umbuchung buchen; bei Regen/Sperre auf Tag 15 schieben"
+
+  - tag: 15
+    insel: sued
+    titel: "Milford Road (Puffer) → Te Anau Downs"
+    programm:
+      - ort: key-summit-divide
+        optional: true
+        text: "Key Summit ab The Divide: 3 h hin/zurück, ~400 Hm (Grenzfall – nur bei Lust und Sicht)"
+      - text: "Puffertag: Cruise nachholen, falls Tag 14 ausgefallen; sonst Scenic Flight oder ruhiger Tag"
+    nacht:
+      typ: doc
+      ort: henry-creek-doc
+      hinweis: "näher an Te Anau → kürzerer Tag nach Queenstown"
+
+  - tag: 16
+    insel: sued
+    titel: "Te Anau Downs → Queenstown"
+    programm:
+      - ort: skyline-queenstown
+        text: "Skyline-Gondel (Abendlicht), optional Luge"
+      - text: "Fergburger 😉"
+    nacht:
+      typ: doc
+      ort: moke-lake-doc
+      hinweis: "Zufahrt ~6 km, kurzes Stück Schotter (< 12 km)"
+      alternativen:
+        - typ: hp
+          ort: queenstown-top10
+        - typ: frei
+          ort: frankton-arm-freedom
+          hinweis: "nur ausgewiesene QLDC-Plätze (seit 12/2025 z. B. Gray St, Events Centre), 400 NZD Strafe sonst"
+    versorgung:
+      - typ: waesche
+        ort: waesche-queenstown
+      - typ: dump
+        ort: dump-queenstown
+
+  - tag: 17
+    insel: sued
+    titel: "Queenstown + Arrowtown"
+    programm:
+      - ort: arrowtown
+        text: "Goldgräber-Städtchen, Chinese Settlement, Herbstfarben (Anfang April!)"
+      - ort: tss-earnslaw-wharf
+        optional: true
+        text: "TSS Earnslaw (Dampfschiff) oder ein Adrenalin-Erlebnis (Jetboat)"
+      - ort: deer-park-heights
+        optional: true
+        text: "Deer Park Heights: Aussicht + Drehorte (Mautstraße)"
+    nacht:
+      typ: doc
+      ort: moke-lake-doc
+
+  - tag: 18
+    insel: sued
+    titel: "Queenstown → Glenorchy"
+    programm:
+      - ort: bennetts-bluff
+        text: "Aussichtspunkt Bennetts Bluff unterwegs"
+      - ort: glenorchy-wharf
+        text: "Glenorchy: roter Bootsschuppen, Lagoon Walk, Abend am Seekopf"
+      - ort: paradise-glenorchy
+        optional: true
+        text: "Paradise/Dart-Tal – nur wenn Schotter < 12 km ab Asphaltende (vor Ort prüfen)"
+    nacht:
+      typ: camp
+      ort: glenorchy-campground
+      alternativen:
+        - typ: doc
+          ort: twelve-mile-delta-doc
+
+  - tag: 19
+    insel: sued
+    titel: "Glenorchy → Wanaka (über Cromwell)"
+    fahrt: "SH6 durch die Kawarau Gorge – Crown Range ist für Britz verboten."
+    programm:
+      - ort: kawarau-bridge
+        optional: true
+        text: "Kawarau Bridge (Bungy-Zuschauen)"
+      - ort: cromwell-heritage
+        text: "Cromwell Heritage Precinct + Obststände"
+      - ort: wanaka-tree
+        text: "That Wanaka Tree (Sonnenuntergang)"
+    nacht:
+      typ: camp
+      ort: albert-town-campground
+      alternativen:
+        - typ: hp
+          ort: wanaka-holiday-park
+    versorgung:
+      - typ: tanken
+        ort: fuel-wanaka
+
+  - tag: 20
+    insel: sued
+    titel: "Wanaka"
+    programm:
+      - ort: mt-iron-parkplatz
+        text: "Mt Iron: 4,5 km Rundweg, ~240 Hm, Blick über beide Seen"
+      - ort: lake-hawea-lookout
+        text: "Lake Hawea"
+      - text: "Neumond 07.04.: Sternenhimmel ab Albert Town/Lake Hawea"
+    nacht:
+      typ: camp
+      ort: albert-town-campground
+    versorgung:
+      - typ: dump
+        ort: dump-wanaka
+
+  - tag: 21
+    insel: sued
+    titel: "Wanaka → Haast Pass → Haast"
+    hinweise:
+      - "In Wanaka volltanken – keine Tankstelle bis Haast."
+    programm:
+      - ort: blue-pools
+        text: "Blue Pools (1,5 km, flach)"
+      - ort: fantail-falls
+        text: "Fantail Falls (5 min)"
+      - ort: thunder-creek-falls
+        text: "Thunder Creek Falls (5 min)"
+    nacht:
+      typ: doc
+      ort: lake-paringa-doc
+      alternativen:
+        - typ: frei
+          ort: haast-marks-road
+
+  - tag: 22
+    insel: sued
+    titel: "Haast → Fox Glacier"
+    programm:
+      - ort: ship-creek
+        text: "Ship Creek: Dünen- und Sumpfwald-Weg (je 30 min)"
+      - ort: lake-matheson
+        text: "Lake Matheson am Abend (Spiegelung bei Windstille; morgen früh nochmal)"
+    nacht:
+      typ: hp
+      ort: fox-glacier-top10
+      hinweis: "Holiday Park: Wäsche/Strom – nah an Lake Matheson für den Morgen"
+
+  - tag: 23
+    insel: sued
+    titel: "Fox → Franz Josef (Heli-Hike)"
+    programm:
+      - ort: lake-matheson
+        text: "Frühmorgens Spiegelung"
+      - ort: franz-josef-heli-hike
+        text: "Heli-Hike Franz Josef Glacier (2–3 h auf dem Eis, gemütlich)"
+    nacht:
+      typ: doc
+      ort: otto-macdonalds-doc
+    buchung:
+      - "Heli-Hike für Tag 23 buchen, Tag 24 als Ausweichtermin einplanen"
+
+  - tag: 24
+    insel: sued
+    titel: "Franz Josef (Puffer)"
+    programm:
+      - ort: franz-josef-glacier-valley
+        text: "Glacier Valley Walk (1,5 h) – oder Heli-Hike nachholen"
+      - ort: okarito
+        optional: true
+        text: "Okarito Lagune + Trig-Walk"
+    nacht:
+      typ: doc
+      ort: otto-macdonalds-doc
+    versorgung:
+      - typ: waesche
+        ort: laundry-franz-josef
+
+  - tag: 25
+    insel: sued
+    titel: "Franz Josef → Hokitika"
+    programm:
+      - ort: hokitika-gorge
+        text: "Hokitika Gorge: türkiser Fluss, Hängebrücke (1 h)"
+      - ort: hokitika-beach-sign
+        text: "Treibholz-Strand zum Sonnenuntergang"
+    nacht:
+      typ: doc
+      ort: lake-mahinapua-doc
+    versorgung:
+      - typ: tanken
+        ort: fuel-hokitika
+      - typ: dump
+        ort: dump-hokitika
+
+  - tag: 26
+    insel: sued
+    titel: "Hokitika → Punakaiki"
+    programm:
+      - ort: pancake-rocks
+        text: "Pancake Rocks – zur Flut (Blowholes) hingehen"
+      - ort: truman-track
+        text: "Truman Track (30 min, Küste + Wasserfall)"
+    nacht:
+      typ: camp
+      ort: punakaiki-beach-camp
+      alternativen:
+        - typ: frei
+          ort: mcmillan-rd-punakaiki
+
+  - tag: 27
+    insel: sued
+    titel: "Punakaiki → Cape Foulwind/Westport"
+    programm:
+      - ort: cape-foulwind-tauranga-bay
+        text: "Cape Foulwind Walkway + Robbenkolonie Tauranga Bay"
+      - text: "Puffertag West Coast – bei Regen Tag 26 hierher verschieben"
+    nacht:
+      typ: frei
+      ort: carters-beach
+      alternativen:
+        - typ: hp
+          ort: westport-hp
+
+  - tag: 28
+    insel: sued
+    titel: "Westport → Buller Gorge → St Arnaud (Nelson Lakes)"
+    programm:
+      - ort: buller-gorge-swingbridge
+        optional: true
+        text: "Buller Gorge Swingbridge"
+      - ort: kerr-bay-doc
+        text: "Lake Rotoiti: Steg am Kerr Bay, Honeydew Walk (kurz)"
+    nacht:
+      typ: doc
+      ort: kerr-bay-doc
+      hinweis: "Schulferien beginnen 10.04. → buchen"
+
+  - tag: 29
+    insel: sued
+    titel: "St Arnaud → Nelson → Marahau (Abel Tasman)"
+    programm:
+      - text: "Nelson: Einkauf, Wäsche"
+      - ort: kaiteriteri
+        optional: true
+        text: "Kaiteriteri Strand"
+    nacht:
+      typ: hp
+      ort: marahau-beach-camp
+      hinweis: "Schulferien → früh buchen; Freedom Camping in Marahau/Kaiteriteri verboten"
+    versorgung:
+      - typ: waesche
+        ort: waesche-nelson
+      - typ: dump
+        ort: dump-nelson-richmond
+
+  - tag: 30
+    insel: sued
+    titel: "Abel Tasman Nationalpark"
+    programm:
+      - ort: marahau-water-taxi
+        text: "Wassertaxi nach Anchorage/Bark Bay, zurück zu Fuß (Abschnitt ≤ 12 km wählen) – oder geführte Kajaktour"
+    nacht:
+      typ: hp
+      ort: marahau-beach-camp
+    buchung:
+      - "Wassertaxi/Kajak in den Schulferien vorab buchen"
+
+  - tag: 31
+    insel: sued
+    titel: "Marahau → Takaka Hill → Golden Bay"
+    programm:
+      - ort: hawkes-lookout
+        optional: true
+        text: "Hawkes Lookout auf dem Takaka Hill"
+      - ort: te-waikoropupu-springs
+        text: "Te Waikoropupū Springs (klarstes Quellwasser, 45 min)"
+      - ort: wainui-falls
+        optional: true
+        text: "Wainui Falls (1,5 h)"
+    nacht:
+      typ: camp
+      ort: collingwood-camping-ground
+      hinweis: "Gemeinde-Campingplatz, nah an Farewell Spit/Wharariki"
+      alternativen:
+        - typ: hp
+          ort: pohara-beach-top10
+
+  - tag: 32
+    insel: sued
+    titel: "Farewell Spit + Wharariki Beach"
+    programm:
+      - ort: farewell-spit-eco-tours
+        optional: true
+        text: "Farewell Spit Tour (~6 h, gezeitenabhängig) – Dünen, Leuchtturm"
+      - ort: wharariki-beach
+        text: "Wharariki Beach: 20 min durch Dünen, Archway Islands, Robbenbabys in Felspools"
+    nacht:
+      typ: camp
+      ort: collingwood-camping-ground
+      hinweis: "Gemeinde-Campingplatz, nah an Farewell Spit/Wharariki"
+      alternativen:
+        - typ: hp
+          ort: pohara-beach-top10
+
+  - tag: 33
+    insel: sued
+    titel: "Golden Bay → Pelorus Bridge"
+    programm:
+      - ort: pelorus-bridge
+        text: "Pelorus Bridge: Badestelle (Hobbit-Fässer-Szene), kurze Waldwege"
+    nacht:
+      typ: doc
+      ort: pelorus-bridge-doc
+      hinweis: "buchbar, Schulferien → buchen"
+
+  - tag: 34
+    insel: sued
+    titel: "Pelorus → Blenheim → Kaikoura"
+    programm:
+      - ort: omaka-aviation
+        optional: true
+        text: "Omaka Aviation Heritage Centre (Weta-Dioramen)"
+      - ort: ohau-point-lookout
+        text: "Ohau Point Robbenkolonie direkt an der SH1"
+    nacht:
+      typ: doc
+      ort: puhi-puhi-doc
+      hinweis: "6 km Nebenstraße, teils Schotter"
+      alternativen:
+        - typ: frei
+          ort: kaikoura-freedom
+        - typ: hp
+          ort: kaikoura-top10
+    versorgung:
+      - typ: dump
+        ort: dump-blenheim
+
+  - tag: 35
+    insel: sued
+    titel: "Kaikoura – Whale Watch"
+    programm:
+      - ort: whale-watch-kaikoura
+        text: "Whale Watch (Pottwale, ~3,5 h, wetterabhängig)"
+      - ort: kaikoura-peninsula-point-kean
+        text: "Peninsula Walkway + Robben am Point Kean"
+    nacht:
+      typ: doc
+      ort: puhi-puhi-doc
+      alternativen:
+        - typ: frei
+          ort: kaikoura-freedom
+        - typ: hp
+          ort: kaikoura-top10
+          hinweis: "Wäsche/Strom (7 Nächte seit Fox)"
+    buchung:
+      - "Whale Watch Tag 35, Tag 36 als Ausweichtermin"
+
+  - tag: 36
+    insel: sued
+    titel: "Kaikoura (Puffer)"
+    programm:
+      - text: "Whale Watch nachholen oder Delfin-/Albatros-Tour, Crayfish essen"
+    nacht:
+      typ: doc
+      ort: puhi-puhi-doc
+
+  - tag: 37
+    insel: sued
+    titel: "Kaikoura → Blenheim → Picton"
+    hinweise:
+      - "Morgen ANZAC Day: Läden bis 13 Uhr zu → heute einkaufen, tanken, Toilette + Grauwasser leeren, Gas aus vor Fähre."
+    programm:
+      - ort: weingut-blenheim
+        optional: true
+        text: "Weingut-Mittag in Marlborough (Fahrer trinkt nicht)"
+      - ort: queen-charlotte-drive
+        optional: true
+        text: "Queen Charlotte Drive Havelock–Picton (kurvig, Sounds-Blicke)"
+    nacht:
+      typ: doc
+      ort: momorangi-doc
+      hinweis: "Queen Charlotte Drive, 15 min bis Fähre"
+      alternativen:
+        - typ: hp
+          ort: picton-hp
+          hinweis: "Wäsche vor dem Wellington-Wochenende"
+    versorgung:
+      - typ: dump
+        ort: dump-picton
+      - typ: tanken
+        ort: tanken-picton
+
+# ============================================================ NORDINSEL
+  - tag: 38
+    insel: nord
+    titel: "Fähre Picton → Wellington"
+    faehre: true
+    start_ort: bluebridge-picton
+    fahrt: "Check-in bis 12:00, Abfahrt 13:00, ~3,5 h, Ankunft ~16:30 Wellington."
+    programm:
+      - ort: bluebridge-picton
+        text: "Bluebridge-Terminal Picton"
+      - ort: mt-victoria-lookout
+        optional: true
+        text: "Abends Mt Victoria Lookout"
+    nacht:
+      typ: frei
+      ort: evans-bay-marina
+      hinweis: "nicht bestätigt – sonst Holiday Park"
+      alternativen:
+        - typ: hp
+          ort: wellington-top10
+
+  - tag: 39
+    insel: nord
+    titel: "Wellington"
+    hinweise:
+      - "Mo 26.04. = ANZAC-Ersatzfeiertag; Museen offen."
+    programm:
+      - ort: te-papa-parkplatz
+        text: "Te Papa (Eintritt frei)"
+      - ort: wellington-cable-car
+        text: "Cable Car + Botanischer Garten"
+      - ort: weta-cave
+        text: "Weta Cave (Miramar)"
+    nacht:
+      typ: frei
+      ort: evans-bay-marina
+      alternativen:
+        - typ: hp
+          ort: wellington-top10
+    versorgung:
+      - typ: waesche
+        ort: laundry-janice-newtown
+      - typ: dump
+        ort: dump-wellington
+
+  - tag: 40
+    insel: nord
+    titel: "Wellington → Cape Palliser"
+    programm:
+      - ort: kaitoke-rivendell
+        optional: true
+        text: "Kaitoke (Bruchtal) – kleiner Umweg über SH2"
+      - ort: putangirua-pinnacles-carpark
+        text: "Putangirua Pinnacles (Dimholt Road), 1,5–3 h im Flussbett"
+      - ort: cape-palliser-seals
+        text: "Robbenkolonie an der Straße + Leuchtturm (250 Stufen)"
+    nacht:
+      typ: doc
+      ort: putangirua-doc-campsite
+
+  - tag: 41
+    insel: nord
+    titel: "Cape Palliser → Martinborough → Castlepoint"
+    programm:
+      - text: "Martinborough: Weinort, Mittag"
+      - ort: castlepoint-lighthouse
+        text: "Castlepoint: Leuchtturm auf dem Riff, Deliverance Cove, Castle Rock"
+    nacht:
+      typ: frei
+      ort: castlepoint-freedom
+      hinweis: "nur Self-Contained"
+
+  - tag: 42
+    insel: nord
+    titel: "Castlepoint → Napier"
+    programm:
+      - ort: te-mata-peak-summit
+        text: "Te Mata Peak bei Havelock North (Auffahrt bis oben)"
+    nacht:
+      typ: frei
+      ort: perfume-point-napier
+      alternativen:
+        - typ: hp
+          ort: napier-beach-top10
+
+  - tag: 43
+    insel: nord
+    titel: "Napier – Art Deco + Cape Kidnappers"
+    programm:
+      - ort: napier-art-deco-centre
+        text: "Art-Deco-Stadtrundgang"
+      - ort: gannet-safaris-te-awanga
+        optional: true
+        text: "Cape Kidnappers (Klippen + Tölpelkolonie) – Saison bis 30.04."
+    nacht:
+      typ: hp
+      ort: napier-beach-top10
+      hinweis: "Holiday-Park-Nacht"
+    versorgung:
+      - typ: dump
+        ort: dump-napier
+
+  - tag: 44
+    insel: nord
+    titel: "Napier → Taupō"
+    programm:
+      - ort: huka-falls-carpark
+        text: "Huka Falls"
+      - ort: spa-park-hot-pools
+        text: "Spa Park: freier heißer Bach (Otumuheke)"
+    nacht:
+      typ: frei
+      ort: reids-farm-taupo
+      alternativen:
+        - typ: hp
+          ort: taupo-top10
+
+  - tag: 45
+    insel: nord
+    titel: "Taupō"
+    programm:
+      - ort: craters-of-the-moon
+        text: "Craters of the Moon (45 min)"
+      - ort: mine-bay-cruise-taupo
+        text: "Bootsfahrt zu den Mine-Bay-Felsschnitzereien"
+      - ort: taupo-floatplane
+        optional: true
+        text: "Rundflug über Tongariro/Ngauruhoe/Ruapehu bei klarer Sicht"
+    nacht:
+      typ: frei
+      ort: reids-farm-taupo
+    versorgung:
+      - typ: waesche
+        ort: laundry-taupo
+      - typ: dump
+        ort: dump-taupo
+
+  - tag: 46
+    insel: nord
+    titel: "Taupō → Tongariro-Nationalpark"
+    programm:
+      - ort: whakapapa-visitor-centre
+        text: "Whakapapa: Taranaki Falls Loop (6 km, ~2 h, ~150 Hm)"
+      - ort: tawhai-falls-carpark
+        text: "Tawhai Falls / Gollum's Pool (20 min)"
+    nacht:
+      typ: doc
+      ort: mangahuia-doc
+      alternativen:
+        - typ: hp
+          ort: whakapapa-holiday-park
+
+  - tag: 47
+    insel: nord
+    titel: "Tongariro → Waitomo"
+    programm:
+      - ort: waitomo-glowworm-caves
+        text: "Waitomo Glowworm Caves (Boot durch die Grotte)"
+      - ort: ruakuri-bush-walk
+        text: "Ruakuri Bush Walk nach Dunkelheit: wilde Glühwürmchen (gratis)"
+    nacht:
+      typ: hp
+      ort: waitomo-top10
+      alternativen:
+        - typ: frei
+          ort: waitomo-roselands
+    buchung:
+      - "Waitomo-Höhle ~1 Monat vorher"
+
+  - tag: 48
+    insel: nord
+    titel: "Waitomo → Hobbiton (Banquet 15:30)"
+    programm:
+      - ort: mangapohue-natural-bridge
+        text: "Mangapohue Natural Bridge (20 min)"
+      - ort: marokopa-falls
+        optional: true
+        text: "Marokopa Falls (20 min) – nur wenn Zeit bis 14:00 Abfahrt"
+      - ort: hobbiton-shires-rest
+        text: "HOBBITON Evening Banquet 15:30 – 15 min vorher da sein; Fahrer: ein Getränk inklusive, mehr nicht"
+    nacht:
+      typ: hp
+      ort: opal-hot-springs-hp
+      hinweis: "10 min von Hobbiton, Thermalbecken"
+      alternativen:
+        - typ: frei
+          ort: pohlen-park-matamata
+
+  - tag: 49
+    insel: nord
+    titel: "Matamata → Rotorua"
+    programm:
+      - ort: kuirau-park
+        text: "Kuirau Park: Schlammlöcher + Fußbad (gratis)"
+      - ort: redwoods-whakarewarewa
+        text: "Redwoods-Wald (Rundwege, Treewalk am Abend beleuchtet)"
+    nacht:
+      typ: doc
+      ort: lake-okareka-doc
+      alternativen:
+        - typ: frei
+          ort: rotorua-government-gardens-cp
+          hinweis: "17 Plätze, nur Self-Contained, zentral"
+
+  - tag: 50
+    insel: nord
+    titel: "Rotorua – Geothermie"
+    programm:
+      - ort: wai-o-tapu-entrance
+        text: "Wai-O-Tapu: Champagne Pool, Lady Knox Geysir (10:15)"
+      - ort: te-puia-entrance
+        optional: true
+        text: "Te Puia: Pōhutu-Geysir + Māori-Kultur"
+    nacht:
+      typ: doc
+      ort: lake-okareka-doc
+      alternativen:
+        - typ: frei
+          ort: rotorua-government-gardens-cp
+          hinweis: "zentral für Wäsche/Dump; Holiday Parks mit Thermalbecken gibt es mehrere in Rotorua"
+    versorgung:
+      - typ: waesche
+        ort: laundry-rotorua
+      - typ: dump
+        ort: dump-rotorua
+
+  - tag: 51
+    insel: nord
+    titel: "Rotorua → Coromandel (Hahei)"
+    programm:
+      - ort: mount-maunganui-base-track
+        optional: true
+        text: "Mt Maunganui Base Track (3,5 km flach)"
+    nacht:
+      typ: hp
+      ort: hahei-beach-resort
+      hinweis: "In Hahei ist Freedom Camping verboten; Campingplatz direkt am Strand"
+
+  - tag: 52
+    insel: nord
+    titel: "Hot Water Beach + Cathedral Cove"
+    programm:
+      - ort: hot-water-beach-carpark
+        text: "Hot Water Beach: 2 h um Ebbe eigenen Pool graben (Gezeiten prüfen!)"
+      - ort: cathedral-cove-hahei
+        text: "Cathedral Cove – Wegstatus prüfen (nach Erdrutschen zeitweise nur per Boot)"
+    nacht:
+      typ: hp
+      ort: hahei-beach-resort
+      hinweis: "In Hahei ist Freedom Camping verboten; Campingplatz direkt am Strand"
+
+  - tag: 53
+    insel: nord
+    titel: "Hahei → Coromandel Town → Thames"
+    programm:
+      - ort: driving-creek-railway
+        text: "Driving Creek Railway"
+      - text: "Küstenstraße SH25 Richtung Thames – nicht nördlich von Colville (Britz-Verbot)"
+    nacht:
+      typ: doc
+      ort: kauaeranga-doc
+      alternativen:
+        - typ: frei
+          ort: thames-danby-field
+    versorgung:
+      - typ: dump
+        ort: dump-thames
+
+  - tag: 54
+    insel: nord
+    titel: "Coromandel → Matakana / Goat Island"
+    fahrt: "Um Auckland herum (Rushhour meiden)."
+    programm:
+      - ort: goat-island-marine-reserve
+        text: "Goat Island Marine Reserve: Schnorcheln/Glasbodenboot je nach Wetter"
+      - text: "Matakana Village"
+    nacht:
+      typ: frei
+      ort: te-arai-sc-campground
+      alternativen:
+        - typ: doc
+          ort: uretiti-doc
+
+  - tag: 55
+    insel: nord
+    titel: "Matakana → Bay of Islands"
+    programm:
+      - ort: whangarei-falls
+        text: "Whangārei Falls"
+      - ort: waitangi-treaty-grounds
+        text: "Waitangi Treaty Grounds"
+    nacht:
+      typ: camp
+      ort: seaview-camper-park-paihia
+      hinweis: "einfacher Camper-Park in Paihia (Freedom Camping im Ort verboten)"
+      alternativen:
+        - typ: hp
+          ort: paihia-top10
+        - typ: hp
+          ort: russell-top10
+          hinweis: "ruhiger, Autofähre Opua–Okiato"
+
+  - tag: 56
+    insel: nord
+    titel: "Bay of Islands"
+    programm:
+      - ort: paihia-wharf-hole-in-the-rock
+        text: "Bootstour Hole in the Rock (Delfine möglich)"
+      - ort: paihia-wharf-hole-in-the-rock
+        text: "Russell: Personenfähre ab Paihia Wharf (Camper bleibt stehen)"
+    nacht:
+      typ: camp
+      ort: seaview-camper-park-paihia
+      hinweis: "einfacher Camper-Park in Paihia (Freedom Camping im Ort verboten)"
+      alternativen:
+        - typ: hp
+          ort: paihia-top10
+        - typ: hp
+          ort: russell-top10
+          hinweis: "ruhiger, Autofähre Opua–Okiato"
+    versorgung:
+      - typ: waesche
+        text: "im Holiday Park"
+      - typ: dump
+        ort: dump-paihia-kawakawa
+
+  - tag: 57
+    insel: nord
+    titel: "Bay of Islands → Karikari-Halbinsel"
+    programm:
+      - ort: rainbow-falls-kerikeri
+        optional: true
+        text: "Rainbow Falls Kerikeri"
+      - text: "Karikari: weiße Strände, Maitai Bay"
+    nacht:
+      typ: doc
+      ort: maitai-bay-doc
+
+  - tag: 58
+    insel: nord
+    titel: "Karikari → Cape Reinga"
+    hinweise:
+      - "Ninety Mile Beach ist für Britz verboten – nur Aussicht von den Te-Paki-Dünen."
+    programm:
+      - ort: te-paki-sand-dunes
+        text: "Te Paki Sanddünen (Sandboarding-Verleih vor Ort)"
+      - ort: cape-reinga-lighthouse
+        text: "Cape Reinga Leuchtturm – Tasman trifft Pazifik"
+    nacht:
+      typ: doc
+      ort: tapotupotu-doc
+
+  - tag: 59
+    insel: nord
+    titel: "Cape Reinga → Waipoua Forest"
+    fahrt: "Lange Etappe über Kohukohu-Fähre/Hokianga."
+    programm:
+      - ort: tane-mahuta
+        text: "Tāne Mahuta (größter Kauri)"
+      - ort: trounson-kauri-park
+        text: "Trounson: nachts Kiwi-Rufe"
+    nacht:
+      typ: doc
+      ort: trounson-doc
+      alternativen:
+        - typ: camp
+          ort: kai-iwi-taharoa
+
+  - tag: 60
+    insel: nord
+    titel: "Waipoua → Auckland (Flughafennähe)"
+    programm:
+      - ort: muriwai-gannet-colony
+        optional: true
+        text: "Muriwai: schwarzer Surfstrand und Klippen"
+      - text: "Packen, Camper innen putzen"
+    nacht:
+      typ: camp
+      ort: ambury-campground
+      hinweis: "Regional-Park-Campingplatz (Bauernhof), ~15 min zur Britz-Station; vorab buchen"
+    versorgung:
+      - typ: dump
+        ort: dump-mangere-wiri
+      - typ: tanken
+        text: "Volltanken nahe Māngere"
+
+  - tag: 61
+    insel: nord
+    titel: "Rückgabe + Auckland (optional) + Abflug"
+    end_ort: britz-auckland
+    programm:
+      - ort: britz-auckland
+        text: "Rückgabe Britz Māngere am Vormittag (Tank voll, Kassette leer)"
+      - ort: akl-airport-intl
+        text: "Gepäck in die Aufbewahrung"
+      - ort: mt-eden
+        optional: true
+        text: "Auckland: Mt Eden, Viaduct Harbour, Fähre nach Devonport – bis ~17:30 zurück am Flughafen"
+      - text: "20:30 EK 449"

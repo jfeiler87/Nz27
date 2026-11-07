@@ -1,0 +1,121 @@
+# Zusätzliche Stopps (Vorschläge, nicht im Plan). ort -> data/orte_vorschlaege.json
+- tag: 6
+  ort: tasman-glacier-explorers
+  titel: "Glacier Explorers: Bootsfahrt zwischen Eisbergen auf dem Tasman Lake"
+  text: "Kleines Boot zwischen schwimmenden Gletschereisbergen vor dem Tasman-Gletscher, mit Mt Cook als Kulisse – eine bequeme Alternative zu langen Gletscherwanderungen. Dauer ca. 2 h 45 min inkl. 1,5 km Fußweg (ca. 25 min) zum Seeufer; Preis ab ca. NZD 209–219 p. P., Saison bis Ende Juni, bei Wind/Wetter abhängig – am Puffertag Tag 6 gut einplanbar."
+  aufwand: "Ersetzt/ergänzt den Tasman-Glacier-Viewpoint am Puffertag; ca. 3 h, kaum Gehen"
+  quelle: "https://www.hermitage.co.nz/experience/glacier-explorers/"
+- tag: 8
+  ort: katiki-point
+  titel: "Kātiki Point: Robben und Gelbaugenpinguine am Moeraki-Leuchtturm"
+  text: "Wilde Felsküste mit Leuchtturm; DOC nennt Kātiki Point das wichtigste Brutgebiet der Gelbaugenpinguine (Hoiho) in North Otago, dazu viele Seebären auf den Felsplatten – frühmorgens/spätnachmittags die beste Zeit. Kurzer Weg (ca. 1–1,4 km, 20–30 min, flach), kostenlos; Pinguine sind nicht garantiert, Robben fast immer. Lighthouse Road ist ca. 4 km schmale Schotterstraße (< 12 km)."
+  aufwand: "+30 min Umweg ab Moeraki Boulders, 30 min zu Fuß; 20 min Zeit von Tunnel Beach abknapsen"
+  quelle: "https://doc.govt.nz/parks-and-recreation/places-to-go/otago/places/moeraki-area/things-to-do/katiki-point-walking-track"
+- tag: 12
+  ort: te-anau-glowworm-boot
+  titel: "Te Anau Glowworm Caves: Bootsfahrt zur Höhle"
+  text: "Per Boot über den Lake Te Anau zu den Höhlen am Westufer, dort Fußweg und kleines Boot durch die Glühwürmchen-Grotte – ein Erlebnis ohne Wanderung und ideal für den ruhigen Tag 12. Dauer ca. 2 h 15 min, Preis ca. NZD 120–130 p. P. (RealNZ, Reseller teils günstiger); Abfahrt nachmittags/abends, früh buchen."
+  aufwand: "Der Tag in Te Anau ist ohnehin Ruhetag; ca. 2,25 h, wenig Gehen. Alternative: Tag 15 (Puffertag)"
+  quelle: "https://www.realnz.com/"
+- tag: 17
+  ort: lake-hayes-nordufer
+  titel: "Lake Hayes: Spiegelung und Herbstfarben"
+  text: "Der Lake Hayes liegt direkt an der Strecke nach Arrowtown und ist Anfang April für seine Herbstfarben und Spiegelungen bei Windstille bekannt (am besten früh am Morgen). Kurze Abschnitte des flachen Rundwegs (gesamt 10 km, ca. 2 h 20 min) reichen: z. B. 2–3 km ab dem Nordufer. Kostenlos."
+  aufwand: "+10 min Umweg auf dem Weg nach Arrowtown; 30–60 min zu Fuß, flach"
+  quelle: "https://www.queenstownnz.co.nz/stories/the-best-places-to-see-autumn-colours/"
+- tag: 18
+  ort: bobs-cove-parkplatz
+  titel: "Bob's Cove: türkise Bucht am Lake Wakatipu"
+  text: "Kleine Bucht mit klarem Wasser direkt an der Glenorchy Road, 14 km vor Queenstown, eingerahmt von Bergen – ein ruhiger Landschafts-Stopp ohne Menschenmassen. Der Weg zur Bucht dauert ca. 20 min einfach (flach, Wald), mit Aussichtspunkt/Picnic Point insgesamt ca. 1,5 h. Kostenlos; Parkplatz im Sommer teils voll, früh ankommen."
+  aufwand: "Direkt an der Strecke zu Bennetts Bluff; ca. 1 h Zeit, ersetzt Teile des Glenorchy-Nachmittags"
+  quelle: "https://www.doc.govt.nz/link/b5c9e0480f104685ad16cf7a9ea04047.aspx"
+- tag: 20
+  ort: wanaka-airport-rundfluege
+  titel: "Rundflug ab Wānaka: Mt Aspiring und Gletscher oder Milford Sound"
+  text: "Statt Wanderung im Hinterland ein Rundflug mit Flächenflugzeug über Mt Aspiring, die Gletscher der Südalpen oder bis zum Milford Sound – wegen der Britz-Sperre hinter Treble Cone die bequemste Art, den Mt Aspiring National Park zu sehen. Dauer ca. 45–90 min (Milford-Flug ca. 1,5–2 h); Preis ca. NZD 350–400 p. P. (Reseller-Angaben, vor Buchung prüfen), klare Sicht nötig."
+  aufwand: "Ersetzt Lake Hawea Lookout; ca. 1,5–2 h, ohne Gehen; Buchung spontan morgens bei gutem Wetter"
+  quelle: "https://www.airnewzealand.com/activity-deals/queenstown/activity/milford-sound-and-glaciers-flyover-ex-wanaka/7140"
+- tag: 22
+  ort: knights-point-lookout
+  titel: "Knights Point Lookout: Küstenpanorama am SH6"
+  text: "Plattform mit Parkplatz hoch über der Tasman-See auf der Strecke zwischen Haast und Fox; Blick auf die wilde Westküste Richtung Arnott Point, auf dem Strand ruhen teils Seebären (nicht garantiert). Kein Fußweg, Kosten keine."
+  aufwand: "+10 min Fotostopp zwischen Ship Creek und Fox"
+  quelle: "https://en.wikipedia.org/wiki/Knights_Point"
+- tag: 25
+  ort: hokitika-glowworm-dell
+  titel: "Hokitika Glow-worm Dell: Glühwürmchen am Straßenrand"
+  text: "Kleine, feuchte Schlucht direkt am SH6 am Stadtrand von Hokitika, in der nach Einbruch der Dunkelheit hunderte Glühwürmchen leuchten – kostenlos und ohne Tour. Der Weg ist nur ca. 50 m lang; Stirnlampe mitnehmen, Lichter aus für die beste Wirkung."
+  aufwand: "+15 min nach dem Treibholzstrand zum Sonnenuntergang, vor der Fahrt zum Lake Mahinapua"
+  quelle: "https://hokitika.org/things-to-do-pt/the-glow-worm-dell-walk-2"
+- tag: 28
+  ort: maruia-falls
+  titel: "Maruia Falls: Wasserfall nach dem Erdbeben von 1929"
+  text: "Auffällig breiter Wasserfall am Maruia River, entstanden durch das Erdbeben 1929; kurzer Weg vom Parkplatz zum Ufer (DOC: 250 m, ca. 10 min), rollstuhlgeeignet, kostenlos. Liegt an der SH65 ca. 23 km südlich von Murchison."
+  aufwand: "ca. +50 min Umweg ab Murchison; Zeit durch Streichen der optionalen Buller-Gorge-Swingbridge"
+  quelle: "https://www.doc.govt.nz/link/cfe082f7d0e742ec8213b6a7f4deb972.aspx"
+- tag: 29
+  ort: split-apple-rock
+  titel: "Split Apple Rock: der gespaltene Felsen im Meer"
+  text: "Granitfelsen, der wie ein halbierter Apfel im Wasser liegt, zwischen Kaiteriteri und Marahau. Ein kurzer Waldweg (ca. 10 min abwärts) führt zum Strand, kostenlos; am schönsten früh morgens oder am späten Nachmittag. Kleiner Parkplatz, ggf. oben parken."
+  aufwand: "+20 min Umweg ab Kaiteriteri, ca. 30 min Fußweg hin/zurück"
+  quelle: "https://www.nelsontasman.nz/"
+- tag: 32
+  ort: cape-farewell-parkplatz
+  titel: "Cape Farewell: nördlichster Punkt der Südinsel"
+  text: "Steile Klippen und offenes Meer am Ende der Straße im Puponga Farm Park; ein kurzer Pfad (ca. 200 m, 5 min einfach) führt zum Aussichtspunkt. Kostenlos, viel Wind. Passt am gleichen Tag wie Wharariki, ohne zusätzlichen Wanderaufwand."
+  aufwand: "+20 min zusätzlich am Tag 32; Zeit vom optionalen Farewell-Spit-Tag"
+  quelle: "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/farewell-spit-and-puponga-farm-park/things-to-do/tracks/cape-farewell-track/"
+- tag: 37
+  ort: cullen-point-lookout
+  titel: "Cullen Point Lookout: Blick über den Pelorus Sound"
+  text: "Aussichtspunkt auf einer Landzunge bei Havelock mit Blick auf Pelorus Sound und Havelock; DOC-Reservat, Weg 10 min hin/zurück, kostenlos. Auf der Queen Charlotte Drive nur ca. 5 km östlich von Havelock gelegen."
+  aufwand: "+15 min, nur falls die Queen Charlotte Drive gefahren wird; Zeit vom Weingut-Mittag"
+  quelle: "https://marlboroughnz.com/explore-marlborough/see-do/walks/cullen-point-lookout-track"
+- tag: 44
+  ort: waipunga-falls
+  titel: "Waipunga Falls: mehrstufiger Wasserfall an der SH5"
+  text: "Breiter Wasserfall in einer Schlucht, direkt von einem ausgeschilderten Aussichtspunkt an der Napier–Taupō Road zu sehen (ca. 1 min Fußweg), kostenlos. Ideal als kurzer Landschaftsstopp auf der Fahrt nach Taupō."
+  aufwand: "+10 min direkt an der Route"
+  quelle: "https://www.hawkesbaynz.com/visit/us/waipunga-falls"
+- tag: 49
+  ort: blue-spring-leslie-road
+  titel: "Blue Spring (Te Waihou): glasklares Quellwasser"
+  text: "Kristallklare, türkise Quelle bei Putāruru; vom Leslie-Road-Parkplatz ca. 800 m flacher Weg am Fluss. Hin/zurück ca. 30–45 min, kostenlos; Baden ist untersagt. Geheimtipp für Landschaftsfans, der nicht auf der üblichen Rotorua-Runde liegt."
+  aufwand: "ca. +35 min Umweg auf der Fahrt Matamata–Rotorua; ersetzt Redwoods am Nachmittag"
+  quelle: "https://southwaikato.govt.nz/our-district/sport-and-recreation/parks-and-reserves/te-waihou-walkway"
+- tag: 50
+  ort: waimangu-volcanic-valley
+  titel: "Waimangu Volcanic Valley: jüngstes Geothermalgebiet der Welt"
+  text: "Naturbelassenes Tal mit dampfenden Kratern, bunten Seen und dem Frying Pan Lake; ein Weg führt ca. 1,5–2 h bergab (kostenloser Shuttle für den Rückweg), optional mit 45-min-Bootsfahrt auf dem Lake Rotomahana. Eintritt mit Boot ab ca. NZD 90 p. P. (Reseller, vor Ort prüfen). Liegt neben Wai-O-Tapu."
+  aufwand: "Ersetzt optional Te Puia; ca. 3 h, 10 min von Wai-O-Tapu"
+  quelle: "https://www.waimangu.co.nz/"
+- tag: 51
+  ort: karangahake-reserve
+  titel: "Karangahake Gorge: Windows Walk durch alte Goldminen"
+  text: "Spektakuläre Schlucht am Ōhinemuri River mit Hängebrücke, Tunnel und ehemaligen Goldminen; Windows Walk ca. 2,5 km hin/zurück, ca. 1 h, flach. Kostenlos; einzelne Abschnitte waren nach Zyklon Gabrielle gesperrt, vorab DOC prüfen."
+  aufwand: "+30 min Umweg von Waihi (SH2); ca. 1 h zu Fuß"
+  quelle: "https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/kaimai-mamaku-conservation-park/things-to-do/tracks/karangahake-gorge-historic-walkway"
+- tag: 52
+  ort: hahei-explorer-wigmore
+  titel: "Hahei Explorer: Cathedral Cove vom Boot"
+  text: "Kleines Schlauchboot (max. 10 Personen) ab Hahei Beach zu Cathedral Cove, Höhlen und Felsbögen, ca. 1 h, ca. NZD 125 p. P.; mit Glück Delfine, Robben oder Pinguine. Bewährter Ersatz, falls der Fußweg zur Cathedral Cove gesperrt ist."
+  aufwand: "ca. 1 h; ersetzt den Fußweg zur Cathedral Cove bei Sperrung (oder zusätzlich zum Hot Water Beach)"
+  quelle: "https://haheiexplorer.rezdy.com/242426/hahei-explorer-cathedral-cove-boat-tour"
+- tag: 57
+  ort: rainbow-warrior-memorial-matauri
+  titel: "Mātauri Bay: Rainbow Warrior Memorial und Cavalli-Inseln"
+  text: "Skulptur auf einem Hügel über der Mātauri Bay mit weitem Meerblick auf die Cavalli-Inseln, nahe dem Wrack der Rainbow Warrior; kostenlos, kein Fußweg (Parkplatz am Denkmal). Straßenbelag der Matauri Bay Road vorab prüfen (Schotter < 12 km)."
+  aufwand: "+50 min Umweg ab Kaeo; Zeit vom Rainbow Falls Kerikeri"
+  quelle: "https://publicart.nz/artworks/chris-booth-1990-01"
+- tag: 59
+  ort: te-matua-ngahere
+  titel: "Te Matua Ngahere: der älteste Kauri im Waipoua Forest"
+  text: "Ein sehr alter Kauri (geschätzt über 1000 Jahre), rund 20 min durch den Wald einfach (ca. 730 m, flach). Kostenlos; Weg laut DOC 9–16 Uhr geöffnet, Four Sisters und Yakas derzeit geschlossen (kauri dieback)."
+  aufwand: "+30 min zusätzlich zu Tāne Mahuta; Ankunft vor 15:30 Uhr einplanen"
+  quelle: "https://doc.govt.nz/parks-and-recreation/places-to-go/northland/places/waipoua-forest/things-to-do/te-matua-ngahere-walk"
+- tag: 60
+  ort: piha-lion-rock
+  titel: "Piha Beach und Lion Rock: schwarzer Sandstrand"
+  text: "Wilder schwarzer Surfstrand mit dem markanten Lion Rock, als Alternative zu Muriwai. Schöne Fotostimmung ohne Vogelschauplatz; Strandspaziergang flach, optional Kurzaufstieg am Felsen (Status vor Ort prüfen), kostenlos. Zufahrt über die kurvige Scenic Drive/Piha Road."
+  aufwand: "ca. +90 min Umweg ab dem Weg nach Süden; ersetzt Muriwai"
+  quelle: "https://www.piha.co.nz/the-place/landmarks/"

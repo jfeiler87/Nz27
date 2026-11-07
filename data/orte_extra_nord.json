@@ -1,0 +1,6 @@
+[
+ {"id":"napier-beach-top10","name":"Napier Beach TOP 10 Holiday Park","kategorie":"stellplatz","region":"Hawke's Bay","lat":-39.432287,"lon":176.873271,"ziel":"Holiday Park, 10 Gill Rd, Napier","quelle":"OSM Nominatim (tourism=camp_site)","konfidenz":"hoch","hinweis":""},
+ {"id":"spa-park-hot-pools","name":"Spa Thermal Park – Otumuheke Hot Pools","kategorie":"attraktion","region":"Taupō","lat":-38.674183,"lon":176.088882,"ziel":"Spa Thermal Park (Parkplatz County Ave), ~10 min zu Fuß zu den heißen Becken am Fluss","quelle":"OSM Nominatim (leisure=park); Becken bei -38.669415,176.085480","konfidenz":"mittel","hinweis":"Kostenlos, natürlicher heißer Bach mündet in den Waikato"},
+ {"id":"taupo-floatplane","name":"Taupō's Floatplane (Rundflüge)","kategorie":"attraktion","region":"Taupō","lat":-38.687957,"lon":176.064537,"ziel":"Büro/Steg Taupō's Floatplane, Redoubt St / Ferry Rd am Bootshafen","quelle":"OSM Nominatim (office=guide)","konfidenz":"mittel","hinweis":"Alternative: Rundflüge ab Taupō Airport (-38.740325,176.076628)"},
+ {"id":"mt-eden","name":"Maungawhau / Mount Eden","kategorie":"attraktion","region":"Auckland","lat":-36.877172,"lon":174.764286,"ziel":"Vulkangipfel – nur zu Fuß (Gipfelstraße für Autos gesperrt), per Taxi/Bus anfahren","quelle":"OSM Nominatim (natural=volcano)","konfidenz":"mittel","hinweis":"Am Rückgabetag ohne Camper"}
+]

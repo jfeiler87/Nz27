@@ -1,15 +1,21 @@
 # NZ Campervan-Trip 2027
 
-Reiseplanung für die Neuseeland-Rundreise mit Campervan.
-Zeitraum: 19.03.–18.05.2027 (~61 Tage, Süd- + Nordinsel).
+61 Tage Neuseeland im Britz Wanderer: **Fr 19.03.2027 Christchurch → Di 18.05.2027 Auckland**.
+Südinsel im Uhrzeigersinn (Mt Cook zuerst, dann Otago-Küste, Catlins, Fiordland, Queenstown/Wanaka,
+West Coast, Abel Tasman/Golden Bay, Kaikōura), Fähre am 25.04., Nordinsel bis Northland.
 
-## Inhalt
-- `itinerary.md` — vollständiger Tag-für-Tag-Plan: Route (Südinsel-Rundkurs mit West Coast + Abel Tasman), Unterkunfts-Priorität (Freiplatz → DOC → Holiday Park), Buchungs-Checkliste sowie Campingplatz-Übersicht mit Preisen & Buchungslinks.
+## Wo steht was?
+- **[itinerary.md](itinerary.md)** — der Plan zum Lesen: Übersicht + Tag für Tag. Jeder Ort ist ein
+  Google-Maps-Navigationslink (antippen → Navigation zum Parkplatz/zur Einfahrt startet).
+- **[BUCHUNGS_TIMELINE.md](BUCHUNGS_TIMELINE.md)** — was wann gebucht/geklärt werden muss.
+- **[TODO.md](TODO.md)** — offene Planungspunkte.
+- **[LOGISTIK.md](LOGISTIK.md)** — Wetter, Ausrüstung, Apps, Camper-Betrieb.
+- **[maps/](maps/README.md)** — KML (Google My Maps) und GPX (Organic Maps/OsmAnd) je Layer.
+- **[recherche/](recherche/)** — Faktenchecks mit Quellen.
 
-## Tracking
-Offene Buchungen und Aufgaben werden als GitHub Issues gepflegt (Label `booking`).
-
-## Wichtig
-- Camper muss gültiges Self-Containment-Zertifikat haben (ab 7.6.2026 Pflicht zum Freedom Camping).
-- Freiplätze täglich via Rankers/CamperMate App + Vor-Ort-Schilder verifizieren.
-- Preise = 2026-Raten; 2027 vor Buchung prüfen.
+## Plan ändern
+Nicht `itinerary.md` editieren, sondern `data/reise.yaml` (Tage) bzw. `data/orte_*.json` (Orte), dann:
+```bash
+python3 tools/build.py
+```
+Details für Agenten/Mitplanende: [AGENTS.md](AGENTS.md).

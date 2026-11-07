@@ -1,33 +1,29 @@
-# TODO — Weitere Planungspunkte (NZ Trip 2027)
+# TODO — offene Planungspunkte
 
-Status: [ ] offen. Tracking via GitHub Issues (Label `planning`).
-Die 10 kritischen Buchungen (Hobbiton, Fähre, Glacier, Tongariro, Milford,
-Waitomo, Kaikoura, Albatross, Penguin Place, Cape Kidnappers) liegen als
-Issues mit Label `booking` und sind hier NICHT nochmal gelistet.
+Buchungen und Klärungen mit Frist stehen in [BUCHUNGS_TIMELINE.md](BUCHUNGS_TIMELINE.md).
+
+## Plan
+- [ ] Orte mit ⚠️ (Konfidenz niedrig) in `itinerary.md` vor Ort bzw. per App bestätigen oder ersetzen
+- [ ] Freiplätze aus dem alten Plan, die nicht bestätigt sind: Harwood Domain, Evans Bay (Wellington), Taupō-Plätze, Carters Beach, Haast — vor Abreise in CamperMate/Rankers prüfen
+- [ ] DOC Campsite Pass neu rechnen (295 NZD/Person/Jahr; Break-even ~20 DOC-Nächte/Person). Alte Entscheidung „kaufen“ beruhte auf mehr DOC-Nächten (Stewart, Lake Gunn ×4)
+- [ ] Mount Sunday: Ergebnis der Britz-Anfrage einarbeiten (Tag 3)
+- [ ] Gezeiten 2027 für Gezeiten-Stopps eintragen, sobald Tabellen verfügbar
+- [ ] Statische Webseite fürs Handy (Galaxy S7+) aus `data/*` generieren — offline-fähig
 
 ## Fahrzeug & Papiere
-- [x] Campervan-Miete **gebucht**: Britz Wanderer + Premium Paket (self-contained, inkl. Bettwäsche/Laken). Self-Containment-Aufkleber bestätigt. Keine Waschmaschine an Bord → Wäsche-Plan in itinerary.md §8.
-- [ ] Führerschein: Gültigkeit prüfen, ggf. Internationaler Führerschein
-- [ ] Einreise: **NZeTA + IVL** beantragen (deutsche Staatsangehörige), Reisepass ≥3 Monate über Aufenthalt hinaus
-- [x] Reiseversicherung: Reisekranken vorhanden; Camper Premium (=0 € Selbstbehalt) → ausreichend. Reiserücktritt ggf. separat prüfen
+- [x] Britz Wanderer gebucht (Certified Self Contained, Toilette + Dusche, Diesel, Automatik)
+- [ ] Internationaler Führerschein / englische Übersetzung
+- [ ] NZeTA + IVL
+- [x] Versicherung: Reisekranken vorhanden + Camper Premium (0 € SB). Achtung: gilt nicht auf verbotenen Straßen/langem Schotter
 
 ## Gesundheit & Sicherheit
-- [ ] Reiseapotheke & Erste-Hilfe-Set (**Sandfliegen/Mücken-Spray ist PFLICHT in NZ!**)
-- [ ] Notfallkontakte (111, Botschaft); Reiseplan mit Familie teilen
+- [ ] Reiseapotheke, **Sandfliegen-Spray** (Fiordland, West Coast!)
+- [ ] Notfall: 111; Reiseplan mit Familie teilen
 
 ## Konnektivität & Geld
-- [ ] SIM/eSIM (Spark / One NZ / 2degrees) oder Roaming; Daten für Maps + Rankers-App
-- [ ] Zahlung: Kreditkarten freischalten, etwas Bargeld, Bank über Reise informieren
-- [x] Budget: Kein Deckel. Leitlinie **Erlebnis > Kosten, kein Luxus** (s. itinerary §0.1). Tages-/Spritkosten grob, Fährpreis bei Buchung.
+- [ ] eSIM/SIM (One NZ hat die beste Abdeckung auf dem Land), Datenvolumen für Maps
+- [ ] Kreditkarte mit kontaktlos/EFTPOS; ein paar 2-NZD-Münzen für Münz-Wäschereien
 
-## Ausrüstung & Packen
-- [ ] Packliste: Kleidung (Herbst→Winter, Schichten, Regen), Wanderschuhe, Badesachen (Hot Pools), Camping-Zubehör falls nicht im Miet-Camper
-- [ ] Elektronik: Powerbank, Kopflampe, Ladekabel, **NZ-Reisestecker (Typ I, 230V)**, Offline-Karten (Maps.me / Organic Maps), Podcasts/Audiobooks fürs Fahren
-
-## Route & Logistik
-- [ ] Sprit-Strategie: Tankstellen auf dünn besiedelten Strecken (Te Anau–Milford, West Coast) — nie unter Viertel voll fahren
-- [ ] Entsorgung & Trinkwasser: Dump-Station-Plan (auch self-contained muss leeren); Wasser auffüllen bei i-Site/DOC
-- [x] Wetter-Puffer: ~4–6 Puffer verteilt + Contingency (Stewart, Tongariro, Glacier, Milford) — s. itinerary §0.1. Pässe: Wetter-Check, ggf. Route tauschen.
-- [ ] DOC Campsite Pass kaufen (entschieden: JA, Paar $590) — vor Abreise.
-- [ ] Zusatz-Aktivitäten (neben den 10 kritischen): Kajak Abel Tasman, Hot Pools (Hanmer/Maruia/Opal), Weintouren Marlborough/Hawke's Bay)
-- [ ] Verpflegung: Supermärkte (Countdown / New World / Pak'nSave), selbst kochen spart Geld
+## Packen
+- [ ] Schichten (Herbst → früher Winter, Nächte bis um 0 °C im Inland), Regenjacke, feste Schuhe
+- [ ] Badesachen (Hot Pools, Hot Water Beach), Stirnlampe, NZ-Stecker Typ I, Powerbank, 12-V-Ladekabel

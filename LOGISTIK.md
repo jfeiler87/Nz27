@@ -19,15 +19,15 @@ Temperatur-/Regen-Charakter je Zone (Tag → Nacht):
 - Südinsel Ostküste (Christchurch, Akaroa, Oamaru, Dunedin, Kaikoura, Marlborough): trocken, sonnig, kühl. Tag ~18–21 → ~13–16 °C; Nacht ~7–10 → 3–6 °C, später Frost im Inland.
 - Otago-Hochland (Queenstown, Wanaka, Glenorchy, Mt Cook/Mackenzie): „4 Jahreszeiten am Tag". Tag ~15–19 → ~10–14 °C; Nacht ~4–8 → 0–4 °C, Frost/Schnee an Bergen möglich, Mt Cook Village im Mai frostig.
 - Westküste (Haast, Franz Josef, Hokitika, Punakaiki): sehr regenreich, mild. Tag ~16–20 → ~12–15 °C. Regenjacke Pflicht.
-- Fiordland & Stewart Island: nassestes + kühlstes. Milford ~7.000 mm/Jahr, ~200 Regentage (DOC). Tag ~13–17 → ~10–13 °C, windig, viele geschlossene Tage; Stewart feucht/stürmisch.
+- Fiordland: nassestes + kühlstes. Milford ~7.000 mm/Jahr, ~200 Regentage (DOC). Tag ~13–17 → ~10–13 °C, windig, viele geschlossene Tage.
 - Nelson / Abel Tasman / Golden Bay: sonnigste, mildeste, trockenste Ecke. Tag ~18–22 → ~14–17 °C.
 - Wellington & Wairarapa: windig, wechselhaft, kühl. Tag ~16–19 → ~13–15 °C; starke Südwest-Stürme.
 - Nordinsel (Napier, Taupō, Tongariro, Rotorua, Auckland, Northland): wärmster Teil. Tag ~18–22 → ~14–18 °C; Nacht ~10–14 → 8–11 °C; Northland fast subtropisch-mild.
 
 Besonderheiten / worauf achten:
-- Schichten packen: mittags evtl. kurzärmlig, abends frisch. Regenjacke überall, bes. Fiordland/West Coast/Stewart.
+- Schichten packen: mittags evtl. kurzärmlig, abends frisch. Regenjacke überall, bes. Fiordland/West Coast.
 - Späte Pässe (ab Ende April): Crown Range, Lindis Pass, Haast Pass, Milford Road — Frost/Schnee/Glätte möglich → Wetter-Check vor Abfahrt, langsamer fahren.
-- Tongariro Alpine Crossing (~Tag 46): Anfang Mai evtl. schon Winterzustand (Schnee/Eis) → Winterausrüstung ernst nehmen, evtl. Gletscher-Alternative.
+- Tongariro: Alpine Crossing ist gestrichen (Wandergrenze 15 km/400 Hm; ab 1.5. ohnehin Winterbetrieb). Kurze Wege (Taranaki Falls) gehen auch bei kühlem Wetter.
 - Milford/Doubtful: Regen = mehr Wasserfälle (optisch top), aber Schiffstour wetterabhängig buchen.
 
 ## Camping-Apps & DOC-Pass
@@ -36,7 +36,7 @@ Empfehlung für Unterkunfts-Planung (Android). Der DOC-Pass ersetzt Freedom-Camp
 
 Camping-Apps (installieren):
 - CamperMate — Allrounder: Freedom-Camping, DOC, Holiday Parks, Dump-Stationen, Regeln, Offline-Karten.
-- NZ Pocket Maps (kostenlos) — Offline-Topokarten + DOC-Campsites/Huts + Great Walks. Wichtig wegen Funklöcher (Fiordland, Catlins, Pässe, Stewart-Transfer).
+- NZ Pocket Maps (kostenlos) — Offline-Topokarten + DOC-Campsites/Huts + Great Walks. Wichtig wegen Funklöcher (Fiordland, Catlins, Pässe).
 - WikiCamps NZ (einmalig ~7 €) ODER Rankers Camping NZ (kostenlos) — user-generierte Datenbank mit Bewertungen, filterbar nach DOC / frei / Holiday-Park.
 - doc.govt.nz (Browser) — DOC-Campsites buchen; Standorte auch in CamperMate / NZ Pocket Maps.
 - QLDC (Queenstown/Wanaka): 15 ausgewiesene Stellplätze für self-contained; teils kostenloser Permit online über qldc.govt.nz. Vor Ort tagesaktuell prüfen.
@@ -61,43 +61,10 @@ Lohnt sich der Pass?
 - Bei 61 Tagen mit vielen DOC-Stops (Catlins, Fiordland, Mt Cook, Abel Tasman, Tongariro) vermutlich deutlich mehr → Pass lohnt sich (entschieden: kaufen).
 - Entscheidung: DOC Pass kaufen (Paar $590) — Plan hat deutlich >15–20 DOC-Nächte; Freedom-Apps trotzdem installieren.
 
-## Pro Region
-
-Christchurch & Umgebung (Tag 1–3)
-- Tanken: jederzeit. Dump: i-Site / Holiday Park. Waschen: Stop 1 — Super Suds / Lilly's Laundromat (24/7), erste Wäsche vorm Abfahrt.
-
-Otago-Küste Oamaru/Dunedin (Tag 5–7)
-- Tanken: Oamaru/Dunedin. Dump: i-Site. Waschen: Stop 2 — Liquid Laundromat Dunedin South, 28 Prince Albert Rd (24/7).
-
-Catlins & Süden bis Stewart Island (Tag 8–11)
-- Tanken: VORHER in Balclutha volltanken (Catlins kaum Tankstellen); Invercargill als Backup. Dump: Balclutha/Invercargill i-Site. Waschen: KEINE town-Laundromat → vorher Dunedin oder nach Te Anau erledigen.
-
-Fiordland / Te Anau (Tag 12–14)
-- Tanken: Te Anau (letzter Punkt vor Milford). Dump: Te Anau i-Site/DOC. Waschen: keine town-Laundromat in Fiordland → Te Anau Holiday Park oder nächste Stadt.
-
-Queenstown / Wanaka / Glenorchy / Arrowtown (Tag 15–19)
-- Tanken: überall verfügbar. Dump: i-Site/Holiday Park. Waschen: Stop 3 — Queenstown CBD Liquid (24/7).
-
-Mt Cook / Twizel (Tag 20–21)
-- Tanken: Twizel (Mt Cook Village teuer/kein). Dump: Twizel / DOC White Horse Hill. Waschen: KEINE → Twizel (~40 min) oder Wanaka.
-
-West Coast: Haast – Franz Josef – Hokitika – Punakaiki (Tag 22–26)
-- Tanken: VORHER in Wanaka volltanken (keine Tankstellen auf Haast Pass!); West Coast in Hokitika tanken (Glacier Country deutlich teurer). Dump: i-Site/Holiday Park entlang. Waschen: Stop 4 — Laundromat Franz Josef, 64 Cron St (24h, $2 coin). Haast keine town-Laundromat → Franz Josef/Wanaka.
-
-Nelson & Abel Tasman / Golden Bay (Tag 27–32)
-- Tanken: Nelson / Collingwood (Golden Bay). Dump: i-Site/DOC. Waschen: Stop 5 — Liquid Toi Toi / Master Valet Self-Service Nelson (24/7). Abel Tasman/Marahau KEINE → Nelson.
-
-Marlborough / Kaikoura (Tag 33–35)
-- Tanken: Blenheim/Kaikoura. Dump: i-Site. Waschen: Blenheim/Kaikoura Holiday Park.
-
-Wellington & Wairarapa (Tag 36–39)
-- Tanken: Picton (vor Fähre volltanken + Dump leeren!). Dump: i-Site/Holiday Park. Waschen: Wellington — Janice Laundry Newtown, 180 Adelaide Rd (24/7).
-
-Nordinsel Ostküste: Napier – Taupō – Tongariro – Waitomo – Rotorua (Tag 40–49)
-- Tanken: durchgehend. Dump: i-Site/DOC. Waschen: Stop 7 Taupō — Liquid Taupō (24/7); Rotorua — Choice Laundromats (24/7); Ohakune Coin-Laundromat ($2-Münzen).
-
-Coromandel & Auckland (Tag 50–53)
-- Tanken: Thames/Auckland. Dump: i-Site/Holiday Park. Waschen: Auckland — Mint Laundromat, Beach Rd (24/7) + Coromandel Holiday Park.
-
-Northland (Tag 54–58)
-- Tanken: Kaitaia/Whangārei/Paihia. Dump: i-Site/DOC (Cape Reinga: DOC Tapotupotu). Waschen: vor Abfahrt Richtung Nord in Auckland oder Paihia Holiday Park.
+## Pro Region / pro Tag
+Die konkreten Versorgungspunkte (Tanken, Dump, Wäsche, Einkauf) stehen jetzt **pro Tag** in `itinerary.md`
+(Zeile „Versorgung“) — jeweils als Navigationslink. Gepflegt werden sie in `data/reise.yaml`.
+Faustregeln:
+- Volltanken vor: Catlins (Balclutha), Milford Road (Te Anau), Haast Pass (Wanaka), West Coast (Hokitika günstiger als Glacier Country), Picton vor der Fähre.
+- Holiday-Park-Nächte (alle 5–7 Tage) für Wäsche, Dump, Strom nutzen.
+- Viele „öffentliche“ Dump-Stationen sind tatsächlich nur für Gäste eines Holiday Parks — in CamperMate/Rankers den Filter „public“ prüfen.

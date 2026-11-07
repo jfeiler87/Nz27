@@ -1,0 +1,4 @@
+# Broschüre + Bild-Cache bleiben lokal (Repo ist öffentlich; Bilder nur für privaten Gebrauch)
+broschuere/
+.cache/
+__pycache__/

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>NZ27 fixpunkte</name>
+<Style id="p"><IconStyle><color>ff00d7ff</color></IconStyle></Style>
+<Style id="l"><LineStyle><color>ff00d7ff</color><width>3</width></LineStyle></Style>
+<Placemark><name>Do 18.03. Hotel Lylo Christchurch Airport, 5 Peter Leeming Rd – Check-in ab 15:00</name><styleUrl>#p</styleUrl><description>Hostel-Eingang LyLo, Peter Leeming Rd (OSM-Hostel-Knoten) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.489785,172.549122&amp;travelmode=driving</description><Point><coordinates>172.549122,-43.489785,0</coordinates></Point></Placemark>
+<Placemark><name>Fr 19.03. Hotel-Check-out bis 10:00 · Camper-Abholung Britz Christchurch (Wanderer), 159 Orchard Rd, Harewood – Station 08:00–16:30</name><styleUrl>#p</styleUrl><description>Depot 159 Orchard Rd, Harewood (Britz teilt Adresse mit Mighty/Maui/Apollo) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.475256,172.554895&amp;travelmode=driving</description><Point><coordinates>172.554895,-43.475256,0</coordinates></Point></Placemark>
+<Placemark><name>So 25.04. 13:00 Bluebridge Picton → Wellington, Tarif „Super Sail“ (Umbuchung bis 1 h vorher gegen Preisdifferenz, keine Erstattung) – Fahrzeug-Check-in bis 12:00</name><styleUrl>#p</styleUrl><description>Bluebridge Terminal Picton, Fahrzeug-Check-in 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.289404,173.999957&amp;travelmode=driving</description><Point><coordinates>173.999957,-41.289404,0</coordinates></Point></Placemark>
+<Placemark><name>Mi 05.05. 15:30 Hobbiton Evening Banquet Tour (~4,5 h, Ende ~20:00) ab The Shires Rest, 501 Buckland Rd</name><styleUrl>#p</styleUrl><description>The Shire's Rest Car Park, 501 Buckland Rd (Abfahrt der Hobbiton-Busse) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.872720,175.683841&amp;travelmode=driving</description><Point><coordinates>175.683841,-37.872720,0</coordinates></Point></Placemark>
+<Placemark><name>Di 18.05. vormittags Camper-Rückgabe Britz Auckland, 470 Oruarangi Rd, Māngere – Station 08:00–16:30</name><styleUrl>#p</styleUrl><description>Britz/Maui/Mighty Depot, 470 Oruarangi Road, Māngere 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.979533,174.766879&amp;travelmode=driving</description><Point><coordinates>174.766879,-36.979533,0</coordinates></Point></Placemark>
+<Placemark><name>Di 18.05. 20:30 Abflug Auckland EK 449 → Dubai → EK 55 Düsseldorf</name><styleUrl>#p</styleUrl><description>International Terminal Drop-off/Pick-up Zone (Camper-Rückgabe erfolgt beim Vermieter-Depot, nicht am Terminal) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.004221,174.784346&amp;travelmode=driving</description><Point><coordinates>174.784346,-37.004221,0</coordinates></Point></Placemark>
+</Document></kml>

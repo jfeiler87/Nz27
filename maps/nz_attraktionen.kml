@@ -1,446 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <name>NZ27 Attraktionen</name>
-    <description>Sehenswuerdigkeiten laut itinerary (mit Rating).</description>
-    <Style id="at"><IconStyle><color>ff00ff00</color><scale>1.0</scale></IconStyle></Style>
-      <Placemark>
-        <name>Akaroa (T2)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 2 (20.03) - Christchurch → Akaroa (75 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Akaroa/@-43.804317,172.967833,15z</description>
-        <Point><coordinates>172.967833,-43.804317,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Oamaru Blue Penguin Colony (T4)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 4 (22.03) - Oamaru | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Oamaru%20Blue%20Penguin%20Colony/@-45.110276,170.980178,15z</description>
-        <Point><coordinates>170.980178,-45.110276,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Moeraki Boulders (T5)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Moeraki%20Boulders/@-45.340500,170.823800,15z</description>
-        <Point><coordinates>170.823800,-45.340500,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Royal Albatross Centre (T5)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Royal%20Albatross%20Centre/@-45.776126,170.728536,15z</description>
-        <Point><coordinates>170.728536,-45.776126,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Penguin Place (T5)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Penguin%20Place/@-45.796663,170.730091,15z</description>
-        <Point><coordinates>170.730091,-45.796663,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Sandfly Bay (T5)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 5 (23.03) - Oamaru → Dunedin (115 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Sandfly%20Bay/@-45.897203,170.650028,15z</description>
-        <Point><coordinates>170.650028,-45.897203,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Royal Albatross Centre (T6)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 6 (24.03) - Dunedin | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Royal%20Albatross%20Centre/@-45.776126,170.728536,15z</description>
-        <Point><coordinates>170.728536,-45.776126,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Penguin Place (T6)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 6 (24.03) - Dunedin | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Penguin%20Place/@-45.796663,170.730091,15z</description>
-        <Point><coordinates>170.730091,-45.796663,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Sandfly Bay (T6)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 6 (24.03) - Dunedin | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Sandfly%20Bay/@-45.897203,170.650028,15z</description>
-        <Point><coordinates>170.650028,-45.897203,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Curio Bay Petrified Forest (T8)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 8 (26.03) - Catlins | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Curio%20Bay%20Petrified%20Forest/@-46.663648,169.101016,15z</description>
-        <Point><coordinates>169.101016,-46.663648,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Purakaunui Falls (T8)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 8 (26.03) - Catlins | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Purakaunui%20Falls/@-46.517571,169.560837,15z</description>
-        <Point><coordinates>169.560837,-46.517571,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Slope Point (T8)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 8 (26.03) - Catlins | Rating 6/10&lt;br/&gt;https://www.google.com/maps/place/Slope%20Point/@-46.674290,169.001601,15z</description>
-        <Point><coordinates>169.001601,-46.674290,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Stewart Island (T10)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 10 (28.03) - Stewart Island | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Stewart%20Island/@-46.893800,168.126200,15z</description>
-        <Point><coordinates>168.126200,-46.893800,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Mavora Lakes (T11)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 11 (29.03) - Stewart Island → Te Anau (~260 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Mavora%20Lakes/@-45.300000,168.200000,15z</description>
-        <Point><coordinates>168.200000,-45.300000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Te Anau Glowworm Caves (T12)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 12 (30.03) - Te Anau | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Anau%20Glowworm%20Caves/@-45.409885,167.706972,15z</description>
-        <Point><coordinates>167.706972,-45.409885,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Mavora Lakes (T12)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 12 (30.03) - Te Anau | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Mavora%20Lakes/@-45.300000,168.200000,15z</description>
-        <Point><coordinates>168.200000,-45.300000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Te Anau Glowworm Caves (T13)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 13 (31.03) - Te Anau | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Anau%20Glowworm%20Caves/@-45.409885,167.706972,15z</description>
-        <Point><coordinates>167.706972,-45.409885,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Milford Sound (T14)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 14 (01.04) - Te Anau → Milford Sound (120 km) | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Milford%20Sound/@-44.619019,167.868760,15z</description>
-        <Point><coordinates>167.868760,-44.619019,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Doubtful Sound (T15)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 15 (02.04) - Te Anau → Queenstown (172 km) | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Doubtful%20Sound/@-45.414600,167.718000,15z</description>
-        <Point><coordinates>167.718000,-45.414600,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Queenstown Skyline (T16)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 16 (03.04) - Queenstown | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Queenstown%20Skyline/@-45.026415,168.649602,15z</description>
-        <Point><coordinates>168.649602,-45.026415,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Deer Park Heights (T16)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 16 (03.04) - Queenstown | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Deer%20Park%20Heights/@-45.020000,168.740000,15z</description>
-        <Point><coordinates>168.740000,-45.020000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>TSS Earnslaw (T16)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 16 (03.04) - Queenstown | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/TSS%20Earnslaw/@-45.030000,168.760000,15z</description>
-        <Point><coordinates>168.760000,-45.030000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Glenorchy (T17)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 17 (04.04) - Queenstown → Glenorchy (45 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Glenorchy/@-44.849749,168.385198,15z</description>
-        <Point><coordinates>168.385198,-44.849749,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Paradise (Glenorchy) (T17)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 17 (04.04) - Queenstown → Glenorchy (45 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Paradise%20%28Glenorchy%29/@-44.870000,168.520000,15z</description>
-        <Point><coordinates>168.520000,-44.870000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Skippers Canyon (T18)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 18 (05.04) - Glenorchy → Arrowtown (95 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Skippers%20Canyon/@-44.920000,168.700000,15z</description>
-        <Point><coordinates>168.700000,-44.920000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Church of the Good Shepherd (T19)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Church%20of%20the%20Good%20Shepherd/@-44.005900,170.479500,15z</description>
-        <Point><coordinates>170.479500,-44.005900,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Twizel / Mackenzie Country (T19)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Twizel%20/%20Mackenzie%20Country/@-44.016700,170.100000,15z</description>
-        <Point><coordinates>170.100000,-44.016700,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Bannockburn (Power of the Dog) (T19)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 19 (06.04) - Arrowtown → Lake Tekapo (270 km) | Rating 6/10&lt;br/&gt;https://www.google.com/maps/place/Bannockburn%20%28Power%20of%20the%20Dog%29/@-45.050000,169.200000,15z</description>
-        <Point><coordinates>169.200000,-45.050000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hooker Valley Track (T20)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 20 (07.04) - Lake Tekapo → Aoraki/Mt Cook (115 km) | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Hooker%20Valley%20Track/@-43.718374,170.098359,15z</description>
-        <Point><coordinates>170.098359,-43.718374,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Flock Hill / Mount Sunday (T20)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 20 (07.04) - Lake Tekapo → Aoraki/Mt Cook (115 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Flock%20Hill%20/%20Mount%20Sunday/@-43.983000,170.933000,15z</description>
-        <Point><coordinates>170.933000,-43.983000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hooker Valley Track (T21)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 21 (08.04) - Aoraki/Mt Cook | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Hooker%20Valley%20Track/@-43.718374,170.098359,15z</description>
-        <Point><coordinates>170.098359,-43.718374,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Roys Peak (T22)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 22 (09.04) - Mt Cook → Wanaka (154 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Roys%20Peak/@-44.693998,169.048730,15z</description>
-        <Point><coordinates>169.048730,-44.693998,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Blue Pools Track (T23)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 23 (10.04) - Wanaka → Haast (140 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Blue%20Pools%20Track/@-44.160800,169.126800,15z</description>
-        <Point><coordinates>169.126800,-44.160800,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Lake Matheson (T24)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 24 (11.04) - Haast → Franz Josef (135 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Lake%20Matheson/@-43.463955,170.012521,15z</description>
-        <Point><coordinates>170.012521,-43.463955,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Franz Josef Glacier (T25)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 25 (12.04) - Franz Josef | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Franz%20Josef%20Glacier/@-43.387386,170.182815,15z</description>
-        <Point><coordinates>170.182815,-43.387386,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hokitika Gorge (T26)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 26 (13.04) - Franz Josef → Hokitika (140 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hokitika%20Gorge/@-42.955152,171.015903,15z</description>
-        <Point><coordinates>171.015903,-42.955152,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Pancake Rocks (T27)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 27 (14.04) - Hokitika → Punakaiki (60 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Pancake%20Rocks/@-42.116876,171.327001,15z</description>
-        <Point><coordinates>171.327001,-42.116876,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Founders Park Nelson (T30)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 30 (17.04) - Nelson | Rating 5/10&lt;br/&gt;https://www.google.com/maps/place/Founders%20Park%20Nelson/@-41.261668,173.296313,15z</description>
-        <Point><coordinates>173.296313,-41.261668,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Nelson Lakes / Blue Lake (T30)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 30 (17.04) - Nelson | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Nelson%20Lakes%20/%20Blue%20Lake/@-41.700000,172.850000,15z</description>
-        <Point><coordinates>172.850000,-41.700000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Wharariki Beach (T32)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 32 (19.04) - Abel Tasman | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Wharariki%20Beach/@-40.510000,172.690000,15z</description>
-        <Point><coordinates>172.690000,-40.510000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Farewell Spit (T32)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 32 (19.04) - Abel Tasman | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Farewell%20Spit/@-40.550000,172.970000,15z</description>
-        <Point><coordinates>172.970000,-40.550000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Omaka Aviation Heritage Centre (T34)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 34 (21.04) - Blenheim | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Omaka%20Aviation%20Heritage%20Centre/@-41.537911,173.929948,15z</description>
-        <Point><coordinates>173.929948,-41.537911,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Kaikoura Whale Watch / Ohau Point (T36)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 36 (23.04) - Kaikoura | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Kaikoura%20Whale%20Watch%20/%20Ohau%20Point/@-42.247513,173.829984,15z</description>
-        <Point><coordinates>173.829984,-42.247513,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Picton Fähre (T38)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 38 (25.04) - Picton → Wellington (Fähre) (– km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Picton%20F%C3%A4hre/@-41.290916,174.006908,15z</description>
-        <Point><coordinates>174.006908,-41.290916,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Te Papa (T39)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 39 (26.04) - Wellington | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Papa/@-41.290333,174.781927,15z</description>
-        <Point><coordinates>174.781927,-41.290333,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Weta Cave (T39)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 39 (26.04) - Wellington | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Weta%20Cave/@-41.306349,174.824251,15z</description>
-        <Point><coordinates>174.824251,-41.306349,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Wellington Cable Car (T39)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 39 (26.04) - Wellington | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Wellington%20Cable%20Car/@-41.284912,174.770542,15z</description>
-        <Point><coordinates>174.770542,-41.284912,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Zealandia (T39)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 39 (26.04) - Wellington | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Zealandia/@-41.293000,174.768000,15z</description>
-        <Point><coordinates>174.768000,-41.293000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Kaitoke Regional Park (T39)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 39 (26.04) - Wellington | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Kaitoke%20Regional%20Park/@-41.009000,175.029000,15z</description>
-        <Point><coordinates>175.029000,-41.009000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Castlepoint Scenic Reserve (T40)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 40 (27.04) - Wellington → Castlepoint (100 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Castlepoint%20Scenic%20Reserve/@-40.900600,175.896000,15z</description>
-        <Point><coordinates>175.896000,-40.900600,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Cape Palliser (T41)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 41 (28.04) - Castlepoint → Napier (370 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Cape%20Palliser/@-41.612716,175.273415,15z</description>
-        <Point><coordinates>175.273415,-41.612716,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Napier Art Deco / Cape Kidnappers (T42)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 42 (29.04) - Napier | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Napier%20Art%20Deco%20/%20Cape%20Kidnappers/@-39.642800,177.096003,15z</description>
-        <Point><coordinates>177.096003,-39.642800,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Huka Falls (T43)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 43 (30.04) - Napier → Taupō (145 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Huka%20Falls/@-38.649725,176.089376,15z</description>
-        <Point><coordinates>176.089376,-38.649725,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Mine Bay Maori Carvings (T44)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 44 (01.05) - Taupō | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Mine%20Bay%20Maori%20Carvings/@-38.760000,175.970000,15z</description>
-        <Point><coordinates>175.970000,-38.760000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Tongariro Alpine Crossing (Mangatepopo) (T46)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 46 (03.05) - Ohakune | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Tongariro%20Alpine%20Crossing%20%28Mangatepopo%29/@-39.144862,175.580751,15z</description>
-        <Point><coordinates>175.580751,-39.144862,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Ruakuri Bush Walk (T48)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 48 (05.05) - Waitomo | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Ruakuri%20Bush%20Walk/@-38.245600,175.006000,15z</description>
-        <Point><coordinates>175.006000,-38.245600,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Waitomo Glowworm Caves (T48)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 48 (05.05) - Waitomo | Rating 9/10&lt;br/&gt;https://www.google.com/maps/place/Waitomo%20Glowworm%20Caves/@-38.260869,175.103543,15z</description>
-        <Point><coordinates>175.103543,-38.260869,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hobbiton Movie Set (T50)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 50 (07.05) - Matamata (Hobbiton) → Rotorua (70 km) | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Hobbiton%20Movie%20Set/@-37.857945,175.680909,15z</description>
-        <Point><coordinates>175.680909,-37.857945,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Kuirau Park (T51)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 51 (08.05) - Rotorua | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Kuirau%20Park/@-38.160000,176.245000,15z</description>
-        <Point><coordinates>176.245000,-38.160000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Te Puia (T51)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 51 (08.05) - Rotorua | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Te%20Puia/@-38.164351,176.250171,15z</description>
-        <Point><coordinates>176.250171,-38.164351,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Wai-O-Tapu (T51)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 51 (08.05) - Rotorua | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Wai-O-Tapu/@-38.355915,176.364328,15z</description>
-        <Point><coordinates>176.364328,-38.355915,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Mount Maunganui (T52)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 52 (09.05) - Rotorua → Mt Maunganui → Coromandel (210 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Mount%20Maunganui/@-37.638022,176.183884,15z</description>
-        <Point><coordinates>176.183884,-37.638022,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Driving Creek Railway (T53)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 53 (10.05) - Coromandel | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Driving%20Creek%20Railway/@-36.737138,175.506383,15z</description>
-        <Point><coordinates>175.506383,-36.737138,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hot Water Beach (T53)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 53 (10.05) - Coromandel | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hot%20Water%20Beach/@-36.889811,175.823566,15z</description>
-        <Point><coordinates>175.823566,-36.889811,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Tiritiri Matangi (T54)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 54 (11.05) - Coromandel → Auckland (180 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Tiritiri%20Matangi/@-36.596000,174.883000,15z</description>
-        <Point><coordinates>174.883000,-36.596000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Waitangi Treaty Grounds (T56)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 56 (13.05) - Paihia | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Waitangi%20Treaty%20Grounds/@-35.274429,174.079581,15z</description>
-        <Point><coordinates>174.079581,-35.274429,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hole in the Rock (T56)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 56 (13.05) - Paihia | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hole%20in%20the%20Rock/@-35.165662,174.339060,15z</description>
-        <Point><coordinates>174.339060,-35.165662,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Russell (T56)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 56 (13.05) - Paihia | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Russell/@-35.261792,174.121529,15z</description>
-        <Point><coordinates>174.121529,-35.261792,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Cape Reinga (T58)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 58 (15.05) - Kaitaia → Cape Reinga (180 km) | Rating 10/10&lt;br/&gt;https://www.google.com/maps/place/Cape%20Reinga/@-34.420184,172.679348,15z</description>
-        <Point><coordinates>172.679348,-34.420184,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Ninety Mile Beach (T58)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 58 (15.05) - Kaitaia → Cape Reinga (180 km) | Rating 7/10&lt;br/&gt;https://www.google.com/maps/place/Ninety%20Mile%20Beach/@-34.852456,173.045929,15z</description>
-        <Point><coordinates>173.045929,-34.852456,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Tane Mahuta (T59)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 59 (16.05) - Cape Reinga → Waipoua (Trounson) (160 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Tane%20Mahuta/@-35.720800,173.530900,15z</description>
-        <Point><coordinates>173.530900,-35.720800,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Trounson Kauri Park (T59)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 59 (16.05) - Cape Reinga → Waipoua (Trounson) (160 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Trounson%20Kauri%20Park/@-35.444000,173.533000,15z</description>
-        <Point><coordinates>173.533000,-35.444000,0</coordinates></Point>
-      </Placemark>
-      <Placemark>
-        <name>Hauraki Gulf (T60)</name>
-        <styleUrl>#at</styleUrl>
-        <description>Tag 60 (17.05) - Waipoua (Trounson) → Auckland (180 km) | Rating 8/10&lt;br/&gt;https://www.google.com/maps/place/Hauraki%20Gulf/@-36.700000,175.000000,15z</description>
-        <Point><coordinates>175.000000,-36.700000,0</coordinates></Point>
-      </Placemark>
-  </Document>
-</kml>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>NZ27 attraktionen</name>
+<Style id="p"><IconStyle><color>ff00b000</color></IconStyle></Style>
+<Style id="l"><LineStyle><color>ff00b000</color><width>3</width></LineStyle></Style>
+<Placemark><name>T2 20.03. Hilltop Lookout (Hilltop Tavern, Akaroa Rd)</name><styleUrl>#p</styleUrl><description>Hilltop Tavern/Aussichtspunkt an der Summit Rd/SH75 ueber dem Akaroa-Hafen 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.749162,172.869517&amp;travelmode=driving</description><Point><coordinates>172.869517,-43.749162,0</coordinates></Point></Placemark>
+<Placemark><name>T2 20.03. Akaroa Wharf (Delfin-Cruise)</name><styleUrl>#p</styleUrl><description>Akaroa Town Wharf (Abfahrt Delfintouren) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.809011,172.959978&amp;travelmode=driving</description><Point><coordinates>172.959978,-43.809011,0</coordinates></Point></Placemark>
+<Placemark><name>T3 21.03. Mount Sunday / Edoras Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz am Ende der Mt Potts Rd bei Mt Sunday Track-Start 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.547305,170.907799&amp;travelmode=driving</description><Point><coordinates>170.907799,-43.547305,0</coordinates></Point></Placemark>
+<Placemark><name>T3 21.03. Peel Forest - Te Wanahu Flat (Big Tree Walk)</name><styleUrl>#p</styleUrl><description>Picknickplatz/Unterstand Te Wanahu Flat an der Rangitata Gorge Rd, Parkplatz fuer Big Tree (Tōtara) Walk 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.893075,171.261564&amp;travelmode=driving</description><Point><coordinates>171.261564,-43.893075,0</coordinates></Point></Placemark>
+<Placemark><name>T4 22.03. Church of the Good Shepherd Parkplatz</name><styleUrl>#p</styleUrl><description>Strassenparkplatz an der Kirche (Pioneer Dr) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.003861,170.482251&amp;travelmode=driving</description><Point><coordinates>170.482251,-44.003861,0</coordinates></Point></Placemark>
+<Placemark><name>T4 22.03. Mt John Observatory Parkplatz</name><styleUrl>#p</styleUrl><description>Gipfel-Parkplatz Mt John (Mautstrasse) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.986052,170.463762&amp;travelmode=driving</description><Point><coordinates>170.463762,-43.986052,0</coordinates></Point></Placemark>
+<Placemark><name>T4 22.03. Tekapo Springs Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Kundenparkplatz Tekapo Springs, Lakeside Drive 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.995028,170.461985&amp;travelmode=driving</description><Point><coordinates>170.461985,-43.995028,0</coordinates></Point></Placemark>
+<Placemark><name>T5 23.03. Peters Lookout Parkplatz (Lake Pukaki)</name><styleUrl>#p</styleUrl><description>Tapataia Mahaka Peters Lookout Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.089056,170.135728&amp;travelmode=driving</description><Point><coordinates>170.135728,-44.089056,0</coordinates></Point></Placemark>
+<Placemark><name>T5 23.03. Hooker Valley Track (White Horse Hill Parkplatz)</name><styleUrl>#p</styleUrl><description>White Horse Hill Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.719691,170.092887&amp;travelmode=driving</description><Point><coordinates>170.092887,-43.719691,0</coordinates></Point></Placemark>
+<Placemark><name>T6 24.03. Tasman Glacier View Parkplatz</name><styleUrl>#p</styleUrl><description>Tasman Glacier and Lake Viewpoint (Parkplatz am Tasman Valley Rd Ende, Näherung) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.668202,170.174422&amp;travelmode=driving</description><Point><coordinates>170.174422,-43.668202,0</coordinates></Point></Placemark>
+<Placemark><name>T6 24.03. Mount Cook Airport / Ski Planes Basis (opt.)</name><styleUrl>#p</styleUrl><description>Terminal-/Basisbereich am Mount Cook Airport, SH80 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.766477,170.132813&amp;travelmode=driving</description><Point><coordinates>170.132813,-43.766477,0</coordinates></Point></Placemark>
+<Placemark><name>T7 25.03. Clay Cliffs Parkplatz (Omarama)</name><styleUrl>#p</styleUrl><description>Clay Cliffs Car Park (Eintritt) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.488837,169.872278&amp;travelmode=driving</description><Point><coordinates>169.872278,-44.488837,0</coordinates></Point></Placemark>
+<Placemark><name>T7 25.03. Elephant Rocks Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Elephant Rocks, Island Cliff-Duntroon Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.894149,170.658553&amp;travelmode=driving</description><Point><coordinates>170.658553,-44.894149,0</coordinates></Point></Placemark>
+<Placemark><name>T7 25.03. Ōamaru Blue Penguin Colony Parkplatz</name><styleUrl>#p</styleUrl><description>Car Park Blue Penguin Colony, Waterfront Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.110337,170.979353&amp;travelmode=driving</description><Point><coordinates>170.979353,-45.110337,0</coordinates></Point></Placemark>
+<Placemark><name>T8 26.03. Moeraki Boulders Parkplatz</name><styleUrl>#p</styleUrl><description>Moeraki Boulders public parking 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.351120,170.828213&amp;travelmode=driving</description><Point><coordinates>170.828213,-45.351120,0</coordinates></Point></Placemark>
+<Placemark><name>T8 26.03. Tunnel Beach Parkplatz</name><styleUrl>#p</styleUrl><description>Tunnel Beach Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.918851,170.452907&amp;travelmode=driving</description><Point><coordinates>170.452907,-45.918851,0</coordinates></Point></Placemark>
+<Placemark><name>T9 27.03. Royal Albatross Centre (Taiaroa Head) (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz am Taiaroa Head 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.776238,170.729974&amp;travelmode=driving</description><Point><coordinates>170.729974,-45.776238,0</coordinates></Point></Placemark>
+<Placemark><name>T9 27.03. Penguin Place (Otago Peninsula) (opt.)</name><styleUrl>#p</styleUrl><description>Penguin Place Eingang/Info (Parkplatz way/323649146 daneben) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.796663,170.730091&amp;travelmode=driving</description><Point><coordinates>170.730091,-45.796663,0</coordinates></Point></Placemark>
+<Placemark><name>T9 27.03. Sandfly Bay Parkplatz</name><styleUrl>#p</styleUrl><description>Sandfly Bay Carpark 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.892173,170.637335&amp;travelmode=driving</description><Point><coordinates>170.637335,-45.892173,0</coordinates></Point></Placemark>
+<Placemark><name>T10 28.03. Nugget Point Parkplatz</name><styleUrl>#p</styleUrl><description>Nugget Point Parking 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.445471,169.807217&amp;travelmode=driving</description><Point><coordinates>169.807217,-46.445471,0</coordinates></Point></Placemark>
+<Placemark><name>T10 28.03. Purakaunui Falls Parkplatz</name><styleUrl>#p</styleUrl><description>Purakaunui Falls Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.515954,169.559055&amp;travelmode=driving</description><Point><coordinates>169.559055,-46.515954,0</coordinates></Point></Placemark>
+<Placemark><name>T11 29.03. McLean Falls Parkplatz</name><styleUrl>#p</styleUrl><description>McLean Falls Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.573526,169.346588&amp;travelmode=driving</description><Point><coordinates>169.346588,-46.573526,0</coordinates></Point></Placemark>
+<Placemark><name>T11 29.03. Cathedral Caves Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Cathedral Caves Carpark 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.603859,169.374070&amp;travelmode=driving</description><Point><coordinates>169.374070,-46.603859,0</coordinates></Point></Placemark>
+<Placemark><name>T11 29.03. Curio Bay Day Visitor Car Park</name><styleUrl>#p</styleUrl><description>Curio Bay Day Visitor Car Park (Petrified Forest) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.663010,169.105988&amp;travelmode=driving</description><Point><coordinates>169.105988,-46.663010,0</coordinates></Point></Placemark>
+<Placemark><name>T11 29.03. Slope Point Trailhead (opt.)</name><styleUrl>#p</styleUrl><description>Slope Point Trail Head Parkplatz 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.668270,169.000355&amp;travelmode=driving</description><Point><coordinates>169.000355,-46.668270,0</coordinates></Point></Placemark>
+<Placemark><name>T13 31.03. Mirror Lakes Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Mirror Lakes (Strassenrand) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.027803,168.011150&amp;travelmode=driving</description><Point><coordinates>168.011150,-45.027803,0</coordinates></Point></Placemark>
+<Placemark><name>T13 31.03. Cascade Creek DOC Campsite</name><styleUrl>#p</styleUrl><description>DOC-Campsite Cascade Creek, Milford Rd (SH94) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.894207,168.075292&amp;travelmode=driving</description><Point><coordinates>168.075292,-44.894207,0</coordinates></Point></Placemark>
+<Placemark><name>T14 01.04. Milford Sound Cruise Terminal Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz am Milford Sound Terminal (Gebühr) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.671923,167.927541&amp;travelmode=driving</description><Point><coordinates>167.927541,-44.671923,0</coordinates></Point></Placemark>
+<Placemark><name>T14 01.04. The Chasm Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz The Chasm (Cascade Creek Walk), Milford Rd/SH94 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.721491,167.950904&amp;travelmode=driving</description><Point><coordinates>167.950904,-44.721491,0</coordinates></Point></Placemark>
+<Placemark><name>T15 02.04. The Divide (Key Summit/Routeburn Start) (opt.)</name><styleUrl>#p</styleUrl><description>The Divide Parkplatz (Key Summit Trailhead) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.825215,168.117474&amp;travelmode=driving</description><Point><coordinates>168.117474,-44.825215,0</coordinates></Point></Placemark>
+<Placemark><name>T16 03.04. Skyline Queenstown Gondola Talstation</name><styleUrl>#p</styleUrl><description>Skyline Gondola Base, 53 Brecon St 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.028311,168.656124&amp;travelmode=driving</description><Point><coordinates>168.656124,-45.028311,0</coordinates></Point></Placemark>
+<Placemark><name>T17 04.04. Arrowtown (Buckingham St)</name><styleUrl>#p</styleUrl><description>Ortszentrum Buckingham St 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.939276,168.835471&amp;travelmode=driving</description><Point><coordinates>168.835471,-44.939276,0</coordinates></Point></Placemark>
+<Placemark><name>T17 04.04. TSS Earnslaw Steamer Wharf (opt.)</name><styleUrl>#p</styleUrl><description>Fähranleger TSS Earnslaw, Steamer Wharf 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.033706,168.657652&amp;travelmode=driving</description><Point><coordinates>168.657652,-45.033706,0</coordinates></Point></Placemark>
+<Placemark><name>T17 04.04. Deer Park Heights Einfahrt (opt.)</name><styleUrl>#p</styleUrl><description>Deer Park Rd (Zufahrt Deer Park Heights, SH6 bei Kawarau Falls) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.036966,168.721702&amp;travelmode=driving</description><Point><coordinates>168.721702,-45.036966,0</coordinates></Point></Placemark>
+<Placemark><name>T18 05.04. Bennetts Bluff Lookout Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz am Bennetts Bluff Viewpoint, Glenorchy-Queenstown Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.027627,168.442356&amp;travelmode=driving</description><Point><coordinates>168.442356,-45.027627,0</coordinates></Point></Placemark>
+<Placemark><name>T18 05.04. Glenorchy Wharf</name><styleUrl>#p</styleUrl><description>Glenorchy Wharf (Parkplatz way/1115352703 -44.851821,168.382518) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.851557,168.381425&amp;travelmode=driving</description><Point><coordinates>168.381425,-44.851557,0</coordinates></Point></Placemark>
+<Placemark><name>T18 05.04. Paradise (Glenorchy-Paradise Rd) (opt.)</name><styleUrl>#p</styleUrl><description>Ortsmarke Paradise an Glenorchy-Paradise Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.724008,168.372227&amp;travelmode=driving</description><Point><coordinates>168.372227,-44.724008,0</coordinates></Point></Placemark>
+<Placemark><name>T19 06.04. Kawarau Bridge Bungy Parkplatz (AJ Hackett) (opt.)</name><styleUrl>#p</styleUrl><description>Kundenparkplatz Kawarau Bridge Bungy, SH6 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.009654,168.901516&amp;travelmode=driving</description><Point><coordinates>168.901516,-45.009654,0</coordinates></Point></Placemark>
+<Placemark><name>T19 06.04. Cromwell Heritage Precinct Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz am Old Cromwell Heritage Precinct, Melmore Tce 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.049024,169.204721&amp;travelmode=driving</description><Point><coordinates>169.204721,-45.049024,0</coordinates></Point></Placemark>
+<Placemark><name>T19 06.04. Parkplatz Roys Bay (That Wanaka Tree)</name><styleUrl>#p</styleUrl><description>Naechster Parkplatz am Lakeside Path/Roys Bay, ca. 250 m vom Baum 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.700052,169.119540&amp;travelmode=driving</description><Point><coordinates>169.119540,-44.700052,0</coordinates></Point></Placemark>
+<Placemark><name>T20 07.04. Mt Iron Track Car Park</name><styleUrl>#p</styleUrl><description>Parkplatz Mount Iron Track, SH84/Anderson Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.693622,169.155420&amp;travelmode=driving</description><Point><coordinates>169.155420,-44.693622,0</coordinates></Point></Placemark>
+<Placemark><name>T20 07.04. Lake Hawea Lookout Parkplatz</name><styleUrl>#p</styleUrl><description>Lookout-Parkplatz an der Makarora-Lake Hawea Rd (SH6) oberhalb Hawea 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.508986,169.247116&amp;travelmode=driving</description><Point><coordinates>169.247116,-44.508986,0</coordinates></Point></Placemark>
+<Placemark><name>T21 08.04. Blue Pools Parkplatz (Haast Pass)</name><styleUrl>#p</styleUrl><description>Blue Pools Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.160428,169.287001&amp;travelmode=driving</description><Point><coordinates>169.287001,-44.160428,0</coordinates></Point></Placemark>
+<Placemark><name>T21 08.04. Fantail Falls Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Fantail Falls 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.076739,169.386638&amp;travelmode=driving</description><Point><coordinates>169.386638,-44.076739,0</coordinates></Point></Placemark>
+<Placemark><name>T21 08.04. Thunder Creek Falls Parkplatz</name><styleUrl>#p</styleUrl><description>Thunder Creek Waterfall Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.037372,169.367116&amp;travelmode=driving</description><Point><coordinates>169.367116,-44.037372,0</coordinates></Point></Placemark>
+<Placemark><name>T22 09.04. Ship Creek Parkplatz</name><styleUrl>#p</styleUrl><description>Ship Creek Tauparikākā Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.758285,169.147276&amp;travelmode=driving</description><Point><coordinates>169.147276,-43.758285,0</coordinates></Point></Placemark>
+<Placemark><name>T22 09.04. Lake Matheson Parkplatz</name><styleUrl>#p</styleUrl><description>Lake Matheson Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.448946,169.969811&amp;travelmode=driving</description><Point><coordinates>169.969811,-43.448946,0</coordinates></Point></Placemark>
+<Placemark><name>T23 10.04. Franz Josef Heli-Hike Büro (Näherung)</name><styleUrl>#p</styleUrl><description>The Helicopter Line, Franz Josef Hauptstrasse 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.388551,170.182105&amp;travelmode=driving</description><Point><coordinates>170.182105,-43.388551,0</coordinates></Point></Placemark>
+<Placemark><name>T24 11.04. Franz Josef Glacier Valley Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Franz Josef Glacier Valley (200 Plätze) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.422164,170.169047&amp;travelmode=driving</description><Point><coordinates>170.169047,-43.422164,0</coordinates></Point></Placemark>
+<Placemark><name>T24 11.04. Okarito Trig Walk Car Park (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz Okarito Wetland/Trig Walk, Okarito 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.223953,170.162408&amp;travelmode=driving</description><Point><coordinates>170.162408,-43.223953,0</coordinates></Point></Placemark>
+<Placemark><name>T25 12.04. Hokitika Gorge Parkplatz</name><styleUrl>#p</styleUrl><description>Hokitika Gorge Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.956566,171.019704&amp;travelmode=driving</description><Point><coordinates>171.019704,-42.956566,0</coordinates></Point></Placemark>
+<Placemark><name>T25 12.04. Hokitika Beach Sign (Driftwood Letters)</name><styleUrl>#p</styleUrl><description>Hokitika Driftwood Letters, Strand 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.716754,170.960304&amp;travelmode=driving</description><Point><coordinates>170.960304,-42.716754,0</coordinates></Point></Placemark>
+<Placemark><name>T26 13.04. Pancake Rocks (Dolomite Point) Parkplatz</name><styleUrl>#p</styleUrl><description>Pancake Rocks Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.114643,171.330578&amp;travelmode=driving</description><Point><coordinates>171.330578,-42.114643,0</coordinates></Point></Placemark>
+<Placemark><name>T26 13.04. Truman Track Parkplatz</name><styleUrl>#p</styleUrl><description>Truman Track Parkplatz an SH6 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.094730,171.343886&amp;travelmode=driving</description><Point><coordinates>171.343886,-42.094730,0</coordinates></Point></Placemark>
+<Placemark><name>T27 14.04. Cape Foulwind Seal Colony (Tauranga Bay) Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Tauranga Bay, Seal Colony Walk 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.765407,171.459469&amp;travelmode=driving</description><Point><coordinates>171.459469,-41.765407,0</coordinates></Point></Placemark>
+<Placemark><name>T28 15.04. Buller Gorge Swingbridge Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Swingbridge Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.767376,172.193142&amp;travelmode=driving</description><Point><coordinates>172.193142,-41.767376,0</coordinates></Point></Placemark>
+<Placemark><name>T28 15.04. Kerr Bay DOC Campsite (Lake Rotoiti, St Arnaud)</name><styleUrl>#p</styleUrl><description>DOC-Campsite Kerr Bay 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.805773,172.847958&amp;travelmode=driving</description><Point><coordinates>172.847958,-41.805773,0</coordinates></Point></Placemark>
+<Placemark><name>T29 16.04. Kaiteriteri Beach Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz am Kaiteriteri Beach (Wassertaxi-Abfahrt) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.038035,173.016287&amp;travelmode=driving</description><Point><coordinates>173.016287,-41.038035,0</coordinates></Point></Placemark>
+<Placemark><name>T30 17.04. Marahau Abel Tasman Centre (Wassertaxi/Kajak)</name><styleUrl>#p</styleUrl><description>Abel Tasman Centre, Marahau (Wassertaxi/Kajak-Basis) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.005215,173.009591&amp;travelmode=driving</description><Point><coordinates>173.009591,-41.005215,0</coordinates></Point></Placemark>
+<Placemark><name>T31 18.04. Hawkes Lookout, Takaka Hill (opt.)</name><styleUrl>#p</styleUrl><description>Aussichtspunkt direkt am Takaka Hill Highway (SH60) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.024929,172.904593&amp;travelmode=driving</description><Point><coordinates>172.904593,-41.024929,0</coordinates></Point></Placemark>
+<Placemark><name>T31 18.04. Te Waikoropūpū Springs Parkplatz</name><styleUrl>#p</styleUrl><description>Te Waikoropupū Springs Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-40.847994,172.770816&amp;travelmode=driving</description><Point><coordinates>172.770816,-40.847994,0</coordinates></Point></Placemark>
+<Placemark><name>T31 18.04. Wainui Falls Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz Wainui Falls Track, Wainui Bay 
+https://www.google.com/maps/dir/?api=1&amp;destination=-40.838771,172.940127&amp;travelmode=driving</description><Point><coordinates>172.940127,-40.838771,0</coordinates></Point></Placemark>
+<Placemark><name>T32 19.04. Farewell Spit Eco Tours Büro (Collingwood) (opt.)</name><styleUrl>#p</styleUrl><description>6 Tasman St, Collingwood 
+https://www.google.com/maps/dir/?api=1&amp;destination=-40.676773,172.682543&amp;travelmode=driving</description><Point><coordinates>172.682543,-40.676773,0</coordinates></Point></Placemark>
+<Placemark><name>T32 19.04. Wharariki Beach Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Ende Wharariki Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-40.509148,172.685200&amp;travelmode=driving</description><Point><coordinates>172.685200,-40.509148,0</coordinates></Point></Placemark>
+<Placemark><name>T33 20.04. Pelorus Bridge Parkplatz</name><styleUrl>#p</styleUrl><description>Pelorus Bridge Car Park 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.299019,173.571853&amp;travelmode=driving</description><Point><coordinates>173.571853,-41.299019,0</coordinates></Point></Placemark>
+<Placemark><name>T34 21.04. Omaka Aviation Heritage Centre (opt.)</name><styleUrl>#p</styleUrl><description>79 Aerodrome Rd, Blenheim 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.537907,173.929956&amp;travelmode=driving</description><Point><coordinates>173.929956,-41.537907,0</coordinates></Point></Placemark>
+<Placemark><name>T34 21.04. Ohau Point Lookout</name><styleUrl>#p</styleUrl><description>Ohau Point Lookout SH1 (Robben) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.244439,173.833821&amp;travelmode=driving</description><Point><coordinates>173.833821,-42.244439,0</coordinates></Point></Placemark>
+<Placemark><name>T35 22.04. Whale Watch Kaikōura (Whaleway Station)</name><styleUrl>#p</styleUrl><description>Whaleway Station Rd (ehem. Bahnhof, Check-in) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.397546,173.681178&amp;travelmode=driving</description><Point><coordinates>173.681178,-42.397546,0</coordinates></Point></Placemark>
+<Placemark><name>T35 22.04. Kaikōura Peninsula Walkway / Point Kean Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Point Kean (Robbenkolonie) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.423009,173.716115&amp;travelmode=driving</description><Point><coordinates>173.716115,-42.423009,0</coordinates></Point></Placemark>
+<Placemark><name>T37 24.04. Allan Scott Family Winemakers (Cellar Door + Bistro/Twelve Trees) (opt.)</name><styleUrl>#p</styleUrl><description>Weingut 229 Jacksons Rd, Blenheim/Renwick, Cellar Door und Mittagsrestaurant 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.491557,173.875517&amp;travelmode=driving</description><Point><coordinates>173.875517,-41.491557,0</coordinates></Point></Placemark>
+<Placemark><name>T37 24.04. Cullen Point Lookout (Queen Charlotte Drive) (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz am Cullen Point Walkway/Lookout, Queen Charlotte Drive bei Havelock 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.268741,173.784902&amp;travelmode=driving</description><Point><coordinates>173.784902,-41.268741,0</coordinates></Point></Placemark>
+<Placemark><name>T38 25.04. Bluebridge Fähre Picton (Check-in)</name><styleUrl>#p</styleUrl><description>Bluebridge Terminal Picton, Fahrzeug-Check-in 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.289404,173.999957&amp;travelmode=driving</description><Point><coordinates>173.999957,-41.289404,0</coordinates></Point></Placemark>
+<Placemark><name>T38 25.04. Mt Victoria Lookout – Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz am Mt Victoria Lookout (Lookout Rd) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.296427,174.794870&amp;travelmode=driving</description><Point><coordinates>174.794870,-41.296427,0</coordinates></Point></Placemark>
+<Placemark><name>T39 26.04. Te Papa – Barnett Street Car Park (Camper-tauglich)</name><styleUrl>#p</styleUrl><description>Barnett Street Car Park (offene Freifläche, kostenpflichtig, keine Höhenbeschränkung) – ca. 150 m zu Te Papa 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.291024,174.783186&amp;travelmode=driving</description><Point><coordinates>174.783186,-41.291024,0</coordinates></Point></Placemark>
+<Placemark><name>T39 26.04. Wellington Cable Car – Talstation Lambton Quay</name><styleUrl>#p</styleUrl><description>Cable Car Station, Cable Car Lane/Lambton Quay (Fußziel) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.284257,174.774797&amp;travelmode=driving</description><Point><coordinates>174.774797,-41.284257,0</coordinates></Point></Placemark>
+<Placemark><name>T39 26.04. Wētā Cave / Workshop Tours (Miramar)</name><styleUrl>#p</styleUrl><description>The Wētā Cave, 1 Weka Street, Miramar (Tourstart) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.306349,174.824251&amp;travelmode=driving</description><Point><coordinates>174.824251,-41.306349,0</coordinates></Point></Placemark>
+<Placemark><name>T40 27.04. Kaitoke Regional Park – Rivendell (Hauptparkplatz) (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz Kaitoke Regional Park Eingang, Waterworks Road (Rivendell-Drehort) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.056391,175.193702&amp;travelmode=driving</description><Point><coordinates>175.193702,-41.056391,0</coordinates></Point></Placemark>
+<Placemark><name>T40 27.04. Pūtangirua Pinnacles – Parkplatz</name><styleUrl>#p</styleUrl><description>Pūtangirua Pinnacles Car Park (Startpunkt Pinnacles Track) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.450137,175.225363&amp;travelmode=driving</description><Point><coordinates>175.225363,-41.450137,0</coordinates></Point></Placemark>
+<Placemark><name>T40 27.04. Cape Palliser – Seal Colony (Ngā Kiore/Cape Palliser Rd)</name><styleUrl>#p</styleUrl><description>Parkbucht Seal Colony an Cape Palliser Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.606092,175.267914&amp;travelmode=driving</description><Point><coordinates>175.267914,-41.606092,0</coordinates></Point></Placemark>
+<Placemark><name>T41 28.04. Castlepoint Lighthouse – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz (Castlepoint Beach) am Beginn des Lighthouse Track 
+https://www.google.com/maps/dir/?api=1&amp;destination=-40.903341,176.226806&amp;travelmode=driving</description><Point><coordinates>176.226806,-40.903341,0</coordinates></Point></Placemark>
+<Placemark><name>T42 29.04. Te Mata Peak – Gipfelparkplatz</name><styleUrl>#p</styleUrl><description>Te Mata Peak Summit Car Park, Te Mata Peak Road 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.701789,176.909061&amp;travelmode=driving</description><Point><coordinates>176.909061,-39.701789,0</coordinates></Point></Placemark>
+<Placemark><name>T43 30.04. Napier Art Deco Centre</name><styleUrl>#p</styleUrl><description>Art Deco Centre, 7 Tennyson Street (Touren-Start) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.489187,176.918598&amp;travelmode=driving</description><Point><coordinates>176.918598,-39.489187,0</coordinates></Point></Placemark>
+<Placemark><name>T43 30.04. Gannet Safaris Overland – Abfahrtsbasis (opt.)</name><styleUrl>#p</styleUrl><description>Gannet Safaris Overland, 396 Clifton Road, Te Awanga (Tourstart, großer Parkplatz) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.641156,176.988001&amp;travelmode=driving</description><Point><coordinates>176.988001,-39.641156,0</coordinates></Point></Placemark>
+<Placemark><name>T44 01.05. Huka Falls – Parkplatz</name><styleUrl>#p</styleUrl><description>Huka Falls Carpark (Huka Falls Rd) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.649464,176.088718&amp;travelmode=driving</description><Point><coordinates>176.088718,-38.649464,0</coordinates></Point></Placemark>
+<Placemark><name>T44 01.05. Spa Thermal Park – Otumuheke Hot Pools</name><styleUrl>#p</styleUrl><description>Spa Thermal Park (Parkplatz County Ave), ~10 min zu Fuß zu den heißen Becken am Fluss 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.674183,176.088882&amp;travelmode=driving</description><Point><coordinates>176.088882,-38.674183,0</coordinates></Point></Placemark>
+<Placemark><name>T45 02.05. Craters of the Moon – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Craters of the Moon (Karapiti Rd), Eintritt kostenpflichtig 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.644241,176.071988&amp;travelmode=driving</description><Point><coordinates>176.071988,-38.644241,0</coordinates></Point></Placemark>
+<Placemark><name>T45 02.05. Mine Bay Carvings Cruise – Taupō Boat Harbour</name><styleUrl>#p</styleUrl><description>Parkplatz Redoubt St am Taupō Marina/Boat Harbour (Ernest Kemp ab Berth 2) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.685939,176.067864&amp;travelmode=driving</description><Point><coordinates>176.067864,-38.685939,0</coordinates></Point></Placemark>
+<Placemark><name>T45 02.05. Taupō's Floatplane (Rundflüge) (opt.)</name><styleUrl>#p</styleUrl><description>Büro/Steg Taupō's Floatplane, Redoubt St / Ferry Rd am Bootshafen 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.687957,176.064537&amp;travelmode=driving</description><Point><coordinates>176.064537,-38.687957,0</coordinates></Point></Placemark>
+<Placemark><name>T46 03.05. Whakapapa Visitor Centre / Taranaki Falls Start</name><styleUrl>#p</styleUrl><description>Tongariro National Park Visitor Centre, Bruce Road (Parkplatz davor; Start Taranaki Falls Track) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.201380,175.540268&amp;travelmode=driving</description><Point><coordinates>175.540268,-39.201380,0</coordinates></Point></Placemark>
+<Placemark><name>T46 03.05. Tawhai Falls (Gollum's Pool) – Parkplatz</name><styleUrl>#p</styleUrl><description>Tawhai Falls Walk Car Park (SH48) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.175373,175.513535&amp;travelmode=driving</description><Point><coordinates>175.513535,-39.175373,0</coordinates></Point></Placemark>
+<Placemark><name>T47 04.05. Waitomo Glowworm Caves – Visitor Centre</name><styleUrl>#p</styleUrl><description>Waitomo Glowworm Caves Visitor Centre, 39 Waitomo Village Road (THL), Kundenparkplatz davor 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.260861,175.103489&amp;travelmode=driving</description><Point><coordinates>175.103489,-38.260861,0</coordinates></Point></Placemark>
+<Placemark><name>T47 04.05. Ruakuri Bush Walk – Parkplatz</name><styleUrl>#p</styleUrl><description>Ruakuri Scenic Reserve Carpark B (Start Ruakuri Bush Walk, Waitomo Caves Rd) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.265036,175.079923&amp;travelmode=driving</description><Point><coordinates>175.079923,-38.265036,0</coordinates></Point></Placemark>
+<Placemark><name>T48 05.05. Mangapohue Natural Bridge – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Mangapohue Natural Bridge, Te Anga Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.261436,174.899415&amp;travelmode=driving</description><Point><coordinates>174.899415,-38.261436,0</coordinates></Point></Placemark>
+<Placemark><name>T48 05.05. Marokopa Falls – Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Marokopa Falls Parking, Te Anga Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.259303,174.848782&amp;travelmode=driving</description><Point><coordinates>174.848782,-38.259303,0</coordinates></Point></Placemark>
+<Placemark><name>T48 05.05. Hobbiton Movie Set – The Shires Rest</name><styleUrl>#p</styleUrl><description>The Shire's Rest Car Park, 501 Buckland Rd (Abfahrt der Hobbiton-Busse) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.872720,175.683841&amp;travelmode=driving</description><Point><coordinates>175.683841,-37.872720,0</coordinates></Point></Placemark>
+<Placemark><name>T49 06.05. Kuirau Park (Rotorua) – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Kuirau Park (Ostseite, neben Thermal Footbaths, Lake Rd) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.133639,176.246507&amp;travelmode=driving</description><Point><coordinates>176.246507,-38.133639,0</coordinates></Point></Placemark>
+<Placemark><name>T49 06.05. Redwoods Whakarewarewa Forest – Visitor Centre Parkplatz</name><styleUrl>#p</styleUrl><description>Redwoods Visitor Centre, Long Mile Rd (Parkplatz) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.156934,176.272944&amp;travelmode=driving</description><Point><coordinates>176.272944,-38.156934,0</coordinates></Point></Placemark>
+<Placemark><name>T50 07.05. Wai-O-Tapu Thermal Wonderland – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Wai-O-Tapu, 201 Waiotapu Loop Road 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.354228,176.366795&amp;travelmode=driving</description><Point><coordinates>176.366795,-38.354228,0</coordinates></Point></Placemark>
+<Placemark><name>T50 07.05. Te Puia – Eingang / Parkplatz 1 (opt.)</name><styleUrl>#p</styleUrl><description>Te Puia Carpark 1, Hemo Rd/Tryon St Eingang 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.163856,176.249587&amp;travelmode=driving</description><Point><coordinates>176.249587,-38.163856,0</coordinates></Point></Placemark>
+<Placemark><name>T51 08.05. Mount Maunganui – Base Track Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz am Fuß des Mauao (Start Base Track, Nähe Mount Hot Pools) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.633691,176.175800&amp;travelmode=driving</description><Point><coordinates>176.175800,-37.633691,0</coordinates></Point></Placemark>
+<Placemark><name>T52 09.05. Hot Water Beach – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Hot Water Beach (kostenpflichtig, Ebbe 2 h vor/nach Niedrigwasser) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.889693,175.821071&amp;travelmode=driving</description><Point><coordinates>175.821071,-36.889693,0</coordinates></Point></Placemark>
+<Placemark><name>T52 09.05. Cathedral Cove – Hahei Visitor Car Park / Park &amp; Ride</name><styleUrl>#p</styleUrl><description>Hahei Visitor Car Park (Zugang Cathedral Cove, Park&amp;Ride Sommer) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.844920,175.804486&amp;travelmode=driving</description><Point><coordinates>175.804486,-36.844920,0</coordinates></Point></Placemark>
+<Placemark><name>T53 10.05. Driving Creek Railway (Coromandel Town)</name><styleUrl>#p</styleUrl><description>Parkplatz Driving Creek Railway, Driving Creek Road 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.737103,175.503083&amp;travelmode=driving</description><Point><coordinates>175.503083,-36.737103,0</coordinates></Point></Placemark>
+<Placemark><name>T54 11.05. Goat Island Marine Reserve – Main Carpark</name><styleUrl>#p</styleUrl><description>Main Carpark, Goat Island Road, Leigh 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.270790,174.794973&amp;travelmode=driving</description><Point><coordinates>174.794973,-36.270790,0</coordinates></Point></Placemark>
+<Placemark><name>T55 12.05. Whangārei Falls – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Whangārei Falls (Ngunguru Rd) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.684703,174.334706&amp;travelmode=driving</description><Point><coordinates>174.334706,-35.684703,0</coordinates></Point></Placemark>
+<Placemark><name>T55 12.05. Waitangi Treaty Grounds – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Waitangi Treaty Grounds (Tau Henare Dr) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.264785,174.080750&amp;travelmode=driving</description><Point><coordinates>174.080750,-35.264785,0</coordinates></Point></Placemark>
+<Placemark><name>T56 13.05. Paihia Wharf (Hole in the Rock Abfahrt)</name><styleUrl>#p</styleUrl><description>Paihia Wharf, Marsden Road (Abfahrt Cruises &amp; Fähre Russell) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.280496,174.093263&amp;travelmode=driving</description><Point><coordinates>174.093263,-35.280496,0</coordinates></Point></Placemark>
+<Placemark><name>T57 14.05. Rainbow Falls (Kerikeri) – Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Rainbow Falls Carpark, Waipapa Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.214249,173.944085&amp;travelmode=driving</description><Point><coordinates>173.944085,-35.214249,0</coordinates></Point></Placemark>
+<Placemark><name>T58 15.05. Te Paki Giant Sand Dunes – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Te Paki Stream Road (Sanddünen) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-34.487901,172.755314&amp;travelmode=driving</description><Point><coordinates>172.755314,-34.487901,0</coordinates></Point></Placemark>
+<Placemark><name>T58 15.05. Cape Reinga Lighthouse – Parkplatz</name><styleUrl>#p</styleUrl><description>Carpark 1 Cape Reinga (Start Weg zum Leuchtturm) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-34.430312,172.682393&amp;travelmode=driving</description><Point><coordinates>172.682393,-34.430312,0</coordinates></Point></Placemark>
+<Placemark><name>T59 16.05. Tāne Mahuta – Parkplatz</name><styleUrl>#p</styleUrl><description>Parkplatz Tāne Mahuta, SH12 Waipoua Forest 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.600544,173.528107&amp;travelmode=driving</description><Point><coordinates>173.528107,-35.600544,0</coordinates></Point></Placemark>
+<Placemark><name>T59 16.05. Trounson Kauri Park – Campground / Walk</name><styleUrl>#p</styleUrl><description>Trounson Kauri Park Campground (Start Kauri Walk) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.721513,173.652293&amp;travelmode=driving</description><Point><coordinates>173.652293,-35.721513,0</coordinates></Point></Placemark>
+<Placemark><name>T60 17.05. Muriwai Gannet Colony – Parkplatz (opt.)</name><styleUrl>#p</styleUrl><description>Parkplatz Muriwai Gannet Colony (Oaia Rd), Takapu Refuge Walk 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.833702,174.427671&amp;travelmode=driving</description><Point><coordinates>174.427671,-36.833702,0</coordinates></Point></Placemark>
+<Placemark><name>T61 18.05. Britz Auckland (Mangere)</name><styleUrl>#p</styleUrl><description>Britz/Maui/Mighty Depot, 470 Oruarangi Road, Māngere 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.979533,174.766879&amp;travelmode=driving</description><Point><coordinates>174.766879,-36.979533,0</coordinates></Point></Placemark>
+<Placemark><name>T61 18.05. Flughafen Auckland – Internationaler Terminal (Drop-off/Pick-up)</name><styleUrl>#p</styleUrl><description>International Terminal Drop-off/Pick-up Zone (Camper-Rückgabe erfolgt beim Vermieter-Depot, nicht am Terminal) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.004221,174.784346&amp;travelmode=driving</description><Point><coordinates>174.784346,-37.004221,0</coordinates></Point></Placemark>
+<Placemark><name>T61 18.05. Maungawhau / Mount Eden (opt.)</name><styleUrl>#p</styleUrl><description>Vulkangipfel – nur zu Fuß (Gipfelstraße für Autos gesperrt), per Taxi/Bus anfahren 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.877172,174.764286&amp;travelmode=driving</description><Point><coordinates>174.764286,-36.877172,0</coordinates></Point></Placemark>
+</Document></kml>

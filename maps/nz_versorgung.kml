@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>NZ27 versorgung</name>
+<Style id="p"><IconStyle><color>ffff8000</color></IconStyle></Style>
+<Style id="l"><LineStyle><color>ffff8000</color><width>3</width></LineStyle></Style>
+<Placemark><name>🧺 Wäsche: Wäscherei Christchurch (Ersatz für Super Suds/Lilly's)</name><styleUrl>#p</styleUrl><description>Sadie's Coin Laundry (Stanmore Rd-Nähe) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.534266,172.656788&amp;travelmode=driving</description><Point><coordinates>172.656788,-43.534266,0</coordinates></Point></Placemark>
+<Placemark><name>⛽ Tanken: BP Oamaru, 214 Thames St (SH1)</name><styleUrl>#p</styleUrl><description>Tankstelle BP, Thames Street/SH1 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.093645,170.972637&amp;travelmode=driving</description><Point><coordinates>170.972637,-45.093645,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Dunedin (Dunedin Holiday Park, St Kilda)</name><styleUrl>#p</styleUrl><description>Dump Station nahe Victoria Rd 41 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.905070,170.515749&amp;travelmode=driving</description><Point><coordinates>170.515749,-45.905070,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: Liquid Laundromat Dunedin (28 Prince Albert Rd)</name><styleUrl>#p</styleUrl><description>Hausnummer 28 Prince Albert Rd, St Kilda 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.900551,170.504306&amp;travelmode=driving</description><Point><coordinates>170.504306,-45.900551,0</coordinates></Point></Placemark>
+<Placemark><name>⛽ Tanken: Tankstelle Balclutha (Z)</name><styleUrl>#p</styleUrl><description>Z Energy Balclutha 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.241393,169.731278&amp;travelmode=driving</description><Point><coordinates>169.731278,-46.241393,0</coordinates></Point></Placemark>
+<Placemark><name>⛽ Tanken: Tankstelle Te Anau (Caltex, Bowen St)</name><styleUrl>#p</styleUrl><description>Caltex Te Anau 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.416616,167.720429&amp;travelmode=driving</description><Point><coordinates>167.720429,-45.416616,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Te Anau (Lakeview HP)</name><styleUrl>#p</styleUrl><description>Dump Station bei 77 Manapouri-Te Anau Hwy 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.425041,167.719795&amp;travelmode=driving</description><Point><coordinates>167.719795,-45.425041,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: Washatipu Laundry, Beach St (Selbstbedienung)</name><styleUrl>#p</styleUrl><description>Waschsalon Beach Street, Queenstown Zentrum 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.032423,168.659220&amp;travelmode=driving</description><Point><coordinates>168.659220,-45.032423,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Queenstown (Lakeview/Cemetery Rd)</name><styleUrl>#p</styleUrl><description>Dump Station Cemetery Rd, Lakeview 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.030142,168.655638&amp;travelmode=driving</description><Point><coordinates>168.655638,-45.030142,0</coordinates></Point></Placemark>
+<Placemark><name>⛽ Tanken: Tankstelle Wanaka (BP Connect)</name><styleUrl>#p</styleUrl><description>BP Connect Wanaka 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.695139,169.156100&amp;travelmode=driving</description><Point><coordinates>169.156100,-44.695139,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Wanaka Public Dump Station</name><styleUrl>#p</styleUrl><description>Wanaka public dump station (Lakefront-Nähe) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.700857,169.128461&amp;travelmode=driving</description><Point><coordinates>169.128461,-44.700857,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: Laundromat Franz Josef (64 Cron St)</name><styleUrl>#p</styleUrl><description>64 Cron St, Franz Josef 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.384526,170.184830&amp;travelmode=driving</description><Point><coordinates>170.184830,-43.384526,0</coordinates></Point></Placemark>
+<Placemark><name>⛽ Tanken: Tankstelle Hokitika (Challenge)</name><styleUrl>#p</styleUrl><description>Challenge Hokitika 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.718561,170.965727&amp;travelmode=driving</description><Point><coordinates>170.965727,-42.718561,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Hokitika Public Dump Station</name><styleUrl>#p</styleUrl><description>Hokitika Public Dump Station 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.697787,170.986492&amp;travelmode=driving</description><Point><coordinates>170.986492,-42.697787,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: Public Laundry, Montgomery Square, Nelson</name><styleUrl>#p</styleUrl><description>Selbstbedienungs-Waschsalon am Montgomery Square (Zentrum) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.273444,173.282410&amp;travelmode=driving</description><Point><coordinates>173.282410,-41.273444,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Nelson/Richmond (Fittal St)</name><styleUrl>#p</styleUrl><description>Dump Station Fittal St, Richmond (fee=no) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.329171,173.190203&amp;travelmode=driving</description><Point><coordinates>173.190203,-41.329171,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Blenheim</name><styleUrl>#p</styleUrl><description>Dump Station Blenheim (Nähe Opaoa River Bridge) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.501413,173.961830&amp;travelmode=driving</description><Point><coordinates>173.961830,-41.501413,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Picton Dump Station (Wairau Rd)</name><styleUrl>#p</styleUrl><description>Öffentliche Dump Station (access=yes), Wairau Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.297113,174.001324&amp;travelmode=driving</description><Point><coordinates>174.001324,-41.297113,0</coordinates></Point></Placemark>
+<Placemark><name>⛽ Tanken: Z Picton, High St</name><styleUrl>#p</styleUrl><description>Tankstelle Z Picton, High St 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.292056,174.006396&amp;travelmode=driving</description><Point><coordinates>174.006396,-41.292056,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: Janice Laundry Newtown</name><styleUrl>#p</styleUrl><description>180 Adelaide Road, Newtown 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.307695,174.777553&amp;travelmode=driving</description><Point><coordinates>174.777553,-41.307695,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Evans Bay (Wellington, kostenlos)</name><styleUrl>#p</styleUrl><description>Kostenlose Public Dump Station Evans Bay (nahe Marina) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.310621,174.797889&amp;travelmode=driving</description><Point><coordinates>174.797889,-41.310621,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Marine Parade (Napier)</name><styleUrl>#p</styleUrl><description>Public Dump Station Marine Parade, Napier (kostenlos) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.509691,176.918073&amp;travelmode=driving</description><Point><coordinates>176.918073,-39.509691,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: Liquid Laundromat Taupō</name><styleUrl>#p</styleUrl><description>Liquid Laundromat Taupō (Selbstbedienung) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.686926,176.069805&amp;travelmode=driving</description><Point><coordinates>176.069805,-38.686926,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Taupō Marina (mit Trinkwasser)</name><styleUrl>#p</styleUrl><description>Public Dump Station Redoubt St am Marina (kostenlos, Trinkwasser) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.683613,176.067883&amp;travelmode=driving</description><Point><coordinates>176.067883,-38.683613,0</coordinates></Point></Placemark>
+<Placemark><name>🧺 Wäsche: 24/7 Waschsalon Rotorua</name><styleUrl>#p</styleUrl><description>Laundromat (OSM: 24/7), Rotorua West 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.139817,176.240493&amp;travelmode=driving</description><Point><coordinates>176.240493,-38.139817,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Rotorua (kostenlos)</name><styleUrl>#p</styleUrl><description>Public Dump Station Rotorua (kostenlos) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.145255,176.263866&amp;travelmode=driving</description><Point><coordinates>176.263866,-38.145255,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Thames</name><styleUrl>#p</styleUrl><description>Public Dump Station Thames 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.147839,175.550078&amp;travelmode=driving</description><Point><coordinates>175.550078,-37.147839,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Dump Station Kawakawa (nächste zu Paihia)</name><styleUrl>#p</styleUrl><description>Kawakawa Public Dump Station (kostenlos), 11 km von Paihia 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.378972,174.069727&amp;travelmode=driving</description><Point><coordinates>174.069727,-35.378972,0</coordinates></Point></Placemark>
+<Placemark><name>🚻 Dump: Mobil Wiri – Public Dump Station (nahe Britz Mangere)</name><styleUrl>#p</styleUrl><description>Mobil Tankstelle, 62 Wiri Station Road, Wiri (Dump Station seitlich des Shops, Entleerung vor Camper-Rückgabe; ~9 km von Britz) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-36.998428,174.875986&amp;travelmode=driving</description><Point><coordinates>174.875986,-36.998428,0</coordinates></Point></Placemark>
+</Document></kml>

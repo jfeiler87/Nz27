@@ -1,94 +1,53 @@
 # AGENTS.md — NZ Campervan Trip 2027
 
-> Guidance for AI agents (and collaborators) working in this repository.
+> Leitfaden für KI-Agenten und Mitplanende in diesem Repo. Planungstexte sind **Deutsch**.
 
-## What this project is
-A 61-day New Zealand campervan road trip (South + North Island) for two people,
-**19 Mar 2027 (pickup Christchurch) → 18 May 2027 (dropoff Auckland)**.
-The plan is built and maintained here so it can be iterated on continuously
-(currently by the Hermes agent, but designed for any agent to pick up).
+## Worum es geht
+61 Tage Neuseeland im Campervan (2 Erwachsene), **19.03.2027 Abholung Christchurch → 18.05.2027 Rückgabe Auckland**.
+Ziel: ein Plan, der unterwegs auf einem Android-Handy (Galaxy S7+) funktioniert — jeder Ort ist ein
+antippbarer Navigationslink. Später soll daraus eine statische Webseite werden.
 
-## Repository layout
-- `itinerary.md` — **SOURCE OF TRUTH.** Full day-by-day plan: route (South Island
-  loop incl. West Coast + Abel Tasman), accommodation, booking checklist, and the
-  campsite reference table (names, prices, links). Edit here.
-- `LOGISTIK.md` — Separate logistics reference (tanken / dump / waschen per region)
-  plus a "Wetter & Ausrüstung" section for the autumn travel window. Kept OUT of
-  itinerary.md on purpose (see Conventions).
-- `BUCHUNGS_TIMELINE.md` — Separate booking timeline / deadlines tracker. Also kept
-  out of itinerary.md.
-- `README.md` — Short human-facing overview.
-- `TODO.md` — Open planning items beyond bookings, categorized.
-- `AGENTS.md` — This file.
-- `maps/*.kml` + `maps/*.gpx` — Je Kategorie eine Datei in beiden Formaten (KML → Google My Maps, GPX → OsmAnd/Maps.me), pro Datei = eigener Layer: `nz_stellplaetze` (Übernachtungen), `nz_attraktionen` (Sehenswürdigkeiten + Rating), `nz_versorgung_{waesche,sanidump,wasser,tanken}` (Versorgung je Typ = eigener Layer), `nz_faehre` (Cook-Strait-Fähre), `nz_route` (Routen-Etappen). Regenerieren nach jeder Itinerar-Änderung: `python3 maps/build_kml.py` (liest `itinerary.md`, erzeugt alle 16 Dateien).
-- `maps/build_kml.py` — Generator für KML + GPX (extrahiert Koordinaten aus den `[Karte]`-Links, geocodiert Fehlende via Nominatim, Routen via OSRM).
-- `maps/README.md` — Kurzanleitung: KML (Google My Maps) + GPX (OsmAnd/Maps.me) Import + Regenerierung.
+## Repo-Layout (Datenfluss)
+```
+data/orte_*.json   ──┐   (jeder Ort genau einmal: id, lat/lon = Anfahrtspunkt, ziel, quelle, konfidenz)
+data/reise.yaml    ──┼─► tools/build.py ─► itinerary.md          (GENERIERT, nicht von Hand editieren)
+data/route_cache.json┘                  └► maps/nz_*.kml|gpx    (GENERIERT, je Layer eine Datei)
+```
+- `data/reise.yaml` — **Quelle der Wahrheit** für Fixpunkte, Grundsätze und alle 61 Tage
+  (Fahrt, Programm, Nacht + Alternativen, Versorgung, Hinweise, Buchungen). Orte nur per `id`.
+- `data/orte_sued.json`, `data/orte_nord.json`, `data/orte_extra.json` — Ortsregister.
+  Koordinate = **wo man hinfährt** (Parkplatz, Trailhead, Campingplatz-Einfahrt, Ticketbüro,
+  Tour-Abfahrt) — nie Seemitte/Ortsmitte/Nationalpark-Zentroid. Jede Koordinate stammt aus einer
+  Abfrage (OSM Nominatim/Overpass, DOC-Opendata, geokodierte Adresse) und hat `quelle` + `konfidenz`.
+- `data/route_cache.json` — OSRM-Fahrstrecken (km, Minuten, Geometrie), damit Builds reproduzierbar sind.
+- `tools/build.py` — Generator. `python3 tools/build.py` (online, füllt Cache) bzw. `--offline`.
+  Bricht mit Exit 1 ab, wenn `reise.yaml` eine unbekannte Orts-id referenziert.
+- `itinerary.md` — generierte Lesefassung (Übersicht + Tag für Tag).
+- `maps/` — generierte KML (Google My Maps) + GPX (OsmAnd/Organic Maps); Anleitung in `maps/README.md`.
+- `BUCHUNGS_TIMELINE.md` — was wann zu buchen/zu klären ist. `TODO.md` — offene Punkte.
+- `LOGISTIK.md` — Wetter, Ausrüstung, Apps, Camper-Betrieb (Hintergrundwissen).
+- `recherche/` — Faktenchecks mit Quellen (Stand + Konfidenz je Aussage).
 
-## Hard constraints (do not violate)
-- **Dates are fixed** by the rental window (19 Mar – 18 May 2027).
-- **Accommodation priority is STRICT:** 1) Freedom camping (free, self-contained
-  required) → 2) DOC campsite (cheap) → 3) Holiday park (fallback, expensive).
-  Never recommend a paid park when a free/DOC option exists for that stop.
-- **Self-contained campervan required.** NZ law mandates a valid self-containment
-  certificate (green sticker) for freedom camping from **7 Jun 2026**. This must be
-  confirmed with the rental company.
-- **Freedom-camping rules change frequently.** Verify every stay via the Rankers
-  Camping NZ / CamperMate apps AND on-site signage before committing.
-- Prices are 2026 rates (NZD, ~2 adults on a powered site/night); verify before booking.
+## Feste Randbedingungen (nicht verletzen)
+- **Fixpunkte** (gebucht): Flüge, Hotel Lylo Christchurch Airport 18./19.03., Britz-Abholung
+  Christchurch 19.03. / Rückgabe Auckland-Mangere 18.05., Bluebridge Picton→Wellington **So 25.04. 13:00**,
+  Hobbiton Evening Banquet **Mi 05.05. 15:30**. Details in `data/reise.yaml` → `fixpunkte`.
+- **Kein Stewart Island.**
+- **Britz-Straßenverbote:** Skippers Rd, **Crown Range / Cardrona Valley Rd**, Ball Hut Rd, Ninety Mile
+  Beach, nördlich Colville, Mt Aspiring Rd hinter Treble Cone. **Schotter nur < 12 km** zu einem
+  Campingplatz/einer großen Attraktion (sonst Sondergenehmigung; ohne sie erlischt der Versicherungsschutz).
+- **Wandern:** max. ~15 km und ~400 Höhenmeter pro Tour (kein Tongariro Crossing, kein Roys Peak).
+- **Übernachtung:** schönster *legaler* Platz zuerst (Freiplatz für Self-Contained / DOC), Kosten nur
+  Tiebreaker. Alle 5–7 Nächte steht ein Holiday Park als Alternative drin (Wäsche, Strom, Dump).
+  Freedom Camping nur mit grüner SC-Plakette; jeden Freiplatz vor Ort (Schild + CamperMate/Rankers) prüfen.
+- **Interessen:** Landschaft > alles. Meeressäuger + Pinguine ja (wenn verlässlich), Vogelinseln nein.
+  Herr-der-Ringe-Orte nur am Weg, Umweg nur für echte Highlights. Rundflüge statt langer Wanderungen.
+- **Kalender:** Ostern 26.–29.03. (Karfreitag/Ostersonntag Läden zu), NZ-Schulferien 10.–26.04.,
+  ANZAC Day So 25.04. (Läden bis 13 Uhr zu) + Mo 26.04. Feiertag.
 
-## Critical booking deadlines (tracked as GitHub issues, label `booking`)
-These sell out or have lead-time limits — act early:
-- Hobbiton Movie Set Tour — **NOW** (sells out ~10 months ahead)
-- Interislander/Bluebridge ferry Picton→Wellington (with camper) — ~6 months ahead
-- Franz Josef Glacier Heli-Hike — ~2–3 months ahead
-- Tongariro Alpine Crossing — booking mandatory for all since Oct 2024
-- Milford Sound cruise, Waitomo, Kaikoura whale watch, Royal Albatross,
-  Penguin Place, Cape Kidnappers — weeks ahead
-
-## Conventions
-- Plan prose is **German** (user is a German speaker). Keep it that way.
-- Keep `itinerary.md` as the single source of truth; reference, don't duplicate.
-- **Auxiliary planning docs are separate `.md` files**, NOT embedded in itinerary.md:
-  `LOGISTIK.md` (logistics + weather) and `BUCHUNGS_TIMELINE.md` (booking timeline).
-  When adding reference material, prefer a new/extra file over bloating itinerary.md.
-- When adding a campsite, include: real name, price (NZD), booking URL, priority tier.
-- Keep tables scannable; avoid heavy nesting.
-
-## Entschiedene Planungsgrundsätze (Grill-Session 27.07.2026)
-
-Design-Entscheidungen, bestätigt per Grill-Session (Operatives in `itinerary.md` §0.1):
-
-- Reise bestätigt (19.03.–18.05.2027 fix).
-- Kein Budgetdeckel; Leitlinie **Erlebnis > Kosten, kein Luxus**; Unterkunft bleibt frei/DOC-zuerst.
-- **Stewart Island behalten** (Tag 9–11) mit Wetter-Contingency (Puffer Bluff/Invercargill).
-- **Marquee-Aktivitäten committet + Wetter-Fallback** (Tongariro, Glacier Heli, Milford).
-- **~4–6 Wetter-Puffer** verteilt + Float am Ende.
-- **DOC Campsite Pass: kaufen** (Paar $590).
-- **Versicherung:** Reisekranken vorhanden + Camper Premium (0 € Selbstbehalt) = ausreichend.
-
-## Git & GitHub workflow (no `gh` CLI installed)
-- Token: `GITHUB_TOKEN` lives in `~/.hermes/.env` (Hermes env file; NOT in the shell
-  environment). Scope: `repo`.
-- A git credential helper is configured globally
-  (`~/.hermes/scripts/git_cred_helper.sh`) that reads `GITHUB_TOKEN` from the env file
-  at push time. **The token is NOT embedded in the remote URL** — `git push` just works.
-  If the token is rotated, only the `.env` file needs updating (the helper picks it up).
-- Local working copy: `/home/hermes/nz_trip_2027` (remote `origin` already configured,
-  branch `main`).
-- **Convention: commit AND push every change immediately** (user wants auto-push).
-  ```bash
-  export HOME=/home/hermes
-  cd /home/hermes/nz_trip_2027
-  git add <changed files>            # prefer explicit files over `git add -A`
-  git commit -m "type(scope): short German summary"
-  git push                           # uses the credential helper, no manual token
-  ```
-- Manage issues/PRs via the GitHub REST API authenticated with `GITHUB_TOKEN`
-  (e.g. `GET /repos/jfeiler87/Nz27/issues`). Never commit the token or the `.env` file.
-
-## For a new agent picking this up
-1. Read `itinerary.md`, `LOGISTIK.md`, `BUCHUNGS_TIMELINE.md`, and `TODO.md` in full.
-2. Respect the accommodation priority and booking deadlines above.
-3. For new actionable work, either edit the files or open a GitHub issue
-   (label `booking` for reservations, `planning` for other tasks).
-4. Commit with a clear message and push.
+## Konventionen
+- Änderungen am Plan **nur** in `data/*`, dann `python3 tools/build.py`, generierte Dateien mitcommitten.
+- Neuer Ort: Eintrag in `data/orte_extra.json` (oder Süd/Nord) mit Quelle und Konfidenz — Koordinate
+  nie aus dem Gedächtnis. Mit `konfidenz: niedrig` markierte Orte erscheinen im Plan mit ⚠️.
+- Fakten mit Quelle und Datum in `recherche/` ablegen; im Plan nur das Ergebnis.
+- Arbeiten auf Feature-Branch, Commit-Messages `typ(scope): kurze deutsche Zusammenfassung`.

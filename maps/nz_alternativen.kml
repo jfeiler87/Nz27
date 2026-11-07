@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>NZ27 alternativen</name>
+<Style id="p"><IconStyle><color>ff7f7fff</color></IconStyle></Style>
+<Style id="l"><LineStyle><color>ff7f7fff</color><width>3</width></LineStyle></Style>
+<Placemark><name>T2 20.03. Alt: Akaroa Top 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park, 96 Morgans Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.797016,172.971809&amp;travelmode=driving</description><Point><coordinates>172.971809,-43.797016,0</coordinates></Point></Placemark>
+<Placemark><name>T3 21.03. Alt: Lake Clearwater Camping Ground (Hakatere)</name><styleUrl>#p</styleUrl><description>Campingplatz (Ashburton DC) am Lake Clearwater, Mount D'Archiac Drive 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.608370,171.045896&amp;travelmode=driving</description><Point><coordinates>171.045896,-43.608370,0</coordinates></Point></Placemark>
+<Placemark><name>T4 22.03. Alt: Lakes Edge Holiday Park Tekapo</name><styleUrl>#p</styleUrl><description>Holiday Park Lakes Edge, Tekapo-Twizel Rd / Station Bay 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.000978,170.464529&amp;travelmode=driving</description><Point><coordinates>170.464529,-44.000978,0</coordinates></Point></Placemark>
+<Placemark><name>T7 25.03. Alt: Oamaru TOP 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park, 30 Chelmer St 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.097261,170.955397&amp;travelmode=driving</description><Point><coordinates>170.955397,-45.097261,0</coordinates></Point></Placemark>
+<Placemark><name>T8 26.03. Alt: Harwood Domain (Otago Peninsula)</name><styleUrl>#p</styleUrl><description>Ortsmitte Harwood (Domain nicht in OSM gefunden) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.814668,170.674744&amp;travelmode=driving</description><Point><coordinates>170.674744,-45.814668,0</coordinates></Point></Placemark>
+<Placemark><name>T10 28.03. Alt: Papatowai Campsite</name><styleUrl>#p</styleUrl><description>Papatowai Campsite (Camp-Site-Polygon) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-46.557369,169.469596&amp;travelmode=driving</description><Point><coordinates>169.469596,-46.557369,0</coordinates></Point></Placemark>
+<Placemark><name>T12 30.03. Alt: Te Anau Lakeview Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park, 77 Manapouri Te Anau Hwy 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.425975,167.719986&amp;travelmode=driving</description><Point><coordinates>167.719986,-45.425975,0</coordinates></Point></Placemark>
+<Placemark><name>T13 31.03. Alt: Knobs Flat (Milford Rd)</name><styleUrl>#p</styleUrl><description>Knobs Flat (Besucherzentrum/Camp-Gegend) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.977235,168.017270&amp;travelmode=driving</description><Point><coordinates>168.017270,-44.977235,0</coordinates></Point></Placemark>
+<Placemark><name>T16 03.04. Alt: Queenstown Holiday Park Creeksyde (ehem. TOP 10)</name><styleUrl>#p</styleUrl><description>Adresspunkt 54 Robins Rd, Queenstown 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.026012,168.660553&amp;travelmode=driving</description><Point><coordinates>168.660553,-45.026012,0</coordinates></Point></Placemark>
+<Placemark><name>T16 03.04. Alt: Frankton Arm / Frankton Freedom-Camping-Bereich</name><styleUrl>#p</styleUrl><description>OSM 'Service Hub for SC-Vehicles' bei Frankton (Näherung) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.013074,168.751352&amp;travelmode=driving</description><Point><coordinates>168.751352,-45.013074,0</coordinates></Point></Placemark>
+<Placemark><name>T18 05.04. Alt: Twelve Mile Delta DOC Campsite</name><styleUrl>#p</styleUrl><description>DOC-Campsite Twelve Mile Delta, Glenorchy Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-45.067015,168.545876&amp;travelmode=driving</description><Point><coordinates>168.545876,-45.067015,0</coordinates></Point></Placemark>
+<Placemark><name>T19 06.04. Alt: Wanaka Holiday Park (Ersatz für Wanaka-Freedom-Sites)</name><styleUrl>#p</styleUrl><description>Wanaka Holiday Park (Camp-Polygon) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-44.701894,169.127160&amp;travelmode=driving</description><Point><coordinates>169.127160,-44.701894,0</coordinates></Point></Placemark>
+<Placemark><name>T21 08.04. Alt: Haast, Marks Road</name><styleUrl>#p</styleUrl><description>Marks Rd, Haast (Strassenmitte) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-43.881435,169.043142&amp;travelmode=driving</description><Point><coordinates>169.043142,-43.881435,0</coordinates></Point></Placemark>
+<Placemark><name>T26 13.04. Alt: McMillan Rd Self-Contained Campsite (Punakaiki)</name><styleUrl>#p</styleUrl><description>Self-contained Freedom-Camping McMillan Rd 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.129528,171.328389&amp;travelmode=driving</description><Point><coordinates>171.328389,-42.129528,0</coordinates></Point></Placemark>
+<Placemark><name>T27 14.04. Alt: Seal Colony TOP 10 Holiday Park, Carters Beach</name><styleUrl>#p</styleUrl><description>Holiday Park Marine Parade, Carters Beach 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.749874,171.555366&amp;travelmode=driving</description><Point><coordinates>171.555366,-41.749874,0</coordinates></Point></Placemark>
+<Placemark><name>T31 18.04. Alt: Pōhara Beach Top 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park Abel Tasman Drive, Pōhara 
+https://www.google.com/maps/dir/?api=1&amp;destination=-40.833299,172.882330&amp;travelmode=driving</description><Point><coordinates>172.882330,-40.833299,0</coordinates></Point></Placemark>
+<Placemark><name>T34 21.04. Alt: West End Car Park Kaikoura (KDC Freedom-Camping-Site)</name><styleUrl>#p</styleUrl><description>Parkplatz West End, ausgewiesene Freedom-Camping-Stelle nur fuer zertifiziert selbstversorgte Fahrzeuge, max. 10 Fahrzeuge, markierte Plaetze 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.402083,173.682548&amp;travelmode=driving</description><Point><coordinates>173.682548,-42.402083,0</coordinates></Point></Placemark>
+<Placemark><name>T34 21.04. Alt: Kaikoura TOP 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park 34 Beach Rd, Kaikoura 
+https://www.google.com/maps/dir/?api=1&amp;destination=-42.395439,173.679824&amp;travelmode=driving</description><Point><coordinates>173.679824,-42.395439,0</coordinates></Point></Placemark>
+<Placemark><name>T37 24.04. Alt: Picton Tasman Holiday Parks (ehem. Picton TOP 10), 70-78 Waikawa Rd</name><styleUrl>#p</styleUrl><description>Rezeption Holiday Park, 70 Waikawa Rd, Picton 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.288980,174.014657&amp;travelmode=driving</description><Point><coordinates>174.014657,-41.288980,0</coordinates></Point></Placemark>
+<Placemark><name>T38 25.04. Alt: Wellington TOP 10 Holiday Park (Hutt Park)</name><styleUrl>#p</styleUrl><description>Holiday Park, 95 Hutt Park Road, Moera 
+https://www.google.com/maps/dir/?api=1&amp;destination=-41.235025,174.910508&amp;travelmode=driving</description><Point><coordinates>174.910508,-41.235025,0</coordinates></Point></Placemark>
+<Placemark><name>T42 29.04. Alt: Napier Beach TOP 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park, 10 Gill Rd, Napier 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.432287,176.873271&amp;travelmode=driving</description><Point><coordinates>176.873271,-39.432287,0</coordinates></Point></Placemark>
+<Placemark><name>T44 01.05. Alt: Taupo TOP 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park (Fallback) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.683057,176.089239&amp;travelmode=driving</description><Point><coordinates>176.089239,-38.683057,0</coordinates></Point></Placemark>
+<Placemark><name>T46 03.05. Alt: Whakapapa Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park, Bruce Road, Whakapapa Village 
+https://www.google.com/maps/dir/?api=1&amp;destination=-39.202476,175.539542&amp;travelmode=driving</description><Point><coordinates>175.539542,-39.202476,0</coordinates></Point></Placemark>
+<Placemark><name>T47 04.05. Alt: Roselands Waitomo Caves (Freedom Camping SC)</name><styleUrl>#p</styleUrl><description>Roselands, Freedom Camping für Self-Contained Fahrzeuge 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.282658,175.098369&amp;travelmode=driving</description><Point><coordinates>175.098369,-38.282658,0</coordinates></Point></Placemark>
+<Placemark><name>T48 05.05. Alt: Pohlen Park Matamata (Freedom Camping SC)</name><styleUrl>#p</styleUrl><description>Hauptparkplatz Pohlen Park, Western Street (Freedom Camping nur Self-Contained) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.810606,175.763414&amp;travelmode=driving</description><Point><coordinates>175.763414,-37.810606,0</coordinates></Point></Placemark>
+<Placemark><name>T49 06.05. Alt: Government Gardens Motorhome &amp; Campervan Parking (Rotorua)</name><styleUrl>#p</styleUrl><description>Camper-Parkfläche Government Gardens (17 Plätze, nur Self-Contained, kostenlos) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-38.137514,176.257238&amp;travelmode=driving</description><Point><coordinates>176.257238,-38.137514,0</coordinates></Point></Placemark>
+<Placemark><name>T53 10.05. Alt: Danby Field Freedom Camping (Thames)</name><styleUrl>#p</styleUrl><description>Danby Field, Thames (TCDC Freedom Camping, kostenlos) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-37.141497,175.541672&amp;travelmode=driving</description><Point><coordinates>175.541672,-37.141497,0</coordinates></Point></Placemark>
+<Placemark><name>T54 11.05. Alt: Uretiti Beach DOC Campsite</name><styleUrl>#p</styleUrl><description>DOC Campsite Uretiti Beach (SH1 Ruakākā) 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.933793,174.459981&amp;travelmode=driving</description><Point><coordinates>174.459981,-35.933793,0</coordinates></Point></Placemark>
+<Placemark><name>T55 12.05. Alt: Paihia TOP 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park Paihia 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.300455,174.102044&amp;travelmode=driving</description><Point><coordinates>174.102044,-35.300455,0</coordinates></Point></Placemark>
+<Placemark><name>T55 12.05. Alt: Russell TOP 10 Holiday Park</name><styleUrl>#p</styleUrl><description>Holiday Park Russell 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.259430,174.125562&amp;travelmode=driving</description><Point><coordinates>174.125562,-35.259430,0</coordinates></Point></Placemark>
+<Placemark><name>T59 16.05. Alt: Kai Iwi Lakes – Taharoa Domain Campsite (Promenade Point)</name><styleUrl>#p</styleUrl><description>Taharoa Domain / Kai Iwi Lakes Campsite Promenade Point 
+https://www.google.com/maps/dir/?api=1&amp;destination=-35.805858,173.637674&amp;travelmode=driving</description><Point><coordinates>173.637674,-35.805858,0</coordinates></Point></Placemark>
+</Document></kml>
